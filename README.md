@@ -59,6 +59,19 @@ Da lì in poi si aggiorna da solo ogni mattina alle 6.
 
 ## Lavorarci in locale
 
+Una volta sola, dopo aver clonato:
+
+```bash
+git config merge.ours.driver true
+```
+
+Serve a `.gitattributes`: `docs/data/jobs.json` e `data/requisiti_cache.json` sono
+rigenerati sia dal workflow sia dai build locali, quindi andrebbero in conflitto a
+ogni `git pull`. Con quel driver Git ne tiene una qualsiasi senza fermarsi, ed è
+corretto: il giro successivo li riscrive.
+
+Poi:
+
 ```bash
 python scripts/build.py
 python -m http.server 8000 --directory docs

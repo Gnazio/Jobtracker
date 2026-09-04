@@ -3,3 +3,13 @@
 * text=auto eol=lf
 *.png binary
 *.pdf binary
+
+# File generati: li riscrivono sia il workflow sia i build in locale, quindi
+# vanno in conflitto a ogni pull. Il contenuto non va mai fuso a mano: il giro
+# successivo lo rigenera comunque. Con il driver "ours" Git tiene una delle due
+# versioni senza fermarsi a chiedere.
+#
+# Il driver va abilitato una volta per ogni clone (non si puo' committare):
+#     git config merge.ours.driver true
+docs/data/jobs.json merge=ours
+data/requisiti_cache.json merge=ours
