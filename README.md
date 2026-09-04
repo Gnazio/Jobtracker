@@ -45,7 +45,7 @@ genera `docs/data/jobs.json` e GitHub Pages serve la cartella `docs/`.
 5. Vai su **Actions → Aggiorna bandi → Run workflow** per il primo giro.
 
 Dopo un paio di minuti il sito è su `https://TUO-UTENTE.github.io/jobtracker/`.
-https://Gnazio.github.io/jobtracker/
+https://Gnazio.github.io/jobtracker/docs/
 Da lì in poi si aggiorna da solo ogni mattina alle 6.
 
 ## Lavorarci in locale
