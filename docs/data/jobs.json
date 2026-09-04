@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-09-04T13:40:16+00:00",
+ "aggiornato": "2026-09-04T13:51:31+00:00",
  "raggio_km": 150,
  "origine": "Pisa",
  "statistiche": {
@@ -33,7 +33,7 @@
   {
    "fonte": "Adzuna",
    "annunci": 0,
-   "nota": "non configurata: mancano le chiavi API"
+   "nota": null
   }
  ],
  "annunci": [
