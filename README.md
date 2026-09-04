@@ -11,7 +11,7 @@ genera `docs/data/jobs.json` e GitHub Pages serve la cartella `docs/`.
 
 - **Raccoglie** da InPA (Portale del reclutamento) e dalla Gazzetta Ufficiale 4ª Serie Speciale.
 - **Filtra per distanza**: haversine da Pisa al capoluogo di provincia, soglia 150 km.
-  Quando il bando indica solo la regione prova a dedurre il comune dal nome dell'ente.
+  Quando il bando indica solo la regione, prova a dedurre il comune dal nome dell'ente.
 - **Assegna un punteggio** con le regole in `scripts/profile.py`: somma parole chiave
   pertinenti e sottrae quelle che rendono un bando inaccessibile (mobilità volontaria,
   stabilizzazioni, interpelli, categorie protette) o fuori profilo.
@@ -22,7 +22,7 @@ genera `docs/data/jobs.json` e GitHub Pages serve la cartella `docs/`.
 
 ## Pubblicarlo su GitHub Pages
 
-1. Crea un repository **pubblico** su GitHub, per esempio `jobtracker`.
+1. Crea un repository **pubblico** su GitHub, ad esempio `jobtracker`.
    (Con un account gratuito, Pages funziona solo su repository pubblici.)
 
 2. Dalla cartella del progetto:
@@ -45,7 +45,7 @@ genera `docs/data/jobs.json` e GitHub Pages serve la cartella `docs/`.
 5. Vai su **Actions → Aggiorna bandi → Run workflow** per il primo giro.
 
 Dopo un paio di minuti il sito è su `https://TUO-UTENTE.github.io/jobtracker/`.
-https://Gnazio.github.io/jobtracker/docs/
+[https://Gnazio.github.io/jobtracker/docs/](https://gnazio.github.io/Jobtracker/docs/)
 Da lì in poi si aggiorna da solo ogni mattina alle 6.
 
 ## Lavorarci in locale
