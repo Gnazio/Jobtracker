@@ -51,6 +51,16 @@
           </select>
         </label>
         <label class="controllo">
+          <span>Titolo di studio (LM-21)</span>
+          <select id="titolo">
+            <option value="possibili">Escludi dove LM-21 non è ammessa</option>
+            <option value="ammesso">Solo LM-21 confermata</option>
+            <option value="ignoto">Solo da verificare</option>
+            <option value="escluso">Solo dove sei escluso</option>
+            <option value="tutti">Tutti</option>
+          </select>
+        </label>
+        <label class="controllo">
           <span>Scadenza</span>
           <select id="scad">
             <option value="">Qualsiasi</option>
@@ -110,6 +120,33 @@
     <p class="avviso">
       Il punteggio è un aiuto alla lettura, non un verdetto. Prima di candidarti apri sempre
       il bando: requisiti, riserve di posti e scadenze reali stanno lì.
+    </p>
+
+    <h3>Il filtro sulla classe di laurea</h3>
+    <p>
+      Nei concorsi pubblici le classi di laurea ammesse sono tassative: se
+      <strong>LM-21 Ingegneria biomedica</strong> non è fra quelle elencate, la domanda
+      è inammissibile per quanto il profilo sia attinente. Le classi però non stanno
+      nella descrizione del bando: stanno nel PDF. Il build lo scarica, ne legge la
+      sezione dei requisiti e confronta.
+    </p>
+    <ul class="legenda">
+      <li><span class="badge titolo ok">🎓 LM-21 ammessa</span> il bando elenca LM-21 o 26/S,
+      cita Ingegneria biomedica per esteso, oppure non pone vincoli di classe</li>
+      <li><span class="badge titolo ko">🎓 LM-21 non ammessa</span> il bando elenca delle classi
+      e la tua non c'è. Nascosti per impostazione predefinita</li>
+      <li><span class="badge titolo forse">🎓 Requisiti da verificare</span> il PDF è una scansione,
+      manca, o i requisiti sono scritti in una forma che non riesco a leggere</li>
+    </ul>
+    <p class="avviso">
+      Anche qui vale la regola: è una lettura automatica di un PDF, non un parere legale.
+      Su un bando che ti interessa apri sempre il testo. Il verdetto "non ammessa" mostra
+      quali classi ha trovato, così puoi smentirlo in due secondi.
+    </p>
+    <p>
+      Il dottorato non sostituisce la classe di laurea nei concorsi. Conta invece nei bandi
+      per assegni, borse e RTT, dove spesso è il requisito principale e le classi non
+      vengono nemmeno elencate: quei casi risultano ammessi.
     </p>
 
     <h3>Tararlo sul tuo profilo</h3>

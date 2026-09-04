@@ -18,6 +18,7 @@ sys.path.insert(0, str(RADICE / "scripts"))
 
 import profile as prof  # noqa: E402
 import check_links  # noqa: E402
+import requisiti  # noqa: E402
 from sources import gazzetta, inpa  # noqa: E402
 
 RAGGIO_KM = 150
@@ -160,11 +161,21 @@ def main():
 
     grezzi = unisci_storico(grezzi)
     annunci, geo_out, score_out = filtra_e_valuta(grezzi)
+
+    # Il PDF si scarica solo per i bandi sopravvissuti al filtro: sono poche
+    # decine invece di centinaia, e la cache evita di rileggerli ogni giorno.
+    try:
+        requisiti.valuta(annunci)
+    except Exception as e:
+        print(f"  Analisi requisiti saltata: {e}", file=sys.stderr)
+
     curati = carica_curati()
 
-    conteggi = {}
+    conteggi, conteggi_titolo = {}, {}
     for a in annunci:
         conteggi[a["fascia"]] = conteggi.get(a["fascia"], 0) + 1
+        v = a.get("titolo_verdetto", "ignoto")
+        conteggi_titolo[v] = conteggi_titolo.get(v, 0) + 1
 
     dati = {
         "aggiornato": datetime.now(timezone.utc).isoformat(timespec="seconds"),
@@ -176,6 +187,7 @@ def main():
             "scartati_distanza": geo_out,
             "scartati_profilo": score_out,
             "per_fascia": conteggi,
+            "per_titolo": conteggi_titolo,
         },
         "errori_fonti": errori,
         "annunci": annunci,

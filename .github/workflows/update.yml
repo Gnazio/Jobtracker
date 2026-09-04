@@ -28,7 +28,9 @@ jobs:
         with:
           python-version: "3.12"
 
-      # Nessuna dipendenza: gli script usano solo la libreria standard.
+      - name: Installa le dipendenze
+        run: pip install -r requirements.txt
+
       - name: Genera jobs.json
         run: python scripts/build.py
 
@@ -36,7 +38,7 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/data/jobs.json
+          git add docs/data/jobs.json data/requisiti_cache.json
           if git diff --staged --quiet; then
             echo "Nessuna novità."
           else

@@ -15,6 +15,9 @@ genera `docs/data/jobs.json` e GitHub Pages serve la cartella `docs/`.
 - **Assegna un punteggio** con le regole in `scripts/profile.py`: somma parole chiave
   pertinenti e sottrae quelle che rendono un bando inaccessibile (mobilità volontaria,
   stabilizzazioni, interpelli, categorie protette) o fuori profilo.
+- **Verifica la classe di laurea**: scarica il PDF di ogni bando e controlla se
+  **LM-21 Ingegneria biomedica** è fra le classi ammesse. I bandi che ti escludono
+  sono nascosti per impostazione predefinita. Vedi *Il filtro LM-21* più sotto.
 - **Mostra** tre fasce — alta corrispondenza, buona, da valutare — con filtri per ambito,
   provincia, distanza e scadenza.
 - **Traccia le candidature**: ⭐ salvato, ✅ candidato, ✕ scartato, salvati nel browser
@@ -71,6 +74,7 @@ Su GitHub Actions il problema non si presenta e la verifica resta attiva.
 | Cosa vuoi cambiare | Dove |
 | --- | --- |
 | Parole chiave e pesi, soglie delle fasce | `scripts/profile.py` |
+| Classi di laurea possedute | `CLASSI_POSSEDUTE` in `scripts/requisiti.py` |
 | Raggio in km | `RAGGIO_KM` in `scripts/build.py` |
 | Province e distanze | `scripts/geo.py` |
 | Enti e aziende della lista curata | `data/curated.json` |
@@ -79,6 +83,30 @@ Su GitHub Actions il problema non si presenta e la verifica resta attiva.
 Se aggiungi parole chiave, rilancia `python scripts/build.py` e controlla cosa entra:
 il modo più veloce per capire se un peso è troppo alto è guardare la fascia
 "da valutare".
+
+## Il filtro LM-21
+
+Nei concorsi pubblici le classi di laurea ammesse sono tassative: se la tua non è
+elencata, la domanda è inammissibile a prescindere dall'attinenza del profilo.
+
+Le classi non compaiono nell'API di InPA, stanno nel PDF del bando. `scripts/requisiti.py`
+lo scarica da `portale.inpa.gov.it/api/media/{id}`, isola la sezione dei requisiti e
+riconosce tre forme:
+
+1. **codici di classe** (`LM-21`, `26/S`) — attenzione ai trattini: i PDF usano
+   indifferentemente `-`, `–`, `—` e persino il segno meno matematico `−`;
+2. **nomi dei corsi per esteso** ("Diploma di laurea in Medicina e Chirurgia");
+3. **nessun vincolo** ("laurea magistrale ai sensi del D.M. 270/2004").
+
+Verdetti: `ammesso`, `escluso`, `ignoto`. Gli esclusi restano nel JSON ma la pagina
+li nasconde, e mostra sempre quali classi ha trovato, così il controllo finale resta tuo.
+
+I risultati stanno in `data/requisiti_cache.json`, indicizzati per id del PDF: ogni
+bando si legge una volta sola. Cancella il file per rianalizzare tutto.
+
+**Limite noto**: una parte dei bandi resta `ignoto`, perché il PDF è una scansione senza
+livello di testo, non è allegato, o i requisiti sono in una tabella che l'estrattore
+non ricompone. Quei bandi vanno aperti a mano.
 
 ## Aggiungere una fonte
 

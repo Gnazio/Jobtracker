@@ -16,7 +16,18 @@ const ETICHETTE = {
 
 let DATI = { annunci: [], curati: [] };
 let stati = caricaStati();
-const filtri = { testo: "", tag: new Set(), prov: new Set(), km: 150, mio: "attivi", scad: "" };
+const filtri = {
+  testo: "", tag: new Set(), prov: new Set(), km: 150,
+  mio: "attivi", scad: "", titolo: "possibili",
+};
+
+// Etichette del verdetto sulla classe di laurea. "possibili" non è un verdetto:
+// è il filtro predefinito, che tiene ammessi e da-verificare e scarta il resto.
+const TITOLO = {
+  ammesso: { testo: "LM-21 ammessa", classe: "ok" },
+  escluso: { testo: "LM-21 non ammessa", classe: "ko" },
+  ignoto: { testo: "Requisiti da verificare", classe: "forse" },
+};
 
 /* ---------------------------------------------------------------- stato */
 function caricaStati() {
@@ -59,6 +70,10 @@ function passa(a) {
   // Un bando nazionale non ha km: lo nascondo solo se restringo davvero il raggio.
   if (filtri.km < 150 && a.km === null) return false;
 
+  const v = a.titolo_verdetto || "ignoto";
+  if (filtri.titolo === "possibili" && v === "escluso") return false;
+  if (["ammesso", "escluso", "ignoto"].includes(filtri.titolo) && v !== filtri.titolo) return false;
+
   if (filtri.tag.size && !(a.tag || []).some((t) => filtri.tag.has(t))) return false;
   if (filtri.prov.size && !filtri.prov.has(a.provincia || "Nazionale")) return false;
 
@@ -89,8 +104,13 @@ function scheda(a) {
     badge.push(`<span class="badge tempo${g <= 7 ? " urgente" : ""}">⏳ ${
       g <= 0 ? "scade oggi" : g === 1 ? "1 giorno" : g + " giorni"}</span>`);
   }
-  (a.tag || []).forEach((t) => {
-    if (ETICHETTE[t] && t !== "requisiti") badge.push(`<span class="badge">${esc(ETICHETTE[t])}</span>`);
+  const t = TITOLO[a.titolo_verdetto] || TITOLO.ignoto;
+  badge.push(
+    `<span class="badge titolo ${t.classe}" title="${esc(a.titolo_nota || "")}">🎓 ${t.testo}</span>`
+  );
+
+  (a.tag || []).forEach((x) => {
+    if (ETICHETTE[x] && x !== "requisiti") badge.push(`<span class="badge">${esc(ETICHETTE[x])}</span>`);
   });
   badge.push(`<span class="badge fonte">${esc(a.fonte)}</span>`);
 
@@ -105,6 +125,7 @@ function scheda(a) {
     <h3><a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(titoloPulito(a.titolo))}</a></h3>
     ${meta.length ? `<p class="meta">${meta.join(" · ")}</p>` : ""}
     <div class="badge-riga">${badge.join("")}</div>
+    ${a.titolo_nota ? `<p class="requisiti ${t.classe}">${esc(a.titolo_nota)}</p>` : ""}
     <div class="azioni">
       <button data-id="${esc(a.id)}" data-st="salvato"   class="${s === "salvato" ? "on" : ""}"   title="Salva">⭐</button>
       <button data-id="${esc(a.id)}" data-st="candidato" class="${s === "candidato" ? "on" : ""}" title="Mi sono candidato">✅</button>
@@ -193,7 +214,7 @@ function disegnaCifre() {
   const f = st.per_fascia || {};
   document.getElementById("cifre").innerHTML = `
     <div class="cifra"><b>${DATI.annunci.length}</b><span>bandi</span></div>
-    <div class="cifra"><b>${f.alta || 0}</b><span>alta corr.</span></div>
+    <div class="cifra"><b>${(st.per_titolo || {}).escluso || 0}</b><span>ti escludono</span></div>
     <div class="cifra"><b>${(DATI.curati || []).length}</b><span>enti</span></div>`;
 
   const d = DATI.aggiornato ? new Date(DATI.aggiornato) : null;
@@ -240,15 +261,19 @@ function collega() {
   document.getElementById("scad").addEventListener("change", (e) => {
     filtri.scad = e.target.value; disegnaBandi();
   });
+  document.getElementById("titolo").addEventListener("change", (e) => {
+    filtri.titolo = e.target.value; disegnaBandi();
+  });
 
   document.getElementById("azzera").addEventListener("click", () => {
     filtri.testo = ""; filtri.tag.clear(); filtri.prov.clear();
-    filtri.km = 150; filtri.mio = "attivi"; filtri.scad = "";
+    filtri.km = 150; filtri.mio = "attivi"; filtri.scad = ""; filtri.titolo = "possibili";
     document.getElementById("cerca").value = "";
     document.getElementById("km").value = 150;
     document.getElementById("km-out").textContent = "150";
     document.getElementById("stato-mio").value = "attivi";
     document.getElementById("scad").value = "";
+    document.getElementById("titolo").value = "possibili";
     document.querySelectorAll(".chip.on").forEach((c) => c.classList.remove("on"));
     disegnaBandi();
   });

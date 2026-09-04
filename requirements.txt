@@ -1,0 +1,2 @@
+# Lettura dei PDF dei bandi, per estrarre le classi di laurea ammesse.
+pypdf>=5.1.0

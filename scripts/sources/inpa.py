@@ -96,6 +96,7 @@ def _normalizza(c, raggio_km):
 
     return {
         "id": "inpa:" + c["id"],
+        "media_id": c.get("allegatoMediaId"),
         "fonte": "InPA",
         "titolo": (c.get("titolo") or "").strip(),
         "figura": (c.get("figuraRicercata") or "").strip(),

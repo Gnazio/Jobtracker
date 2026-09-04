@@ -1,0 +1,410 @@
+{
+ "18b77935-0498-4fd4-8fd3-10c05e12e0d8": {
+  "classi": [
+   "LM-25",
+   "LM-29",
+   "LM-32"
+  ],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 42899,
+  "letto_il": "2026-09-04"
+ },
+ "285e1d10-cee8-4b26-8152-fdd649be957f": {
+  "classi": [],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": true,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 12959,
+  "letto_il": "2026-09-04"
+ },
+ "8b2afdaa-5ae7-4b81-8dae-036cedc76ada": {
+  "classi": [
+   "6/S",
+   "65/S",
+   "87/S",
+   "9/S",
+   "L-13",
+   "L-19",
+   "L-2",
+   "L-20",
+   "LM-57",
+   "LM-6",
+   "LM-85",
+   "LM-9",
+   "LM-91",
+   "LM-92"
+  ],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 41758,
+  "letto_il": "2026-09-04"
+ },
+ "9b20d6be-aad5-4e02-af0b-92c257246f1a": {
+  "classi": [],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 46877,
+  "letto_il": "2026-09-04"
+ },
+ "6aae65dd-a815-41e0-8b17-6c0966b9866b": {
+  "classi": [
+   "36/S",
+   "LM-33"
+  ],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": true,
+  "dottorato_affine": false,
+  "caratteri": 38401,
+  "letto_il": "2026-09-04"
+ },
+ "bd8c760b-0546-4704-9acf-c37867a01eb8": {
+  "classi": [],
+  "nomi": [
+   "Medicina e Chirurgia",
+   "Professioni Sanitarie",
+   "Biologia",
+   "Scienze Motorie"
+  ],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 30809,
+  "letto_il": "2026-09-04"
+ },
+ "cd0b7a2a-d62a-40a1-a941-7827365d8c3c": {
+  "classi": [],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 38684,
+  "letto_il": "2026-09-04"
+ },
+ "383e45b8-d8eb-4290-9453-3c9c23ff2d0a": {
+  "classi": [],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": true,
+  "caratteri": 51433,
+  "letto_il": "2026-09-04"
+ },
+ "8b9b0c0e-8c04-48ad-906a-6cc3fe02f52b": {
+  "classi": [],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 40827,
+  "letto_il": "2026-09-04"
+ },
+ "f93a1e81-c2dc-41ea-b291-e4cd40fa4fde": {
+  "classi": [],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 42151,
+  "letto_il": "2026-09-04"
+ },
+ "5bfb1bd1-e6a1-43fb-86e6-6646de0373da": {
+  "classi": [
+   "LM-13"
+  ],
+  "nomi": [
+   "Farmacia e farmacia industriale"
+  ],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 41358,
+  "letto_il": "2026-09-04"
+ },
+ "3694defe-0467-4490-86ab-e5f3e024d320": {
+  "classi": [],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": true,
+  "dottorato_affine": false,
+  "caratteri": 111407,
+  "letto_il": "2026-09-04"
+ },
+ "385f5084-40ce-43a5-95c0-be5bae28b0d4": {
+  "classi": [],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": true,
+  "nome_titolo": false,
+  "dottorato": true,
+  "dottorato_affine": false,
+  "caratteri": 6073,
+  "letto_il": "2026-09-04"
+ },
+ "44200e2a-086d-48cf-9f84-f4f432361fe3": {
+  "classi": [
+   "28/S",
+   "3/S",
+   "38/S",
+   "4/S",
+   "L-17",
+   "L-23",
+   "L-7",
+   "LM-23",
+   "LM-24",
+   "LM-26",
+   "LM-3",
+   "LM-35",
+   "LM-4"
+  ],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 71457,
+  "letto_il": "2026-09-04"
+ },
+ "6b86ae8b-1f45-4254-abce-218b772b1df6": {
+  "classi": [
+   "LM-51"
+  ],
+  "nomi": [
+   "Psicologia"
+  ],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 13929,
+  "letto_il": "2026-09-04"
+ },
+ "6d005c89-29f1-4dc3-8071-085dceacc25f": {
+  "classi": [],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 35979,
+  "letto_il": "2026-09-04"
+ },
+ "b1a53684-b91e-416b-aab3-40b8dd9947cd": {
+  "classi": [],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": true,
+  "dottorato_affine": false,
+  "caratteri": 33608,
+  "letto_il": "2026-09-04"
+ },
+ "f855613c-4072-4ba7-82d9-8fd34115cefa": {
+  "classi": [],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 14,
+  "letto_il": "2026-09-04"
+ },
+ "536dd08f-4a20-4dc2-979c-88779b53c340": {
+  "classi": [],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 28175,
+  "letto_il": "2026-09-04"
+ },
+ "71a90b57-2286-4b94-8505-26d56d759451": {
+  "classi": [],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 37568,
+  "letto_il": "2026-09-04"
+ },
+ "65784d0d-bf79-40ff-84a5-6c25cabb4cc2": {
+  "classi": [],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 37538,
+  "letto_il": "2026-09-04"
+ },
+ "f6fb8e78-4d85-40d7-b35d-616abf8c91bd": {
+  "classi": [],
+  "nomi": [],
+  "errore": "ValueError: invalid literal for int() with base 10: 'LMG-1'",
+  "letto_il": "2026-09-04"
+ },
+ "8f73a5dd-7f5e-43f0-b62f-c1ec607bb9e6": {
+  "classi": [
+   "LM-17",
+   "LM-32",
+   "LM-40",
+   "LM-82",
+   "LM-9"
+  ],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": true,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 28674,
+  "letto_il": "2026-09-04"
+ },
+ "142db847-dc05-4cac-9bd9-11d5a288aca1": {
+  "classi": [
+   "L-18",
+   "L-30",
+   "L-31",
+   "L-33",
+   "L-35",
+   "L-40",
+   "L-8",
+   "LM-16",
+   "LM-31",
+   "LM-40",
+   "LM-44",
+   "LM-56",
+   "LM-63",
+   "LM-66",
+   "LM-77",
+   "LM-82",
+   "LM-83",
+   "LM-88"
+  ],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 38224,
+  "letto_il": "2026-09-04"
+ },
+ "98fdc340-5db7-4f85-a69b-191b7896d407": {
+  "classi": [],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 35170,
+  "letto_il": "2026-09-04"
+ },
+ "627d2bd5-8f30-4314-93bf-0ba64f9260fa": {
+  "classi": [],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 22316,
+  "letto_il": "2026-09-04"
+ },
+ "593e78e7-fc33-48d3-af92-e4ec244e0231": {
+  "classi": [],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 58683,
+  "letto_il": "2026-09-04"
+ },
+ "8141878d-53ae-4c9e-af99-0496b9f69b80": {
+  "classi": [
+   "LM-16",
+   "LM-56",
+   "LM-62",
+   "LM-63",
+   "LM-77",
+   "LM-82",
+   "LM-83",
+   "LM-87"
+  ],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 35922,
+  "letto_il": "2026-09-04"
+ },
+ "81f3f5f1-f46e-4b81-8b60-e11918d36482": {
+  "classi": [],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 29314,
+  "letto_il": "2026-09-04"
+ },
+ "e32857b3-d1a1-4141-9860-068e1f1e520d": {
+  "classi": [],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 12593,
+  "letto_il": "2026-09-04"
+ }
+}
