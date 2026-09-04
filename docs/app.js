@@ -138,7 +138,8 @@ function disegnaBandi() {
   document.getElementById("lista").innerHTML = html;
   const salvati = Object.values(stati).filter((v) => v === "salvato").length;
   document.getElementById("conteggio").textContent =
-    `${visibili.length} di ${DATI.annunci.length} bandi` + (salvati ? ` · ${salvati} salvati` : "");
+    `${visibili.length} di ${DATI.annunci.length} bandi` +
+    (salvati ? ` · ${salvati} salvat${salvati === 1 ? "o" : "i"}` : "");
 }
 
 function disegnaCurati() {
