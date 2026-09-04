@@ -32,6 +32,9 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Genera jobs.json
+        env:
+          ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
+          ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
         run: python scripts/build.py
 
       - name: Pubblica se ci sono novità

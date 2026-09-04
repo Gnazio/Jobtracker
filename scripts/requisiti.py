@@ -297,6 +297,13 @@ def valuta(annunci, max_nuovi=80):
     nuovi = 0
 
     for a in annunci:
+        # Il vincolo di classe di laurea esiste solo nei concorsi pubblici.
+        if a.get("fonte") not in ("InPA", "Gazzetta Ufficiale"):
+            a["titolo_verdetto"] = "privato"
+            a["titolo_nota"] = "Datore privato: nessun vincolo di classe di laurea."
+            a["titolo_classi"] = []
+            continue
+
         mid = a.get("media_id")
         if not mid:
             a["titolo_verdetto"] = "ignoto"

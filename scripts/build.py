@@ -19,7 +19,7 @@ sys.path.insert(0, str(RADICE / "scripts"))
 import profile as prof  # noqa: E402
 import check_links  # noqa: E402
 import requisiti  # noqa: E402
-from sources import gazzetta, inpa  # noqa: E402
+from sources import adzuna, gazzetta, inpa  # noqa: E402
 
 RAGGIO_KM = 150
 USCITA = RADICE / "docs" / "data" / "jobs.json"
@@ -50,7 +50,8 @@ def raccogli():
     annunci, errori = [], []
 
     for nome, fn in (("InPA", lambda: inpa.scarica(RAGGIO_KM)),
-                     ("Gazzetta Ufficiale", lambda: gazzetta.scarica(RAGGIO_KM))):
+                     ("Gazzetta Ufficiale", lambda: gazzetta.scarica(RAGGIO_KM)),
+                     ("Adzuna", lambda: adzuna.scarica(RAGGIO_KM))):
         try:
             trovati = fn()
             annunci.extend(trovati)

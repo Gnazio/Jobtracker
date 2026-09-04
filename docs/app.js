@@ -27,6 +27,7 @@ const TITOLO = {
   ammesso: { testo: "LM-21 ammessa", classe: "ok" },
   escluso: { testo: "LM-21 non ammessa", classe: "ko" },
   ignoto: { testo: "Requisiti da verificare", classe: "forse" },
+  privato: { testo: "Nessun vincolo di classe", classe: "ok" },
 };
 
 /* ---------------------------------------------------------------- stato */

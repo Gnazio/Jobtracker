@@ -9,7 +9,8 @@ genera `docs/data/jobs.json` e GitHub Pages serve la cartella `docs/`.
 
 ## Cosa fa
 
-- **Raccoglie** da InPA (Portale del reclutamento) e dalla Gazzetta Ufficiale 4ª Serie Speciale.
+- **Raccoglie** da InPA (Portale del reclutamento), dalla Gazzetta Ufficiale 4ª Serie
+  Speciale e — se configuri la chiave — da Adzuna per il settore privato.
 - **Filtra per distanza**: haversine da Pisa al capoluogo di provincia, soglia 150 km.
   Quando il bando indica solo la regione, prova a dedurre il comune dal nome dell'ente.
 - **Assegna un punteggio** con le regole in `scripts/profile.py`: somma parole chiave
@@ -83,6 +84,31 @@ Su GitHub Actions il problema non si presenta e la verifica resta attiva.
 Se aggiungi parole chiave, rilancia `python scripts/build.py` e controlla cosa entra:
 il modo più veloce per capire se un peso è troppo alto è guardare la fascia
 "da valutare".
+
+## Attivare Adzuna (annunci privati)
+
+InPA e la Gazzetta coprono solo la pubblica amministrazione. Per il privato serve
+Adzuna: è l'unico aggregatore con API ufficiale, gratuita e con ricerca per raggio
+che copra bene l'Italia.
+
+1. Registrati su <https://developer.adzuna.com/> e prendi `Application ID` e `Application Key`.
+2. Su GitHub: **Settings → Secrets and variables → Actions → New repository secret**.
+   Crea `ADZUNA_APP_ID` e `ADZUNA_APP_KEY`.
+3. Lancia il workflow. Senza le chiavi la fonte viene semplicemente saltata.
+
+In locale:
+
+```bash
+ADZUNA_APP_ID=xxx ADZUNA_APP_KEY=yyy python scripts/build.py
+```
+
+Le query cercate sono in `QUERY` dentro `scripts/sources/adzuna.py`.
+
+**Perché non gli altri**: LinkedIn, Indeed e InfoJobs vietano l'uso automatizzato nei
+termini di servizio e lo bloccano attivamente. Le API dei gestionali di recruiting
+(Greenhouse, Lever, Workable, Recruitee) sono pulite, ma nessuna delle aziende target
+— Esaote, Dedalus, IIT, Datalogic, Kedrion, ION, Zerynth — le usa: hanno portali
+interni o SAP/Workday, senza endpoint pubblici. Verificato, non supposto.
 
 ## Il filtro LM-21
 
