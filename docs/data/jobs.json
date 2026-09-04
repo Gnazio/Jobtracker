@@ -1,12 +1,12 @@
 {
- "aggiornato": "2026-09-04T12:50:22+00:00",
+ "aggiornato": "2026-09-04T13:25:43+00:00",
  "raggio_km": 150,
  "origine": "Pisa",
  "statistiche": {
-  "grezzi": 410,
+  "grezzi": 413,
   "pubblicati": 32,
   "scartati_distanza": 39,
-  "scartati_profilo": 339,
+  "scartati_profilo": 342,
   "per_fascia": {
    "alta": 7,
    "buona": 17,
