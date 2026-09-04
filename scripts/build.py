@@ -47,21 +47,38 @@ def _giorni_rimasti(iso):
 
 
 def raccogli():
-    annunci, errori = [], []
+    """Interroga le fonti e tiene traccia di come e' andata ciascuna.
 
-    for nome, fn in (("InPA", lambda: inpa.scarica(RAGGIO_KM)),
-                     ("Gazzetta Ufficiale", lambda: gazzetta.scarica(RAGGIO_KM)),
-                     ("Adzuna", lambda: adzuna.scarica(RAGGIO_KM))):
+    Lo stato per fonte finisce nel json e nella pagina: una fonte che non
+    restituisce nulla perche' non e' configurata deve dirlo, altrimenti
+    l'assenza dei suoi annunci sembra un guasto misterioso.
+    """
+    annunci, errori, stato = [], [], []
+
+    fonti = [
+        ("InPA", lambda: inpa.scarica(RAGGIO_KM), None),
+        ("Gazzetta Ufficiale", lambda: gazzetta.scarica(RAGGIO_KM), None),
+        ("Adzuna", lambda: adzuna.scarica(RAGGIO_KM), adzuna.configurata),
+    ]
+
+    for nome, fn, controllo in fonti:
+        if controllo and not controllo():
+            stato.append({"fonte": nome, "annunci": 0,
+                          "nota": "non configurata: mancano le chiavi API"})
+            print(f"  {nome}: non configurata (chiavi assenti)", file=sys.stderr)
+            continue
         try:
             trovati = fn()
             annunci.extend(trovati)
+            stato.append({"fonte": nome, "annunci": len(trovati), "nota": None})
             print(f"  {nome}: {len(trovati)} annunci grezzi", file=sys.stderr)
         except Exception as e:
             errori.append(f"{nome}: {type(e).__name__}: {e}")
+            stato.append({"fonte": nome, "annunci": 0, "nota": f"errore: {e}"})
             print(f"  {nome} FALLITA: {e}", file=sys.stderr)
             traceback.print_exc(file=sys.stderr)
 
-    return annunci, errori
+    return annunci, errori, stato
 
 
 def unisci_storico(nuovi, giorni=45):
@@ -155,7 +172,7 @@ def carica_curati():
 
 def main():
     print("Raccolta annunci...", file=sys.stderr)
-    grezzi, errori = raccogli()
+    grezzi, errori, stato_fonti = raccogli()
     # Se nessuna fonte ha risposto non sovrascrivo il file buono con uno vuoto.
     if not grezzi:
         sys.exit("Nessuna fonte ha risposto: jobs.json lasciato invariato.")
@@ -191,6 +208,7 @@ def main():
             "per_titolo": conteggi_titolo,
         },
         "errori_fonti": errori,
+        "fonti": stato_fonti,
         "annunci": annunci,
         "curati": curati,
     }

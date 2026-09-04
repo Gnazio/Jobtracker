@@ -51,6 +51,11 @@ def _chiavi():
     return (app_id, app_key) if app_id and app_key else (None, None)
 
 
+def configurata():
+    """True se le chiavi sono presenti nell'ambiente."""
+    return bool(_chiavi()[0])
+
+
 def _cerca(app_id, app_key, cosa, raggio_km, per_pagina=50, giorni=45):
     import json
 
@@ -111,9 +116,13 @@ def _normalizza(r, raggio_km):
             km = geo.distanza_provincia(dedotta)
             break
 
-    ambito = "provincia" if km is not None and km <= raggio_km else (
-        "fuori" if km is not None else "nazionale"
-    )
+    # Adzuna ha gia' filtrato per raggio con distance=raggio_km: se non
+    # riesco a ricondurre il comune a una provincia nota, l'annuncio resta
+    # comunque dentro il raggio. Marcarlo "nazionale" lo farebbe scartare.
+    if km is None:
+        ambito = "provincia"
+    else:
+        ambito = "provincia" if km <= raggio_km else "fuori"
 
     azienda = (r.get("company") or {}).get("display_name") or ""
     return {

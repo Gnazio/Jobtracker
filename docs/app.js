@@ -224,11 +224,16 @@ function disegnaCifre() {
     : "—";
 
   const diag = document.getElementById("diagnostica");
-  const errori = DATI.errori_fonti || [];
-  diag.textContent =
-    `Ultimo giro: ${st.grezzi || 0} annunci letti, ${st.pubblicati || 0} pubblicati, ` +
-    `${st.scartati_distanza || 0} fuori raggio, ${st.scartati_profilo || 0} fuori profilo.` +
-    (errori.length ? ` Fonti in errore: ${errori.join("; ")}` : "");
+  const righe = (DATI.fonti || []).map((f) => {
+    const stato = f.nota
+      ? `<span class="ko">${esc(f.nota)}</span>`
+      : `${f.annunci} annunci letti`;
+    return `<li><b>${esc(f.fonte)}</b> — ${stato}</li>`;
+  });
+  diag.innerHTML =
+    `<p>Ultimo giro: ${st.grezzi || 0} annunci letti, ${st.pubblicati || 0} pubblicati, ` +
+    `${st.scartati_distanza || 0} fuori raggio, ${st.scartati_profilo || 0} fuori profilo.</p>` +
+    (righe.length ? `<ul class="stato-fonti">${righe.join("")}</ul>` : "");
 }
 
 /* ---------------------------------------------------------------- eventi */

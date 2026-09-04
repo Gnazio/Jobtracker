@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-09-04T13:32:12+00:00",
+ "aggiornato": "2026-09-04T13:40:16+00:00",
  "raggio_km": 150,
  "origine": "Pisa",
  "statistiche": {
@@ -19,6 +19,23 @@
   }
  },
  "errori_fonti": [],
+ "fonti": [
+  {
+   "fonte": "InPA",
+   "annunci": 410,
+   "nota": null
+  },
+  {
+   "fonte": "Gazzetta Ufficiale",
+   "annunci": 3,
+   "nota": null
+  },
+  {
+   "fonte": "Adzuna",
+   "annunci": 0,
+   "nota": "non configurata: mancano le chiavi API"
+  }
+ ],
  "annunci": [
   {
    "id": "inpa:5a2489b340f04cf289d84ffa883756ae",
