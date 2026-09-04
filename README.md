@@ -1,5 +1,7 @@
 # Job Tracker — Pisa 150 km
 
+**In linea: <https://gnazio.github.io/Jobtracker/>**
+
 Sito statico che raccoglie ogni giorno bandi, concorsi e posizioni entro 150 km da Pisa
 e li ordina in base a un profilo di competenze ricavato dal CV (PhD in AI, ingegneria
 clinica e biomedica, computer vision su imaging medicale, elaborazione di segnali).
@@ -25,6 +27,9 @@ genera `docs/data/jobs.json` e GitHub Pages serve la cartella `docs/`.
   (`localStorage`), non su GitHub.
 
 ## Pubblicarlo su GitHub Pages
+
+Già fatto per questo repository. Le istruzioni restano qui per riferimento, o se
+volessi ricrearlo altrove.
 
 1. Crea un repository **pubblico** su GitHub, ad esempio `jobtracker`.
    (Con un account gratuito, Pages funziona solo su repository pubblici.)
