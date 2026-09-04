@@ -1,15 +1,15 @@
 {
- "aggiornato": "2026-09-04T08:39:50+00:00",
+ "aggiornato": "2026-09-04T10:25:11+00:00",
  "raggio_km": 150,
  "origine": "Pisa",
  "statistiche": {
-  "grezzi": 406,
-  "pubblicati": 29,
-  "scartati_distanza": 36,
-  "scartati_profilo": 341,
+  "grezzi": 407,
+  "pubblicati": 30,
+  "scartati_distanza": 38,
+  "scartati_profilo": 339,
   "per_fascia": {
    "alta": 6,
-   "buona": 15,
+   "buona": 16,
    "possibile": 8
   }
  },
@@ -83,7 +83,7 @@
     "python"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 11
+   "giorni_rimasti": 10
   },
   {
    "id": "inpa:2b9d737b5a234ac2af66038f9a07b87d",
@@ -453,7 +453,7 @@
     "laurea magistrale"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 10
+   "giorni_rimasti": 9
   },
   {
    "id": "inpa:d25c752de845496b9819cf1cbb7fd33c",
@@ -512,6 +512,35 @@
    ],
    "fascia": "buona",
    "giorni_rimasti": 13
+  },
+  {
+   "id": "inpa:a80636117a5a4f99a09bf8d561b6f0d3",
+   "fonte": "InPA",
+   "titolo": "Concorso pubblico, per titoli ed esami, per l’assunzione di n. 1 (uno) Collaboratore ed Esperto Linguistico (CEL) di madrelingua norvegese, con contratto di lavoro subordinato a tempo indeterminato e pieno con impegno complessivo pari a 540 ore annue, per le esigenze del Dipartimento di Formazione, Lingue, Intercultura, Letterature e Psicologia (FORLILPSI) e del Centro Linguistico di Ateneo",
+   "figura": "Collaboratore Esperto Linguistico",
+   "ente": "Universita' degli Studi di Firenze",
+   "descrizione": "Concorso pubblico, per titoli ed esami, per l’assunzione di n. 1 (uno) Collaboratore ed Esperto Linguistico (CEL) di madrelingua norvegese, con contratto di lavoro subordinato a tempo indeterminato e pieno con impegno complessivo pari a 540 ore annue, per le esigenze del Dipartimento di Formazione, Lingue, Intercultura, Letterature e Psicologia (FORLILPSI) e del Centro Linguistico di Ateneo.",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a80636117a5a4f99a09bf8d561b6f0d3",
+   "pubblicazione": "2026-09-04T09:00:00Z",
+   "scadenza": "2026-10-05T21:59:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_ESAMI",
+   "sede": "Firenze",
+   "provincia": "Firenze",
+   "km": 69,
+   "ambito": "provincia",
+   "punteggio": 40,
+   "tag": [
+    "ai-ml",
+    "requisiti"
+   ],
+   "motivi": [
+    "ai",
+    "laurea specialistica"
+   ],
+   "fascia": "buona",
+   "giorni_rimasti": 31
   },
   {
    "id": "inpa:54368ffb74c3495aa23d51775934b039",
@@ -767,7 +796,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 26
+   "giorni_rimasti": 25
   },
   {
    "id": "inpa:3c9d921b6c244082acb967762751f5fe",
@@ -796,7 +825,7 @@
     "azienda usl"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 20
+   "giorni_rimasti": 19
   },
   {
    "id": "inpa:31b5251c2ab04a4caf954723ba0bc4ea",
