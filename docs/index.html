@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Job Tracker — Pisa 150 km</title>
+<meta name="description" content="Bandi, concorsi e posizioni entro 150 km da Pisa, filtrati sul profilo di Giacomo Ignesti.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎯</text></svg>">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="top">
+  <div class="wrap">
+    <div class="titolo">
+      <h1>Opportunità <span aria-hidden="true">🎯</span></h1>
+      <p class="sub">Ricerca, AI/ML e biomedico · Pisa e <strong>150 km</strong></p>
+    </div>
+    <div class="cifre" id="cifre"></div>
+  </div>
+</header>
+
+<nav class="tabs wrap" role="tablist">
+  <button class="tab attivo" data-vista="bandi" role="tab">Bandi aperti</button>
+  <button class="tab" data-vista="curati" role="tab">Enti da contattare</button>
+  <button class="tab" data-vista="info" role="tab">Come funziona</button>
+</nav>
+
+<main class="wrap">
+
+  <section id="vista-bandi">
+    <div class="filtri">
+      <input type="search" id="cerca" placeholder="🔍  Cerca per titolo, ente, profilo…" autocomplete="off">
+
+      <div class="riga-chip" id="chip-tag" aria-label="Filtra per ambito"></div>
+      <div class="riga-chip" id="chip-prov" aria-label="Filtra per provincia"></div>
+
+      <div class="riga-controlli">
+        <label class="controllo">
+          <span>Distanza massima: <output id="km-out">150</output> km</span>
+          <input type="range" id="km" min="10" max="150" step="10" value="150">
+        </label>
+        <label class="controllo">
+          <span>Stato candidatura</span>
+          <select id="stato-mio">
+            <option value="attivi">Attivi (nascondi scartati)</option>
+            <option value="tutti">Tutti</option>
+            <option value="salvato">⭐ Salvati</option>
+            <option value="candidato">✅ Candidato</option>
+            <option value="scartato">✕ Scartati</option>
+          </select>
+        </label>
+        <label class="controllo">
+          <span>Scadenza</span>
+          <select id="scad">
+            <option value="">Qualsiasi</option>
+            <option value="7">Entro 7 giorni</option>
+            <option value="15">Entro 15 giorni</option>
+            <option value="30">Entro 30 giorni</option>
+          </select>
+        </label>
+        <button id="azzera" class="ghost">Azzera filtri</button>
+      </div>
+    </div>
+
+    <p id="conteggio" class="conteggio"></p>
+    <div id="lista"></div>
+  </section>
+
+  <section id="vista-curati" hidden>
+    <p class="nota">
+      Enti e aziende della zona che assumono profili come il tuo. Non sono annunci aperti:
+      sono i posti dove vale la pena guardare periodicamente o mandare una candidatura spontanea.
+      Ordinati per quanto il tuo CV ci calza.
+    </p>
+    <div id="lista-curati"></div>
+  </section>
+
+  <section id="vista-info" hidden class="info">
+    <h2>Come funziona</h2>
+    <p>
+      Ogni giorno alle 6:00 un workflow di GitHub Actions interroga le fonti pubbliche,
+      filtra i risultati su un raggio di 150 km da Pisa e li ordina in base a un profilo
+      di competenze ricavato dal CV. Il risultato finisce in <code>docs/data/jobs.json</code>,
+      che questa pagina legge. Nessun server: solo file statici.
+    </p>
+
+    <h3>Fonti</h3>
+    <ul>
+      <li><strong>InPA — Portale del reclutamento</strong>: dal 2022 tutte le procedure di
+      reclutamento della pubblica amministrazione (enti di ricerca, università, aziende
+      sanitarie, comuni) devono essere pubblicate qui. È la fonte principale.</li>
+      <li><strong>Gazzetta Ufficiale, 4ª Serie Speciale — Concorsi</strong>: rete di sicurezza
+      per i bandi di CNR, università ed enti di ricerca.</li>
+    </ul>
+
+    <h3>Come vengono ordinati</h3>
+    <p>
+      Il punteggio somma parole chiave positive (ricercatore, assegno di ricerca, machine
+      learning, computer vision, ecografia, bioingegneria, telemedicina, Python…) e sottrae
+      quelle che rendono un bando inaccessibile o fuori profilo: mobilità volontaria e
+      stabilizzazioni (riservate a chi è già dipendente pubblico di ruolo), interpelli,
+      categorie protette, profili sanitari o amministrativi non attinenti.
+    </p>
+    <ul class="legenda">
+      <li><span class="pallino alta"></span><strong>Alta corrispondenza</strong> — punteggio ≥ 70</li>
+      <li><span class="pallino buona"></span><strong>Buona</strong> — punteggio ≥ 40</li>
+      <li><span class="pallino possibile"></span><strong>Da valutare</strong> — punteggio ≥ 24</li>
+    </ul>
+    <p class="avviso">
+      Il punteggio è un aiuto alla lettura, non un verdetto. Prima di candidarti apri sempre
+      il bando: requisiti, riserve di posti e scadenze reali stanno lì.
+    </p>
+
+    <h3>Tararlo sul tuo profilo</h3>
+    <p>
+      Tutte le regole stanno in un solo file, <code>scripts/profile.py</code>.
+      Alza o abbassa i pesi, aggiungi parole chiave, cambia <code>MIN_SCORE</code>.
+      Il raggio si cambia in <code>scripts/build.py</code> (<code>RAGGIO_KM</code>).
+    </p>
+
+    <h3>Le tue note</h3>
+    <p>
+      I contrassegni ⭐ salvato, ✅ candidato e ✕ scartato restano nel browser
+      (<code>localStorage</code>): non finiscono su GitHub e non sono visibili a nessun altro.
+      Cambiando browser o dispositivo riparti da zero.
+    </p>
+    <p id="diagnostica" class="diagnostica"></p>
+  </section>
+
+</main>
+
+<footer class="wrap">
+  <p>
+    Aggiornato <span id="aggiornato">—</span> ·
+    Dati da <a href="https://www.inpa.gov.it/" rel="noopener">InPA</a> e
+    <a href="https://www.gazzettaufficiale.it/" rel="noopener">Gazzetta Ufficiale</a> ·
+    Sempre verificare sul bando originale.
+  </p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

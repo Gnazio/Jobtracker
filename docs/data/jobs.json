@@ -1,0 +1,1391 @@
+{
+ "aggiornato": "2026-09-04T08:39:50+00:00",
+ "raggio_km": 150,
+ "origine": "Pisa",
+ "statistiche": {
+  "grezzi": 406,
+  "pubblicati": 29,
+  "scartati_distanza": 36,
+  "scartati_profilo": 341,
+  "per_fascia": {
+   "alta": 6,
+   "buona": 15,
+   "possibile": 8
+  }
+ },
+ "errori_fonti": [],
+ "annunci": [
+  {
+   "id": "inpa:5a2489b340f04cf289d84ffa883756ae",
+   "fonte": "InPA",
+   "titolo": "Selezione Area dei Funzionari – Settore scientifico-tecnologico – Tempo determinato – Istituto di Intelligenza Meccanica – Scuola Superiore Sant'Anna di Pisa",
+   "figura": "Funzionario scientifico-tecnologico",
+   "ente": "SCUOLA SUP. STUDI UNIV. E PERFEZIONAMENTO 'S.ANNA'",
+   "descrizione": "Selezione pubblica, per esami, per l’assunzione di una unità di personale appartenente all’Area dei Funzionari, settore scientifico-tecnologico, con contratto di lavoro subordinato a tempo pieno e determinato della durata di dodici mesi, prorogabile ai sensi della normativa vigente, per le esigenze dell’Istituto di Intelligenza Meccanica della Scuola nell’ambito del progetto di ricerca “Studio, Sviluppo e Realizzazione di N°2 ROBIN semplificati per l’esecuzione di test su funzionalità di ispezione della linea ferroviaria”, finanziato da RFI Spa.",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=5a2489b340f04cf289d84ffa883756ae",
+   "pubblicazione": "2026-08-31T07:00:00Z",
+   "scadenza": "2026-09-30T21:59:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "ESAMI",
+   "sede": "Pisa",
+   "provincia": "Pisa",
+   "km": 0,
+   "ambito": "provincia",
+   "punteggio": 158,
+   "tag": [
+    "ente-ricerca",
+    "ai-ml",
+    "ict",
+    "requisiti"
+   ],
+   "motivi": [
+    "scuola superiore sant'anna",
+    "cineca",
+    "ai",
+    "ingegneria elettronic",
+    "sviluppator",
+    "area dei funzionari – settore scientific"
+   ],
+   "fascia": "alta",
+   "giorni_rimasti": 26
+  },
+  {
+   "id": "inpa:76d2018721084b57ad88a94e9a94515d",
+   "fonte": "InPA",
+   "titolo": "PUBBLICA SELEZIONE PER SOLI TITOLI PER IL CONFERIMENTO DI N. 1 BORSA DI STUDIO PER LAUREATO IN DISCIPLINE INGEGNERISTICHE, INFORMATICHE O MATEMATICHE PRESSO LA UOC REUMATOLOGIA E MALATTIE AUTOINFIAMMATORIE",
+   "figura": "Ingegnere",
+   "ente": "Istituto Giannina Gaslini",
+   "descrizione": "PUBBLICA SELEZIONE PER SOLI TITOLI PER IL CONFERIMENTO DI N. 1 BORSA DI STUDIO PER LAUREATO IN DISCIPLINE INGEGNERISTICHE, INFORMATICHE O MATEMATICHE PRESSO LA UOC REUMATOLOGIA E MALATTIE AUTOINFIAMMATORIE",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=76d2018721084b57ad88a94e9a94515d",
+   "pubblicazione": "2026-08-30T22:00:00Z",
+   "scadenza": "2026-09-15T10:00:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI",
+   "sede": "Genova",
+   "provincia": "Genova",
+   "km": 139,
+   "ambito": "provincia",
+   "punteggio": 144,
+   "tag": [
+    "ricerca",
+    "ai-ml",
+    "biomedico",
+    "ict"
+   ],
+   "motivi": [
+    "borsa di studio",
+    "intelligenza artificiale",
+    "statistic",
+    "ingegneria biomedic",
+    "ingegneria informatic",
+    "python"
+   ],
+   "fascia": "alta",
+   "giorni_rimasti": 11
+  },
+  {
+   "id": "inpa:2b9d737b5a234ac2af66038f9a07b87d",
+   "fonte": "InPA",
+   "titolo": "Concorso pubblico, per titoli ed esami, per n. 1 posto, Area dei Funzionari, settore scientifico-tecnologico, con contratto di lavoro subordinato a tempo indeterminato e pieno, per le esigenze del Dipartimento di Medicina Sperimentale e Clinica (DMSC).",
+   "figura": "Funzionario",
+   "ente": "Universita' degli Studi di Firenze",
+   "descrizione": "Concorso pubblico, per titoli ed esami, per n. 1 posto, Area dei Funzionari, settore scientifico-tecnologico, con contratto di lavoro subordinato a tempo indeterminato e pieno, per le esigenze del Dipartimento di Medicina Sperimentale e Clinica (DMSC).",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2b9d737b5a234ac2af66038f9a07b87d",
+   "pubblicazione": "2026-08-06T11:00:00Z",
+   "scadenza": "2026-09-16T21:59:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_ESAMI",
+   "sede": "Firenze",
+   "provincia": "Firenze",
+   "km": 69,
+   "ambito": "provincia",
+   "punteggio": 108,
+   "tag": [
+    "ai-ml",
+    "biomedico",
+    "ict",
+    "requisiti"
+   ],
+   "motivi": [
+    "ai",
+    "ingegneria biomedic",
+    "area dei funzionari, settore scientific",
+    "settore scientifico-tecnologico",
+    "laurea specialistica"
+   ],
+   "fascia": "alta",
+   "giorni_rimasti": 12
+  },
+  {
+   "id": "inpa:2731beb6e57843faaeca1f2d19688678",
+   "fonte": "InPA",
+   "titolo": "Concorso pubblico, per titoli ed esami, per n. 1 (uno) Tecnologo/a a tempo determinato (36 mesi) ai sensi dell'art. 24-bis della Legge n. 240/2010, progetto Orto.Nutraceutica presso l'Università degli Studi di Siena, per le esigenze del Dipartimento Economia e Statistica (DEPS)",
+   "figura": "1 Tecnologo/a",
+   "ente": "Universita' degli Studi di Siena",
+   "descrizione": "Programma di lavoro e specifiche funzioni da svolgere: Creazione della piattaforma integrata e supporto alla sua implementazione sulla sostenibilità per l’analisi statistica dei dati delle aziende della filiera. Il sistema integrato di sostenibilità sviluppato, che sarà strutturato sulla base sia di indicatori statistici ambientali che di indicatori statistici socio-economici, consentirà di valutare le performance aziendali e territoriali di sostenibilità, fornendo così un supporto all’impostazione di strategie che operino correttivi e/o implementino piani di sviluppo, coerenti con gli obietti",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2731beb6e57843faaeca1f2d19688678",
+   "pubblicazione": "2026-08-27T11:53:00Z",
+   "scadenza": "2026-09-11T21:59:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_ESAMI",
+   "sede": "Siena",
+   "provincia": "Siena",
+   "km": 87,
+   "ambito": "provincia",
+   "punteggio": 94,
+   "tag": [
+    "ricerca",
+    "ente-ricerca",
+    "ai-ml",
+    "requisiti"
+   ],
+   "motivi": [
+    "tecnologo",
+    "università degli studi di siena",
+    "data scien",
+    "statistic",
+    "laurea magistrale"
+   ],
+   "fascia": "alta",
+   "giorni_rimasti": 7
+  },
+  {
+   "id": "inpa:c3dddf5bce904cc485a61ecf8b1b1c8d",
+   "fonte": "InPA",
+   "titolo": "INDIZIONE DI N. 1 CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER L’ATTRIBUZIONE DI N. 2 INCARICHI A TEMPO DETERMINATO IN QUALITÀ DI COLLABORATORE PROFESSIONALE DI RICERCA SANITARIA, NELL’AMBITO DI SPECIFICI PROGETTI DI RICERCA, DA ASSEGNARE RISPETTIVAMENTE AL CENTRO DOPO – DIPARTIMENTO DI EMATO-ONCOLOGIA E ALLA UOC CLINICA PEDIATRICA – ENDOCRINOLOGIA.",
+   "figura": "RICERCATORE SANITARIO",
+   "ente": "Istituto Giannina Gaslini",
+   "descrizione": "INDIZIONE DI N. 1 CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER L’ATTRIBUZIONE DI N. 2 INCARICHI A TEMPO DETERMINATO IN QUALITÀ DI COLLABORATORE PROFESSIONALE DI RICERCA SANITARIA, NELL’AMBITO DI SPECIFICI PROGETTI DI RICERCA, DA ASSEGNARE RISPETTIVAMENTE AL CENTRO DOPO – DIPARTIMENTO DI EMATO-ONCOLOGIA E ALLA UOC CLINICA PEDIATRICA – ENDOCRINOLOGIA.",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=c3dddf5bce904cc485a61ecf8b1b1c8d",
+   "pubblicazione": "2026-08-26T22:00:00Z",
+   "scadenza": "2026-09-28T21:59:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_ESAMI",
+   "sede": "Genova",
+   "provincia": "Genova",
+   "km": 139,
+   "ambito": "provincia",
+   "punteggio": 78,
+   "tag": [
+    "ricerca",
+    "sanita"
+   ],
+   "motivi": [
+    "ricercator",
+    "ricerca sanitaria",
+    "collaboratore professionale di ricerca"
+   ],
+   "fascia": "alta",
+   "giorni_rimasti": 24
+  },
+  {
+   "id": "inpa:804169e80f034b17a6b56f5df3ff7f80",
+   "fonte": "InPA",
+   "titolo": "Concorso pubblico, per titoli ed esami, per n. 1 unità di personale, da inquadrare nell’Area dei Funzionari, settore scientifico-tecnologico, con contratto di lavoro subordinato a tempo indeterminato e pieno, per le esigenze del Centro di Servizio di Ateneo per la Formazione in materia di salute e sicurezza sui luoghi di lavoro (CESPRO)",
+   "figura": "Funzionario",
+   "ente": "Universita' degli Studi di Firenze",
+   "descrizione": "Concorso pubblico, per titoli ed esami, per n. 1 unità di personale, da inquadrare nell’Area dei Funzionari, settore scientifico-tecnologico, con contratto di lavoro subordinato a tempo indeterminato e pieno, per le esigenze del Centro di Servizio di Ateneo per la Formazione in materia di salute e sicurezza sui luoghi di lavoro (CESPRO).",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=804169e80f034b17a6b56f5df3ff7f80",
+   "pubblicazione": "2026-08-28T09:00:00Z",
+   "scadenza": "2026-09-28T21:59:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_ESAMI",
+   "sede": "Firenze",
+   "provincia": "Firenze",
+   "km": 69,
+   "ambito": "provincia",
+   "punteggio": 76,
+   "tag": [
+    "ai-ml",
+    "ict",
+    "requisiti"
+   ],
+   "motivi": [
+    "ai",
+    "area dei funzionari, settore scientific",
+    "settore scientifico-tecnologico",
+    "laurea specialistica"
+   ],
+   "fascia": "alta",
+   "giorni_rimasti": 24
+  },
+  {
+   "id": "inpa:a5e71667a21e4ed6a9da1339e9edb37a",
+   "fonte": "InPA",
+   "titolo": "UNIVERSITA' DEGLI STUDI DI GENOVA - procedura pubblica, per titoli ed esami, per la costituzione di rapporto di lavoro a tempo determinato e pieno n. 1 unità di personale da inquadrare nell’Area dei Collaboratori, profilo di Tecnico a supporto della gestione dei corsi di dottorato di ricerca dipartimentali - DIBRIS",
+   "figura": "Area dei Collaboratori - Settore professionale tecnico, scientifico, tecnologico, informatico e dei servizi generali",
+   "ente": "Universita Degli Studi di Genova",
+   "descrizione": "Procedura selettiva pubblica, per titoli ed esami, per la costituzione di rapporto di lavoro a tempo determinato e pieno per la durata di 12 mesi, rinnovabile annualmente per una durata massima di complessivi tre anni, con n. 1 unità di personale da inquadrare nell’Area dei Collaboratori, Settore professionale tecnico, scientifico, tecnologico, informatico e dei servizi generali, con profilo di Tecnico a supporto della gestione dei corsi di dottorato di ricerca dipartimentali presso il Dipartimento di Informatica, Bioingegneria, Robotica e Ingegneria dei Sistemi – DIBRIS.",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a5e71667a21e4ed6a9da1339e9edb37a",
+   "pubblicazione": "2026-08-17T22:00:00Z",
+   "scadenza": "2026-09-16T21:59:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_ESAMI",
+   "sede": "Genova",
+   "provincia": "Genova",
+   "km": 139,
+   "ambito": "provincia",
+   "punteggio": 64,
+   "tag": [
+    "ricerca",
+    "ente-ricerca",
+    "biomedico"
+   ],
+   "motivi": [
+    "dottorat",
+    "universita degli studi di genova",
+    "bioingegner"
+   ],
+   "fascia": "buona",
+   "giorni_rimasti": 12
+  },
+  {
+   "id": "inpa:4331bfde14584b24b6a2e5540afda560",
+   "fonte": "InPA",
+   "titolo": "Selezione pubblica per titoli e colloquio per l’assunzione di una (1) posizione nell’Area dei Collaboratori, con contratto di formazione e lavoro a tempo determinato della durata di 24 mesi, Settore tecnico informatico, per le esigenze dell’Ufficio Sistemi Informativi e Tecnologie",
+   "figura": "Informatico",
+   "ente": "Imt Alti Studi di Lucca",
+   "descrizione": "Resti e Infrastrutture Sistemi Operativi Automazione e scripting Sicurezza Informatica Web e Servizi",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4331bfde14584b24b6a2e5540afda560",
+   "pubblicazione": "2026-07-07T10:00:00Z",
+   "scadenza": "2026-09-11T21:59:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_COLLOQUIO",
+   "sede": "Lucca",
+   "provincia": "Lucca",
+   "km": 17,
+   "ambito": "provincia",
+   "punteggio": 58,
+   "tag": [
+    "ente-ricerca",
+    "ict"
+   ],
+   "motivi": [
+    "imt alti studi di lucca",
+    "python",
+    "sistemi informativ"
+   ],
+   "fascia": "buona",
+   "giorni_rimasti": 7
+  },
+  {
+   "id": "inpa:ced63109e8c9458a985d3bf8aefd94c8",
+   "fonte": "InPA",
+   "titolo": "SELEZIONE PUBBL. PER N. 1 CONTRATTO DI RICERCA, ART.22 L. 240/2010,TD 24 MESI, GSD 06/MEDS–16, SSD MEDS-16/A MALATTIE ODONTOSTOMATOLOGICHE, Dipartimento di Medicina e Chirurgia-UNIV. PARMA",
+   "figura": "Contrattista di ricerca",
+   "ente": "Universita' degli Studi di Parma",
+   "descrizione": "OBIETIVI OGGETTO DEL CONTRATTO Il contratto di ricerca è finalizzato allo sviluppo e alla validazione di modelli diagnostici integrati per le lesioni potenzialmente maligne e maligne del cavo orale, mediante l’impiego combinato di tecnologie di imaging avanzato, metodiche di fluorescenza e analisi di biomarcatori salivari. Gli obiettivi comprendono l’identificazione di indicatori diagnostici e prognostici innovativi, la definizione di modelli predittivi basati sull’integrazione di dati clinici, strumentali e molecolari mediante algoritmi di intelligenza artificiale, nonché la validazione trasl",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ced63109e8c9458a985d3bf8aefd94c8",
+   "pubblicazione": "2026-08-26T22:01:00Z",
+   "scadenza": "2026-09-10T21:59:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_COLLOQUIO",
+   "sede": "Parma",
+   "provincia": "Parma",
+   "km": 121,
+   "ambito": "provincia",
+   "punteggio": 54,
+   "tag": [
+    "ai-ml"
+   ],
+   "motivi": [
+    "intelligenza artificiale",
+    "modelli predittiv"
+   ],
+   "fascia": "buona",
+   "giorni_rimasti": 6
+  },
+  {
+   "id": "inpa:0f402215db184bb38ef622a588e2d2a6",
+   "fonte": "InPA",
+   "titolo": "AZIENDA OSPEDALIERA METROPOLITANA (AOM) PUBBLICA SELEZIONE, PER TITOLI E COLLOQUIO, PER UNA BORSA DI STUDIO, DELLA DURATA DI 24 MESI, INTITOLATA AL NOME DI FRANCESCO DE CESARE E FINALIZZATA ALLA RICERCA IN CAMPO ONCOLOGICO, IN SPECIE AL SUPPORTO DEL PROGETTO DAL TITOLO “SVILUPPO DI PIATTAFORME INTEGRATE PER LO SCREENING FARMACOLOGICO E LA CARATTERIZZAZIONE MOLECOLARE DI MODELLI TUMORALI MEDIANTE SPETTROMETRIA DI MASSA” DA SVOLGERSI PRESSO LA S.S.D. PROTEOMICA E SPETTROMETRIA DI MASSA.",
+   "figura": "Borsista",
+   "ente": "IRCCS Ospedale Policlinico San Martino",
+   "descrizione": "PUBBLICA SELEZIONE, PER TITOLI E COLLOQUIO, PER L’ASSEGNAZIONE DI UNA BORSA DI STUDIO, DELLA DURATA DI 24 MESI, INTITOLATA AL NOME DI FRANCESCO DE CESARE E FINALIZZATA ALLA RICERCA IN CAMPO ONCOLOGICO, IN SPECIE AL SUPPORTO DEL PROGETTO DAL TITOLO “SVILUPPO DI PIATTAFORME INTEGRATE PER LO SCREENING FARMACOLOGICO E LA CARATTERIZZAZIONE MOLECOLARE DI MODELLI TUMORALI MEDIANTE SPETTROMETRIA DI MASSA” (R351A), DA SVOLGERSI PRESSO LA S.S.D. PROTEOMICA E SPETTROMETRIA DI MASSA.",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0f402215db184bb38ef622a588e2d2a6",
+   "pubblicazione": "2026-08-24T15:05:00Z",
+   "scadenza": "2026-09-14T21:59:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_COLLOQUIO",
+   "sede": "Genova",
+   "provincia": "Genova",
+   "km": 139,
+   "ambito": "provincia",
+   "punteggio": 52,
+   "tag": [
+    "ricerca",
+    "ente-ricerca",
+    "sanita"
+   ],
+   "motivi": [
+    "borsa di studio",
+    "irccs",
+    "azienda ospedalier"
+   ],
+   "fascia": "buona",
+   "giorni_rimasti": 10
+  },
+  {
+   "id": "inpa:fad82f3fe0554647981f8eacad239d28",
+   "fonte": "InPA",
+   "titolo": "AZIENDA OSPEDALIERA METROPOLITANA (AOM) - PUBBLICA SELEZIONE, PER TITOLI E COLLOQUIO, PER L’ASSEGNAZIONE DI UNA BORSA DI STUDIO, DELLA DURATA DI 6 MESI, PER COLLABORARE AL PROGETTO DI RICERCA DENOMINATO “EVALUATION OF NEW THERAPIES FOR BRAIN TUMOR: TRAINED IMMUNITY AND ONCOLYTIC VIROTHERAPY TARGETING EGFRVIII DRIVEN GLIOBLASTOMA GR-2021-12373323” CUP C23C21000140001 (R403A), DA SVOLGERSI PRESSO LA U.O. NEURO- ONCOLOGIA E MUTAGENESI.",
+   "figura": "Borsista",
+   "ente": "IRCCS Ospedale Policlinico San Martino",
+   "descrizione": "PUBBLICA SELEZIONE, PER TITOLI E COLLOQUIO, PER L’ASSEGNAZIONE DI UNA BORSA DI STUDIO, DELLA DURATA DI 6 MESI, PER COLLABORARE AL PROGETTO DI RICERCA DENOMINATO “EVALUATION OF NEW THERAPIES FOR BRAIN TUMOR: TRAINED IMMUNITY AND ONCOLYTIC VIROTHERAPY TARGETING EGFRVIII DRIVEN GLIOBLASTOMA GR-2021-12373323” CUP C23C21000140001 (R403A), DA SVOLGERSI PRESSO LA U.O. NEURO- ONCOLOGIA E MUTAGENESI.",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=fad82f3fe0554647981f8eacad239d28",
+   "pubblicazione": "2026-08-24T10:30:00Z",
+   "scadenza": "2026-09-14T21:59:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_COLLOQUIO",
+   "sede": "Genova",
+   "provincia": "Genova",
+   "km": 139,
+   "ambito": "provincia",
+   "punteggio": 52,
+   "tag": [
+    "ricerca",
+    "ente-ricerca",
+    "sanita"
+   ],
+   "motivi": [
+    "borsa di studio",
+    "irccs",
+    "azienda ospedalier"
+   ],
+   "fascia": "buona",
+   "giorni_rimasti": 10
+  },
+  {
+   "id": "inpa:85629b16128446fcba06bf8242f6850f",
+   "fonte": "InPA",
+   "titolo": "Procedura di selezione onferimento di n. 4 incarichi post-doc (fascia 2), ai sensi dell’art. 22-bis della Legge 30.12.2010, n. 240, della durata di 12 mesi, per le esigenze del Progetto dal titolo iSEEDs (FIS2) Cod: 2026INAFINCPOS-OAA-FIS2iSEEDs-006",
+   "figura": "Incarico post-doc",
+   "ente": "Istituto Nazionale di Astrofisica - INAF",
+   "descrizione": "Procedura di selezione pubblica, per titoli e colloquio, per il conferimento di n. 4 incarichi post-doc (fascia 2), ai sensi dell’art. 22-bis della Legge 30.12.2010, n. 240, della durata di 12 mesi, per le esigenze del Progetto dal titolo iSEEDs (Astrochemical Study of Early Embedded Disks) FIS2 titolo del programma di ricerca: “Dalle protostelle al Sistema Solare e agli esopianeti: sinergia tra osservazioni, chimica e data science Sede di Servizio: O.A. Arcetri",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=85629b16128446fcba06bf8242f6850f",
+   "pubblicazione": "2026-08-04T07:00:00Z",
+   "scadenza": "2026-09-20T21:59:00Z",
+   "stato": "Aperto",
+   "posti": 4,
+   "procedura": "TITOLI_COLLOQUIO",
+   "sede": "Firenze",
+   "provincia": "Firenze",
+   "km": 69,
+   "ambito": "provincia",
+   "punteggio": 50,
+   "tag": [
+    "ricerca",
+    "ai-ml"
+   ],
+   "motivi": [
+    "post-doc",
+    "data scien"
+   ],
+   "fascia": "buona",
+   "giorni_rimasti": 16
+  },
+  {
+   "id": "inpa:ff62c75dc0c74bd1b66f397ad3f71a3d",
+   "fonte": "InPA",
+   "titolo": "CONCORSO PUBBLICO PER ESAMI PER LA COPERTURA DI N. 7 POSTI NEL PROFILO PROFESSIONALE DI FUNZIONARIO TECNICO – AREA DEI FUNZIONARI E DELLA ELEVATA QUALIFICAZIONE A TEMPO INDETERMINATO E PIENO, CON RISERVA DI N. 2 POSTI A FAVORE DEI SOGGETTI APPARTENENTI ALLE FORZE ARMATE E DI N. 1 POSTO A FAVORE DEI VOLONTARI DEL SERVIZIO CIVILE, DA ASSEGNARE AI SERVIZI TECNICI DELLA PROVINCIA DI REGGIO EMILIA.",
+   "figura": "FUNZIONARIO TECNICO",
+   "ente": "Provincia di Reggio Emilia",
+   "descrizione": "Si pubblica il bando in oggetto con scadenza del termine di presentazione delle domande il giorno 30 settembre 2026 ore 23.59.",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ff62c75dc0c74bd1b66f397ad3f71a3d",
+   "pubblicazione": "2026-08-31T15:50:00Z",
+   "scadenza": "2026-09-30T21:59:00Z",
+   "stato": "Aperto",
+   "posti": 7,
+   "procedura": "ESAMI",
+   "sede": "Reggio Emilia",
+   "provincia": "Reggio Emilia",
+   "km": 111,
+   "ambito": "provincia",
+   "punteggio": 48,
+   "tag": [
+    "ai-ml",
+    "ict"
+   ],
+   "motivi": [
+    "ai",
+    "funzionario tecnic"
+   ],
+   "fascia": "buona",
+   "giorni_rimasti": 26
+  },
+  {
+   "id": "inpa:cc3cbb75ad48499fba31af2eee2d0981",
+   "fonte": "InPA",
+   "titolo": "PUBBLICA SELEZIONE PER TITOLI ED EVENTUALE COLLOQUIO PER IL CONFERIMENTO DI N. 1 BORSA DI STUDIO PER LAUREATO MAGISTRALE IN PSICOLOGIA - CURRICULUM PSICOLOGIA DELLO SVILUPPO E DELLA COMUNICAZIONE, PRESSO LA UOC TERAPIA INTENSIVA E SEMI-INTENSIVA NEONATALE E PEDIATRICA",
+   "figura": "Psicologa",
+   "ente": "Istituto Giannina Gaslini",
+   "descrizione": "PUBBLICA SELEZIONE PER TITOLI ED EVENTUALE COLLOQUIO PER IL CONFERIMENTO DI N. 1 BORSA DI STUDIO PER LAUREATO MAGISTRALE IN PSICOLOGIA - CURRICULUM PSICOLOGIA DELLO SVILUPPO E DELLA COMUNICAZIONE, PRESSO LA UOC TERAPIA INTENSIVA E SEMI-INTENSIVA NEONATALE E PEDIATRICA",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=cc3cbb75ad48499fba31af2eee2d0981",
+   "pubblicazione": "2026-08-28T13:00:00Z",
+   "scadenza": "2026-09-14T10:00:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_COLLOQUIO",
+   "sede": "Genova",
+   "provincia": "Genova",
+   "km": 139,
+   "ambito": "provincia",
+   "punteggio": 48,
+   "tag": [
+    "ricerca",
+    "ente-ricerca",
+    "requisiti"
+   ],
+   "motivi": [
+    "borsa di studio",
+    "irccs",
+    "laurea magistrale"
+   ],
+   "fascia": "buona",
+   "giorni_rimasti": 10
+  },
+  {
+   "id": "inpa:d25c752de845496b9819cf1cbb7fd33c",
+   "fonte": "InPA",
+   "titolo": "PROVINCIA DI LUCCA - CONCORSO PUBBLICO PER ESAMI PER LA COPERTURA DI N. 1 POSTO DI “ESPERTO DI SERVIZI INFORMATICI” - AREA DEGLI ISTRUTTORI A TEMPO PIENO ED INDETERMINATO – COMPARTO FUNZIONI LOCALI",
+   "figura": "Area Istruttori - profilo informatico",
+   "ente": "Provincia di Lucca",
+   "descrizione": "Concorso pubblico per esami per la copertura a tempo indeterminato e pieno di n. 1 posto di “Esperto di servizi informatici” Area degli Istruttori – CCNL Comparto Funzioni Locali - da destinare al Settore Servizi all’Ente, ai Comuni e al Cittadino – Ufficio Sistemi Informativi CED della Provincia di Lucca.",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=d25c752de845496b9819cf1cbb7fd33c",
+   "pubblicazione": "2026-08-14T10:00:00Z",
+   "scadenza": "2026-09-13T21:59:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "ESAMI",
+   "sede": "Lucca",
+   "provincia": "Lucca",
+   "km": 17,
+   "ambito": "provincia",
+   "punteggio": 44,
+   "tag": [
+    "ai-ml",
+    "ict"
+   ],
+   "motivi": [
+    "ai",
+    "sistemi informativ"
+   ],
+   "fascia": "buona",
+   "giorni_rimasti": 9
+  },
+  {
+   "id": "inpa:779e74a8b4ed46cbb0168b639ad8c091",
+   "fonte": "InPA",
+   "titolo": "Selezione per il reclutamento di un tecnologo di secondo livello, per 24 mesi, part time 50%, presso il Dipartimento di Matematica.",
+   "figura": "Tecnologo",
+   "ente": "Universita' di Pisa",
+   "descrizione": "Selezione per il reclutamento di un tecnologo di secondo livello, per 24 mesi, part time 50%, presso il Dipartimento di Matematica. Le domande di ammissione alla selezione devono essere presentate esclusivamente tramite la piattaforma PICA https://pica.cineca.it/unipi/",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=779e74a8b4ed46cbb0168b639ad8c091",
+   "pubblicazione": "2026-08-27T10:00:00Z",
+   "scadenza": "2026-09-17T11:00:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_COLLOQUIO",
+   "sede": "Pisa",
+   "provincia": "Pisa",
+   "km": 0,
+   "ambito": "provincia",
+   "punteggio": 42,
+   "tag": [
+    "ricerca",
+    "ente-ricerca"
+   ],
+   "motivi": [
+    "tecnologo",
+    "cineca."
+   ],
+   "fascia": "buona",
+   "giorni_rimasti": 13
+  },
+  {
+   "id": "inpa:54368ffb74c3495aa23d51775934b039",
+   "fonte": "InPA",
+   "titolo": "AVVISO PUBBLICO DI PROCEDURA COMPARATIVA PER IL CONFERIMENTO DI UN INCARICO INDIVIDUALE DI LAVORO AUTONOMO, DI NATURA OCCASIONALE, PER LA REALIZZAZIONE DI UNO STUDIO SUL TEMA DELLE POLITICHE DI REGOLAMENTAZIONE DEGLI AFFITTI TURISTICI E DELLE TRASFORMAZIONI DELL’OFFERTA COMMERCIALE",
+   "figura": "Esperto in analisi di politiche turistiche e contesti urbani",
+   "ente": "I.R.P.E.T Istituto Regionale per La Programmazione Economica della Toscana",
+   "descrizione": "La professionalità richiesta deve essere in possesso: a. laurea magistrale (LM – D.M. n. 270/2004), oppure laurea specialistica (LS – D.M. n. 509/1999) o diploma di laurea (DL) vecchio ordinamento in ambito economico b. aver maturato complessivamente almeno 5 anni di esperienza di ricerca sui temi dell’incarico (da dichiarare nelle sezioni dedicate alle esperienze lavorative).",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=54368ffb74c3495aa23d51775934b039",
+   "pubblicazione": "2026-08-31T13:00:00Z",
+   "scadenza": "2026-09-15T21:00:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_COLLOQUIO",
+   "sede": "Firenze",
+   "provincia": "Firenze",
+   "km": 69,
+   "ambito": "provincia",
+   "punteggio": 40,
+   "tag": [
+    "ai-ml",
+    "requisiti"
+   ],
+   "motivi": [
+    "ai",
+    "laurea magistrale"
+   ],
+   "fascia": "buona",
+   "giorni_rimasti": 11
+  },
+  {
+   "id": "inpa:04475282807945f1917a884db7688333",
+   "fonte": "InPA",
+   "titolo": "Concorso pubblico, per titoli ed esami, per l’assunzione di n. 1 Collaboratore ed Esperto Linguistico (CEL) di madrelingua francese, con contratto di lavoro subordinato a tempo indeterminato e pieno con impegno complessivo pari a 540 ore annue, per le esigenze del Dipartimento di Formazione, Lingue, Intercultura, Letterature e Psicologia (FORLILPSI)",
+   "figura": "Collaboratore ed Esperto Linguistico (CEL)",
+   "ente": "Universita' degli Studi di Firenze",
+   "descrizione": "Concorso pubblico, per titoli ed esami, per l’assunzione di n. 1 Collaboratore ed Esperto Linguistico (CEL) di madrelingua francese, con contratto di lavoro subordinato a tempo indeterminato e pieno con impegno complessivo pari a 540 ore annue, per le esigenze del Dipartimento di Formazione, Lingue, Intercultura, Letterature e Psicologia (FORLILPSI)",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=04475282807945f1917a884db7688333",
+   "pubblicazione": "2026-08-28T08:00:00Z",
+   "scadenza": "2026-09-28T21:59:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_ESAMI",
+   "sede": "Firenze",
+   "provincia": "Firenze",
+   "km": 69,
+   "ambito": "provincia",
+   "punteggio": 40,
+   "tag": [
+    "ai-ml",
+    "requisiti"
+   ],
+   "motivi": [
+    "ai",
+    "laurea magistrale"
+   ],
+   "fascia": "buona",
+   "giorni_rimasti": 24
+  },
+  {
+   "id": "inpa:30c7b4a1378348ffb9d5a4a60e1660b9",
+   "fonte": "InPA",
+   "titolo": "Concorso pubblico, per titoli ed esami, per l’assunzione di n. 1 Collaboratore ed Esperto Linguistico (CEL) di madrelingua cinese, con contratto di lavoro subordinato a tempo indeterminato e pieno con impegno complessivo pari a 540 ore annue, per le esigenze del Dipartimento di Formazione, Lingue, Intercultura, Letterature e Psicologia (FORLILPSI).",
+   "figura": "Collaboratore ed Esperto Linguistico (CEL)",
+   "ente": "Universita' degli Studi di Firenze",
+   "descrizione": "Concorso pubblico, per titoli ed esami, per l’assunzione di n. 1 Collaboratore ed Esperto Linguistico (CEL) di madrelingua cinese, con contratto di lavoro subordinato a tempo indeterminato e pieno con impegno complessivo pari a 540 ore annue, per le esigenze del Dipartimento di Formazione, Lingue, Intercultura, Letterature e Psicologia (FORLILPSI).",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=30c7b4a1378348ffb9d5a4a60e1660b9",
+   "pubblicazione": "2026-08-26T08:00:00Z",
+   "scadenza": "2026-09-25T21:59:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_ESAMI",
+   "sede": "Firenze",
+   "provincia": "Firenze",
+   "km": 69,
+   "ambito": "provincia",
+   "punteggio": 40,
+   "tag": [
+    "ai-ml",
+    "requisiti"
+   ],
+   "motivi": [
+    "ai",
+    "laurea magistrale"
+   ],
+   "fascia": "buona",
+   "giorni_rimasti": 21
+  },
+  {
+   "id": "inpa:62379304dfe045afabe553a0c5a7ed33",
+   "fonte": "InPA",
+   "titolo": "Avviso 0676/2026 per la selezione di n. 1 risorsa (oltre 3 anni fino a 5 anni) da impegnare con contratto di collaborazione nell’ambito del Progetto “SMARTRINN - Sviluppo e Miglioramento Aree di cRisi e TRasferimento delle INNovazioni della Regione Basilicata - Atto Aggiuntivo” di cui alla Convenzione del 15/01/2021 stipulata tra Regione Basilicata e il Formez PA- RA 21003 Ro 3- CUP G44C20000240001",
+   "figura": "Esperto con riferimento ai procedimenti autorizzativi nell’ambito delle attività commerciali regionali con esperienza minima di oltre 3 anni fino a 5 anni.",
+   "ente": "Formez PA - Centro Servizi Assistenza Studi e Formazione per L'Ammodernamento Delle P.A. - Direzione Risorse Umane Organizzazione e Performance",
+   "descrizione": "AVVISO N.2026/0676 Avviso per la selezione di n. 1 risorsa (oltre 3 anni fino a 5 anni) da impegnare con contratto di collaborazione nell’ambito del Progetto “SMARTRINN - Sviluppo e Miglioramento Aree di cRisi e TRasferimento delle INNovazioni della Regione Basilicata - Atto Aggiuntivo” di cui alla Convenzione del 15/01/2021 stipulata tra Regione Basilicata e il Formez PA- RA 21003 Ro 3- CUP G44C20000240001 Il Formez PA – Centro Servizi, assistenza, studi e formazione per l’ammodernamento delle P.A. (di seguito denominato Formez PA) seleziona, nell’ambito del Progetto “SMARTRINN - Sviluppo e M",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=62379304dfe045afabe553a0c5a7ed33",
+   "pubblicazione": "2026-08-31T22:00:00Z",
+   "scadenza": "2026-09-07T21:59:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_COLLOQUIO",
+   "sede": "Nazionale",
+   "provincia": null,
+   "km": null,
+   "ambito": "nazionale",
+   "punteggio": 40,
+   "tag": [
+    "ai-ml",
+    "requisiti"
+   ],
+   "motivi": [
+    "ai",
+    "laurea magistrale"
+   ],
+   "fascia": "buona",
+   "giorni_rimasti": 3
+  },
+  {
+   "id": "inpa:88ab3882b8f84e06acffd9809f380750",
+   "fonte": "InPA",
+   "titolo": "AVVISO DI SELEZIONE per il conferimento di n. 1 incarico di lavoro autonomo ex art. 7, comma 6, del D. Lgs. n. 165/2001 di n. 1 STATISTICO - DATA SCIENTIST – Progetto denominato “PARI OPPORTUNITÀ DI ACCESSO AGLI INTERVENTI DI PREVENZIONE, DIAGNOSI, CURA E GESTIONE DELLA INCONTINENZA NEL TERRITORIO NAZIONALE. COSTITUZIONE DI UN OSSERVATORIO PERMANENTE PER IL MONITORAGGIO E SUPPORTO ALLE REGIONI” (rif. D.D.G. n. 112/2025 e D.D.G. n. 129/2025).",
+   "figura": "n. 1 STATISTICO - DATA SCIENTIST",
+   "ente": "Agenzia Regionale Strategica per La Salute Ed Il Sociale",
+   "descrizione": "AVVISO DI SELEZIONE per il conferimento di n. 1 incarico di lavoro autonomo ex art. 7, comma 6, del D. Lgs. n. 165/2001 di n. 1 Statistico – Data Scientist – Progetto “Pari opportunità di accesso agli interventi di prevenzione, diagnosi, cura e gestione della Incontinenza nel territorio nazionale. Costituzione di un Osservatorio permanente per il monitoraggio e supporto alle Regioni ”.",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=88ab3882b8f84e06acffd9809f380750",
+   "pubblicazione": "2026-08-26T22:01:00Z",
+   "scadenza": "2026-09-26T21:59:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_COLLOQUIO",
+   "sede": "Nazionale",
+   "provincia": null,
+   "km": null,
+   "ambito": "nazionale",
+   "punteggio": 40,
+   "tag": [
+    "ai-ml"
+   ],
+   "motivi": [
+    "data scien",
+    "statistic"
+   ],
+   "fascia": "buona",
+   "giorni_rimasti": 22
+  },
+  {
+   "id": "inpa:85e6fe2f27d14aa0b0590991fa6e0ce4",
+   "fonte": "InPA",
+   "titolo": "PROVINCIA DI LUCCA - CONCORSO PUBBLICO PER ESAMI PER LA COPERTURA DI N. 1 POSTO DI “SPECIALISTA IN ATTIVITÀ STATISTICHE E DEMOGRAFICHE” - AREA DEI FUNZIONARI ED E.Q. A TEMPO PIENO ED INDETERMINATO – COMPARTO FUNZIONI LOCALI",
+   "figura": "Area Funzionarie e EQ - profilo Statistico",
+   "ente": "Provincia di Lucca",
+   "descrizione": "concorso pubblico per esami per la copertura a tempo indeterminato e pieno di n. 1 posto di “Specialista in attività statistiche e demografiche” Area dei Funzionari e EQ – CCNL Comparto Funzioni Locali - da destinare al Settore Segret eria /Direzione Generale - Ufficio Programmazione generale controllo di gestione e innovazione della Provincia di Lucca.",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=85e6fe2f27d14aa0b0590991fa6e0ce4",
+   "pubblicazione": "2026-08-14T10:00:00Z",
+   "scadenza": "2026-09-13T21:59:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "ESAMI",
+   "sede": "Lucca",
+   "provincia": "Lucca",
+   "km": 17,
+   "ambito": "provincia",
+   "punteggio": 34,
+   "tag": [
+    "ai-ml",
+    "ict"
+   ],
+   "motivi": [
+    "statistic",
+    "area dei funzionari e eq – ccnl comparto"
+   ],
+   "fascia": "possibile",
+   "giorni_rimasti": 9
+  },
+  {
+   "id": "inpa:265a7969979a4840bbb01cad291013fb",
+   "fonte": "InPA",
+   "titolo": "AZIENDA OSPEDALIERA METROPOLITANA (AOM) - PROCEDURA DI SELEZIONE COMPARATIVA PER IL CONFERIMENTO DI INCARICO A TEMPO DETERMINATO E CON RAPPORTO DI LAVORO ESCLUSIVO, AI SENSI DELL’ART. 15-SEPTIES, COMMA 2, DEL D. LGS. N. 502/1992 E S.M.I., PER N. 1 DIRIGENTE PER IL RUOLO PROFESSIONALE, TECNICO O AMMINISTRATIVO DA ASSEGNARE ALLA U.O. CONTROLLO DI GESTIONE DELL’AOM",
+   "figura": "dirigente per il ruolo professionale, tecnico o amministrativo",
+   "ente": "IRCCS Ospedale Policlinico San Martino",
+   "descrizione": "PROCEDURA DI SELEZIONE COMPARATIVA PER IL CONFERIMENTO DI INCARICO A TEMPO DETERMINATO E CON RAPPORTO DI LAVORO ESCLUSIVO, AI SENSI DELL’ART. 15- SEPTIES , COMMA 2, DEL D. LGS. N. 502/1992 E S.M.I., PER N. 1 DIRIGENTE PER IL RUOLO PROFESSIONALE, TECNICO O AMMINISTRATIVO DA ASSEGNARE ALLA U.O. CONTROLLO DI GESTIONE DELL’AOM.",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=265a7969979a4840bbb01cad291013fb",
+   "pubblicazione": "2026-08-19T11:30:00Z",
+   "scadenza": "2026-09-18T21:59:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_COLLOQUIO",
+   "sede": "Genova",
+   "provincia": "Genova",
+   "km": 139,
+   "ambito": "provincia",
+   "punteggio": 32,
+   "tag": [
+    "ente-ricerca",
+    "sanita"
+   ],
+   "motivi": [
+    "irccs",
+    "azienda ospedalier"
+   ],
+   "fascia": "possibile",
+   "giorni_rimasti": 14
+  },
+  {
+   "id": "inpa:32073aa9a2214995a0a95fe009f21571",
+   "fonte": "InPA",
+   "titolo": "Selezione pubblica per titoli e colloquio tecnico professionale per il conferimento di n. 1 incarico di Dirigente Amministrativo Professionale a tempo determinato e parziale di durata triennale, rinnovabile.",
+   "figura": "Dirigente amministrativo professionale",
+   "ente": "Societa' della Salute Zona Fiorentina Nord Ovest",
+   "descrizione": "La selezione è volta a individuare una figura di staff di livello dirigenziale con incarico a termine, finalizzata a coprire le esigenze di analisi, istruttoria, proposta e formulazione di soluzioni tecniche e disciplinatorie relative: alla corretta gestione dei reinquadramenti economici e giuridici operati all’atto del trasferimento ai dipendenti acquisiti dai Comuni soci del Consorzio; alla definizione delle nuove discipline decentrate, di natura organizzativa, volte alla gestione del rapporto di lavoro e di servizio di tutto il personale del Consorzio; alla strutturazione di nuove relazioni",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=32073aa9a2214995a0a95fe009f21571",
+   "pubblicazione": "2026-08-21T13:30:00Z",
+   "scadenza": "2026-09-10T21:59:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_COLLOQUIO",
+   "sede": "Firenze",
+   "provincia": "Firenze",
+   "km": 69,
+   "ambito": "provincia",
+   "punteggio": 30,
+   "tag": [
+    "ai-ml"
+   ],
+   "motivi": [
+    "ai"
+   ],
+   "fascia": "possibile",
+   "giorni_rimasti": 6
+  },
+  {
+   "id": "inpa:2a56939f68604b90aa340e1d99d7e7cf",
+   "fonte": "InPA",
+   "titolo": "Avviso di selezione pubblica, per esami, per la copertura di nr. 1 (un) posto a tempo pieno e indeterminato al profilo professionale di “istruttore direttivo amministrativo” – area dei funzionari e EQ – da assegnare al settore politiche sociali dell’Unione dei Comuni del Distretto Ceramico.",
+   "figura": "Istruttore Direttivo Amministrativo",
+   "ente": "Unione Dei Comuni del Distretto Ceramico - Settore Amministrazione e Sviluppo Risorse Umane",
+   "descrizione": "è indetta selezione pubblica, per esami, per la copertura di n. 1 posto a tempo pieno e indeterminato al profilo professionale di “istruttore direttivo amministrativo ” – area dei funzionari e EQ – da assegnare al Settore Politiche Sociali dell’Unione Dei Comuni del Distretto Ceramico. Mansioni Specifiche del Servizio A scopo esemplificativo, ma non esaustivo, si elencano alcune delle possibili mansioni previste: ● Istruttoria e Atti: Cura l’istruttoria, predispone e controlla gli atti afferenti il Settore Politiche Sociali, inclusi atti complessi a rilevanza esterna, in stretto raccordo e col",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2a56939f68604b90aa340e1d99d7e7cf",
+   "pubblicazione": "2026-08-31T12:00:00Z",
+   "scadenza": "2026-09-30T10:00:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "ESAMI",
+   "sede": "Modena",
+   "provincia": "Modena",
+   "km": 112,
+   "ambito": "provincia",
+   "punteggio": 30,
+   "tag": [
+    "ai-ml"
+   ],
+   "motivi": [
+    "ai"
+   ],
+   "fascia": "possibile",
+   "giorni_rimasti": 26
+  },
+  {
+   "id": "inpa:3c9d921b6c244082acb967762751f5fe",
+   "fonte": "InPA",
+   "titolo": "Concorso pubblico, per titoli ed esami, per la costituzione di n. 1 rapporto di lavoro a tempo determinato con contratto di APPRENDISTATO della durata di 36 mesi, nel profilo professionale di COLLABORATORE AMMINISTRATIVO PROFESSIONALE – SETTORE STATISTICO – Area dei Professionisti della salute e dei Funzionari per le esigenze della UOC Servizio Unico Metropolitano Amministrazione Economica del Personale (SUMAEP) - Azienda USL di Imola",
+   "figura": "COLLABORATORE AMMINISTRATIVO PROFESSIONALE – SETTORE STATISTICO – AREA DEI PROFESSIONISTI DELLA SALUTE E DEI FUNZIONARI",
+   "ente": "Azienda USL Imola",
+   "descrizione": "concorso pubblico, per titoli ed esami, per la costituzione di n. 1 rapporto di lavoro a tempo determinato con contratto di apprendistato della durata di 36 mesi, nel profilo professionale di COLLABORATORE AMMINISTRATIVO PROFESSIONALE – SETTORE STATISTICO per le esigenze della UOC Servizio Unico Metropolitano Amministrazione Economica del Personale (SUMAEP) - Azienda USL di Imola",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3c9d921b6c244082acb967762751f5fe",
+   "pubblicazione": "2026-08-25T13:00:00Z",
+   "scadenza": "2026-09-24T10:00:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_ESAMI",
+   "sede": "Bologna",
+   "provincia": "Bologna",
+   "km": 115,
+   "ambito": "provincia",
+   "punteggio": 30,
+   "tag": [
+    "ai-ml",
+    "sanita"
+   ],
+   "motivi": [
+    "statistic",
+    "azienda usl"
+   ],
+   "fascia": "possibile",
+   "giorni_rimasti": 20
+  },
+  {
+   "id": "inpa:31b5251c2ab04a4caf954723ba0bc4ea",
+   "fonte": "InPA",
+   "titolo": "CONCORSO PUBBLICO, PER ESAMI, PER LA COPERTURA, CON RAPPORTO DI LAVORO SUBORDINATO A TEMPO PIENO E INDETERMINATO, DI N. 1 UNITÀ, A TEMPO PIENO E INDETERMINATO, RIVESTENTE IL PROFILO PROFESSIONALE DI ISTRUTTORE AMMINISTRATIVO, APPARTENENTE ALL’AREA DEGLI ISTRUTTORI DI CUI AL VIGENTE ORDINAMENTO PROFESSIONALE, DA ASSEGNARE PRESSO IL SETTORE I - AFFARI GENERALI ED ISTITUZIONALI DEL COMUNE DI TORRILE",
+   "figura": "ISTRUTTORE AMMINISTRATIVO",
+   "ente": "Unione Bassa Est Parmense",
+   "descrizione": "È indetto Concorso pubblico, per esami, per la copertura, con rapporto di lavoro subordinato a tempo pieno e indeterminato, di di n. 1 unità, a tempo pieno e indeterminato, rivestente il profilo professionale di Istruttore Amministrativo, appartenente all’Area degli Istruttori di cui al vigente Ordinamento Professionale, da assegnare presso il Settore I - Affari Generali ed Istituzionali del Comune di Torrile.",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=31b5251c2ab04a4caf954723ba0bc4ea",
+   "pubblicazione": "2026-08-05T10:00:00Z",
+   "scadenza": "2026-09-04T21:59:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "ESAMI",
+   "sede": "Emilia Romagna (provincia da verificare)",
+   "provincia": null,
+   "km": 115,
+   "ambito": "regione",
+   "punteggio": 30,
+   "tag": [
+    "ai-ml"
+   ],
+   "motivi": [
+    "ai"
+   ],
+   "fascia": "possibile",
+   "giorni_rimasti": 0
+  },
+  {
+   "id": "inpa:09ea8f748d954f5fb457ebad7a707efd",
+   "fonte": "InPA",
+   "titolo": "SELEZIONE PUBBLICA PER N. 1 INCARICO DI RICERCA, ART. 22ter L. 240/2010,TD 12 MESI, GSD 06/MEDS-22/SSD MEDS-22/A-DIPARTIMENTO DI MEDICINA E CHIRURGIA-UNIV. DI PARMA",
+   "figura": "conferimento di Incarichi di Ricerca",
+   "ente": "Universita' degli Studi di Parma",
+   "descrizione": "OBIETTIVI OGGETTO DELL'INCARICO Il progetto si propone di validare la micro-CT come tecnica di imaging non invasiva, sensibile e riproducibile per la valutazione della progressione delle malattie polmonari e della risposta ai trattamenti farmacologici. Gli obiettivi principali includono: (1) il miglioramento della capacità di monitorare in vivo la progressione delle patologie polmonari; (2) la riduzione della variabilità e dell’invasività nelle valutazioni precliniche; (3) il supporto allo sviluppo e alla valutazione di nuovi farmaci attraverso biomarcatori di imaging quantitativi; (4) il cont",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=09ea8f748d954f5fb457ebad7a707efd",
+   "pubblicazione": "2026-08-26T22:01:00Z",
+   "scadenza": "2026-09-10T21:59:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_COLLOQUIO",
+   "sede": "Parma",
+   "provincia": "Parma",
+   "km": 121,
+   "ambito": "provincia",
+   "punteggio": 30,
+   "tag": [
+    "ai-ml"
+   ],
+   "motivi": [
+    "ai"
+   ],
+   "fascia": "possibile",
+   "giorni_rimasti": 6
+  },
+  {
+   "id": "inpa:a0be920107414fdd8ceb6ea09ac80ff5",
+   "fonte": "InPA",
+   "titolo": "COMUNE DI MONTEVARCHI: CONCORSO PUBBLICO PER SOLI ESAMI PER L’ASSUNZIONE DI N. 2 UNITA’ DI PERSONALE A TEMPO INDETERMINATO E PIENO DA INQUADRARE NELL’AREA DEGLI ISTRUTTORI CON PROFILO PROFESSIONALE TECNICO",
+   "figura": "Istruttore con profilo professionale tecnico",
+   "ente": "Comune di Montevarchi",
+   "descrizione": "Il Comune di Montevarchi (AR), con determinazione n. 847 del 03/09/2026, ha indetto un concorso pubblico per soli esami per l’ assunzione a tempo indeterminato e pieno di n. 2 unità di personale da inquadrare nell’area degli Istruttori del vigente C.C.N.L. del comparto Funzioni Locali con profilo professionale tecnico , da assegnare al 2° Settore Urbanistica Edilizia e al 3° Settore Lavori Pubblici-Ambiente. Ai sensi degli artt. 678, comma 9, e 1014, commi 1, 3 e 4, del d.lgs. n. 66/2010 (Codice dell'Ordinamento Militare), con il presente bando di concorso è previsto n. 1 posto riservato a fav",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a0be920107414fdd8ceb6ea09ac80ff5",
+   "pubblicazione": "2026-09-03T14:00:00Z",
+   "scadenza": "2026-10-03T21:59:00Z",
+   "stato": "Aperto",
+   "posti": 2,
+   "procedura": "ESAMI",
+   "sede": "Arezzo",
+   "provincia": "Arezzo",
+   "km": 122,
+   "ambito": "provincia",
+   "punteggio": 30,
+   "tag": [
+    "ai-ml"
+   ],
+   "motivi": [
+    "ai"
+   ],
+   "fascia": "possibile",
+   "giorni_rimasti": 29
+  }
+ ],
+ "curati": [
+  {
+   "nome": "CNR — Area della Ricerca di Pisa",
+   "tipo": "Ente pubblico di ricerca",
+   "sede": "Pisa (San Cataldo)",
+   "provincia": "Pisa",
+   "perche": "ISTI, IFC, IIT-CNR, ILC, INO, IPCF, IGG nello stesso campus. Sei già dentro l'ecosistema (SI-Lab) e idoneo in graduatoria Ricercatore III livello: i bandi di altri istituti sono la via più diretta.",
+   "sito": "https://www.area.pi.cnr.it/",
+   "carriere": "https://selezionionline.cnr.it/",
+   "tag": [
+    "ricerca",
+    "ai-ml",
+    "biomedico"
+   ],
+   "priorita": 1,
+   "sito_ok": true,
+   "carriere_ok": true,
+   "fonte": "Lista curata",
+   "km": 0
+  },
+  {
+   "nome": "Scuola Superiore Sant'Anna — Istituto di BioRobotica e Istituto TeCIP",
+   "tipo": "Università a ordinamento speciale",
+   "sede": "Pisa e Pontedera",
+   "provincia": "Pisa",
+   "perche": "BioRobotica lavora su robotica indossabile, riabilitazione e segnali biomedici: sovrapposizione diretta con pose estimation, HRV e sensoristica del progetto THE.",
+   "sito": "https://www.santannapisa.it/",
+   "carriere": null,
+   "tag": [
+    "ricerca",
+    "biomedico",
+    "ai-ml"
+   ],
+   "priorita": 1,
+   "sito_ok": true,
+   "fonte": "Lista curata",
+   "km": 0
+  },
+  {
+   "nome": "IRCCS Fondazione Stella Maris",
+   "tipo": "IRCCS pediatrico",
+   "sede": "Calambrone (Pisa)",
+   "provincia": "Pisa",
+   "perche": "Neuroimaging e neuropsichiatria infantile con forte componente di analisi di immagini e segnali. Profilo 'collaboratore professionale di ricerca sanitaria' compatibile col tuo CV.",
+   "sito": "https://www.fsm.unipi.it/",
+   "carriere": null,
+   "tag": [
+    "ricerca",
+    "biomedico",
+    "sanita"
+   ],
+   "priorita": 1,
+   "sito_ok": true,
+   "fonte": "Lista curata",
+   "km": 0
+  },
+  {
+   "nome": "Fondazione Toscana Gabriele Monasterio",
+   "tipo": "Ente ospedaliero di ricerca",
+   "sede": "Pisa e Massa",
+   "provincia": "Pisa",
+   "perche": "Cardiologia e imaging avanzato (RM, TC, ecocardiografia). Bandi ricorrenti per ingegneri biomedici e borse su imaging cardiovascolare.",
+   "sito": "https://www.monasterio.it/",
+   "carriere": null,
+   "tag": [
+    "biomedico",
+    "sanita",
+    "ricerca"
+   ],
+   "priorita": 1,
+   "sito_ok": true,
+   "fonte": "Lista curata",
+   "km": 0
+  },
+  {
+   "nome": "Università di Pisa — Dip. Ingegneria dell'Informazione e Centro E. Piaggio",
+   "tipo": "Università",
+   "sede": "Pisa",
+   "provincia": "Pisa",
+   "perche": "Il tuo ateneo di dottorato. Assegni e RTT su bioingegneria, computer vision e AI; il Centro Piaggio è il polo di bioingegneria.",
+   "sito": "https://www.unipi.it/",
+   "carriere": "https://www.unipi.it/index.php/concorsi",
+   "tag": [
+    "ricerca",
+    "ai-ml",
+    "biomedico"
+   ],
+   "priorita": 1,
+   "sito_ok": true,
+   "carriere_ok": true,
+   "fonte": "Lista curata",
+   "km": 0
+  },
+  {
+   "nome": "Scuola Normale Superiore",
+   "tipo": "Università a ordinamento speciale",
+   "sede": "Pisa",
+   "provincia": "Pisa",
+   "perche": "Gruppi di machine learning e data science; borse post-doc con requisiti di dottorato in AI.",
+   "sito": "https://www.sns.it/",
+   "carriere": null,
+   "tag": [
+    "ricerca",
+    "ai-ml"
+   ],
+   "priorita": 2,
+   "sito_ok": true,
+   "fonte": "Lista curata",
+   "km": 0
+  },
+  {
+   "nome": "INFN — Sezione di Pisa",
+   "tipo": "Ente pubblico di ricerca",
+   "sede": "Pisa",
+   "provincia": "Pisa",
+   "perche": "Concorsi da tecnologo su calcolo scientifico, GPU e machine learning applicato ai dati sperimentali: profilo compatibile con la tua formazione fisico-matematica e CUDA/SLURM.",
+   "sito": "https://www.pi.infn.it/",
+   "carriere": "https://reclutamento.dsi.infn.it/",
+   "tag": [
+    "ricerca",
+    "ai-ml"
+   ],
+   "priorita": 2,
+   "sito_ok": true,
+   "carriere_ok": true,
+   "fonte": "Lista curata",
+   "km": 0
+  },
+  {
+   "nome": "CNIT — Consorzio Nazionale Interuniversitario per le Telecomunicazioni",
+   "tipo": "Consorzio interuniversitario",
+   "sede": "Pisa",
+   "provincia": "Pisa",
+   "perche": "Laboratori nazionali a Pisa; progetti PNRR con componenti di AI applicata. Assunzioni a progetto frequenti.",
+   "sito": "https://www.cnit.it/",
+   "carriere": "https://www.cnit.it/lavora-con-noi",
+   "tag": [
+    "ricerca",
+    "ict"
+   ],
+   "priorita": 2,
+   "sito_ok": true,
+   "carriere_ok": true,
+   "fonte": "Lista curata",
+   "km": 0
+  },
+  {
+   "nome": "IMT Scuola Alti Studi Lucca",
+   "tipo": "Università a ordinamento speciale",
+   "sede": "Lucca",
+   "provincia": "Lucca",
+   "perche": "20 km da casa. Ricerca su reti complesse, neuroscienze computazionali e AI: la tua linea su complessità del movimento e HRV ci sta dentro.",
+   "sito": "https://www.imtlucca.it/",
+   "carriere": null,
+   "tag": [
+    "ricerca",
+    "ai-ml"
+   ],
+   "priorita": 2,
+   "sito_ok": true,
+   "fonte": "Lista curata",
+   "km": 17
+  },
+  {
+   "nome": "ESTAR Toscana",
+   "tipo": "Ente di supporto tecnico-amministrativo regionale",
+   "sede": "Firenze (concorsi per tutta la Toscana)",
+   "provincia": "Firenze",
+   "perche": "Gestisce TUTTI i concorsi del servizio sanitario toscano. È il canale unico per ingegnere clinico/biomedico e collaboratore tecnico professionale in AOUP, USL Nord Ovest e Monasterio.",
+   "sito": "https://www.estar.toscana.it/",
+   "carriere": "https://www.estar.toscana.it/index.php/concorsi-e-selezioni",
+   "tag": [
+    "sanita",
+    "biomedico"
+   ],
+   "priorita": 1,
+   "sito_ok": true,
+   "carriere_ok": true,
+   "fonte": "Lista curata",
+   "km": 69
+  },
+  {
+   "nome": "Azienda Ospedaliero-Universitaria Pisana (AOUP)",
+   "tipo": "Azienda ospedaliera",
+   "sede": "Pisa (Cisanello)",
+   "provincia": "Pisa",
+   "perche": "Ingegneria clinica e progetti di ricerca sanitaria; già partner del mondo in cui lavori. I concorsi passano da ESTAR, gli incarichi di ricerca no.",
+   "sito": "https://www.ao-pisa.toscana.it/",
+   "carriere": "https://www.ao-pisa.toscana.it/index.php?option=com_content&view=category&id=180",
+   "tag": [
+    "sanita",
+    "biomedico"
+   ],
+   "priorita": 2,
+   "sito_ok": true,
+   "carriere_ok": true,
+   "fonte": "Lista curata",
+   "km": 0
+  },
+  {
+   "nome": "Azienda USL Toscana Nord Ovest",
+   "tipo": "Azienda sanitaria",
+   "sede": "Pisa / Lucca / Livorno / Massa",
+   "provincia": "Pisa",
+   "perche": "Era partner di TiAssisto (ATNO): conoscono già il progetto e il tuo ruolo. Bandi su telemedicina e sanità digitale.",
+   "sito": "https://www.uslnordovest.toscana.it/",
+   "carriere": "https://www.uslnordovest.toscana.it/amministrazione-trasparente/bandi-di-concorso",
+   "tag": [
+    "sanita",
+    "biomedico"
+   ],
+   "priorita": 2,
+   "sito_ok": true,
+   "carriere_ok": true,
+   "fonte": "Lista curata",
+   "km": 0
+  },
+  {
+   "nome": "Esaote S.p.A.",
+   "tipo": "Industria — dispositivi medici",
+   "sede": "Genova",
+   "provincia": "Genova",
+   "perche": "Leader europeo in ecografia e RM dedicata. Il tuo dottorato è letteralmente su computer vision per POCUS: è l'azienda con la sovrapposizione più alta in assoluto entro 150 km.",
+   "sito": "https://www.esaote.com/",
+   "carriere": null,
+   "tag": [
+    "biomedico",
+    "ai-ml",
+    "industria"
+   ],
+   "priorita": 1,
+   "sito_ok": true,
+   "fonte": "Lista curata",
+   "km": 139
+  },
+  {
+   "nome": "Dedalus S.p.A.",
+   "tipo": "Industria — software sanitario",
+   "sede": "Firenze (Sesto Fiorentino)",
+   "provincia": "Firenze",
+   "perche": "Primo gruppo europeo di software clinico. Cercano profili su interoperabilità sanitaria, AI clinica e DSS: esattamente TiAssisto in versione industriale.",
+   "sito": "https://www.dedalus.com/",
+   "carriere": "https://www.dedalus.com/global/en/careers/",
+   "tag": [
+    "biomedico",
+    "ict",
+    "industria"
+   ],
+   "priorita": 1,
+   "sito_ok": true,
+   "carriere_ok": true,
+   "fonte": "Lista curata",
+   "km": 69
+  },
+  {
+   "nome": "Istituto Italiano di Tecnologia (IIT)",
+   "tipo": "Fondazione di ricerca",
+   "sede": "Genova (Morego / Erzelli)",
+   "provincia": "Genova",
+   "perche": "Computer vision, robotica e tecnologie per la salute. Bandi post-doc continui, spesso in inglese, con requisiti di pubblicazioni indicizzate.",
+   "sito": "https://www.iit.it/",
+   "carriere": null,
+   "tag": [
+    "ricerca",
+    "ai-ml",
+    "biomedico"
+   ],
+   "priorita": 1,
+   "sito_ok": true,
+   "fonte": "Lista curata",
+   "km": 139
+  },
+  {
+   "nome": "CINECA",
+   "tipo": "Consorzio interuniversitario — HPC",
+   "sede": "Casalecchio di Reno (Bologna)",
+   "provincia": "Bologna",
+   "perche": "Supercalcolo e AI su larga scala. Hai esperienza di training distribuito su SLURM e CUDA: profilo raro e richiesto. Anche divisione sanità digitale.",
+   "sito": "https://www.cineca.it/",
+   "carriere": null,
+   "tag": [
+    "ricerca",
+    "ai-ml",
+    "ict"
+   ],
+   "priorita": 2,
+   "sito_ok": true,
+   "fonte": "Lista curata",
+   "km": 115
+  },
+  {
+   "nome": "Datalogic S.p.A.",
+   "tipo": "Industria — visione artificiale industriale",
+   "sede": "Lippo di Calderara (Bologna)",
+   "provincia": "Bologna",
+   "perche": "Machine vision e image processing su prodotto. Trasferimento naturale delle tue competenze di computer vision fuori dal dominio clinico.",
+   "sito": "https://www.datalogic.com/",
+   "carriere": null,
+   "tag": [
+    "ai-ml",
+    "industria"
+   ],
+   "priorita": 3,
+   "sito_ok": true,
+   "fonte": "Lista curata",
+   "km": 115
+  },
+  {
+   "nome": "El.En. Group",
+   "tipo": "Industria — laser medicali",
+   "sede": "Calenzano (Firenze)",
+   "provincia": "Firenze",
+   "perche": "Gruppo quotato su laser medicali e industriali. R&D con esigenze di elaborazione segnali e imaging.",
+   "sito": "https://www.elengroup.com/",
+   "carriere": "https://www.elengroup.com/it/lavora-con-noi/",
+   "tag": [
+    "biomedico",
+    "industria"
+   ],
+   "priorita": 3,
+   "sito_ok": true,
+   "carriere_ok": true,
+   "fonte": "Lista curata",
+   "km": 69
+  },
+  {
+   "nome": "Kedrion Biopharma",
+   "tipo": "Industria — biofarmaceutico",
+   "sede": "Castelvecchio Pascoli (Lucca)",
+   "provincia": "Lucca",
+   "perche": "30 km da Pisa. Funzioni di data science clinica, biostatistica e qualità dei dati: il Master in Big Data per la medicina di precisione è il titolo giusto.",
+   "sito": "https://www.kedrion.it/",
+   "carriere": null,
+   "tag": [
+    "biomedico",
+    "ai-ml",
+    "industria"
+   ],
+   "priorita": 3,
+   "sito_ok": true,
+   "fonte": "Lista curata",
+   "km": 17
+  },
+  {
+   "nome": "ION Group (ex List S.p.A.)",
+   "tipo": "Industria — software",
+   "sede": "Pisa",
+   "provincia": "Pisa",
+   "perche": "Uno dei maggiori datori di lavoro tech di Pisa. Non è biomedico, ma assume su Python/Java e data engineering con stipendi sopra la media locale.",
+   "sito": "https://iongroup.com/",
+   "carriere": "https://iongroup.com/careers/",
+   "tag": [
+    "ict",
+    "industria"
+   ],
+   "priorita": 3,
+   "sito_ok": true,
+   "carriere_ok": true,
+   "fonte": "Lista curata",
+   "km": 0
+  },
+  {
+   "nome": "Zerynth",
+   "tipo": "PMI innovativa — IoT industriale",
+   "sede": "Pisa",
+   "provincia": "Pisa",
+   "perche": "Edge computing e dati da sensori. Hai fatto deployment di modelli su dispositivi edge misurando FLOP e latenza: competenza direttamente spendibile.",
+   "sito": "https://www.zerynth.com/",
+   "carriere": "https://www.zerynth.com/careers/",
+   "tag": [
+    "ict",
+    "ai-ml",
+    "industria"
+   ],
+   "priorita": 3,
+   "sito_ok": true,
+   "carriere_ok": true,
+   "fonte": "Lista curata",
+   "km": 0
+  },
+  {
+   "nome": "Polo Tecnologico di Navacchio",
+   "tipo": "Incubatore / parco tecnologico",
+   "sede": "Navacchio (Cascina, Pisa)",
+   "provincia": "Pisa",
+   "perche": "Oltre 60 aziende ICT ed elettronica a 8 km da casa. Non è un datore di lavoro diretto: usalo come elenco di aziende da contattare con candidatura spontanea.",
+   "sito": "https://www.polotecnologico.it/",
+   "carriere": "https://www.polotecnologico.it/aziende/",
+   "tag": [
+    "ict",
+    "industria"
+   ],
+   "priorita": 3,
+   "sito_ok": true,
+   "carriere_ok": true,
+   "fonte": "Lista curata",
+   "km": 0
+  },
+  {
+   "nome": "Kayser Italia",
+   "tipo": "Industria — aerospazio",
+   "sede": "Livorno",
+   "provincia": "Livorno",
+   "perche": "25 km. Payload scientifici e strumentazione biomedica per lo spazio: nicchia dove ingegneria clinica e analisi di segnali si incontrano.",
+   "sito": "https://www.kayser.it/",
+   "carriere": "https://www.kayser.it/careers/",
+   "tag": [
+    "biomedico",
+    "industria"
+   ],
+   "priorita": 3,
+   "sito_ok": true,
+   "carriere_ok": true,
+   "fonte": "Lista curata",
+   "km": 20
+  },
+  {
+   "nome": "Toscana Life Sciences",
+   "tipo": "Fondazione / incubatore life sciences",
+   "sede": "Siena",
+   "provincia": "Siena",
+   "perche": "Hub delle scienze della vita toscane. Utile come rete di aziende biotech e medtech regionali più che come singolo datore.",
+   "sito": "https://www.toscanalifesciences.org/",
+   "carriere": "https://www.toscanalifesciences.org/lavora-con-noi/",
+   "tag": [
+    "biomedico",
+    "industria"
+   ],
+   "priorita": 3,
+   "sito_ok": true,
+   "carriere_ok": true,
+   "fonte": "Lista curata",
+   "km": 87
+  },
+  {
+   "nome": "Università di Firenze — Dip. Ingegneria dell'Informazione (MICC)",
+   "tipo": "Università",
+   "sede": "Firenze",
+   "provincia": "Firenze",
+   "perche": "Il MICC è uno dei gruppi italiani più forti su computer vision e multimedia. Assegni e post-doc ricorrenti.",
+   "sito": "https://www.unifi.it/",
+   "carriere": null,
+   "tag": [
+    "ricerca",
+    "ai-ml"
+   ],
+   "priorita": 2,
+   "sito_ok": true,
+   "fonte": "Lista curata",
+   "km": 69
+  },
+  {
+   "nome": "Università di Bologna — DISI / DEI",
+   "tipo": "Università",
+   "sede": "Bologna / Cesena",
+   "provincia": "Bologna",
+   "perche": "Al limite dei 150 km. Gruppi forti su AI per la salute e bioingegneria; campus di Cesena specializzato in biomedica.",
+   "sito": "https://www.unibo.it/",
+   "carriere": "https://bandi.unibo.it/",
+   "tag": [
+    "ricerca",
+    "ai-ml",
+    "biomedico"
+   ],
+   "priorita": 3,
+   "sito_ok": true,
+   "carriere_ok": true,
+   "fonte": "Lista curata",
+   "km": 115
+  },
+  {
+   "nome": "Università di Siena — Dip. Ingegneria dell'Informazione",
+   "tipo": "Università",
+   "sede": "Siena",
+   "provincia": "Siena",
+   "perche": "Gruppo storico su reti neurali e apprendimento automatico (SAILab).",
+   "sito": "https://www.unisi.it/",
+   "carriere": "https://www.unisi.it/concorsi",
+   "tag": [
+    "ricerca",
+    "ai-ml"
+   ],
+   "priorita": 3,
+   "sito_ok": true,
+   "carriere_ok": true,
+   "fonte": "Lista curata",
+   "km": 87
+  },
+  {
+   "nome": "Università di Genova — DIBRIS",
+   "tipo": "Università",
+   "sede": "Genova",
+   "provincia": "Genova",
+   "perche": "Bioingegneria e robotica in stretto rapporto con IIT ed Esaote: se guardi a Genova, vale la pena seguire tutti e tre insieme.",
+   "sito": "https://unige.it/",
+   "carriere": "https://unige.it/concorsi",
+   "tag": [
+    "ricerca",
+    "ai-ml",
+    "biomedico"
+   ],
+   "priorita": 3,
+   "sito_ok": true,
+   "carriere_ok": true,
+   "fonte": "Lista curata",
+   "km": 139
+  }
+ ]
+}

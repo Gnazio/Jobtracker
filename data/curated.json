@@ -1,0 +1,407 @@
+[
+ {
+  "nome": "CNR — Area della Ricerca di Pisa",
+  "tipo": "Ente pubblico di ricerca",
+  "sede": "Pisa (San Cataldo)",
+  "provincia": "Pisa",
+  "perche": "ISTI, IFC, IIT-CNR, ILC, INO, IPCF, IGG nello stesso campus. Sei già dentro l'ecosistema (SI-Lab) e idoneo in graduatoria Ricercatore III livello: i bandi di altri istituti sono la via più diretta.",
+  "sito": "https://www.area.pi.cnr.it/",
+  "carriere": "https://selezionionline.cnr.it/",
+  "tag": [
+   "ricerca",
+   "ai-ml",
+   "biomedico"
+  ],
+  "priorita": 1
+ },
+ {
+  "nome": "Scuola Superiore Sant'Anna — Istituto di BioRobotica e Istituto TeCIP",
+  "tipo": "Università a ordinamento speciale",
+  "sede": "Pisa e Pontedera",
+  "provincia": "Pisa",
+  "perche": "BioRobotica lavora su robotica indossabile, riabilitazione e segnali biomedici: sovrapposizione diretta con pose estimation, HRV e sensoristica del progetto THE.",
+  "sito": "https://www.santannapisa.it/",
+  "carriere": null,
+  "tag": [
+   "ricerca",
+   "biomedico",
+   "ai-ml"
+  ],
+  "priorita": 1
+ },
+ {
+  "nome": "IRCCS Fondazione Stella Maris",
+  "tipo": "IRCCS pediatrico",
+  "sede": "Calambrone (Pisa)",
+  "provincia": "Pisa",
+  "perche": "Neuroimaging e neuropsichiatria infantile con forte componente di analisi di immagini e segnali. Profilo 'collaboratore professionale di ricerca sanitaria' compatibile col tuo CV.",
+  "sito": "https://www.fsm.unipi.it/",
+  "carriere": null,
+  "tag": [
+   "ricerca",
+   "biomedico",
+   "sanita"
+  ],
+  "priorita": 1
+ },
+ {
+  "nome": "Fondazione Toscana Gabriele Monasterio",
+  "tipo": "Ente ospedaliero di ricerca",
+  "sede": "Pisa e Massa",
+  "provincia": "Pisa",
+  "perche": "Cardiologia e imaging avanzato (RM, TC, ecocardiografia). Bandi ricorrenti per ingegneri biomedici e borse su imaging cardiovascolare.",
+  "sito": "https://www.monasterio.it/",
+  "carriere": null,
+  "tag": [
+   "biomedico",
+   "sanita",
+   "ricerca"
+  ],
+  "priorita": 1
+ },
+ {
+  "nome": "Università di Pisa — Dip. Ingegneria dell'Informazione e Centro E. Piaggio",
+  "tipo": "Università",
+  "sede": "Pisa",
+  "provincia": "Pisa",
+  "perche": "Il tuo ateneo di dottorato. Assegni e RTT su bioingegneria, computer vision e AI; il Centro Piaggio è il polo di bioingegneria.",
+  "sito": "https://www.unipi.it/",
+  "carriere": "https://www.unipi.it/index.php/concorsi",
+  "tag": [
+   "ricerca",
+   "ai-ml",
+   "biomedico"
+  ],
+  "priorita": 1
+ },
+ {
+  "nome": "Scuola Normale Superiore",
+  "tipo": "Università a ordinamento speciale",
+  "sede": "Pisa",
+  "provincia": "Pisa",
+  "perche": "Gruppi di machine learning e data science; borse post-doc con requisiti di dottorato in AI.",
+  "sito": "https://www.sns.it/",
+  "carriere": null,
+  "tag": [
+   "ricerca",
+   "ai-ml"
+  ],
+  "priorita": 2
+ },
+ {
+  "nome": "INFN — Sezione di Pisa",
+  "tipo": "Ente pubblico di ricerca",
+  "sede": "Pisa",
+  "provincia": "Pisa",
+  "perche": "Concorsi da tecnologo su calcolo scientifico, GPU e machine learning applicato ai dati sperimentali: profilo compatibile con la tua formazione fisico-matematica e CUDA/SLURM.",
+  "sito": "https://www.pi.infn.it/",
+  "carriere": "https://reclutamento.dsi.infn.it/",
+  "tag": [
+   "ricerca",
+   "ai-ml"
+  ],
+  "priorita": 2
+ },
+ {
+  "nome": "CNIT — Consorzio Nazionale Interuniversitario per le Telecomunicazioni",
+  "tipo": "Consorzio interuniversitario",
+  "sede": "Pisa",
+  "provincia": "Pisa",
+  "perche": "Laboratori nazionali a Pisa; progetti PNRR con componenti di AI applicata. Assunzioni a progetto frequenti.",
+  "sito": "https://www.cnit.it/",
+  "carriere": "https://www.cnit.it/lavora-con-noi",
+  "tag": [
+   "ricerca",
+   "ict"
+  ],
+  "priorita": 2
+ },
+ {
+  "nome": "IMT Scuola Alti Studi Lucca",
+  "tipo": "Università a ordinamento speciale",
+  "sede": "Lucca",
+  "provincia": "Lucca",
+  "perche": "20 km da casa. Ricerca su reti complesse, neuroscienze computazionali e AI: la tua linea su complessità del movimento e HRV ci sta dentro.",
+  "sito": "https://www.imtlucca.it/",
+  "carriere": null,
+  "tag": [
+   "ricerca",
+   "ai-ml"
+  ],
+  "priorita": 2
+ },
+ {
+  "nome": "ESTAR Toscana",
+  "tipo": "Ente di supporto tecnico-amministrativo regionale",
+  "sede": "Firenze (concorsi per tutta la Toscana)",
+  "provincia": "Firenze",
+  "perche": "Gestisce TUTTI i concorsi del servizio sanitario toscano. È il canale unico per ingegnere clinico/biomedico e collaboratore tecnico professionale in AOUP, USL Nord Ovest e Monasterio.",
+  "sito": "https://www.estar.toscana.it/",
+  "carriere": "https://www.estar.toscana.it/index.php/concorsi-e-selezioni",
+  "tag": [
+   "sanita",
+   "biomedico"
+  ],
+  "priorita": 1
+ },
+ {
+  "nome": "Azienda Ospedaliero-Universitaria Pisana (AOUP)",
+  "tipo": "Azienda ospedaliera",
+  "sede": "Pisa (Cisanello)",
+  "provincia": "Pisa",
+  "perche": "Ingegneria clinica e progetti di ricerca sanitaria; già partner del mondo in cui lavori. I concorsi passano da ESTAR, gli incarichi di ricerca no.",
+  "sito": "https://www.ao-pisa.toscana.it/",
+  "carriere": "https://www.ao-pisa.toscana.it/index.php?option=com_content&view=category&id=180",
+  "tag": [
+   "sanita",
+   "biomedico"
+  ],
+  "priorita": 2
+ },
+ {
+  "nome": "Azienda USL Toscana Nord Ovest",
+  "tipo": "Azienda sanitaria",
+  "sede": "Pisa / Lucca / Livorno / Massa",
+  "provincia": "Pisa",
+  "perche": "Era partner di TiAssisto (ATNO): conoscono già il progetto e il tuo ruolo. Bandi su telemedicina e sanità digitale.",
+  "sito": "https://www.uslnordovest.toscana.it/",
+  "carriere": "https://www.uslnordovest.toscana.it/amministrazione-trasparente/bandi-di-concorso",
+  "tag": [
+   "sanita",
+   "biomedico"
+  ],
+  "priorita": 2
+ },
+ {
+  "nome": "Esaote S.p.A.",
+  "tipo": "Industria — dispositivi medici",
+  "sede": "Genova",
+  "provincia": "Genova",
+  "perche": "Leader europeo in ecografia e RM dedicata. Il tuo dottorato è letteralmente su computer vision per POCUS: è l'azienda con la sovrapposizione più alta in assoluto entro 150 km.",
+  "sito": "https://www.esaote.com/",
+  "carriere": null,
+  "tag": [
+   "biomedico",
+   "ai-ml",
+   "industria"
+  ],
+  "priorita": 1
+ },
+ {
+  "nome": "Dedalus S.p.A.",
+  "tipo": "Industria — software sanitario",
+  "sede": "Firenze (Sesto Fiorentino)",
+  "provincia": "Firenze",
+  "perche": "Primo gruppo europeo di software clinico. Cercano profili su interoperabilità sanitaria, AI clinica e DSS: esattamente TiAssisto in versione industriale.",
+  "sito": "https://www.dedalus.com/",
+  "carriere": "https://www.dedalus.com/global/en/careers/",
+  "tag": [
+   "biomedico",
+   "ict",
+   "industria"
+  ],
+  "priorita": 1
+ },
+ {
+  "nome": "Istituto Italiano di Tecnologia (IIT)",
+  "tipo": "Fondazione di ricerca",
+  "sede": "Genova (Morego / Erzelli)",
+  "provincia": "Genova",
+  "perche": "Computer vision, robotica e tecnologie per la salute. Bandi post-doc continui, spesso in inglese, con requisiti di pubblicazioni indicizzate.",
+  "sito": "https://www.iit.it/",
+  "carriere": null,
+  "tag": [
+   "ricerca",
+   "ai-ml",
+   "biomedico"
+  ],
+  "priorita": 1
+ },
+ {
+  "nome": "CINECA",
+  "tipo": "Consorzio interuniversitario — HPC",
+  "sede": "Casalecchio di Reno (Bologna)",
+  "provincia": "Bologna",
+  "perche": "Supercalcolo e AI su larga scala. Hai esperienza di training distribuito su SLURM e CUDA: profilo raro e richiesto. Anche divisione sanità digitale.",
+  "sito": "https://www.cineca.it/",
+  "carriere": null,
+  "tag": [
+   "ricerca",
+   "ai-ml",
+   "ict"
+  ],
+  "priorita": 2
+ },
+ {
+  "nome": "Datalogic S.p.A.",
+  "tipo": "Industria — visione artificiale industriale",
+  "sede": "Lippo di Calderara (Bologna)",
+  "provincia": "Bologna",
+  "perche": "Machine vision e image processing su prodotto. Trasferimento naturale delle tue competenze di computer vision fuori dal dominio clinico.",
+  "sito": "https://www.datalogic.com/",
+  "carriere": null,
+  "tag": [
+   "ai-ml",
+   "industria"
+  ],
+  "priorita": 3
+ },
+ {
+  "nome": "El.En. Group",
+  "tipo": "Industria — laser medicali",
+  "sede": "Calenzano (Firenze)",
+  "provincia": "Firenze",
+  "perche": "Gruppo quotato su laser medicali e industriali. R&D con esigenze di elaborazione segnali e imaging.",
+  "sito": "https://www.elengroup.com/",
+  "carriere": "https://www.elengroup.com/it/lavora-con-noi/",
+  "tag": [
+   "biomedico",
+   "industria"
+  ],
+  "priorita": 3
+ },
+ {
+  "nome": "Kedrion Biopharma",
+  "tipo": "Industria — biofarmaceutico",
+  "sede": "Castelvecchio Pascoli (Lucca)",
+  "provincia": "Lucca",
+  "perche": "30 km da Pisa. Funzioni di data science clinica, biostatistica e qualità dei dati: il Master in Big Data per la medicina di precisione è il titolo giusto.",
+  "sito": "https://www.kedrion.it/",
+  "carriere": null,
+  "tag": [
+   "biomedico",
+   "ai-ml",
+   "industria"
+  ],
+  "priorita": 3
+ },
+ {
+  "nome": "ION Group (ex List S.p.A.)",
+  "tipo": "Industria — software",
+  "sede": "Pisa",
+  "provincia": "Pisa",
+  "perche": "Uno dei maggiori datori di lavoro tech di Pisa. Non è biomedico, ma assume su Python/Java e data engineering con stipendi sopra la media locale.",
+  "sito": "https://iongroup.com/",
+  "carriere": "https://iongroup.com/careers/",
+  "tag": [
+   "ict",
+   "industria"
+  ],
+  "priorita": 3
+ },
+ {
+  "nome": "Zerynth",
+  "tipo": "PMI innovativa — IoT industriale",
+  "sede": "Pisa",
+  "provincia": "Pisa",
+  "perche": "Edge computing e dati da sensori. Hai fatto deployment di modelli su dispositivi edge misurando FLOP e latenza: competenza direttamente spendibile.",
+  "sito": "https://www.zerynth.com/",
+  "carriere": "https://www.zerynth.com/careers/",
+  "tag": [
+   "ict",
+   "ai-ml",
+   "industria"
+  ],
+  "priorita": 3
+ },
+ {
+  "nome": "Polo Tecnologico di Navacchio",
+  "tipo": "Incubatore / parco tecnologico",
+  "sede": "Navacchio (Cascina, Pisa)",
+  "provincia": "Pisa",
+  "perche": "Oltre 60 aziende ICT ed elettronica a 8 km da casa. Non è un datore di lavoro diretto: usalo come elenco di aziende da contattare con candidatura spontanea.",
+  "sito": "https://www.polotecnologico.it/",
+  "carriere": "https://www.polotecnologico.it/aziende/",
+  "tag": [
+   "ict",
+   "industria"
+  ],
+  "priorita": 3
+ },
+ {
+  "nome": "Kayser Italia",
+  "tipo": "Industria — aerospazio",
+  "sede": "Livorno",
+  "provincia": "Livorno",
+  "perche": "25 km. Payload scientifici e strumentazione biomedica per lo spazio: nicchia dove ingegneria clinica e analisi di segnali si incontrano.",
+  "sito": "https://www.kayser.it/",
+  "carriere": "https://www.kayser.it/careers/",
+  "tag": [
+   "biomedico",
+   "industria"
+  ],
+  "priorita": 3
+ },
+ {
+  "nome": "Toscana Life Sciences",
+  "tipo": "Fondazione / incubatore life sciences",
+  "sede": "Siena",
+  "provincia": "Siena",
+  "perche": "Hub delle scienze della vita toscane. Utile come rete di aziende biotech e medtech regionali più che come singolo datore.",
+  "sito": "https://www.toscanalifesciences.org/",
+  "carriere": "https://www.toscanalifesciences.org/lavora-con-noi/",
+  "tag": [
+   "biomedico",
+   "industria"
+  ],
+  "priorita": 3
+ },
+ {
+  "nome": "Università di Firenze — Dip. Ingegneria dell'Informazione (MICC)",
+  "tipo": "Università",
+  "sede": "Firenze",
+  "provincia": "Firenze",
+  "perche": "Il MICC è uno dei gruppi italiani più forti su computer vision e multimedia. Assegni e post-doc ricorrenti.",
+  "sito": "https://www.unifi.it/",
+  "carriere": null,
+  "tag": [
+   "ricerca",
+   "ai-ml"
+  ],
+  "priorita": 2
+ },
+ {
+  "nome": "Università di Bologna — DISI / DEI",
+  "tipo": "Università",
+  "sede": "Bologna / Cesena",
+  "provincia": "Bologna",
+  "perche": "Al limite dei 150 km. Gruppi forti su AI per la salute e bioingegneria; campus di Cesena specializzato in biomedica.",
+  "sito": "https://www.unibo.it/",
+  "carriere": "https://bandi.unibo.it/",
+  "tag": [
+   "ricerca",
+   "ai-ml",
+   "biomedico"
+  ],
+  "priorita": 3
+ },
+ {
+  "nome": "Università di Siena — Dip. Ingegneria dell'Informazione",
+  "tipo": "Università",
+  "sede": "Siena",
+  "provincia": "Siena",
+  "perche": "Gruppo storico su reti neurali e apprendimento automatico (SAILab).",
+  "sito": "https://www.unisi.it/",
+  "carriere": "https://www.unisi.it/concorsi",
+  "tag": [
+   "ricerca",
+   "ai-ml"
+  ],
+  "priorita": 3
+ },
+ {
+  "nome": "Università di Genova — DIBRIS",
+  "tipo": "Università",
+  "sede": "Genova",
+  "provincia": "Genova",
+  "perche": "Bioingegneria e robotica in stretto rapporto con IIT ed Esaote: se guardi a Genova, vale la pena seguire tutti e tre insieme.",
+  "sito": "https://unige.it/",
+  "carriere": "https://unige.it/concorsi",
+  "tag": [
+   "ricerca",
+   "ai-ml",
+   "biomedico"
+  ],
+  "priorita": 3
+ }
+]
