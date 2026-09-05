@@ -1,16 +1,16 @@
 {
- "aggiornato": "2026-09-04T14:25:42+00:00",
+ "aggiornato": "2026-09-05T08:53:57+00:00",
  "raggio_km": 150,
  "origine": "Pisa",
  "statistiche": {
-  "grezzi": 413,
+  "grezzi": 403,
   "pubblicati": 32,
-  "scartati_distanza": 39,
-  "scartati_profilo": 342,
+  "scartati_distanza": 38,
+  "scartati_profilo": 332,
   "per_fascia": {
    "alta": 7,
-   "buona": 17,
-   "possibile": 8
+   "buona": 18,
+   "possibile": 7
   },
   "per_titolo": {
    "escluso": 10,
@@ -22,12 +22,12 @@
  "fonti": [
   {
    "fonte": "InPA",
-   "annunci": 410,
+   "annunci": 402,
    "nota": null
   },
   {
    "fonte": "Gazzetta Ufficiale",
-   "annunci": 3,
+   "annunci": 1,
    "nota": null
   },
   {
@@ -71,7 +71,7 @@
     "area dei funzionari – settore scientific"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 26,
+   "giorni_rimasti": 25,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-25, LM-29, LM-32. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -154,7 +154,7 @@
     "laurea specialistica"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 12,
+   "giorni_rimasti": 11,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 6/S, 65/S, 87/S, 9/S, LM-57, LM-6, LM-85, LM-9. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -208,7 +208,7 @@
     "laurea magistrale"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 7,
+   "giorni_rimasti": 6,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -245,7 +245,7 @@
     "laurea magistrale"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 21,
+   "giorni_rimasti": 20,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 36/S, LM-33. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -283,7 +283,7 @@
     "collaboratore professionale di ricerca"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 24,
+   "giorni_rimasti": 23,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Titoli richiesti: Medicina e Chirurgia; Professioni Sanitarie; Biologia; Scienze Motorie. Ingegneria biomedica non c'e'.",
    "titolo_classi": [],
@@ -325,7 +325,7 @@
     "laurea specialistica"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 24,
+   "giorni_rimasti": 23,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -361,7 +361,7 @@
     "bioingegner"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 12,
+   "giorni_rimasti": 11,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Nessuna classe elencata: il requisito e' il dottorato di ricerca.",
    "titolo_classi": [],
@@ -396,9 +396,42 @@
     "sistemi informativ"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 7,
+   "giorni_rimasti": 6,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
+   "titolo_classi": [],
+   "titolo_nomi": []
+  },
+  {
+   "id": "inpa:e27b5e1fc29e40dbba0e6fc92bf243b5",
+   "media_id": "b59cfa89-b77e-4787-bd2c-a066c1b4c3ef",
+   "fonte": "InPA",
+   "titolo": "Concorso pubblico, per titoli ed esame, per il reclutamento di 1 unità di personale da inquadrare nel profilo di Ricercatore\" III Livello, con contratto di lavoro a tempo determinato, della durata di 12 mesi, per per le esigenze del Progetto SFR4ALL Cod: 2026INAFRIC-IRA-PRORISSFR4LL-008",
+   "figura": "Ricercatore III livello",
+   "ente": "Istituto Nazionale di Astrofisica - INAF",
+   "descrizione": "Attività di ricerca (come dettagliate nel bando) sinergica tra le tre unità di ricerca extragalattiche del progetto “SFR4ALL: Intercalibrating indicators of Star Formation Rate across scales and cosmic time” Sede di Servizio: IRA Bologna",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e27b5e1fc29e40dbba0e6fc92bf243b5",
+   "pubblicazione": "2026-09-04T16:00:00Z",
+   "scadenza": "2026-10-04T21:00:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_ESAMI",
+   "sede": "Bologna",
+   "provincia": "Bologna",
+   "km": 115,
+   "ambito": "provincia",
+   "punteggio": 56,
+   "tag": [
+    "ricerca"
+   ],
+   "motivi": [
+    "ricercator",
+    "iii livello"
+   ],
+   "fascia": "buona",
+   "giorni_rimasti": 29,
+   "titolo_verdetto": "ignoto",
+   "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
    "titolo_nomi": []
   },
@@ -429,7 +462,7 @@
     "modelli predittiv"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 6,
+   "giorni_rimasti": 5,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
@@ -464,7 +497,7 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 10,
+   "giorni_rimasti": 9,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -500,7 +533,7 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 10,
+   "giorni_rimasti": 9,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-13. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -538,7 +571,7 @@
     "data scien"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 16,
+   "giorni_rimasti": 15,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -572,7 +605,7 @@
     "ai"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 21,
+   "giorni_rimasti": 20,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Nessuna classe richiesta: ammessa qualunque laurea magistrale.",
    "titolo_classi": [],
@@ -606,7 +639,7 @@
     "funzionario tecnic"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 26,
+   "giorni_rimasti": 25,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 28/S, 3/S, 38/S, 4/S, LM-23, LM-24, LM-26, LM-3. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -694,7 +727,7 @@
     "sistemi informativ"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 9,
+   "giorni_rimasti": 8,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -762,7 +795,7 @@
     "laurea specialistica"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 31,
+   "giorni_rimasti": 30,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il PDF non contiene testo leggibile (scansione): da verificare a mano.",
    "titolo_classi": [],
@@ -796,7 +829,7 @@
     "laurea magistrale"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 11,
+   "giorni_rimasti": 10,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -830,7 +863,7 @@
     "laurea magistrale"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 24,
+   "giorni_rimasti": 23,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -864,7 +897,7 @@
     "laurea magistrale"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 21,
+   "giorni_rimasti": 20,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -898,7 +931,7 @@
     "laurea magistrale"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 3,
+   "giorni_rimasti": 2,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Non sono riuscito a leggere il PDF del bando.",
    "titolo_classi": [],
@@ -931,7 +964,7 @@
     "statistic"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 22,
+   "giorni_rimasti": 21,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-17, LM-32, LM-40, LM-82, LM-9. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -971,7 +1004,7 @@
     "area dei funzionari e eq – ccnl comparto"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 9,
+   "giorni_rimasti": 8,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-16, LM-31, LM-40, LM-44, LM-56, LM-63, LM-66, LM-77. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1024,7 +1057,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 14,
+   "giorni_rimasti": 13,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1056,7 +1089,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 6,
+   "giorni_rimasti": 5,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1138,38 +1171,6 @@
    "titolo_nomi": []
   },
   {
-   "id": "inpa:31b5251c2ab04a4caf954723ba0bc4ea",
-   "media_id": "81f3f5f1-f46e-4b81-8b60-e11918d36482",
-   "fonte": "InPA",
-   "titolo": "CONCORSO PUBBLICO, PER ESAMI, PER LA COPERTURA, CON RAPPORTO DI LAVORO SUBORDINATO A TEMPO PIENO E INDETERMINATO, DI N. 1 UNITÀ, A TEMPO PIENO E INDETERMINATO, RIVESTENTE IL PROFILO PROFESSIONALE DI ISTRUTTORE AMMINISTRATIVO, APPARTENENTE ALL’AREA DEGLI ISTRUTTORI DI CUI AL VIGENTE ORDINAMENTO PROFESSIONALE, DA ASSEGNARE PRESSO IL SETTORE I - AFFARI GENERALI ED ISTITUZIONALI DEL COMUNE DI TORRILE",
-   "figura": "ISTRUTTORE AMMINISTRATIVO",
-   "ente": "Unione Bassa Est Parmense",
-   "descrizione": "È indetto Concorso pubblico, per esami, per la copertura, con rapporto di lavoro subordinato a tempo pieno e indeterminato, di di n. 1 unità, a tempo pieno e indeterminato, rivestente il profilo professionale di Istruttore Amministrativo, appartenente all’Area degli Istruttori di cui al vigente Ordinamento Professionale, da assegnare presso il Settore I - Affari Generali ed Istituzionali del Comune di Torrile.",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=31b5251c2ab04a4caf954723ba0bc4ea",
-   "pubblicazione": "2026-08-05T10:00:00Z",
-   "scadenza": "2026-09-04T21:59:00Z",
-   "stato": "Aperto",
-   "posti": 1,
-   "procedura": "ESAMI",
-   "sede": "Emilia Romagna (provincia da verificare)",
-   "provincia": null,
-   "km": 115,
-   "ambito": "regione",
-   "punteggio": 30,
-   "tag": [
-    "ai-ml"
-   ],
-   "motivi": [
-    "ai"
-   ],
-   "fascia": "possibile",
-   "giorni_rimasti": 0,
-   "titolo_verdetto": "ignoto",
-   "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
-   "titolo_classi": [],
-   "titolo_nomi": []
-  },
-  {
    "id": "inpa:09ea8f748d954f5fb457ebad7a707efd",
    "media_id": null,
    "fonte": "InPA",
@@ -1195,7 +1196,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 6,
+   "giorni_rimasti": 5,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
@@ -1226,7 +1227,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 29,
+   "giorni_rimasti": 28,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
