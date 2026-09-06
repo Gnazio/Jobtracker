@@ -1,12 +1,12 @@
 {
- "aggiornato": "2026-09-05T08:53:57+00:00",
+ "aggiornato": "2026-09-06T09:14:03+00:00",
  "raggio_km": 150,
  "origine": "Pisa",
  "statistiche": {
-  "grezzi": 403,
+  "grezzi": 397,
   "pubblicati": 32,
-  "scartati_distanza": 38,
-  "scartati_profilo": 332,
+  "scartati_distanza": 37,
+  "scartati_profilo": 328,
   "per_fascia": {
    "alta": 7,
    "buona": 18,
@@ -22,7 +22,7 @@
  "fonti": [
   {
    "fonte": "InPA",
-   "annunci": 402,
+   "annunci": 396,
    "nota": null
   },
   {
@@ -71,7 +71,7 @@
     "area dei funzionari – settore scientific"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 25,
+   "giorni_rimasti": 24,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-25, LM-29, LM-32. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -115,7 +115,7 @@
     "python"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 10,
+   "giorni_rimasti": 9,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Il bando ammette Ingegneria biomedica.",
    "titolo_classi": [],
@@ -154,7 +154,7 @@
     "laurea specialistica"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 11,
+   "giorni_rimasti": 10,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 6/S, 65/S, 87/S, 9/S, LM-57, LM-6, LM-85, LM-9. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -208,7 +208,7 @@
     "laurea magistrale"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 6,
+   "giorni_rimasti": 5,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -245,7 +245,7 @@
     "laurea magistrale"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 20,
+   "giorni_rimasti": 19,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 36/S, LM-33. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -283,7 +283,7 @@
     "collaboratore professionale di ricerca"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 23,
+   "giorni_rimasti": 22,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Titoli richiesti: Medicina e Chirurgia; Professioni Sanitarie; Biologia; Scienze Motorie. Ingegneria biomedica non c'e'.",
    "titolo_classi": [],
@@ -325,7 +325,7 @@
     "laurea specialistica"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 23,
+   "giorni_rimasti": 22,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -361,7 +361,7 @@
     "bioingegner"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 11,
+   "giorni_rimasti": 10,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Nessuna classe elencata: il requisito e' il dottorato di ricerca.",
    "titolo_classi": [],
@@ -396,7 +396,7 @@
     "sistemi informativ"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 6,
+   "giorni_rimasti": 5,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -429,7 +429,7 @@
     "iii livello"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 29,
+   "giorni_rimasti": 28,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -462,7 +462,7 @@
     "modelli predittiv"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 5,
+   "giorni_rimasti": 4,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
@@ -497,7 +497,7 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 9,
+   "giorni_rimasti": 8,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -533,7 +533,7 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 9,
+   "giorni_rimasti": 8,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-13. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -571,7 +571,7 @@
     "data scien"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 15,
+   "giorni_rimasti": 14,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -605,7 +605,7 @@
     "ai"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 20,
+   "giorni_rimasti": 19,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Nessuna classe richiesta: ammessa qualunque laurea magistrale.",
    "titolo_classi": [],
@@ -639,7 +639,7 @@
     "funzionario tecnic"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 25,
+   "giorni_rimasti": 24,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 28/S, 3/S, 38/S, 4/S, LM-23, LM-24, LM-26, LM-3. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -689,7 +689,7 @@
     "laurea magistrale"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 9,
+   "giorni_rimasti": 8,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-51. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -727,7 +727,7 @@
     "sistemi informativ"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 8,
+   "giorni_rimasti": 7,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -761,7 +761,7 @@
     "cineca."
    ],
    "fascia": "buona",
-   "giorni_rimasti": 12,
+   "giorni_rimasti": 11,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -795,7 +795,7 @@
     "laurea specialistica"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 30,
+   "giorni_rimasti": 29,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il PDF non contiene testo leggibile (scansione): da verificare a mano.",
    "titolo_classi": [],
@@ -829,7 +829,7 @@
     "laurea magistrale"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 10,
+   "giorni_rimasti": 9,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -863,7 +863,7 @@
     "laurea magistrale"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 23,
+   "giorni_rimasti": 22,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -897,7 +897,7 @@
     "laurea magistrale"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 20,
+   "giorni_rimasti": 19,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -931,7 +931,7 @@
     "laurea magistrale"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 2,
+   "giorni_rimasti": 1,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Non sono riuscito a leggere il PDF del bando.",
    "titolo_classi": [],
@@ -964,7 +964,7 @@
     "statistic"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 21,
+   "giorni_rimasti": 20,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-17, LM-32, LM-40, LM-82, LM-9. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1004,7 +1004,7 @@
     "area dei funzionari e eq – ccnl comparto"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 8,
+   "giorni_rimasti": 7,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-16, LM-31, LM-40, LM-44, LM-56, LM-63, LM-66, LM-77. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1057,7 +1057,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 13,
+   "giorni_rimasti": 12,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1089,7 +1089,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 5,
+   "giorni_rimasti": 4,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1121,7 +1121,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 25,
+   "giorni_rimasti": 24,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1155,7 +1155,7 @@
     "azienda usl"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 19,
+   "giorni_rimasti": 18,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-16, LM-56, LM-62, LM-63, LM-77, LM-82, LM-83, LM-87. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1196,7 +1196,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 5,
+   "giorni_rimasti": 4,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
@@ -1227,7 +1227,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 28,
+   "giorni_rimasti": 27,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
