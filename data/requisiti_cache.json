@@ -446,5 +446,30 @@
   "dottorato_affine": false,
   "caratteri": 57884,
   "letto_il": "2026-09-07"
+ },
+ "1fd07903-f08e-4eb7-8d20-b5ab8ba898f5": {
+  "classi": [],
+  "nomi": [
+   "Fisioterapia",
+   "professioni sanitarie della riabilitazione"
+  ],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 43465,
+  "letto_il": "2026-09-09"
+ },
+ "7ded7c39-4c43-459f-b550-23c58c0a39c8": {
+  "classi": [],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": true,
+  "dottorato_affine": false,
+  "caratteri": 60228,
+  "letto_il": "2026-09-09"
  }
 }
