@@ -471,5 +471,18 @@
   "dottorato_affine": false,
   "caratteri": 60228,
   "letto_il": "2026-09-09"
+ },
+ "f159ce90-a555-45c7-b00a-e6964680be6c": {
+  "classi": [],
+  "nomi": [
+   "Medicina e Chirurgia e abilitazione all"
+  ],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 52909,
+  "letto_il": "2026-09-10"
  }
 }
