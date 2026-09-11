@@ -1,28 +1,28 @@
 {
- "aggiornato": "2026-09-10T09:27:37+00:00",
+ "aggiornato": "2026-09-11T09:26:05+00:00",
  "raggio_km": 150,
  "origine": "Pisa",
  "statistiche": {
-  "grezzi": 385,
-  "pubblicati": 35,
-  "scartati_distanza": 39,
-  "scartati_profilo": 311,
+  "grezzi": 387,
+  "pubblicati": 32,
+  "scartati_distanza": 40,
+  "scartati_profilo": 315,
   "per_fascia": {
    "alta": 7,
-   "buona": 17,
-   "possibile": 11
+   "buona": 16,
+   "possibile": 9
   },
   "per_titolo": {
    "escluso": 11,
-   "ammesso": 4,
-   "ignoto": 20
+   "ammesso": 3,
+   "ignoto": 18
   }
  },
  "errori_fonti": [],
  "fonti": [
   {
    "fonte": "InPA",
-   "annunci": 382,
+   "annunci": 384,
    "nota": null
   },
   {
@@ -71,7 +71,7 @@
     "area dei funzionari – settore scientific"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 20,
+   "giorni_rimasti": 19,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-25, LM-29, LM-32. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -115,7 +115,7 @@
     "python"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 5,
+   "giorni_rimasti": 4,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Il bando ammette Ingegneria biomedica.",
    "titolo_classi": [],
@@ -154,7 +154,7 @@
     "laurea specialistica"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 6,
+   "giorni_rimasti": 5,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 6/S, 65/S, 87/S, 9/S, LM-57, LM-6, LM-85, LM-9. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -208,7 +208,7 @@
     "laurea magistrale"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 1,
+   "giorni_rimasti": 0,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -245,7 +245,7 @@
     "laurea magistrale"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 15,
+   "giorni_rimasti": 14,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 36/S, LM-33. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -283,7 +283,7 @@
     "collaboratore professionale di ricerca"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 18,
+   "giorni_rimasti": 17,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Titoli richiesti: Medicina e Chirurgia; Professioni Sanitarie; Biologia; Scienze Motorie. Ingegneria biomedica non c'e'.",
    "titolo_classi": [],
@@ -325,7 +325,7 @@
     "laurea specialistica"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 18,
+   "giorni_rimasti": 17,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -361,7 +361,7 @@
     "bioingegner"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 6,
+   "giorni_rimasti": 5,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Nessuna classe elencata: il requisito e' il dottorato di ricerca.",
    "titolo_classi": [],
@@ -396,7 +396,7 @@
     "sistemi informativ"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 1,
+   "giorni_rimasti": 0,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -429,40 +429,7 @@
     "iii livello"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 24,
-   "titolo_verdetto": "ignoto",
-   "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
-   "titolo_classi": [],
-   "titolo_nomi": []
-  },
-  {
-   "id": "inpa:ced63109e8c9458a985d3bf8aefd94c8",
-   "media_id": "56701d04-3cae-40eb-aa31-0739fab20aea",
-   "fonte": "InPA",
-   "titolo": "SELEZIONE PUBBL. PER N. 1 CONTRATTO DI RICERCA, ART.22 L. 240/2010,TD 24 MESI, GSD 06/MEDS–16, SSD MEDS-16/A MALATTIE ODONTOSTOMATOLOGICHE, Dipartimento di Medicina e Chirurgia-UNIV. PARMA",
-   "figura": "Contrattista di ricerca",
-   "ente": "Universita' degli Studi di Parma",
-   "descrizione": "OBIETIVI OGGETTO DEL CONTRATTO Il contratto di ricerca è finalizzato allo sviluppo e alla validazione di modelli diagnostici integrati per le lesioni potenzialmente maligne e maligne del cavo orale, mediante l’impiego combinato di tecnologie di imaging avanzato, metodiche di fluorescenza e analisi di biomarcatori salivari. Gli obiettivi comprendono l’identificazione di indicatori diagnostici e prognostici innovativi, la definizione di modelli predittivi basati sull’integrazione di dati clinici, strumentali e molecolari mediante algoritmi di intelligenza artificiale, nonché la validazione trasl",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ced63109e8c9458a985d3bf8aefd94c8",
-   "pubblicazione": "2026-08-26T22:01:00Z",
-   "scadenza": "2026-09-10T21:59:00Z",
-   "stato": "Aperto",
-   "posti": 1,
-   "procedura": "TITOLI_COLLOQUIO",
-   "sede": "Parma",
-   "provincia": "Parma",
-   "km": 121,
-   "ambito": "provincia",
-   "punteggio": 54,
-   "tag": [
-    "ai-ml"
-   ],
-   "motivi": [
-    "intelligenza artificiale",
-    "modelli predittiv"
-   ],
-   "fascia": "buona",
-   "giorni_rimasti": 0,
+   "giorni_rimasti": 23,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -498,7 +465,7 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 4,
+   "giorni_rimasti": 3,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -534,7 +501,7 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 4,
+   "giorni_rimasti": 3,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-13. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -572,7 +539,7 @@
     "data scien"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 10,
+   "giorni_rimasti": 9,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -606,7 +573,7 @@
     "ai"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 15,
+   "giorni_rimasti": 14,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Nessuna classe richiesta: ammessa qualunque laurea magistrale.",
    "titolo_classi": [],
@@ -640,7 +607,7 @@
     "funzionario tecnic"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 20,
+   "giorni_rimasti": 19,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 28/S, 3/S, 38/S, 4/S, LM-23, LM-24, LM-26, LM-3. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -690,7 +657,7 @@
     "laurea magistrale"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 4,
+   "giorni_rimasti": 3,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-51. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -728,7 +695,7 @@
     "sistemi informativ"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 3,
+   "giorni_rimasti": 2,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -762,7 +729,7 @@
     "cineca."
    ],
    "fascia": "buona",
-   "giorni_rimasti": 7,
+   "giorni_rimasti": 6,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -796,7 +763,7 @@
     "laurea specialistica"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 25,
+   "giorni_rimasti": 24,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il PDF non contiene testo leggibile (scansione): da verificare a mano.",
    "titolo_classi": [],
@@ -830,7 +797,7 @@
     "laurea magistrale"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 5,
+   "giorni_rimasti": 4,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -864,7 +831,7 @@
     "laurea magistrale"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 18,
+   "giorni_rimasti": 17,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -898,7 +865,7 @@
     "laurea magistrale"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 15,
+   "giorni_rimasti": 14,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -931,7 +898,7 @@
     "statistic"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 16,
+   "giorni_rimasti": 15,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-17, LM-32, LM-40, LM-82, LM-9. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -971,7 +938,7 @@
     "area dei funzionari e eq – ccnl comparto"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 3,
+   "giorni_rimasti": 2,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-16, LM-31, LM-40, LM-44, LM-56, LM-63, LM-66, LM-77. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1024,7 +991,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 30,
+   "giorni_rimasti": 29,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Medicina e Chirurgia e abilitazione all. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -1060,7 +1027,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 18,
+   "giorni_rimasti": 17,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Titoli richiesti: Fisioterapia; professioni sanitarie della riabilitazione. Ingegneria biomedica non c'e'.",
    "titolo_classi": [],
@@ -1097,39 +1064,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 8,
-   "titolo_verdetto": "ignoto",
-   "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
-   "titolo_classi": [],
-   "titolo_nomi": []
-  },
-  {
-   "id": "inpa:32073aa9a2214995a0a95fe009f21571",
-   "media_id": "627d2bd5-8f30-4314-93bf-0ba64f9260fa",
-   "fonte": "InPA",
-   "titolo": "Selezione pubblica per titoli e colloquio tecnico professionale per il conferimento di n. 1 incarico di Dirigente Amministrativo Professionale a tempo determinato e parziale di durata triennale, rinnovabile.",
-   "figura": "Dirigente amministrativo professionale",
-   "ente": "Societa' della Salute Zona Fiorentina Nord Ovest",
-   "descrizione": "La selezione è volta a individuare una figura di staff di livello dirigenziale con incarico a termine, finalizzata a coprire le esigenze di analisi, istruttoria, proposta e formulazione di soluzioni tecniche e disciplinatorie relative: alla corretta gestione dei reinquadramenti economici e giuridici operati all’atto del trasferimento ai dipendenti acquisiti dai Comuni soci del Consorzio; alla definizione delle nuove discipline decentrate, di natura organizzativa, volte alla gestione del rapporto di lavoro e di servizio di tutto il personale del Consorzio; alla strutturazione di nuove relazioni",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=32073aa9a2214995a0a95fe009f21571",
-   "pubblicazione": "2026-08-21T13:30:00Z",
-   "scadenza": "2026-09-10T21:59:00Z",
-   "stato": "Aperto",
-   "posti": 1,
-   "procedura": "TITOLI_COLLOQUIO",
-   "sede": "Firenze",
-   "provincia": "Firenze",
-   "km": 69,
-   "ambito": "provincia",
-   "punteggio": 30,
-   "tag": [
-    "ai-ml"
-   ],
-   "motivi": [
-    "ai"
-   ],
-   "fascia": "possibile",
-   "giorni_rimasti": 0,
+   "giorni_rimasti": 7,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1161,7 +1096,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 20,
+   "giorni_rimasti": 19,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1195,7 +1130,7 @@
     "azienda usl"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 14,
+   "giorni_rimasti": 13,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-16, LM-56, LM-62, LM-63, LM-77, LM-82, LM-83, LM-87. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1207,45 +1142,6 @@
     "LM-82",
     "LM-83",
     "LM-87"
-   ],
-   "titolo_nomi": []
-  },
-  {
-   "id": "inpa:09ea8f748d954f5fb457ebad7a707efd",
-   "media_id": "b0c3ca8f-bd30-4c71-a8ec-a99f749535fd",
-   "fonte": "InPA",
-   "titolo": "SELEZIONE PUBBLICA PER N. 1 INCARICO DI RICERCA, ART. 22ter L. 240/2010,TD 12 MESI, GSD 06/MEDS-22/SSD MEDS-22/A-DIPARTIMENTO DI MEDICINA E CHIRURGIA-UNIV. DI PARMA",
-   "figura": "conferimento di Incarichi di Ricerca",
-   "ente": "Universita' degli Studi di Parma",
-   "descrizione": "OBIETTIVI OGGETTO DELL'INCARICO Il progetto si propone di validare la micro-CT come tecnica di imaging non invasiva, sensibile e riproducibile per la valutazione della progressione delle malattie polmonari e della risposta ai trattamenti farmacologici. Gli obiettivi principali includono: (1) il miglioramento della capacità di monitorare in vivo la progressione delle patologie polmonari; (2) la riduzione della variabilità e dell’invasività nelle valutazioni precliniche; (3) il supporto allo sviluppo e alla valutazione di nuovi farmaci attraverso biomarcatori di imaging quantitativi; (4) il cont",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=09ea8f748d954f5fb457ebad7a707efd",
-   "pubblicazione": "2026-08-26T22:01:00Z",
-   "scadenza": "2026-09-10T21:59:00Z",
-   "stato": "Aperto",
-   "posti": 1,
-   "procedura": "TITOLI_COLLOQUIO",
-   "sede": "Parma",
-   "provincia": "Parma",
-   "km": 121,
-   "ambito": "provincia",
-   "punteggio": 30,
-   "tag": [
-    "ai-ml"
-   ],
-   "motivi": [
-    "ai"
-   ],
-   "fascia": "possibile",
-   "giorni_rimasti": 0,
-   "titolo_verdetto": "ammesso",
-   "titolo_nota": "Il bando elenca LM-21 fra le classi ammesse.",
-   "titolo_classi": [
-    "LM-17",
-    "LM-18",
-    "LM-21",
-    "LM-32",
-    "LM-40",
-    "LM-6"
    ],
    "titolo_nomi": []
   },
@@ -1275,7 +1171,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 23,
+   "giorni_rimasti": 22,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1307,7 +1203,7 @@
     "post-doc"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 13,
+   "giorni_rimasti": 12,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -1339,7 +1235,7 @@
     "post-doc"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 13,
+   "giorni_rimasti": 12,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
