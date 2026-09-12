@@ -1,33 +1,33 @@
 {
- "aggiornato": "2026-09-11T09:26:05+00:00",
+ "aggiornato": "2026-09-12T09:05:37+00:00",
  "raggio_km": 150,
  "origine": "Pisa",
  "statistiche": {
-  "grezzi": 387,
-  "pubblicati": 32,
-  "scartati_distanza": 40,
-  "scartati_profilo": 315,
+  "grezzi": 376,
+  "pubblicati": 31,
+  "scartati_distanza": 41,
+  "scartati_profilo": 304,
   "per_fascia": {
-   "alta": 7,
+   "alta": 6,
    "buona": 16,
    "possibile": 9
   },
   "per_titolo": {
    "escluso": 11,
    "ammesso": 3,
-   "ignoto": 18
+   "ignoto": 17
   }
  },
  "errori_fonti": [],
  "fonti": [
   {
    "fonte": "InPA",
-   "annunci": 384,
+   "annunci": 376,
    "nota": null
   },
   {
    "fonte": "Gazzetta Ufficiale",
-   "annunci": 3,
+   "annunci": 0,
    "nota": null
   },
   {
@@ -71,7 +71,7 @@
     "area dei funzionari – settore scientific"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 19,
+   "giorni_rimasti": 18,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-25, LM-29, LM-32. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -115,7 +115,7 @@
     "python"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 4,
+   "giorni_rimasti": 3,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Il bando ammette Ingegneria biomedica.",
    "titolo_classi": [],
@@ -154,7 +154,7 @@
     "laurea specialistica"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 5,
+   "giorni_rimasti": 4,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 6/S, 65/S, 87/S, 9/S, LM-57, LM-6, LM-85, LM-9. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -173,45 +173,6 @@
     "LM-91",
     "LM-92"
    ],
-   "titolo_nomi": []
-  },
-  {
-   "id": "inpa:2731beb6e57843faaeca1f2d19688678",
-   "media_id": "9b20d6be-aad5-4e02-af0b-92c257246f1a",
-   "fonte": "InPA",
-   "titolo": "Concorso pubblico, per titoli ed esami, per n. 1 (uno) Tecnologo/a a tempo determinato (36 mesi) ai sensi dell'art. 24-bis della Legge n. 240/2010, progetto Orto.Nutraceutica presso l'Università degli Studi di Siena, per le esigenze del Dipartimento Economia e Statistica (DEPS)",
-   "figura": "1 Tecnologo/a",
-   "ente": "Universita' degli Studi di Siena",
-   "descrizione": "Programma di lavoro e specifiche funzioni da svolgere: Creazione della piattaforma integrata e supporto alla sua implementazione sulla sostenibilità per l’analisi statistica dei dati delle aziende della filiera. Il sistema integrato di sostenibilità sviluppato, che sarà strutturato sulla base sia di indicatori statistici ambientali che di indicatori statistici socio-economici, consentirà di valutare le performance aziendali e territoriali di sostenibilità, fornendo così un supporto all’impostazione di strategie che operino correttivi e/o implementino piani di sviluppo, coerenti con gli obietti",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2731beb6e57843faaeca1f2d19688678",
-   "pubblicazione": "2026-08-27T11:53:00Z",
-   "scadenza": "2026-09-11T21:59:00Z",
-   "stato": "Aperto",
-   "posti": 1,
-   "procedura": "TITOLI_ESAMI",
-   "sede": "Siena",
-   "provincia": "Siena",
-   "km": 87,
-   "ambito": "provincia",
-   "punteggio": 94,
-   "tag": [
-    "ricerca",
-    "ente-ricerca",
-    "ai-ml",
-    "requisiti"
-   ],
-   "motivi": [
-    "tecnologo",
-    "università degli studi di siena",
-    "data scien",
-    "statistic",
-    "laurea magistrale"
-   ],
-   "fascia": "alta",
-   "giorni_rimasti": 0,
-   "titolo_verdetto": "ignoto",
-   "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
-   "titolo_classi": [],
    "titolo_nomi": []
   },
   {
@@ -245,7 +206,7 @@
     "laurea magistrale"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 14,
+   "giorni_rimasti": 13,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 36/S, LM-33. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -283,7 +244,7 @@
     "collaboratore professionale di ricerca"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 17,
+   "giorni_rimasti": 16,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Titoli richiesti: Medicina e Chirurgia; Professioni Sanitarie; Biologia; Scienze Motorie. Ingegneria biomedica non c'e'.",
    "titolo_classi": [],
@@ -325,11 +286,46 @@
     "laurea specialistica"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 17,
+   "giorni_rimasti": 16,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
    "titolo_nomi": []
+  },
+  {
+   "id": "inpa:d6d7b8da360544a3b8837f2bf19494e2",
+   "media_id": null,
+   "fonte": "InPA",
+   "titolo": "Concorso per titoli ed esami per un posto per il profilo professionale di Collaboratore Tecnico E.R. di VI livello professionale con contratto di lavoro a tempo indeterminato - Cod. TI/BO/C6/29122",
+   "figura": "Collaboratore Tecnico E.R. di VI livello professionale",
+   "ente": "Istituto Nazionale di Fisica Nucleare",
+   "descrizione": "Concorso pubblico per titoli ed esami per un posto con il profilo professionale di Collaboratore Tecnico E.R. di VI livello professionale con contratto di lavoro a tempo indeterminato per attività di gestione delle infrastrutture informatiche di sezione con particolare specializzazione nel networking. La sede di lavoro sarà la Sezione di Bologna dell’INFN. Ai sensi dell’art. 1014, comma 4, e dell’art. 678, comma 9 del D.Lgs. 66/2010 e successive modifiche e integrazioni, un posto è riservato ai militari delle FF.AA.: volontari in ferma breve, volontari in ferma prefissata, ufficiali di complem",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=d6d7b8da360544a3b8837f2bf19494e2",
+   "pubblicazione": "2026-09-11T14:00:00Z",
+   "scadenza": "2026-09-21T14:00:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_ESAMI",
+   "sede": "Bologna",
+   "provincia": "Bologna",
+   "km": 115,
+   "ambito": "provincia",
+   "punteggio": 66,
+   "tag": [
+    "ricerca",
+    "ente-ricerca",
+    "ai-ml"
+   ],
+   "motivi": [
+    "collaboratore tecnico e.r.",
+    "infn",
+    "ai"
+   ],
+   "fascia": "buona",
+   "giorni_rimasti": 9,
+   "titolo_verdetto": "ignoto",
+   "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
+   "titolo_classi": []
   },
   {
    "id": "inpa:a5e71667a21e4ed6a9da1339e9edb37a",
@@ -361,44 +357,9 @@
     "bioingegner"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 5,
+   "giorni_rimasti": 4,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Nessuna classe elencata: il requisito e' il dottorato di ricerca.",
-   "titolo_classi": [],
-   "titolo_nomi": []
-  },
-  {
-   "id": "inpa:4331bfde14584b24b6a2e5540afda560",
-   "media_id": "8b9b0c0e-8c04-48ad-906a-6cc3fe02f52b",
-   "fonte": "InPA",
-   "titolo": "Selezione pubblica per titoli e colloquio per l’assunzione di una (1) posizione nell’Area dei Collaboratori, con contratto di formazione e lavoro a tempo determinato della durata di 24 mesi, Settore tecnico informatico, per le esigenze dell’Ufficio Sistemi Informativi e Tecnologie",
-   "figura": "Informatico",
-   "ente": "Imt Alti Studi di Lucca",
-   "descrizione": "Resti e Infrastrutture Sistemi Operativi Automazione e scripting Sicurezza Informatica Web e Servizi",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4331bfde14584b24b6a2e5540afda560",
-   "pubblicazione": "2026-07-07T10:00:00Z",
-   "scadenza": "2026-09-11T21:59:00Z",
-   "stato": "Aperto",
-   "posti": 1,
-   "procedura": "TITOLI_COLLOQUIO",
-   "sede": "Lucca",
-   "provincia": "Lucca",
-   "km": 17,
-   "ambito": "provincia",
-   "punteggio": 58,
-   "tag": [
-    "ente-ricerca",
-    "ict"
-   ],
-   "motivi": [
-    "imt alti studi di lucca",
-    "python",
-    "sistemi informativ"
-   ],
-   "fascia": "buona",
-   "giorni_rimasti": 0,
-   "titolo_verdetto": "ignoto",
-   "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
    "titolo_nomi": []
   },
@@ -429,7 +390,7 @@
     "iii livello"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 23,
+   "giorni_rimasti": 22,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -465,7 +426,7 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 3,
+   "giorni_rimasti": 2,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -501,7 +462,7 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 3,
+   "giorni_rimasti": 2,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-13. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -539,7 +500,7 @@
     "data scien"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 9,
+   "giorni_rimasti": 8,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -573,7 +534,7 @@
     "ai"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 14,
+   "giorni_rimasti": 13,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Nessuna classe richiesta: ammessa qualunque laurea magistrale.",
    "titolo_classi": [],
@@ -607,7 +568,7 @@
     "funzionario tecnic"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 19,
+   "giorni_rimasti": 18,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 28/S, 3/S, 38/S, 4/S, LM-23, LM-24, LM-26, LM-3. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -657,7 +618,7 @@
     "laurea magistrale"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 3,
+   "giorni_rimasti": 2,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-51. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -695,7 +656,7 @@
     "sistemi informativ"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 2,
+   "giorni_rimasti": 1,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -729,7 +690,7 @@
     "cineca."
    ],
    "fascia": "buona",
-   "giorni_rimasti": 6,
+   "giorni_rimasti": 5,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -763,7 +724,7 @@
     "laurea specialistica"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 24,
+   "giorni_rimasti": 23,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il PDF non contiene testo leggibile (scansione): da verificare a mano.",
    "titolo_classi": [],
@@ -797,7 +758,7 @@
     "laurea magistrale"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 4,
+   "giorni_rimasti": 3,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -831,7 +792,7 @@
     "laurea magistrale"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 17,
+   "giorni_rimasti": 16,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -865,7 +826,7 @@
     "laurea magistrale"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 14,
+   "giorni_rimasti": 13,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -898,7 +859,7 @@
     "statistic"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 15,
+   "giorni_rimasti": 14,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-17, LM-32, LM-40, LM-82, LM-9. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -938,7 +899,7 @@
     "area dei funzionari e eq – ccnl comparto"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 2,
+   "giorni_rimasti": 1,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-16, LM-31, LM-40, LM-44, LM-56, LM-63, LM-66, LM-77. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -991,7 +952,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 29,
+   "giorni_rimasti": 28,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Medicina e Chirurgia e abilitazione all. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -1027,7 +988,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 17,
+   "giorni_rimasti": 16,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Titoli richiesti: Fisioterapia; professioni sanitarie della riabilitazione. Ingegneria biomedica non c'e'.",
    "titolo_classi": [],
@@ -1064,7 +1025,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 7,
+   "giorni_rimasti": 6,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1096,7 +1057,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 19,
+   "giorni_rimasti": 18,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1130,7 +1091,7 @@
     "azienda usl"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 13,
+   "giorni_rimasti": 12,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-16, LM-56, LM-62, LM-63, LM-77, LM-82, LM-83, LM-87. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1171,7 +1132,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 22,
+   "giorni_rimasti": 21,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1203,7 +1164,7 @@
     "post-doc"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 12,
+   "giorni_rimasti": 11,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -1235,7 +1196,7 @@
     "post-doc"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 12,
+   "giorni_rimasti": 11,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
