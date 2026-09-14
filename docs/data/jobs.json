@@ -1,19 +1,19 @@
 {
- "aggiornato": "2026-09-13T10:04:32+00:00",
+ "aggiornato": "2026-09-14T10:24:22+00:00",
  "raggio_km": 150,
  "origine": "Pisa",
  "statistiche": {
-  "grezzi": 372,
-  "pubblicati": 31,
-  "scartati_distanza": 39,
-  "scartati_profilo": 302,
+  "grezzi": 371,
+  "pubblicati": 29,
+  "scartati_distanza": 37,
+  "scartati_profilo": 305,
   "per_fascia": {
    "alta": 6,
-   "buona": 16,
+   "buona": 14,
    "possibile": 9
   },
   "per_titolo": {
-   "escluso": 11,
+   "escluso": 9,
    "ammesso": 3,
    "ignoto": 17
   }
@@ -22,7 +22,7 @@
  "fonti": [
   {
    "fonte": "InPA",
-   "annunci": 372,
+   "annunci": 371,
    "nota": null
   },
   {
@@ -71,7 +71,7 @@
     "area dei funzionari – settore scientific"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 17,
+   "giorni_rimasti": 16,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-25, LM-29, LM-32. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -115,7 +115,7 @@
     "python"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 1,
+   "giorni_rimasti": 0,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Il bando ammette Ingegneria biomedica.",
    "titolo_classi": [],
@@ -154,7 +154,7 @@
     "laurea specialistica"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 3,
+   "giorni_rimasti": 2,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 6/S, 65/S, 87/S, 9/S, LM-57, LM-6, LM-85, LM-9. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -206,7 +206,7 @@
     "laurea magistrale"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 12,
+   "giorni_rimasti": 11,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 36/S, LM-33. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -244,7 +244,7 @@
     "collaboratore professionale di ricerca"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 15,
+   "giorni_rimasti": 14,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Titoli richiesti: Medicina e Chirurgia; Professioni Sanitarie; Biologia; Scienze Motorie. Ingegneria biomedica non c'e'.",
    "titolo_classi": [],
@@ -286,7 +286,7 @@
     "laurea specialistica"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 15,
+   "giorni_rimasti": 14,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -322,7 +322,7 @@
     "ai"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 8,
+   "giorni_rimasti": 7,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
@@ -357,7 +357,7 @@
     "bioingegner"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 3,
+   "giorni_rimasti": 2,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Nessuna classe elencata: il requisito e' il dottorato di ricerca.",
    "titolo_classi": [],
@@ -390,7 +390,7 @@
     "iii livello"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 21,
+   "giorni_rimasti": 20,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -426,7 +426,7 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 1,
+   "giorni_rimasti": 0,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -462,7 +462,7 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 1,
+   "giorni_rimasti": 0,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-13. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -500,7 +500,7 @@
     "data scien"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 7,
+   "giorni_rimasti": 6,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -534,7 +534,7 @@
     "ai"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 12,
+   "giorni_rimasti": 11,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Nessuna classe richiesta: ammessa qualunque laurea magistrale.",
    "titolo_classi": [],
@@ -568,7 +568,7 @@
     "funzionario tecnic"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 17,
+   "giorni_rimasti": 16,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 28/S, 3/S, 38/S, 4/S, LM-23, LM-24, LM-26, LM-3. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -586,80 +586,6 @@
     "LM-35",
     "LM-4"
    ],
-   "titolo_nomi": []
-  },
-  {
-   "id": "inpa:cc3cbb75ad48499fba31af2eee2d0981",
-   "media_id": "6b86ae8b-1f45-4254-abce-218b772b1df6",
-   "fonte": "InPA",
-   "titolo": "PUBBLICA SELEZIONE PER TITOLI ED EVENTUALE COLLOQUIO PER IL CONFERIMENTO DI N. 1 BORSA DI STUDIO PER LAUREATO MAGISTRALE IN PSICOLOGIA - CURRICULUM PSICOLOGIA DELLO SVILUPPO E DELLA COMUNICAZIONE, PRESSO LA UOC TERAPIA INTENSIVA E SEMI-INTENSIVA NEONATALE E PEDIATRICA",
-   "figura": "Psicologa",
-   "ente": "Istituto Giannina Gaslini",
-   "descrizione": "PUBBLICA SELEZIONE PER TITOLI ED EVENTUALE COLLOQUIO PER IL CONFERIMENTO DI N. 1 BORSA DI STUDIO PER LAUREATO MAGISTRALE IN PSICOLOGIA - CURRICULUM PSICOLOGIA DELLO SVILUPPO E DELLA COMUNICAZIONE, PRESSO LA UOC TERAPIA INTENSIVA E SEMI-INTENSIVA NEONATALE E PEDIATRICA",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=cc3cbb75ad48499fba31af2eee2d0981",
-   "pubblicazione": "2026-08-28T13:00:00Z",
-   "scadenza": "2026-09-14T10:00:00Z",
-   "stato": "Aperto",
-   "posti": 1,
-   "procedura": "TITOLI_COLLOQUIO",
-   "sede": "Genova",
-   "provincia": "Genova",
-   "km": 139,
-   "ambito": "provincia",
-   "punteggio": 48,
-   "tag": [
-    "ricerca",
-    "ente-ricerca",
-    "requisiti"
-   ],
-   "motivi": [
-    "borsa di studio",
-    "irccs",
-    "laurea magistrale"
-   ],
-   "fascia": "buona",
-   "giorni_rimasti": 0,
-   "titolo_verdetto": "escluso",
-   "titolo_nota": "Classi ammesse: LM-51. LM-21 non e' compresa.",
-   "titolo_classi": [
-    "LM-51"
-   ],
-   "titolo_nomi": [
-    "Psicologia"
-   ]
-  },
-  {
-   "id": "inpa:d25c752de845496b9819cf1cbb7fd33c",
-   "media_id": "6d005c89-29f1-4dc3-8071-085dceacc25f",
-   "fonte": "InPA",
-   "titolo": "PROVINCIA DI LUCCA - CONCORSO PUBBLICO PER ESAMI PER LA COPERTURA DI N. 1 POSTO DI “ESPERTO DI SERVIZI INFORMATICI” - AREA DEGLI ISTRUTTORI A TEMPO PIENO ED INDETERMINATO – COMPARTO FUNZIONI LOCALI",
-   "figura": "Area Istruttori - profilo informatico",
-   "ente": "Provincia di Lucca",
-   "descrizione": "Concorso pubblico per esami per la copertura a tempo indeterminato e pieno di n. 1 posto di “Esperto di servizi informatici” Area degli Istruttori – CCNL Comparto Funzioni Locali - da destinare al Settore Servizi all’Ente, ai Comuni e al Cittadino – Ufficio Sistemi Informativi CED della Provincia di Lucca.",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=d25c752de845496b9819cf1cbb7fd33c",
-   "pubblicazione": "2026-08-14T10:00:00Z",
-   "scadenza": "2026-09-13T21:59:00Z",
-   "stato": "Aperto",
-   "posti": 1,
-   "procedura": "ESAMI",
-   "sede": "Lucca",
-   "provincia": "Lucca",
-   "km": 17,
-   "ambito": "provincia",
-   "punteggio": 44,
-   "tag": [
-    "ai-ml",
-    "ict"
-   ],
-   "motivi": [
-    "ai",
-    "sistemi informativ"
-   ],
-   "fascia": "buona",
-   "giorni_rimasti": 0,
-   "titolo_verdetto": "ignoto",
-   "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
-   "titolo_classi": [],
    "titolo_nomi": []
   },
   {
@@ -690,7 +616,7 @@
     "cineca."
    ],
    "fascia": "buona",
-   "giorni_rimasti": 4,
+   "giorni_rimasti": 3,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -724,7 +650,7 @@
     "laurea specialistica"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 22,
+   "giorni_rimasti": 21,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il PDF non contiene testo leggibile (scansione): da verificare a mano.",
    "titolo_classi": [],
@@ -758,7 +684,7 @@
     "laurea magistrale"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 2,
+   "giorni_rimasti": 1,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -792,7 +718,7 @@
     "laurea magistrale"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 15,
+   "giorni_rimasti": 14,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -826,7 +752,7 @@
     "laurea magistrale"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 12,
+   "giorni_rimasti": 11,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -859,7 +785,7 @@
     "statistic"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 13,
+   "giorni_rimasti": 12,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-17, LM-32, LM-40, LM-82, LM-9. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -872,56 +798,36 @@
    "titolo_nomi": []
   },
   {
-   "id": "inpa:85e6fe2f27d14aa0b0590991fa6e0ce4",
-   "media_id": "142db847-dc05-4cac-9bd9-11d5a288aca1",
+   "id": "inpa:244fa1390b0a4c048b217c6de9d0a97b",
+   "media_id": "ec63e5f1-f2e6-4996-8638-ec04f03b0a71",
    "fonte": "InPA",
-   "titolo": "PROVINCIA DI LUCCA - CONCORSO PUBBLICO PER ESAMI PER LA COPERTURA DI N. 1 POSTO DI “SPECIALISTA IN ATTIVITÀ STATISTICHE E DEMOGRAFICHE” - AREA DEI FUNZIONARI ED E.Q. A TEMPO PIENO ED INDETERMINATO – COMPARTO FUNZIONI LOCALI",
-   "figura": "Area Funzionarie e EQ - profilo Statistico",
-   "ente": "Provincia di Lucca",
-   "descrizione": "concorso pubblico per esami per la copertura a tempo indeterminato e pieno di n. 1 posto di “Specialista in attività statistiche e demografiche” Area dei Funzionari e EQ – CCNL Comparto Funzioni Locali - da destinare al Settore Segret eria /Direzione Generale - Ufficio Programmazione generale controllo di gestione e innovazione della Provincia di Lucca.",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=85e6fe2f27d14aa0b0590991fa6e0ce4",
-   "pubblicazione": "2026-08-14T10:00:00Z",
-   "scadenza": "2026-09-13T21:59:00Z",
+   "titolo": "Università di Pisa - Selezione pubblica per n. 1 unità di personale da inquadrare nell’Area delle Elevate Professionalità settore amministrativo-dipartimentale o amministrativo gestionale, per le esigenze delle Direzioni, Dipartimenti, Centri e Sistemi di Ateneo",
+   "figura": "Area delle Elevate Professionalità",
+   "ente": "Universita' di Pisa",
+   "descrizione": "Selezione pubblica per n. 1 unità di personale da inquadrare nell’Area delle Elevate Professionalità settore amministrativo-dipartimentale o amministrativo gestionale, per le esigenze delle Direzioni, Dipartimenti, Centri e Sistemi di Ateneo. Le domande di ammissione alla selezione devono essere presentate esclusivamente tramite la piattaforma PICA https://pica.cineca.it/unipi/",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=244fa1390b0a4c048b217c6de9d0a97b",
+   "pubblicazione": "2026-09-14T07:00:00Z",
+   "scadenza": "2026-10-14T11:00:00Z",
    "stato": "Aperto",
    "posti": 1,
-   "procedura": "ESAMI",
-   "sede": "Lucca",
-   "provincia": "Lucca",
-   "km": 17,
+   "procedura": "TITOLI_ESAMI",
+   "sede": "Pisa",
+   "provincia": "Pisa",
+   "km": 0,
    "ambito": "provincia",
    "punteggio": 34,
    "tag": [
-    "ai-ml",
-    "ict"
+    "ente-ricerca"
    ],
    "motivi": [
-    "statistic",
-    "area dei funzionari e eq – ccnl comparto"
+    "università di pisa",
+    "cineca."
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 0,
-   "titolo_verdetto": "escluso",
-   "titolo_nota": "Classi ammesse: LM-16, LM-31, LM-40, LM-44, LM-56, LM-63, LM-66, LM-77. LM-21 non e' compresa.",
-   "titolo_classi": [
-    "L-18",
-    "L-30",
-    "L-31",
-    "L-33",
-    "L-35",
-    "L-40",
-    "L-8",
-    "LM-16",
-    "LM-31",
-    "LM-40",
-    "LM-44",
-    "LM-56",
-    "LM-63",
-    "LM-66",
-    "LM-77",
-    "LM-82",
-    "LM-83",
-    "LM-88"
-   ],
+   "giorni_rimasti": 30,
+   "titolo_verdetto": "ignoto",
+   "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
+   "titolo_classi": [],
    "titolo_nomi": []
   },
   {
@@ -952,7 +858,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 27,
+   "giorni_rimasti": 26,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Medicina e Chirurgia e abilitazione all. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -988,7 +894,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 15,
+   "giorni_rimasti": 14,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Titoli richiesti: Fisioterapia; professioni sanitarie della riabilitazione. Ingegneria biomedica non c'e'.",
    "titolo_classi": [],
@@ -1025,7 +931,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 5,
+   "giorni_rimasti": 4,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1057,7 +963,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 16,
+   "giorni_rimasti": 15,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1091,7 +997,7 @@
     "azienda usl"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 10,
+   "giorni_rimasti": 9,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-16, LM-56, LM-62, LM-63, LM-77, LM-82, LM-83, LM-87. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1132,7 +1038,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 20,
+   "giorni_rimasti": 19,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1164,7 +1070,7 @@
     "post-doc"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 10,
+   "giorni_rimasti": 9,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -1196,7 +1102,7 @@
     "post-doc"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 10,
+   "giorni_rimasti": 9,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
