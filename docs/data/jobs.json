@@ -1,28 +1,28 @@
 {
- "aggiornato": "2026-09-14T10:24:22+00:00",
+ "aggiornato": "2026-09-15T09:51:06+00:00",
  "raggio_km": 150,
  "origine": "Pisa",
  "statistiche": {
-  "grezzi": 371,
+  "grezzi": 375,
   "pubblicati": 29,
-  "scartati_distanza": 37,
-  "scartati_profilo": 305,
+  "scartati_distanza": 40,
+  "scartati_profilo": 306,
   "per_fascia": {
    "alta": 6,
    "buona": 14,
    "possibile": 9
   },
   "per_titolo": {
-   "escluso": 9,
+   "escluso": 8,
    "ammesso": 3,
-   "ignoto": 17
+   "ignoto": 18
   }
  },
  "errori_fonti": [],
  "fonti": [
   {
    "fonte": "InPA",
-   "annunci": 371,
+   "annunci": 375,
    "nota": null
   },
   {
@@ -71,7 +71,7 @@
     "area dei funzionari – settore scientific"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 16,
+   "giorni_rimasti": 15,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-25, LM-29, LM-32. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -154,7 +154,7 @@
     "laurea specialistica"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 2,
+   "giorni_rimasti": 1,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 6/S, 65/S, 87/S, 9/S, LM-57, LM-6, LM-85, LM-9. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -206,7 +206,7 @@
     "laurea magistrale"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 11,
+   "giorni_rimasti": 10,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 36/S, LM-33. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -244,7 +244,7 @@
     "collaboratore professionale di ricerca"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 14,
+   "giorni_rimasti": 13,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Titoli richiesti: Medicina e Chirurgia; Professioni Sanitarie; Biologia; Scienze Motorie. Ingegneria biomedica non c'e'.",
    "titolo_classi": [],
@@ -286,7 +286,7 @@
     "laurea specialistica"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 14,
+   "giorni_rimasti": 13,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -322,7 +322,7 @@
     "ai"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 7,
+   "giorni_rimasti": 6,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
@@ -357,9 +357,79 @@
     "bioingegner"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 2,
+   "giorni_rimasti": 1,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Nessuna classe elencata: il requisito e' il dottorato di ricerca.",
+   "titolo_classi": [],
+   "titolo_nomi": []
+  },
+  {
+   "id": "inpa:b4b4dfe215a443a590092d2dbedefe0b",
+   "media_id": "ae7c4d94-9c69-4483-b17f-9dce018e0b92",
+   "fonte": "InPA",
+   "titolo": "BANDO CNR N. 367.638 CTER IIT",
+   "figura": "COLLABORATORE TECNICO ENTI DI RICERCA VI LIVELLO PROFESSIONALE",
+   "ente": "Consiglio Nazionale delle Ricerche - CNR",
+   "descrizione": "BANDO CNR N. 367.638 CTER IIT - CONCORSO PUBBLICO PER TITOLI ED ESAMI PER L’ASSUNZIONE CON CONTRATTO DI LAVORO A TEMPO PIENO E INDETERMINATO DI N. 1 UNITÀ DI PERSONALE PROFILO COLLABORATORE TECNICO ENTI DI RICERCA, VI LIVELLO PROFESSIONALE PRESSO L’ISTITUTO DI INFORMATICA E TELEMATICA (IIT) DEL CONSIGLIO NAZIONALE DELLE RICERCHE CON SEDE A PISA.",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=b4b4dfe215a443a590092d2dbedefe0b",
+   "pubblicazione": "2026-09-14T16:00:00Z",
+   "scadenza": "2026-10-14T16:00:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_ESAMI",
+   "sede": "Pisa",
+   "provincia": "Pisa",
+   "km": 0,
+   "ambito": "provincia",
+   "punteggio": 58,
+   "tag": [
+    "ricerca",
+    "ente-ricerca"
+   ],
+   "motivi": [
+    "cter",
+    "cnr",
+    "iit"
+   ],
+   "fascia": "buona",
+   "giorni_rimasti": 29,
+   "titolo_verdetto": "ignoto",
+   "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
+   "titolo_classi": [],
+   "titolo_nomi": []
+  },
+  {
+   "id": "inpa:8ba1715c547747469480a25b93c963fb",
+   "media_id": "eb62cb86-6e39-4525-961d-f1924086b2e7",
+   "fonte": "InPA",
+   "titolo": "BANDO CNR N. 367.639 CTER IIT",
+   "figura": "COLLABORATORE TECNICO ENTI DI RICERCA VI LIVELLO PROFESSIONALE",
+   "ente": "Consiglio Nazionale delle Ricerche - CNR",
+   "descrizione": "BANDO CNR N. 367.639 CTER IIT - CONCORSO PUBBLICO PER TITOLI ED ESAMI PER L’ASSUNZIONE CON CONTRATTO DI LAVORO A TEMPO PIENO E INDETERMINATO DI N. 1 UNITÀ DI PERSONALE PROFILO COLLABORATORE TECNICO ENTI DI RICERCA, VI LIVELLO PROFESSIONALE PRESSO L’ISTITUTO DI INFORMATICA E TELEMATICA (IIT) DEL CONSIGLIO NAZIONALE DELLE RICERCHE CON SEDE A PISA.",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=8ba1715c547747469480a25b93c963fb",
+   "pubblicazione": "2026-09-14T16:00:00Z",
+   "scadenza": "2026-10-14T16:00:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_ESAMI",
+   "sede": "Pisa",
+   "provincia": "Pisa",
+   "km": 0,
+   "ambito": "provincia",
+   "punteggio": 58,
+   "tag": [
+    "ricerca",
+    "ente-ricerca"
+   ],
+   "motivi": [
+    "cter",
+    "cnr",
+    "iit"
+   ],
+   "fascia": "buona",
+   "giorni_rimasti": 29,
+   "titolo_verdetto": "ignoto",
+   "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
    "titolo_nomi": []
   },
@@ -390,87 +460,11 @@
     "iii livello"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 20,
+   "giorni_rimasti": 19,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
    "titolo_nomi": []
-  },
-  {
-   "id": "inpa:0f402215db184bb38ef622a588e2d2a6",
-   "media_id": "f93a1e81-c2dc-41ea-b291-e4cd40fa4fde",
-   "fonte": "InPA",
-   "titolo": "AZIENDA OSPEDALIERA METROPOLITANA (AOM) PUBBLICA SELEZIONE, PER TITOLI E COLLOQUIO, PER UNA BORSA DI STUDIO, DELLA DURATA DI 24 MESI, INTITOLATA AL NOME DI FRANCESCO DE CESARE E FINALIZZATA ALLA RICERCA IN CAMPO ONCOLOGICO, IN SPECIE AL SUPPORTO DEL PROGETTO DAL TITOLO “SVILUPPO DI PIATTAFORME INTEGRATE PER LO SCREENING FARMACOLOGICO E LA CARATTERIZZAZIONE MOLECOLARE DI MODELLI TUMORALI MEDIANTE SPETTROMETRIA DI MASSA” DA SVOLGERSI PRESSO LA S.S.D. PROTEOMICA E SPETTROMETRIA DI MASSA.",
-   "figura": "Borsista",
-   "ente": "IRCCS Ospedale Policlinico San Martino",
-   "descrizione": "PUBBLICA SELEZIONE, PER TITOLI E COLLOQUIO, PER L’ASSEGNAZIONE DI UNA BORSA DI STUDIO, DELLA DURATA DI 24 MESI, INTITOLATA AL NOME DI FRANCESCO DE CESARE E FINALIZZATA ALLA RICERCA IN CAMPO ONCOLOGICO, IN SPECIE AL SUPPORTO DEL PROGETTO DAL TITOLO “SVILUPPO DI PIATTAFORME INTEGRATE PER LO SCREENING FARMACOLOGICO E LA CARATTERIZZAZIONE MOLECOLARE DI MODELLI TUMORALI MEDIANTE SPETTROMETRIA DI MASSA” (R351A), DA SVOLGERSI PRESSO LA S.S.D. PROTEOMICA E SPETTROMETRIA DI MASSA.",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0f402215db184bb38ef622a588e2d2a6",
-   "pubblicazione": "2026-08-24T15:05:00Z",
-   "scadenza": "2026-09-14T21:59:00Z",
-   "stato": "Aperto",
-   "posti": 1,
-   "procedura": "TITOLI_COLLOQUIO",
-   "sede": "Genova",
-   "provincia": "Genova",
-   "km": 139,
-   "ambito": "provincia",
-   "punteggio": 52,
-   "tag": [
-    "ricerca",
-    "ente-ricerca",
-    "sanita"
-   ],
-   "motivi": [
-    "borsa di studio",
-    "irccs",
-    "azienda ospedalier"
-   ],
-   "fascia": "buona",
-   "giorni_rimasti": 0,
-   "titolo_verdetto": "ignoto",
-   "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
-   "titolo_classi": [],
-   "titolo_nomi": []
-  },
-  {
-   "id": "inpa:fad82f3fe0554647981f8eacad239d28",
-   "media_id": "5bfb1bd1-e6a1-43fb-86e6-6646de0373da",
-   "fonte": "InPA",
-   "titolo": "AZIENDA OSPEDALIERA METROPOLITANA (AOM) - PUBBLICA SELEZIONE, PER TITOLI E COLLOQUIO, PER L’ASSEGNAZIONE DI UNA BORSA DI STUDIO, DELLA DURATA DI 6 MESI, PER COLLABORARE AL PROGETTO DI RICERCA DENOMINATO “EVALUATION OF NEW THERAPIES FOR BRAIN TUMOR: TRAINED IMMUNITY AND ONCOLYTIC VIROTHERAPY TARGETING EGFRVIII DRIVEN GLIOBLASTOMA GR-2021-12373323” CUP C23C21000140001 (R403A), DA SVOLGERSI PRESSO LA U.O. NEURO- ONCOLOGIA E MUTAGENESI.",
-   "figura": "Borsista",
-   "ente": "IRCCS Ospedale Policlinico San Martino",
-   "descrizione": "PUBBLICA SELEZIONE, PER TITOLI E COLLOQUIO, PER L’ASSEGNAZIONE DI UNA BORSA DI STUDIO, DELLA DURATA DI 6 MESI, PER COLLABORARE AL PROGETTO DI RICERCA DENOMINATO “EVALUATION OF NEW THERAPIES FOR BRAIN TUMOR: TRAINED IMMUNITY AND ONCOLYTIC VIROTHERAPY TARGETING EGFRVIII DRIVEN GLIOBLASTOMA GR-2021-12373323” CUP C23C21000140001 (R403A), DA SVOLGERSI PRESSO LA U.O. NEURO- ONCOLOGIA E MUTAGENESI.",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=fad82f3fe0554647981f8eacad239d28",
-   "pubblicazione": "2026-08-24T10:30:00Z",
-   "scadenza": "2026-09-14T21:59:00Z",
-   "stato": "Aperto",
-   "posti": 1,
-   "procedura": "TITOLI_COLLOQUIO",
-   "sede": "Genova",
-   "provincia": "Genova",
-   "km": 139,
-   "ambito": "provincia",
-   "punteggio": 52,
-   "tag": [
-    "ricerca",
-    "ente-ricerca",
-    "sanita"
-   ],
-   "motivi": [
-    "borsa di studio",
-    "irccs",
-    "azienda ospedalier"
-   ],
-   "fascia": "buona",
-   "giorni_rimasti": 0,
-   "titolo_verdetto": "escluso",
-   "titolo_nota": "Classi ammesse: LM-13. LM-21 non e' compresa.",
-   "titolo_classi": [
-    "LM-13"
-   ],
-   "titolo_nomi": [
-    "Farmacia e farmacia industriale"
-   ]
   },
   {
    "id": "inpa:85629b16128446fcba06bf8242f6850f",
@@ -500,7 +494,7 @@
     "data scien"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 6,
+   "giorni_rimasti": 5,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -534,7 +528,7 @@
     "ai"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 11,
+   "giorni_rimasti": 10,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Nessuna classe richiesta: ammessa qualunque laurea magistrale.",
    "titolo_classi": [],
@@ -568,7 +562,7 @@
     "funzionario tecnic"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 16,
+   "giorni_rimasti": 15,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 28/S, 3/S, 38/S, 4/S, LM-23, LM-24, LM-26, LM-3. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -616,7 +610,7 @@
     "cineca."
    ],
    "fascia": "buona",
-   "giorni_rimasti": 3,
+   "giorni_rimasti": 2,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -650,7 +644,7 @@
     "laurea specialistica"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 21,
+   "giorni_rimasti": 20,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il PDF non contiene testo leggibile (scansione): da verificare a mano.",
    "titolo_classi": [],
@@ -684,7 +678,7 @@
     "laurea magistrale"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 1,
+   "giorni_rimasti": 0,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -718,7 +712,7 @@
     "laurea magistrale"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 14,
+   "giorni_rimasti": 13,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -752,7 +746,7 @@
     "laurea magistrale"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 11,
+   "giorni_rimasti": 10,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -785,7 +779,7 @@
     "statistic"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 12,
+   "giorni_rimasti": 11,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-17, LM-32, LM-40, LM-82, LM-9. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -824,7 +818,7 @@
     "cineca."
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 30,
+   "giorni_rimasti": 29,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -858,7 +852,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 26,
+   "giorni_rimasti": 25,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Medicina e Chirurgia e abilitazione all. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -894,7 +888,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 14,
+   "giorni_rimasti": 13,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Titoli richiesti: Fisioterapia; professioni sanitarie della riabilitazione. Ingegneria biomedica non c'e'.",
    "titolo_classi": [],
@@ -931,7 +925,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 4,
+   "giorni_rimasti": 3,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1038,7 +1032,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 19,
+   "giorni_rimasti": 18,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1070,7 +1064,7 @@
     "post-doc"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 9,
+   "giorni_rimasti": 8,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -1102,7 +1096,7 @@
     "post-doc"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 9,
+   "giorni_rimasti": 8,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
