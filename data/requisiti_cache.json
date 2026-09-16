@@ -517,5 +517,59 @@
   "dottorato_affine": false,
   "caratteri": 49469,
   "letto_il": "2026-09-15"
+ },
+ "532c31c2-b5af-42f4-b40b-c3c3a15d3dca": {
+  "classi": [
+   "27/S",
+   "LM-22"
+  ],
+  "nomi": [
+   "Ingegneria Chimica"
+  ],
+  "errore": null,
+  "qualsiasi_magistrale": true,
+  "nome_titolo": false,
+  "dottorato": true,
+  "dottorato_affine": false,
+  "caratteri": 42434,
+  "letto_il": "2026-09-16"
+ },
+ "d2467569-cec2-48b2-9c96-dc31ddfb8916": {
+  "classi": [
+   "20/S",
+   "LM-17"
+  ],
+  "nomi": [
+   "Fisica"
+  ],
+  "errore": null,
+  "qualsiasi_magistrale": true,
+  "nome_titolo": false,
+  "dottorato": true,
+  "dottorato_affine": false,
+  "caratteri": 42584,
+  "letto_il": "2026-09-16"
+ },
+ "8a0def0d-ba5f-4932-8353-b221c4934a7b": {
+  "classi": [
+   "20/S",
+   "32/S",
+   "61/S",
+   "91/S",
+   "LM-17",
+   "LM-29",
+   "LM-53",
+   "LM-82"
+  ],
+  "nomi": [
+   "Scienze Statistiche"
+  ],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 34719,
+  "letto_il": "2026-09-16"
  }
 }
