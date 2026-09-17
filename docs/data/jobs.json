@@ -1,28 +1,28 @@
 {
- "aggiornato": "2026-09-16T09:46:00+00:00",
+ "aggiornato": "2026-09-17T09:54:25+00:00",
  "raggio_km": 150,
  "origine": "Pisa",
  "statistiche": {
-  "grezzi": 376,
-  "pubblicati": 30,
-  "scartati_distanza": 42,
-  "scartati_profilo": 304,
+  "grezzi": 381,
+  "pubblicati": 29,
+  "scartati_distanza": 44,
+  "scartati_profilo": 308,
   "per_fascia": {
-   "alta": 7,
+   "alta": 6,
    "buona": 14,
    "possibile": 9
   },
   "per_titolo": {
    "escluso": 11,
    "ignoto": 17,
-   "ammesso": 2
+   "ammesso": 1
   }
  },
  "errori_fonti": [],
  "fonti": [
   {
    "fonte": "InPA",
-   "annunci": 375,
+   "annunci": 380,
    "nota": null
   },
   {
@@ -71,67 +71,13 @@
     "area dei funzionari – settore scientific"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 14,
+   "giorni_rimasti": 13,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-25, LM-29, LM-32. LM-21 non e' compresa.",
    "titolo_classi": [
     "LM-25",
     "LM-29",
     "LM-32"
-   ],
-   "titolo_nomi": []
-  },
-  {
-   "id": "inpa:2b9d737b5a234ac2af66038f9a07b87d",
-   "media_id": "8b2afdaa-5ae7-4b81-8dae-036cedc76ada",
-   "fonte": "InPA",
-   "titolo": "Concorso pubblico, per titoli ed esami, per n. 1 posto, Area dei Funzionari, settore scientifico-tecnologico, con contratto di lavoro subordinato a tempo indeterminato e pieno, per le esigenze del Dipartimento di Medicina Sperimentale e Clinica (DMSC).",
-   "figura": "Funzionario",
-   "ente": "Universita' degli Studi di Firenze",
-   "descrizione": "Concorso pubblico, per titoli ed esami, per n. 1 posto, Area dei Funzionari, settore scientifico-tecnologico, con contratto di lavoro subordinato a tempo indeterminato e pieno, per le esigenze del Dipartimento di Medicina Sperimentale e Clinica (DMSC).",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2b9d737b5a234ac2af66038f9a07b87d",
-   "pubblicazione": "2026-08-06T11:00:00Z",
-   "scadenza": "2026-09-16T21:59:00Z",
-   "stato": "Aperto",
-   "posti": 1,
-   "procedura": "TITOLI_ESAMI",
-   "sede": "Firenze",
-   "provincia": "Firenze",
-   "km": 69,
-   "ambito": "provincia",
-   "punteggio": 108,
-   "tag": [
-    "ai-ml",
-    "biomedico",
-    "ict",
-    "requisiti"
-   ],
-   "motivi": [
-    "ai",
-    "ingegneria biomedic",
-    "area dei funzionari, settore scientific",
-    "settore scientifico-tecnologico",
-    "laurea specialistica"
-   ],
-   "fascia": "alta",
-   "giorni_rimasti": 0,
-   "titolo_verdetto": "escluso",
-   "titolo_nota": "Classi ammesse: 6/S, 65/S, 87/S, 9/S, LM-57, LM-6, LM-85, LM-9. LM-21 non e' compresa.",
-   "titolo_classi": [
-    "6/S",
-    "65/S",
-    "87/S",
-    "9/S",
-    "L-13",
-    "L-19",
-    "L-2",
-    "L-20",
-    "LM-57",
-    "LM-6",
-    "LM-85",
-    "LM-9",
-    "LM-91",
-    "LM-92"
    ],
    "titolo_nomi": []
   },
@@ -166,7 +112,7 @@
     "laurea magistrale"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 9,
+   "giorni_rimasti": 8,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 36/S, LM-33. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -204,7 +150,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 29,
+   "giorni_rimasti": 28,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 27/S, LM-22. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -244,7 +190,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 29,
+   "giorni_rimasti": 28,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 20/S, LM-17. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -284,7 +230,7 @@
     "collaboratore professionale di ricerca"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 12,
+   "giorni_rimasti": 11,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Titoli richiesti: Medicina e Chirurgia; Professioni Sanitarie; Biologia; Scienze Motorie. Ingegneria biomedica non c'e'.",
    "titolo_classi": [],
@@ -326,7 +272,7 @@
     "laurea specialistica"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 12,
+   "giorni_rimasti": 11,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -362,46 +308,10 @@
     "ai"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 5,
+   "giorni_rimasti": 4,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
-  },
-  {
-   "id": "inpa:a5e71667a21e4ed6a9da1339e9edb37a",
-   "media_id": "383e45b8-d8eb-4290-9453-3c9c23ff2d0a",
-   "fonte": "InPA",
-   "titolo": "UNIVERSITA' DEGLI STUDI DI GENOVA - procedura pubblica, per titoli ed esami, per la costituzione di rapporto di lavoro a tempo determinato e pieno n. 1 unità di personale da inquadrare nell’Area dei Collaboratori, profilo di Tecnico a supporto della gestione dei corsi di dottorato di ricerca dipartimentali - DIBRIS",
-   "figura": "Area dei Collaboratori - Settore professionale tecnico, scientifico, tecnologico, informatico e dei servizi generali",
-   "ente": "Universita Degli Studi di Genova",
-   "descrizione": "Procedura selettiva pubblica, per titoli ed esami, per la costituzione di rapporto di lavoro a tempo determinato e pieno per la durata di 12 mesi, rinnovabile annualmente per una durata massima di complessivi tre anni, con n. 1 unità di personale da inquadrare nell’Area dei Collaboratori, Settore professionale tecnico, scientifico, tecnologico, informatico e dei servizi generali, con profilo di Tecnico a supporto della gestione dei corsi di dottorato di ricerca dipartimentali presso il Dipartimento di Informatica, Bioingegneria, Robotica e Ingegneria dei Sistemi – DIBRIS.",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a5e71667a21e4ed6a9da1339e9edb37a",
-   "pubblicazione": "2026-08-17T22:00:00Z",
-   "scadenza": "2026-09-16T21:59:00Z",
-   "stato": "Aperto",
-   "posti": 1,
-   "procedura": "TITOLI_ESAMI",
-   "sede": "Genova",
-   "provincia": "Genova",
-   "km": 139,
-   "ambito": "provincia",
-   "punteggio": 64,
-   "tag": [
-    "ricerca",
-    "ente-ricerca",
-    "biomedico"
-   ],
-   "motivi": [
-    "dottorat",
-    "universita degli studi di genova",
-    "bioingegner"
-   ],
-   "fascia": "buona",
-   "giorni_rimasti": 0,
-   "titolo_verdetto": "ammesso",
-   "titolo_nota": "Nessuna classe elencata: il requisito e' il dottorato di ricerca.",
-   "titolo_classi": [],
-   "titolo_nomi": []
   },
   {
    "id": "inpa:b4b4dfe215a443a590092d2dbedefe0b",
@@ -432,7 +342,7 @@
     "iit"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 28,
+   "giorni_rimasti": 27,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -467,10 +377,58 @@
     "iit"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 28,
+   "giorni_rimasti": 27,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
+   "titolo_nomi": []
+  },
+  {
+   "id": "inpa:494a31094c0540ddaa960325ebe163b2",
+   "media_id": "b9c9d7fb-70f3-43ce-aa06-f77422ff37f7",
+   "fonte": "InPA",
+   "titolo": "CREA-AA Centro di ricerca Agricoltura e Ambiente | Progetto “AgroMIND\" bando selezione pubblica e assunzione di un RICERCATORE III livello, a tempo determinato e pieno, per 15 (quindici) mesi. Sede di Firenze.",
+   "figura": "RICERCATORE",
+   "ente": "Consiglio per la ricerca in agricoltura e l'analisi dell'economia agraria",
+   "descrizione": "CREA-AA | Progetto “AgroMIND\" bando selezione pubblica e assunzione di un RICERCATORE III livello, a tempo determinato e pieno, per 15 (quindici) mesi. Sede di Firenze.",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=494a31094c0540ddaa960325ebe163b2",
+   "pubblicazione": "2026-09-17T09:22:00Z",
+   "scadenza": "2026-10-02T21:59:00Z",
+   "stato": "Aperto",
+   "posti": 3,
+   "procedura": "TITOLI_COLLOQUIO",
+   "sede": "Firenze",
+   "provincia": "Firenze",
+   "km": 69,
+   "ambito": "provincia",
+   "punteggio": 56,
+   "tag": [
+    "ricerca"
+   ],
+   "motivi": [
+    "ricercator",
+    "iii livello"
+   ],
+   "fascia": "buona",
+   "giorni_rimasti": 15,
+   "titolo_verdetto": "escluso",
+   "titolo_nota": "Classi ammesse: LM-17, LM-20, LM-23, LM-32, LM-35, LM-44, LM-58, LM-60. LM-21 non e' compresa.",
+   "titolo_classi": [
+    "LM-17",
+    "LM-20",
+    "LM-23",
+    "LM-32",
+    "LM-35",
+    "LM-44",
+    "LM-58",
+    "LM-60",
+    "LM-69",
+    "LM-73",
+    "LM-74",
+    "LM-75",
+    "LM-79",
+    "LM-82"
+   ],
    "titolo_nomi": []
   },
   {
@@ -500,7 +458,7 @@
     "iii livello"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 18,
+   "giorni_rimasti": 17,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -534,7 +492,7 @@
     "data scien"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 4,
+   "giorni_rimasti": 3,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -568,7 +526,7 @@
     "ai"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 9,
+   "giorni_rimasti": 8,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Nessuna classe richiesta: ammessa qualunque laurea magistrale.",
    "titolo_classi": [],
@@ -602,7 +560,7 @@
     "funzionario tecnic"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 14,
+   "giorni_rimasti": 13,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 28/S, 3/S, 38/S, 4/S, LM-23, LM-24, LM-26, LM-3. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -650,7 +608,7 @@
     "cnr"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 29,
+   "giorni_rimasti": 28,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 20/S, 32/S, 61/S, 91/S, LM-17, LM-29, LM-53, LM-82. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -695,7 +653,7 @@
     "cineca."
    ],
    "fascia": "buona",
-   "giorni_rimasti": 1,
+   "giorni_rimasti": 0,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -729,7 +687,7 @@
     "laurea specialistica"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 19,
+   "giorni_rimasti": 18,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il PDF non contiene testo leggibile (scansione): da verificare a mano.",
    "titolo_classi": [],
@@ -763,7 +721,7 @@
     "laurea magistrale"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 12,
+   "giorni_rimasti": 11,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -797,7 +755,7 @@
     "laurea magistrale"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 9,
+   "giorni_rimasti": 8,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -830,7 +788,7 @@
     "statistic"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 10,
+   "giorni_rimasti": 9,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-17, LM-32, LM-40, LM-82, LM-9. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -869,7 +827,7 @@
     "cineca."
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 28,
+   "giorni_rimasti": 27,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -903,7 +861,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 24,
+   "giorni_rimasti": 23,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Medicina e Chirurgia e abilitazione all. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -939,7 +897,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 12,
+   "giorni_rimasti": 11,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Titoli richiesti: Fisioterapia; professioni sanitarie della riabilitazione. Ingegneria biomedica non c'e'.",
    "titolo_classi": [],
@@ -976,7 +934,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 2,
+   "giorni_rimasti": 1,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1008,7 +966,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 14,
+   "giorni_rimasti": 13,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1042,7 +1000,7 @@
     "azienda usl"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 8,
+   "giorni_rimasti": 7,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-16, LM-56, LM-62, LM-63, LM-77, LM-82, LM-83, LM-87. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1083,7 +1041,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 17,
+   "giorni_rimasti": 16,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1115,7 +1073,7 @@
     "post-doc"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 7,
+   "giorni_rimasti": 6,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -1147,7 +1105,7 @@
     "post-doc"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 7,
+   "giorni_rimasti": 6,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []

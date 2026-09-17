@@ -571,5 +571,31 @@
   "dottorato_affine": false,
   "caratteri": 34719,
   "letto_il": "2026-09-16"
+ },
+ "b9c9d7fb-70f3-43ce-aa06-f77422ff37f7": {
+  "classi": [
+   "LM-17",
+   "LM-20",
+   "LM-23",
+   "LM-32",
+   "LM-35",
+   "LM-44",
+   "LM-58",
+   "LM-60",
+   "LM-69",
+   "LM-73",
+   "LM-74",
+   "LM-75",
+   "LM-79",
+   "LM-82"
+  ],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": true,
+  "dottorato_affine": false,
+  "caratteri": 55846,
+  "letto_il": "2026-09-17"
  }
 }
