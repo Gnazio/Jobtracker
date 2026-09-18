@@ -1,28 +1,28 @@
 {
- "aggiornato": "2026-09-17T09:54:25+00:00",
+ "aggiornato": "2026-09-18T09:27:43+00:00",
  "raggio_km": 150,
  "origine": "Pisa",
  "statistiche": {
-  "grezzi": 381,
-  "pubblicati": 29,
+  "grezzi": 401,
+  "pubblicati": 35,
   "scartati_distanza": 44,
-  "scartati_profilo": 308,
+  "scartati_profilo": 322,
   "per_fascia": {
-   "alta": 6,
-   "buona": 14,
-   "possibile": 9
+   "alta": 7,
+   "buona": 16,
+   "possibile": 12
   },
   "per_titolo": {
-   "escluso": 11,
-   "ignoto": 17,
-   "ammesso": 1
+   "escluso": 12,
+   "ignoto": 21,
+   "ammesso": 2
   }
  },
  "errori_fonti": [],
  "fonti": [
   {
    "fonte": "InPA",
-   "annunci": 380,
+   "annunci": 400,
    "nota": null
   },
   {
@@ -71,7 +71,7 @@
     "area dei funzionari – settore scientific"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 13,
+   "giorni_rimasti": 12,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-25, LM-29, LM-32. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -112,7 +112,7 @@
     "laurea magistrale"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 8,
+   "giorni_rimasti": 7,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 36/S, LM-33. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -150,7 +150,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 28,
+   "giorni_rimasti": 27,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 27/S, LM-22. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -190,7 +190,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 28,
+   "giorni_rimasti": 27,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 20/S, LM-17. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -230,7 +230,7 @@
     "collaboratore professionale di ricerca"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 11,
+   "giorni_rimasti": 10,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Titoli richiesti: Medicina e Chirurgia; Professioni Sanitarie; Biologia; Scienze Motorie. Ingegneria biomedica non c'e'.",
    "titolo_classi": [],
@@ -272,11 +272,50 @@
     "laurea specialistica"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 11,
+   "giorni_rimasti": 10,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
    "titolo_nomi": []
+  },
+  {
+   "id": "inpa:9b0b8240dfa6443e8b17383cab4e66d2",
+   "media_id": "481e9dc2-5d75-4ea2-879d-7bd2e53ef6cd",
+   "fonte": "InPA",
+   "titolo": "AZIENDA OSPEDALIERA METROPOLITANA (AOM) - PUBBLICA SELEZIONE, PER TITOLI E COLLOQUIO, PER L’ASSEGNAZIONE DI UNA BORSA DI STUDIO, DELLA DURATA DI 11 MESI, PER COLLABORARE AL PROGETTO DI RICERCA FINALIZZATA DAL TITOLO “THE IMPACT OF DEVELOPMENTAL VIRAL INFECTIONS ON BRAIN MECHANISMS UNDERLYING SOCIO-COGNITIVE ALTERATIONS (PGR14690)” (GA904), DA SVOLGERSI PRESSO IL LABORATORIO GENETICS OF COGNITION (GECO) - IIT CENTER FOR SYNAPTIC NEUROSCIENCE AND TECHNOLOGY (NSYN)",
+   "figura": "Borsista",
+   "ente": "IRCCS Ospedale Policlinico San Martino",
+   "descrizione": "PUBBLICA SELEZIONE, PER TITOLI E COLLOQUIO, PER L’ASSEGNAZIONE DI UNA BORSA DI STUDIO, DELLA DURATA DI 11 MESI, PER COLLABORARE AL PROGETTO DI RICERCA FINALIZZATA DAL TITOLO “ THE IMPACT OF DEVELOPMENTAL VIRAL INFECTIONS ON BRAIN MECHANISMS UNDERLYING SOCIO-COGNITIVE ALTERATIONS (PGR14690) ” (GA904), DA SVOLGERSI PRESSO IL LABORATORIO GENETICS OF COGNITION (GECO) - IIT CENTER FOR SYNAPTIC NEUROSCIENCE AND TECHNOLOGY (NSYN).",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=9b0b8240dfa6443e8b17383cab4e66d2",
+   "pubblicazione": "2026-09-18T08:50:00Z",
+   "scadenza": "2026-10-08T21:59:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_COLLOQUIO",
+   "sede": "Genova",
+   "provincia": "Genova",
+   "km": 139,
+   "ambito": "provincia",
+   "punteggio": 70,
+   "tag": [
+    "ricerca",
+    "ente-ricerca",
+    "sanita"
+   ],
+   "motivi": [
+    "borsa di studio",
+    "iit",
+    "irccs",
+    "azienda ospedalier"
+   ],
+   "fascia": "alta",
+   "giorni_rimasti": 20,
+   "titolo_verdetto": "ignoto",
+   "titolo_nota": "Il bando sembra chiedere: Psicologia. Da verificare nel PDF.",
+   "titolo_classi": [],
+   "titolo_nomi": [
+    "Psicologia"
+   ]
   },
   {
    "id": "inpa:d6d7b8da360544a3b8837f2bf19494e2",
@@ -308,7 +347,7 @@
     "ai"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 4,
+   "giorni_rimasti": 3,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
@@ -342,7 +381,7 @@
     "iit"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 27,
+   "giorni_rimasti": 26,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -377,7 +416,7 @@
     "iit"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 27,
+   "giorni_rimasti": 26,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -410,7 +449,7 @@
     "iii livello"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 15,
+   "giorni_rimasti": 14,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-17, LM-20, LM-23, LM-32, LM-35, LM-44, LM-58, LM-60. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -458,11 +497,51 @@
     "iii livello"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 17,
+   "giorni_rimasti": 16,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
    "titolo_nomi": []
+  },
+  {
+   "id": "inpa:a1f77548cf514eb9af55d7ae76a88628",
+   "media_id": "350cac4b-b46d-4400-baf5-8a1d97c1aaef",
+   "fonte": "InPA",
+   "titolo": "AZIENDA OSPEDALIERA METROPOLITANA (AOM) -Pubblica selezione, per titoli e colloquio, per l'assegnazione di una borsa di studio, della durata di 12 mesi, per collaborare al progetto dal titolo \"Caratteristiche, gestione e outcome delle persone con infezione da HIV della Coorte Rete Ligure\" (GA904), da svolgersi presso l'U.O. Clinica Malattie Infettive e Tropicali. RIAPERTURA TERMINI",
+   "figura": "borsista",
+   "ente": "IRCCS Ospedale Policlinico San Martino",
+   "descrizione": "AZIENDA OSPEDALIERA METROPOLITANA (AOM) -Pubblica selezione, per titoli e colloquio, per l'assegnazione di una borsa di studio, della durata di 12 mesi, per collaborare al progetto dal titolo \"Caratteristiche, gestione e outcome delle persone con infezione da HIV della Coorte Rete Ligure\" (GA904), da svolgersi presso l'U.O. Clinica Malattie Infettive e Tropicali. RIAPERTURA TERMINI",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a1f77548cf514eb9af55d7ae76a88628",
+   "pubblicazione": "2026-09-17T10:22:00Z",
+   "scadenza": "2026-10-01T21:59:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_COLLOQUIO",
+   "sede": "Genova",
+   "provincia": "Genova",
+   "km": 139,
+   "ambito": "provincia",
+   "punteggio": 52,
+   "tag": [
+    "ricerca",
+    "ente-ricerca",
+    "sanita"
+   ],
+   "motivi": [
+    "borsa di studio",
+    "irccs",
+    "azienda ospedalier"
+   ],
+   "fascia": "buona",
+   "giorni_rimasti": 13,
+   "titolo_verdetto": "escluso",
+   "titolo_nota": "Classi ammesse: LM-41. LM-21 non e' compresa.",
+   "titolo_classi": [
+    "LM-41"
+   ],
+   "titolo_nomi": [
+    "Medicina e Chirurgia"
+   ]
   },
   {
    "id": "inpa:85629b16128446fcba06bf8242f6850f",
@@ -492,7 +571,7 @@
     "data scien"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 3,
+   "giorni_rimasti": 2,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -526,7 +605,7 @@
     "ai"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 8,
+   "giorni_rimasti": 7,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Nessuna classe richiesta: ammessa qualunque laurea magistrale.",
    "titolo_classi": [],
@@ -560,7 +639,7 @@
     "funzionario tecnic"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 13,
+   "giorni_rimasti": 12,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 28/S, 3/S, 38/S, 4/S, LM-23, LM-24, LM-26, LM-3. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -608,7 +687,7 @@
     "cnr"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 28,
+   "giorni_rimasti": 27,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 20/S, 32/S, 61/S, 91/S, LM-17, LM-29, LM-53, LM-82. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -624,40 +703,6 @@
    "titolo_nomi": [
     "Scienze Statistiche"
    ]
-  },
-  {
-   "id": "inpa:779e74a8b4ed46cbb0168b639ad8c091",
-   "media_id": "b1a53684-b91e-416b-aab3-40b8dd9947cd",
-   "fonte": "InPA",
-   "titolo": "Selezione per il reclutamento di un tecnologo di secondo livello, per 24 mesi, part time 50%, presso il Dipartimento di Matematica.",
-   "figura": "Tecnologo",
-   "ente": "Universita' di Pisa",
-   "descrizione": "Selezione per il reclutamento di un tecnologo di secondo livello, per 24 mesi, part time 50%, presso il Dipartimento di Matematica. Le domande di ammissione alla selezione devono essere presentate esclusivamente tramite la piattaforma PICA https://pica.cineca.it/unipi/",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=779e74a8b4ed46cbb0168b639ad8c091",
-   "pubblicazione": "2026-08-27T10:00:00Z",
-   "scadenza": "2026-09-17T11:00:00Z",
-   "stato": "Aperto",
-   "posti": 1,
-   "procedura": "TITOLI_COLLOQUIO",
-   "sede": "Pisa",
-   "provincia": "Pisa",
-   "km": 0,
-   "ambito": "provincia",
-   "punteggio": 42,
-   "tag": [
-    "ricerca",
-    "ente-ricerca"
-   ],
-   "motivi": [
-    "tecnologo",
-    "cineca."
-   ],
-   "fascia": "buona",
-   "giorni_rimasti": 0,
-   "titolo_verdetto": "ignoto",
-   "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
-   "titolo_classi": [],
-   "titolo_nomi": []
   },
   {
    "id": "inpa:a80636117a5a4f99a09bf8d561b6f0d3",
@@ -687,7 +732,7 @@
     "laurea specialistica"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 18,
+   "giorni_rimasti": 17,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il PDF non contiene testo leggibile (scansione): da verificare a mano.",
    "titolo_classi": [],
@@ -721,7 +766,7 @@
     "laurea magistrale"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 11,
+   "giorni_rimasti": 10,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -755,11 +800,77 @@
     "laurea magistrale"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 8,
+   "giorni_rimasti": 7,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
    "titolo_nomi": []
+  },
+  {
+   "id": "inpa:fe0f4ac7041d42ca80a55a252fab9398",
+   "media_id": null,
+   "fonte": "InPA",
+   "titolo": "Rif. 5391 - Concorso pubblico per titoli ed esami, per la copertura di 1 posto di collaboratore ed esperto linguistico di lingua araba, con contratto di lavoro subordinato a tempo indeterminato con un monte ore annuo pari a 750 ore, per le esigenze del Centro Linguistico di Ateneo - CLA dell'Alma Mater Studiorum, Università di Bologna.",
+   "figura": "Collaboratore ed esperto linguistico",
+   "ente": "Alma Mater Studiorum - Universita' di Bologna",
+   "descrizione": "Rif. 5391 - Concorso pubblico per titoli ed esami, per la copertura di 1 posto di collaboratore ed esperto linguistico di lingua araba, con contratto di lavoro subordinato a tempo indeterminato con un monte ore annuo pari a 750 ore, per le esigenze del Centro Linguistico di Ateneo - CLA dell'Alma Mater Studiorum, Università di Bologna.",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=fe0f4ac7041d42ca80a55a252fab9398",
+   "pubblicazione": "2026-09-18T08:00:00Z",
+   "scadenza": "2026-10-09T21:59:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_COLLOQUIO",
+   "sede": "Bologna",
+   "provincia": "Bologna",
+   "km": 115,
+   "ambito": "provincia",
+   "punteggio": 40,
+   "tag": [
+    "ai-ml",
+    "requisiti"
+   ],
+   "motivi": [
+    "ai",
+    "laurea specialistica"
+   ],
+   "fascia": "buona",
+   "giorni_rimasti": 21,
+   "titolo_verdetto": "ignoto",
+   "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
+   "titolo_classi": []
+  },
+  {
+   "id": "inpa:e7cda5f9abc640faa32f8d8041a1060e",
+   "media_id": null,
+   "fonte": "InPA",
+   "titolo": "Rif. 5424 - Concorso pubblico per titoli ed esami, per la copertura di n. 1 posto di collaboratore ed esperto linguistico di lingua inglese, con contratto di lavoro subordinato a tempo indeterminato con un monte ore annuo pari a 750 ore, per le esigenze del Centro Linguistico di Ateneo - CLA dell'Alma Mater Studiorum, università di Bologna, prioritariamente riservato a volontario delle FFAA.",
+   "figura": "Collaboratore ed esperto linguistico",
+   "ente": "Alma Mater Studiorum - Universita' di Bologna",
+   "descrizione": "Rif. 5424 - Concorso pubblico per titoli ed esami, per la copertura di n. 1 posto di collaboratore ed esperto linguistico di lingua inglese, con contratto di lavoro subordinato a tempo indeterminato con un monte ore annuo pari a 750 ore, per le esigenze del Centro Linguistico di Ateneo - CLA dell'Alma Mater Studiorum, università di Bologna, prioritariamente riservato a volontario delle FFAA.",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e7cda5f9abc640faa32f8d8041a1060e",
+   "pubblicazione": "2026-09-18T08:00:00Z",
+   "scadenza": "2026-10-09T21:59:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_ESAMI",
+   "sede": "Bologna",
+   "provincia": "Bologna",
+   "km": 115,
+   "ambito": "provincia",
+   "punteggio": 40,
+   "tag": [
+    "ai-ml",
+    "requisiti"
+   ],
+   "motivi": [
+    "ai",
+    "laurea specialistica"
+   ],
+   "fascia": "buona",
+   "giorni_rimasti": 21,
+   "titolo_verdetto": "ignoto",
+   "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
+   "titolo_classi": []
   },
   {
    "id": "inpa:88ab3882b8f84e06acffd9809f380750",
@@ -788,7 +899,7 @@
     "statistic"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 9,
+   "giorni_rimasti": 8,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-17, LM-32, LM-40, LM-82, LM-9. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -798,6 +909,39 @@
     "LM-82",
     "LM-9"
    ],
+   "titolo_nomi": []
+  },
+  {
+   "id": "inpa:23ce95a1bb69437591f8fa37b324276e",
+   "media_id": "c31251a2-3fa3-4cba-8680-30e2f1f0b62d",
+   "fonte": "InPA",
+   "titolo": "Università di Pisa - selezione pubblica, per colloquio, di n. 1 unità di personale Area dei Collaboratori, settore tecnico, scientifico, tecn., inf. e dei serv. gen., per 12 mesi, presso il Centro di ricerca E. Piaggio",
+   "figura": "Area dei Collaboratori- settore tecnico, scientifico, tecnologico, informatico e dei servizi generali",
+   "ente": "Universita' di Pisa",
+   "descrizione": "Università di Pisa - selezione pubblica, per colloquio, di n. 1 unità di personale appartenente all'Area dei Collaboratori, settore tecnico, scientifico, tecnologico, informatico e dei servizi generali, per 12 mesi, presso il Centro di ricerca E. Piaggio. Le domande di ammissione alla selezione devono essere presentate esclusivamente tramite la piattaforma PICA https://pica.cineca.it/unipi/",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=23ce95a1bb69437591f8fa37b324276e",
+   "pubblicazione": "2026-09-17T10:00:00Z",
+   "scadenza": "2026-10-09T11:00:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "COLLOQUIO",
+   "sede": "Pisa",
+   "provincia": "Pisa",
+   "km": 0,
+   "ambito": "provincia",
+   "punteggio": 34,
+   "tag": [
+    "ente-ricerca"
+   ],
+   "motivi": [
+    "università di pisa",
+    "cineca."
+   ],
+   "fascia": "possibile",
+   "giorni_rimasti": 21,
+   "titolo_verdetto": "ammesso",
+   "titolo_nota": "Il bando ammette Ingegneria biomedica.",
+   "titolo_classi": [],
    "titolo_nomi": []
   },
   {
@@ -827,7 +971,7 @@
     "cineca."
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 27,
+   "giorni_rimasti": 26,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -861,7 +1005,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 23,
+   "giorni_rimasti": 22,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Medicina e Chirurgia e abilitazione all. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -897,7 +1041,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 11,
+   "giorni_rimasti": 10,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Titoli richiesti: Fisioterapia; professioni sanitarie della riabilitazione. Ingegneria biomedica non c'e'.",
    "titolo_classi": [],
@@ -934,7 +1078,39 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 1,
+   "giorni_rimasti": 0,
+   "titolo_verdetto": "ignoto",
+   "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
+   "titolo_classi": [],
+   "titolo_nomi": []
+  },
+  {
+   "id": "inpa:ec9401dacc5b4e99a69e61cb2e626c9b",
+   "media_id": "f6619264-e21b-4c8a-b04e-3c6fd22f8a0a",
+   "fonte": "InPA",
+   "titolo": "Comune di Capannori (LU) - concorso pubblico n.2 posti operatore esperto tecnico generale",
+   "figura": "Operatore Esperto Tecnico Generale",
+   "ente": "Comune di Capannori",
+   "descrizione": "Comune di Capannori - concorso pubblico per esami per la copertura di n. 2 post i , eventualmente incrementabil i , a tempo pieno e indeterminato nell’area de gl i operatori esperti , inquadramento economico iniziale, profilo professionale di Operatore Esperto Tecnico Generale , di cui n.1 posto prioritariamente riservat o ai militari volontari congedati ai sensi degli artt. n .1014 e n. 678 del D.L gs . n .66/2010.",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ec9401dacc5b4e99a69e61cb2e626c9b",
+   "pubblicazione": "2026-09-17T14:18:00Z",
+   "scadenza": "2026-10-17T21:59:00Z",
+   "stato": "Aperto",
+   "posti": 2,
+   "procedura": "ESAMI",
+   "sede": "Lucca",
+   "provincia": "Lucca",
+   "km": 17,
+   "ambito": "provincia",
+   "punteggio": 30,
+   "tag": [
+    "ai-ml"
+   ],
+   "motivi": [
+    "ai"
+   ],
+   "fascia": "possibile",
+   "giorni_rimasti": 29,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -966,7 +1142,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 13,
+   "giorni_rimasti": 12,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1000,7 +1176,7 @@
     "azienda usl"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 7,
+   "giorni_rimasti": 6,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-16, LM-56, LM-62, LM-63, LM-77, LM-82, LM-83, LM-87. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1041,11 +1217,44 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 16,
+   "giorni_rimasti": 15,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
    "titolo_nomi": []
+  },
+  {
+   "id": "inpa:82acd74cf0b941e7b9bb3aafa9ea3e57",
+   "media_id": null,
+   "fonte": "InPA",
+   "titolo": "Concorso pubblico, per titoli ed esami per la costituzione di n. 1 rapporto di lavoro a tempo determinato con contratto di APPRENDISTATO della durata di 36 mesi, nel profilo professionale di COLLABORATORE TECNICO PROFESSIONALE - SETTORE INFORMATICO – Area dei Professionisti della salute e dei Funzionari per le esigenze della UO Sistemi Informativi Aziendali dell’Azienda USL di Bologna",
+   "figura": "COLLABORATORE AMMINISTRATIVO PROFESSIONALE – SETTORE INFORMATICO – AREA DEI PROFESSIONISTI DELLA SALUTE E DEI FUNZIONARI",
+   "ente": "Azienda USL di Bologna",
+   "descrizione": "Concorso pubblico, per titoli ed esami, ai sensi dell’art. 3-ter, comma 1, del D.L. 44/2023 e del DM 21/12/2023 e s.m.i., per la costituzione di n. 1 rapporto di lavoro a tempo determinato con contratto di APPRENDISTATO della durata di 36 mesi, nel profilo professionale di COLLABORATORE TECNICO PROFESSIONALE - SETTORE INFORMATICO – Area dei Professionisti della salute e dei Funzionari per le esigenze della UO Sistemi Informativi Aziendali dell’Azienda USL di Bologna",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=82acd74cf0b941e7b9bb3aafa9ea3e57",
+   "pubblicazione": "2026-09-18T09:00:00Z",
+   "scadenza": "2026-10-19T10:00:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_ESAMI",
+   "sede": "Bologna",
+   "provincia": "Bologna",
+   "km": 115,
+   "ambito": "provincia",
+   "punteggio": 28,
+   "tag": [
+    "sanita",
+    "ict"
+   ],
+   "motivi": [
+    "azienda usl",
+    "sistemi informativ"
+   ],
+   "fascia": "possibile",
+   "giorni_rimasti": 31,
+   "titolo_verdetto": "ignoto",
+   "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
+   "titolo_classi": []
   },
   {
    "id": "inpa:08bceed356e54aeca9e14552acb573da",
@@ -1073,7 +1282,7 @@
     "post-doc"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 6,
+   "giorni_rimasti": 5,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -1105,7 +1314,7 @@
     "post-doc"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 6,
+   "giorni_rimasti": 5,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []

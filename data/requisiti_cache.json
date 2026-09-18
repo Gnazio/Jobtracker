@@ -597,5 +597,55 @@
   "dottorato_affine": false,
   "caratteri": 55846,
   "letto_il": "2026-09-17"
+ },
+ "481e9dc2-5d75-4ea2-879d-7bd2e53ef6cd": {
+  "classi": [],
+  "nomi": [
+   "Psicologia"
+  ],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": true,
+  "dottorato_affine": false,
+  "caratteri": 42168,
+  "letto_il": "2026-09-18"
+ },
+ "350cac4b-b46d-4400-baf5-8a1d97c1aaef": {
+  "classi": [
+   "LM-41"
+  ],
+  "nomi": [
+   "Medicina e Chirurgia"
+  ],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 40431,
+  "letto_il": "2026-09-18"
+ },
+ "c31251a2-3fa3-4cba-8680-30e2f1f0b62d": {
+  "classi": [],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": true,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 27836,
+  "letto_il": "2026-09-18"
+ },
+ "f6619264-e21b-4c8a-b04e-3c6fd22f8a0a": {
+  "classi": [],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 44330,
+  "letto_il": "2026-09-18"
  }
 }
