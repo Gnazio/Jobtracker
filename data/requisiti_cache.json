@@ -647,5 +647,42 @@
   "dottorato_affine": false,
   "caratteri": 44330,
   "letto_il": "2026-09-18"
+ },
+ "6af4f67a-85c8-4b44-b182-188d1357fb1d": {
+  "classi": [],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 40898,
+  "letto_il": "2026-09-19"
+ },
+ "317379ad-bdda-49b1-ad3c-ff3129022f01": {
+  "classi": [
+   "LM-18",
+   "LM-27",
+   "LM-29",
+   "LM-31",
+   "LM-32",
+   "LM-40",
+   "LM-44",
+   "LM-82",
+   "LM-83"
+  ],
+  "nomi": [
+   "Matematica",
+   "Modellistica Matematico",
+   "Scienze Statistiche",
+   "Scienze Statistiche attuariali e Finanziarie"
+  ],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 35145,
+  "letto_il": "2026-09-19"
  }
 }
