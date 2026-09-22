@@ -1,20 +1,20 @@
 {
- "aggiornato": "2026-09-21T10:29:01+00:00",
+ "aggiornato": "2026-09-22T09:42:20+00:00",
  "raggio_km": 150,
  "origine": "Pisa",
  "statistiche": {
-  "grezzi": 378,
+  "grezzi": 379,
   "pubblicati": 34,
-  "scartati_distanza": 45,
+  "scartati_distanza": 46,
   "scartati_profilo": 299,
   "per_fascia": {
-   "alta": 7,
-   "buona": 15,
+   "alta": 6,
+   "buona": 16,
    "possibile": 12
   },
   "per_titolo": {
-   "escluso": 13,
-   "ignoto": 19,
+   "escluso": 14,
+   "ignoto": 18,
    "ammesso": 2
   }
  },
@@ -22,7 +22,7 @@
  "fonti": [
   {
    "fonte": "InPA",
-   "annunci": 376,
+   "annunci": 377,
    "nota": null
   },
   {
@@ -71,7 +71,7 @@
     "area dei funzionari – settore scientific"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 9,
+   "giorni_rimasti": 8,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-25, LM-29, LM-32. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -112,7 +112,7 @@
     "laurea magistrale"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 4,
+   "giorni_rimasti": 3,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 36/S, LM-33. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -150,7 +150,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 24,
+   "giorni_rimasti": 23,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 27/S, LM-22. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -190,7 +190,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 24,
+   "giorni_rimasti": 23,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 20/S, LM-17. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -199,46 +199,6 @@
    ],
    "titolo_nomi": [
     "Fisica"
-   ]
-  },
-  {
-   "id": "inpa:c3dddf5bce904cc485a61ecf8b1b1c8d",
-   "media_id": "bd8c760b-0546-4704-9acf-c37867a01eb8",
-   "fonte": "InPA",
-   "titolo": "INDIZIONE DI N. 1 CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER L’ATTRIBUZIONE DI N. 2 INCARICHI A TEMPO DETERMINATO IN QUALITÀ DI COLLABORATORE PROFESSIONALE DI RICERCA SANITARIA, NELL’AMBITO DI SPECIFICI PROGETTI DI RICERCA, DA ASSEGNARE RISPETTIVAMENTE AL CENTRO DOPO – DIPARTIMENTO DI EMATO-ONCOLOGIA E ALLA UOC CLINICA PEDIATRICA – ENDOCRINOLOGIA.",
-   "figura": "RICERCATORE SANITARIO",
-   "ente": "Istituto Giannina Gaslini",
-   "descrizione": "INDIZIONE DI N. 1 CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER L’ATTRIBUZIONE DI N. 2 INCARICHI A TEMPO DETERMINATO IN QUALITÀ DI COLLABORATORE PROFESSIONALE DI RICERCA SANITARIA, NELL’AMBITO DI SPECIFICI PROGETTI DI RICERCA, DA ASSEGNARE RISPETTIVAMENTE AL CENTRO DOPO – DIPARTIMENTO DI EMATO-ONCOLOGIA E ALLA UOC CLINICA PEDIATRICA – ENDOCRINOLOGIA.",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=c3dddf5bce904cc485a61ecf8b1b1c8d",
-   "pubblicazione": "2026-08-26T22:00:00Z",
-   "scadenza": "2026-09-28T21:59:00Z",
-   "stato": "Aperto",
-   "posti": 1,
-   "procedura": "TITOLI_ESAMI",
-   "sede": "Genova",
-   "provincia": "Genova",
-   "km": 139,
-   "ambito": "provincia",
-   "punteggio": 78,
-   "tag": [
-    "ricerca",
-    "sanita"
-   ],
-   "motivi": [
-    "ricercator",
-    "ricerca sanitaria",
-    "collaboratore professionale di ricerca"
-   ],
-   "fascia": "alta",
-   "giorni_rimasti": 7,
-   "titolo_verdetto": "escluso",
-   "titolo_nota": "Titoli richiesti: Medicina e Chirurgia; Professioni Sanitarie; Biologia; Scienze Motorie. Ingegneria biomedica non c'e'.",
-   "titolo_classi": [],
-   "titolo_nomi": [
-    "Medicina e Chirurgia",
-    "Professioni Sanitarie",
-    "Biologia",
-    "Scienze Motorie"
    ]
   },
   {
@@ -272,7 +232,7 @@
     "laurea specialistica"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 7,
+   "giorni_rimasti": 6,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -309,48 +269,13 @@
     "azienda ospedalier"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 17,
+   "giorni_rimasti": 16,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Psicologia. Da verificare nel PDF.",
    "titolo_classi": [],
    "titolo_nomi": [
     "Psicologia"
    ]
-  },
-  {
-   "id": "inpa:d6d7b8da360544a3b8837f2bf19494e2",
-   "media_id": null,
-   "fonte": "InPA",
-   "titolo": "Concorso per titoli ed esami per un posto per il profilo professionale di Collaboratore Tecnico E.R. di VI livello professionale con contratto di lavoro a tempo indeterminato - Cod. TI/BO/C6/29122",
-   "figura": "Collaboratore Tecnico E.R. di VI livello professionale",
-   "ente": "Istituto Nazionale di Fisica Nucleare",
-   "descrizione": "Concorso pubblico per titoli ed esami per un posto con il profilo professionale di Collaboratore Tecnico E.R. di VI livello professionale con contratto di lavoro a tempo indeterminato per attività di gestione delle infrastrutture informatiche di sezione con particolare specializzazione nel networking. La sede di lavoro sarà la Sezione di Bologna dell’INFN. Ai sensi dell’art. 1014, comma 4, e dell’art. 678, comma 9 del D.Lgs. 66/2010 e successive modifiche e integrazioni, un posto è riservato ai militari delle FF.AA.: volontari in ferma breve, volontari in ferma prefissata, ufficiali di complem",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=d6d7b8da360544a3b8837f2bf19494e2",
-   "pubblicazione": "2026-09-11T14:00:00Z",
-   "scadenza": "2026-09-21T14:00:00Z",
-   "stato": "Aperto",
-   "posti": 1,
-   "procedura": "TITOLI_ESAMI",
-   "sede": "Bologna",
-   "provincia": "Bologna",
-   "km": 115,
-   "ambito": "provincia",
-   "punteggio": 66,
-   "tag": [
-    "ricerca",
-    "ente-ricerca",
-    "ai-ml"
-   ],
-   "motivi": [
-    "collaboratore tecnico e.r.",
-    "infn",
-    "ai"
-   ],
-   "fascia": "buona",
-   "giorni_rimasti": 0,
-   "titolo_verdetto": "ignoto",
-   "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
-   "titolo_classi": []
   },
   {
    "id": "inpa:b4b4dfe215a443a590092d2dbedefe0b",
@@ -381,7 +306,7 @@
     "iit"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 23,
+   "giorni_rimasti": 22,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -416,7 +341,7 @@
     "iit"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 23,
+   "giorni_rimasti": 22,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -449,7 +374,7 @@
     "iii livello"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 11,
+   "giorni_rimasti": 10,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-17, LM-20, LM-23, LM-32, LM-35, LM-44, LM-58, LM-60. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -497,11 +422,54 @@
     "iii livello"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 13,
+   "giorni_rimasti": 12,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
    "titolo_nomi": []
+  },
+  {
+   "id": "inpa:8087040e915549beacdb0c2474c26512",
+   "media_id": "c0e35957-b3cb-451c-9018-7a659a05efbe",
+   "fonte": "InPA",
+   "titolo": "Selezione pubblica, per titoli e prova-colloquio, per l’assunzione, con contratto a  tempo determinato, di n. 1 unità di personale con il profilo di Ricercatore III livello professionale  dell’Istituto Superiore di Sanità presso il Dipartimento malattie infettive (24 mesi  e comunque non oltre il termine di scadenza del progetto previsto per il 31.12.2031) – codice concorso: TD RIC DMI 2026 02.",
+   "figura": "Ricercatore III liv",
+   "ente": "Istituto Superiore di Sanita' - ISS",
+   "descrizione": "TDRICDMI202602",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=8087040e915549beacdb0c2474c26512",
+   "pubblicazione": "2026-09-21T22:00:00Z",
+   "scadenza": "2026-10-21T21:59:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_COLLOQUIO",
+   "sede": "Nazionale",
+   "provincia": null,
+   "km": null,
+   "ambito": "nazionale",
+   "punteggio": 56,
+   "tag": [
+    "ricerca"
+   ],
+   "motivi": [
+    "ricercator",
+    "iii livello"
+   ],
+   "fascia": "buona",
+   "giorni_rimasti": 29,
+   "titolo_verdetto": "escluso",
+   "titolo_nota": "Classi ammesse: LM-6, LM-60, LM-7, LM-73, LM-75, LM-8, LM-9. LM-21 non e' compresa.",
+   "titolo_classi": [
+    "LM-6",
+    "LM-60",
+    "LM-7",
+    "LM-73",
+    "LM-75",
+    "LM-8",
+    "LM-9"
+   ],
+   "titolo_nomi": [
+    "Biologia"
+   ]
   },
   {
    "id": "inpa:a1f77548cf514eb9af55d7ae76a88628",
@@ -533,7 +501,7 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 10,
+   "giorni_rimasti": 9,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-41. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -571,7 +539,7 @@
     "ai"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 4,
+   "giorni_rimasti": 3,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Nessuna classe richiesta: ammessa qualunque laurea magistrale.",
    "titolo_classi": [],
@@ -605,7 +573,7 @@
     "funzionario tecnic"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 9,
+   "giorni_rimasti": 8,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 28/S, 3/S, 38/S, 4/S, LM-23, LM-24, LM-26, LM-3. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -653,7 +621,7 @@
     "cnr"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 24,
+   "giorni_rimasti": 23,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 20/S, 32/S, 61/S, 91/S, LM-17, LM-29, LM-53, LM-82. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -668,6 +636,45 @@
    ],
    "titolo_nomi": [
     "Scienze Statistiche"
+   ]
+  },
+  {
+   "id": "inpa:c3dddf5bce904cc485a61ecf8b1b1c8d",
+   "media_id": "bd8c760b-0546-4704-9acf-c37867a01eb8",
+   "fonte": "InPA",
+   "titolo": "INDIZIONE DI N. 1 CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER L’ATTRIBUZIONE DI N. 2 INCARICHI A TEMPO DETERMINATO IN QUALITÀ DI COLLABORATORE PROFESSIONALE DI RICERCA SANITARIA, NELL’AMBITO DI SPECIFICI PROGETTI DI RICERCA, DA ASSEGNARE RISPETTIVAMENTE AL CENTRO DOPO – DIPARTIMENTO DI EMATO-ONCOLOGIA E ALLA UOC CLINICA PEDIATRICA – ENDOCRINOLOGIA.",
+   "figura": "COLLABORATORE PROFESSIONALE DI RICERCA SANITARIA",
+   "ente": "Istituto Giannina Gaslini",
+   "descrizione": "INDIZIONE DI N. 1 CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER L’ATTRIBUZIONE DI N. 2 INCARICHI A TEMPO DETERMINATO IN QUALITÀ DI COLLABORATORE PROFESSIONALE DI RICERCA SANITARIA, NELL’AMBITO DI SPECIFICI PROGETTI DI RICERCA, DA ASSEGNARE RISPETTIVAMENTE AL CENTRO DOPO – DIPARTIMENTO DI EMATO-ONCOLOGIA E ALLA UOC CLINICA PEDIATRICA – ENDOCRINOLOGIA.",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=c3dddf5bce904cc485a61ecf8b1b1c8d",
+   "pubblicazione": "2026-08-26T22:00:00Z",
+   "scadenza": "2026-09-28T21:59:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_ESAMI",
+   "sede": "Genova",
+   "provincia": "Genova",
+   "km": 139,
+   "ambito": "provincia",
+   "punteggio": 44,
+   "tag": [
+    "ricerca",
+    "sanita"
+   ],
+   "motivi": [
+    "ricerca sanitaria",
+    "collaboratore professionale di ricerca"
+   ],
+   "fascia": "buona",
+   "giorni_rimasti": 6,
+   "titolo_verdetto": "escluso",
+   "titolo_nota": "Titoli richiesti: Medicina e Chirurgia; Professioni Sanitarie; Biologia; Scienze Motorie. Ingegneria biomedica non c'e'.",
+   "titolo_classi": [],
+   "titolo_nomi": [
+    "Medicina e Chirurgia",
+    "Professioni Sanitarie",
+    "Biologia",
+    "Scienze Motorie"
    ]
   },
   {
@@ -698,7 +705,7 @@
     "laurea specialistica"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 14,
+   "giorni_rimasti": 13,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il PDF non contiene testo leggibile (scansione): da verificare a mano.",
    "titolo_classi": [],
@@ -732,7 +739,7 @@
     "laurea magistrale"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 7,
+   "giorni_rimasti": 6,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -766,7 +773,7 @@
     "laurea magistrale"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 4,
+   "giorni_rimasti": 3,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -800,7 +807,7 @@
     "laurea specialistica"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 18,
+   "giorni_rimasti": 17,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
@@ -833,7 +840,7 @@
     "laurea specialistica"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 18,
+   "giorni_rimasti": 17,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
@@ -865,7 +872,7 @@
     "statistic"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 5,
+   "giorni_rimasti": 4,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-17, LM-32, LM-40, LM-82, LM-9. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -905,7 +912,7 @@
     "irccs"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 17,
+   "giorni_rimasti": 16,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -938,7 +945,7 @@
     "cineca."
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 18,
+   "giorni_rimasti": 17,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Il bando ammette Ingegneria biomedica.",
    "titolo_classi": [],
@@ -971,7 +978,7 @@
     "cineca."
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 23,
+   "giorni_rimasti": 22,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -1005,7 +1012,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 19,
+   "giorni_rimasti": 18,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Medicina e Chirurgia e abilitazione all. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -1041,7 +1048,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 7,
+   "giorni_rimasti": 6,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Titoli richiesti: Fisioterapia; professioni sanitarie della riabilitazione. Ingegneria biomedica non c'e'.",
    "titolo_classi": [],
@@ -1076,7 +1083,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 26,
+   "giorni_rimasti": 25,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1183,7 +1190,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 12,
+   "giorni_rimasti": 11,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1264,7 +1271,7 @@
     "post-doc"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 2,
+   "giorni_rimasti": 1,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -1296,7 +1303,7 @@
     "post-doc"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 2,
+   "giorni_rimasti": 1,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],

@@ -695,5 +695,26 @@
   "dottorato_affine": false,
   "caratteri": 59795,
   "letto_il": "2026-09-21"
+ },
+ "c0e35957-b3cb-451c-9018-7a659a05efbe": {
+  "classi": [
+   "LM-6",
+   "LM-60",
+   "LM-7",
+   "LM-73",
+   "LM-75",
+   "LM-8",
+   "LM-9"
+  ],
+  "nomi": [
+   "Biologia"
+  ],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": true,
+  "dottorato_affine": false,
+  "caratteri": 36023,
+  "letto_il": "2026-09-22"
  }
 }
