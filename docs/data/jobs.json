@@ -1,20 +1,20 @@
 {
- "aggiornato": "2026-09-23T09:49:33+00:00",
+ "aggiornato": "2026-09-24T09:46:47+00:00",
  "raggio_km": 150,
  "origine": "Pisa",
  "statistiche": {
   "grezzi": 388,
-  "pubblicati": 36,
-  "scartati_distanza": 44,
-  "scartati_profilo": 308,
+  "pubblicati": 35,
+  "scartati_distanza": 46,
+  "scartati_profilo": 307,
   "per_fascia": {
-   "alta": 7,
+   "alta": 8,
    "buona": 16,
-   "possibile": 13
+   "possibile": 11
   },
   "per_titolo": {
-   "escluso": 15,
-   "ignoto": 19,
+   "escluso": 16,
+   "ignoto": 17,
    "ammesso": 2
   }
  },
@@ -71,7 +71,7 @@
     "area dei funzionari – settore scientific"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 7,
+   "giorni_rimasti": 6,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-25, LM-29, LM-32. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -112,7 +112,7 @@
     "laurea magistrale"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 2,
+   "giorni_rimasti": 1,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 36/S, LM-33. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -150,7 +150,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 22,
+   "giorni_rimasti": 21,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 27/S, LM-22. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -190,7 +190,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 22,
+   "giorni_rimasti": 21,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 20/S, LM-17. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -199,6 +199,64 @@
    ],
    "titolo_nomi": [
     "Fisica"
+   ]
+  },
+  {
+   "id": "inpa:d0a801edb21444f49b44c665094b6885",
+   "media_id": "5e15d4a6-4ff2-4a10-8639-5c89d22b47a4",
+   "fonte": "InPA",
+   "titolo": "BANDO CNR N. 331.5 RIC ISP",
+   "figura": "Ricercatore III livello professionale",
+   "ente": "Consiglio Nazionale delle Ricerche - CNR",
+   "descrizione": "BANDO CNR N. 331.5 RIC ISP - Selezione per titoli e colloquio ai sensi dell'art. 8 del \"Disciplinare concernente le assunzioni di personale con contratto di lavoro a tempo determinato\", per l'assunzione, ai sensi dell'art. 141 del CCNL del Comparto “Istruzione e Ricerca” 2019-2021, sottoscritto in data 18 gennaio 2024, di una unità di personale con profilo professionale di Ricercatore III livello, presso l'Istituto di Scienze Polari - Sede di Bologna.",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=d0a801edb21444f49b44c665094b6885",
+   "pubblicazione": "2026-09-23T16:00:00Z",
+   "scadenza": "2026-10-23T16:00:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_COLLOQUIO",
+   "sede": "Bologna",
+   "provincia": "Bologna",
+   "km": 115,
+   "ambito": "provincia",
+   "punteggio": 78,
+   "tag": [
+    "ricerca",
+    "ente-ricerca"
+   ],
+   "motivi": [
+    "ricercator",
+    "iii livello",
+    "cnr"
+   ],
+   "fascia": "alta",
+   "giorni_rimasti": 29,
+   "titolo_verdetto": "escluso",
+   "titolo_nota": "Classi ammesse: 20/S, 23/S, 28/S, 38/S, 4/S, 62/S, 74/S, 82/S. LM-21 non e' compresa.",
+   "titolo_classi": [
+    "20/S",
+    "23/S",
+    "28/S",
+    "38/S",
+    "4/S",
+    "62/S",
+    "74/S",
+    "82/S",
+    "85/S",
+    "86/S",
+    "LM-17",
+    "LM-18",
+    "LM-23",
+    "LM-35",
+    "LM-4",
+    "LM-54",
+    "LM-73",
+    "LM-74",
+    "LM-75",
+    "LM-79"
+   ],
+   "titolo_nomi": [
+    "Scienze Chimiche"
    ]
   },
   {
@@ -232,7 +290,7 @@
     "laurea specialistica"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 5,
+   "giorni_rimasti": 4,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -267,7 +325,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 29,
+   "giorni_rimasti": 28,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 13/S, 43/S, 67/S, LM-19, LM-38, LM-59. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -311,7 +369,7 @@
     "azienda ospedalier"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 15,
+   "giorni_rimasti": 14,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Psicologia. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -348,7 +406,7 @@
     "iit"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 21,
+   "giorni_rimasti": 20,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -383,7 +441,7 @@
     "iit"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 21,
+   "giorni_rimasti": 20,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -416,7 +474,7 @@
     "iii livello"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 9,
+   "giorni_rimasti": 8,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-17, LM-20, LM-23, LM-32, LM-35, LM-44, LM-58, LM-60. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -464,7 +522,7 @@
     "iii livello"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 11,
+   "giorni_rimasti": 10,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -497,7 +555,7 @@
     "iii livello"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 28,
+   "giorni_rimasti": 27,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-6, LM-60, LM-7, LM-73, LM-75, LM-8, LM-9. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -543,7 +601,7 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 8,
+   "giorni_rimasti": 7,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-41. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -581,7 +639,7 @@
     "ai"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 2,
+   "giorni_rimasti": 1,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Nessuna classe richiesta: ammessa qualunque laurea magistrale.",
    "titolo_classi": [],
@@ -615,7 +673,7 @@
     "funzionario tecnic"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 7,
+   "giorni_rimasti": 6,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 28/S, 3/S, 38/S, 4/S, LM-23, LM-24, LM-26, LM-3. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -663,7 +721,7 @@
     "cnr"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 22,
+   "giorni_rimasti": 21,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 20/S, 32/S, 61/S, 91/S, LM-17, LM-29, LM-53, LM-82. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -708,7 +766,7 @@
     "collaboratore professionale di ricerca"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 5,
+   "giorni_rimasti": 4,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Titoli richiesti: Medicina e Chirurgia; Professioni Sanitarie; Biologia; Scienze Motorie. Ingegneria biomedica non c'e'.",
    "titolo_classi": [],
@@ -747,7 +805,7 @@
     "laurea specialistica"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 12,
+   "giorni_rimasti": 11,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il PDF non contiene testo leggibile (scansione): da verificare a mano.",
    "titolo_classi": [],
@@ -781,7 +839,7 @@
     "laurea magistrale"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 5,
+   "giorni_rimasti": 4,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -815,7 +873,7 @@
     "laurea magistrale"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 2,
+   "giorni_rimasti": 1,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -849,7 +907,7 @@
     "laurea specialistica"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 16,
+   "giorni_rimasti": 15,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
@@ -882,7 +940,7 @@
     "laurea specialistica"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 16,
+   "giorni_rimasti": 15,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
@@ -914,7 +972,7 @@
     "statistic"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 3,
+   "giorni_rimasti": 2,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-17, LM-32, LM-40, LM-82, LM-9. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -954,7 +1012,7 @@
     "irccs"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 15,
+   "giorni_rimasti": 14,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -987,7 +1045,7 @@
     "cineca."
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 16,
+   "giorni_rimasti": 15,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Il bando ammette Ingegneria biomedica.",
    "titolo_classi": [],
@@ -1020,7 +1078,7 @@
     "cineca."
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 21,
+   "giorni_rimasti": 20,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -1054,7 +1112,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 17,
+   "giorni_rimasti": 16,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Medicina e Chirurgia e abilitazione all. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -1090,7 +1148,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 5,
+   "giorni_rimasti": 4,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Titoli richiesti: Fisioterapia; professioni sanitarie della riabilitazione. Ingegneria biomedica non c'e'.",
    "titolo_classi": [],
@@ -1125,7 +1183,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 24,
+   "giorni_rimasti": 23,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1157,7 +1215,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 7,
+   "giorni_rimasti": 6,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1191,7 +1249,7 @@
     "azienda usl"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 1,
+   "giorni_rimasti": 0,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-16, LM-56, LM-62, LM-63, LM-77, LM-82, LM-83, LM-87. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1232,7 +1290,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 29,
+   "giorni_rimasti": 28,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1264,7 +1322,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 10,
+   "giorni_rimasti": 9,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1298,7 +1356,7 @@
     "sistemi informativ"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 26,
+   "giorni_rimasti": 25,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-18, LM-27, LM-29, LM-31, LM-32, LM-40, LM-44, LM-82. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1318,70 +1376,6 @@
     "Scienze Statistiche",
     "Scienze Statistiche attuariali e Finanziarie"
    ]
-  },
-  {
-   "id": "inpa:08bceed356e54aeca9e14552acb573da",
-   "media_id": "7ded7c39-4c43-459f-b550-23c58c0a39c8",
-   "fonte": "InPA",
-   "titolo": "SELEZIONE PUBBLICA N. 1 INCARICO POST-DOC,ART. 22ter L.240/2010,TD 36 MESI,(GSD) 06/MEDS-09, (SSD) MEDS-09/B MALATTIE DEL SANGUE,PRESSO IL DIP. DI MEDICINA E CHIRURGIA-UNIV. DI PARMA",
-   "figura": "conferimento di Incarico Post-Doc ambito medico",
-   "ente": "Universita' degli Studi di Parma",
-   "descrizione": "Questo progetto mira a indagare i meccanismi comuni alla base delle traslocazioni e a sviluppare strategie che possano essere generalizzate alla leucemia linfoblastica acuta recidivante o resistente. In questo progetto, ipotizziamo che l'origine delle fusioni cromosomiche possa essere parzialmente condivisa tra più traslocazioni di leucemia linfoblastica acuta (LLA), rendendola tracciabile e targetizzabile. Utilizzando modelli di leucemia linfoblastica acuta (LLA) con geni driver di fusione, stabiliremo sistemi knockout che colpiscono entrambe le estremità di fusione e definiremo firme marcatr",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=08bceed356e54aeca9e14552acb573da",
-   "pubblicazione": "2026-09-08T22:01:00Z",
-   "scadenza": "2026-09-23T21:59:00Z",
-   "stato": "Aperto",
-   "posti": 1,
-   "procedura": "TITOLI_COLLOQUIO",
-   "sede": "Parma",
-   "provincia": "Parma",
-   "km": 121,
-   "ambito": "provincia",
-   "punteggio": 26,
-   "tag": [
-    "ricerca"
-   ],
-   "motivi": [
-    "post-doc"
-   ],
-   "fascia": "possibile",
-   "giorni_rimasti": 0,
-   "titolo_verdetto": "ignoto",
-   "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
-   "titolo_classi": [],
-   "titolo_nomi": []
-  },
-  {
-   "id": "inpa:c656b9928cea4b2487289e9008cfe839",
-   "media_id": "d1ae7151-6917-4ec5-b23e-2ff52b5a421f",
-   "fonte": "InPA",
-   "titolo": "SELEZIONE PUBBLICA N. 1 INCARICO POST-DOC,ART. 22ter L.240/2010,TD 36 MESI,(GSD) 06/MEDS-09, (SSD) MEDS-09/B MALATTIE DEL SANGUE,PRESSO IL DIP. DI MEDICINA E CHIRURGIA-UNIV. DI PARMA",
-   "figura": "conferimento di Incarico Post-Doc di ambito medico",
-   "ente": "Universita' degli Studi di Parma",
-   "descrizione": "Questo progetto mira a indagare i meccanismi comuni alla base delle traslocazioni e a sviluppare strategie che possano essere generalizzate alla leucemia linfoblastica acuta recidivante o resistente. In questo progetto, ipotizziamo che l'origine delle fusioni cromosomiche possa essere parzialmente condivisa tra più traslocazioni di leucemia linfoblastica acuta (LLA), rendendola tracciabile e targetizzabile. Utilizzando modelli di leucemia linfoblastica acuta (LLA) con geni driver di fusione, stabiliremo sistemi knockout che colpiscono entrambe le estremità di fusione e definiremo firme marcatr",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=c656b9928cea4b2487289e9008cfe839",
-   "pubblicazione": "2026-09-08T22:01:00Z",
-   "scadenza": "2026-09-23T21:59:00Z",
-   "stato": "Aperto",
-   "posti": 1,
-   "procedura": "TITOLI_COLLOQUIO",
-   "sede": "Parma",
-   "provincia": "Parma",
-   "km": 121,
-   "ambito": "provincia",
-   "punteggio": 26,
-   "tag": [
-    "ricerca"
-   ],
-   "motivi": [
-    "post-doc"
-   ],
-   "fascia": "possibile",
-   "giorni_rimasti": 0,
-   "titolo_verdetto": "ignoto",
-   "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
-   "titolo_classi": [],
-   "titolo_nomi": []
   }
  ],
  "curati": [

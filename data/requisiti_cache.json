@@ -745,5 +745,39 @@
   "dottorato_affine": false,
   "caratteri": 51884,
   "letto_il": "2026-09-23"
+ },
+ "5e15d4a6-4ff2-4a10-8639-5c89d22b47a4": {
+  "classi": [
+   "20/S",
+   "23/S",
+   "28/S",
+   "38/S",
+   "4/S",
+   "62/S",
+   "74/S",
+   "82/S",
+   "85/S",
+   "86/S",
+   "LM-17",
+   "LM-18",
+   "LM-23",
+   "LM-35",
+   "LM-4",
+   "LM-54",
+   "LM-73",
+   "LM-74",
+   "LM-75",
+   "LM-79"
+  ],
+  "nomi": [
+   "Scienze Chimiche"
+  ],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": true,
+  "dottorato_affine": false,
+  "caratteri": 46144,
+  "letto_il": "2026-09-24"
  }
 }
