@@ -779,5 +779,29 @@
   "dottorato_affine": false,
   "caratteri": 46144,
   "letto_il": "2026-09-24"
+ },
+ "e8a1a029-f6da-40a0-b1b8-3d1fe7c8b61d": {
+  "classi": [],
+  "nomi": [
+   "Ingegneria Biomedica"
+  ],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": true,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 41535,
+  "letto_il": "2026-09-25"
+ },
+ "6ec6a10b-121a-4253-98df-92b8a68b2558": {
+  "classi": [],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": true,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 40858,
+  "letto_il": "2026-09-25"
  }
 }

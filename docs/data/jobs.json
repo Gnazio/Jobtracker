@@ -1,28 +1,28 @@
 {
- "aggiornato": "2026-09-24T09:46:47+00:00",
+ "aggiornato": "2026-09-25T10:04:36+00:00",
  "raggio_km": 150,
  "origine": "Pisa",
  "statistiche": {
-  "grezzi": 388,
-  "pubblicati": 35,
+  "grezzi": 403,
+  "pubblicati": 36,
   "scartati_distanza": 46,
-  "scartati_profilo": 307,
+  "scartati_profilo": 321,
   "per_fascia": {
-   "alta": 8,
-   "buona": 16,
-   "possibile": 11
+   "alta": 9,
+   "buona": 18,
+   "possibile": 9
   },
   "per_titolo": {
-   "escluso": 16,
+   "escluso": 15,
    "ignoto": 17,
-   "ammesso": 2
+   "ammesso": 4
   }
  },
  "errori_fonti": [],
  "fonti": [
   {
    "fonte": "InPA",
-   "annunci": 388,
+   "annunci": 403,
    "nota": null
   },
   {
@@ -71,7 +71,7 @@
     "area dei funzionari – settore scientific"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 6,
+   "giorni_rimasti": 5,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-25, LM-29, LM-32. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -112,7 +112,7 @@
     "laurea magistrale"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 1,
+   "giorni_rimasti": 0,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 36/S, LM-33. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -150,7 +150,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 21,
+   "giorni_rimasti": 20,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 27/S, LM-22. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -190,7 +190,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 21,
+   "giorni_rimasti": 20,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 20/S, LM-17. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -230,7 +230,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 29,
+   "giorni_rimasti": 28,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 20/S, 23/S, 28/S, 38/S, 4/S, 62/S, 74/S, 82/S. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -290,7 +290,7 @@
     "laurea specialistica"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 4,
+   "giorni_rimasti": 3,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -325,7 +325,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 28,
+   "giorni_rimasti": 27,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 13/S, 43/S, 67/S, LM-19, LM-38, LM-59. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -337,6 +337,45 @@
     "LM-59"
    ],
    "titolo_nomi": []
+  },
+  {
+   "id": "inpa:d58d79bc7c0c46848d4261d633938802",
+   "media_id": "e8a1a029-f6da-40a0-b1b8-3d1fe7c8b61d",
+   "fonte": "InPA",
+   "titolo": "AZIENDA OSPEDALIERA METROPOLITANA (AOM) - PUBBLICA SELEZIONE, PER TITOLI E COLLOQUIO, PER L’ASSEGNAZIONE DI UNA BORSA DI STUDIO, DELLA DURATA DI 8 MESI, PER COLLABORARE AL PROGETTO DENOMINATO “DISCOVERY AND PRECLINICAL DEVELOPMENT OF 18F-LABELED PET LIGANDS FOR SELECTIVE TARGETING OF BRAIN ESTROGEN RECEPTORS” – CARE – 2025- 9902848981 – CUP: B97G25000390007, P.I. PROF. GIANMARIO SAMBUCETI (GA360), DA SVOLGERSI PRESSO L’IIT CENTER FOR SYNAPTIC NEUROSCIENCE AND TECHNOLOGY (NSYN).",
+   "figura": "Borsista",
+   "ente": "IRCCS Ospedale Policlinico San Martino",
+   "descrizione": "PUBBLICA SELEZIONE, PER TITOLI E COLLOQUIO, PER L’ASSEGNAZIONE DI UNA BORSA DI STUDIO, DELLA DURATA DI 8 MESI, PER COLLABORARE AL PROGETTO DENOMINATO “DISCOVERY AND PRECLINICAL DEVELOPMENT OF 18F-LABELED PET LIGANDS FOR SELECTIVE TARGETING OF BRAIN ESTROGEN RECEPTORS” – CARE – 2025- 9902848981 – CUP: B97G25000390007, P.I. PROF. GIANMARIO SAMBUCETI (GA360), DA SVOLGERSI PRESSO L’IIT CENTER FOR SYNAPTIC NEUROSCIENCE AND TECHNOLOGY (NSYN).",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=d58d79bc7c0c46848d4261d633938802",
+   "pubblicazione": "2026-09-24T11:40:00Z",
+   "scadenza": "2026-10-14T21:59:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_COLLOQUIO",
+   "sede": "Genova",
+   "provincia": "Genova",
+   "km": 139,
+   "ambito": "provincia",
+   "punteggio": 70,
+   "tag": [
+    "ricerca",
+    "ente-ricerca",
+    "sanita"
+   ],
+   "motivi": [
+    "borsa di studio",
+    "iit",
+    "irccs",
+    "azienda ospedalier"
+   ],
+   "fascia": "alta",
+   "giorni_rimasti": 19,
+   "titolo_verdetto": "ammesso",
+   "titolo_nota": "Il bando ammette Ingegneria Biomedica.",
+   "titolo_classi": [],
+   "titolo_nomi": [
+    "Ingegneria Biomedica"
+   ]
   },
   {
    "id": "inpa:9b0b8240dfa6443e8b17383cab4e66d2",
@@ -369,7 +408,7 @@
     "azienda ospedalier"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 14,
+   "giorni_rimasti": 13,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Psicologia. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -406,7 +445,7 @@
     "iit"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 20,
+   "giorni_rimasti": 19,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -441,7 +480,7 @@
     "iit"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 20,
+   "giorni_rimasti": 19,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -474,7 +513,7 @@
     "iii livello"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 8,
+   "giorni_rimasti": 7,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-17, LM-20, LM-23, LM-32, LM-35, LM-44, LM-58, LM-60. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -522,7 +561,7 @@
     "iii livello"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 10,
+   "giorni_rimasti": 9,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -555,7 +594,7 @@
     "iii livello"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 27,
+   "giorni_rimasti": 26,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-6, LM-60, LM-7, LM-73, LM-75, LM-8, LM-9. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -570,6 +609,78 @@
    "titolo_nomi": [
     "Biologia"
    ]
+  },
+  {
+   "id": "inpa:8e097986106643a9a65b08fb252b17fc",
+   "media_id": "6ec6a10b-121a-4253-98df-92b8a68b2558",
+   "fonte": "InPA",
+   "titolo": "AZIENDA OSPEDALIERA METROPOLITANA (AOM) -PUBBLICA SELEZIONE, PER TITOLI E COLLOQUIO, PER L’ASSEGNAZIONE DI UNA BORSA DI STUDIO, DELLA DURATA DI 12 MESI, PER COLLABORARE AL PROGETTO DI RICERCA DENOMINATO “AFFRONTARE LA SFIDA DELLA MEDICINA DI PRECISIONE NELLA MALATTIA DI ALZHEIMER ATTRAVERSO LA VALIDAZIONE DI UN PROTOCOLLO MRI QUANTITATIVO MULTI-PARAMETRICO APPLICABILE IN UN CONTESTO CLINICO” (GA904), DA SVOLGERSI PRESSO LA U.O. CLINICA NEUROLOGICA.",
+   "figura": "Borsista",
+   "ente": "IRCCS Ospedale Policlinico San Martino",
+   "descrizione": "PUBBLICA SELEZIONE, PER TITOLI E COLLOQUIO, PER L’ASSEGNAZIONE DI UNA BORSA DI STUDIO, DELLA DURATA DI 12 MESI, PER COLLABORARE AL PROGETTO DI RICERCA DENOMINATO “ AFFRONTARE LA SFIDA DELLA MEDICINA DI PRECISIONE NELLA MALATTIA DI ALZHEIMER ATTRAVERSO LA VALIDAZIONE DI UN PROTOCOLLO MRI QUANTITATIVO MULTI-PARAMETRICO APPLICABILE IN UN CONTESTO CLINICO ” (GA904), DA SVOLGERSI PRESSO LA U.O. CLINICA NEUROLOGICA.",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=8e097986106643a9a65b08fb252b17fc",
+   "pubblicazione": "2026-09-24T12:10:00Z",
+   "scadenza": "2026-10-14T21:59:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_COLLOQUIO",
+   "sede": "Genova",
+   "provincia": "Genova",
+   "km": 139,
+   "ambito": "provincia",
+   "punteggio": 52,
+   "tag": [
+    "ricerca",
+    "ente-ricerca",
+    "sanita"
+   ],
+   "motivi": [
+    "borsa di studio",
+    "irccs",
+    "azienda ospedalier"
+   ],
+   "fascia": "buona",
+   "giorni_rimasti": 19,
+   "titolo_verdetto": "ammesso",
+   "titolo_nota": "Il bando ammette Ingegneria biomedica.",
+   "titolo_classi": [],
+   "titolo_nomi": []
+  },
+  {
+   "id": "inpa:d1bba8715bf94f81b1c5c5691ae616c0",
+   "media_id": "6af4f67a-85c8-4b44-b182-188d1357fb1d",
+   "fonte": "InPA",
+   "titolo": "AZIENDA OSPEDALIERA METROPOLITANA (AOM) -Pubblica selezione, per titoli e colloquio, per l'assegnazione di una borsa di studio, della durata di 12 mesi, per collaborare al progetto di ricerca denominato \"Controllo Neuronale dell'immunità: ruolo del neuropeptide AgRP e del suo recettore MC3R nella Sclerosi Multipla e nei modelli sperimentali\" (GA800), da svolgersi presso la U.O. Neuroscienze Sperimentali",
+   "figura": "Borsista",
+   "ente": "IRCCS Ospedale Policlinico San Martino",
+   "descrizione": "PUBBLICA SELEZIONE, PER TITOLI E COLLOQUIO, PER L’ASSEGNAZIONE DI UNA BORSA DI STUDIO, DELLA DURATA DI 12 MESI, PER COLLABORARE AL PROGETTO DI RICERCA DENOMINATO “CONTROLLO NEURONALE DELL’IMMUNITÀ: RUOLO DEL NEUROPEPTIDE AGRP E DEL SUO RECETTORE MC3R NELLA SCLEROSI MULTIPLA E NEI MODELLI SPERIMENTALI” (GA800), DA SVOLGERSI PRESSO LA U.O. NEUROSCIENZE SPERIMENTALI.",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=d1bba8715bf94f81b1c5c5691ae616c0",
+   "pubblicazione": "2026-09-18T09:40:00Z",
+   "scadenza": "2026-10-08T21:59:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_COLLOQUIO",
+   "sede": "Genova",
+   "provincia": "Genova",
+   "km": 139,
+   "ambito": "provincia",
+   "punteggio": 52,
+   "tag": [
+    "ricerca",
+    "ente-ricerca",
+    "sanita"
+   ],
+   "motivi": [
+    "borsa di studio",
+    "irccs",
+    "azienda ospedalier"
+   ],
+   "fascia": "buona",
+   "giorni_rimasti": 13,
+   "titolo_verdetto": "ignoto",
+   "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
+   "titolo_classi": [],
+   "titolo_nomi": []
   },
   {
    "id": "inpa:a1f77548cf514eb9af55d7ae76a88628",
@@ -601,7 +712,7 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 7,
+   "giorni_rimasti": 6,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-41. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -639,7 +750,7 @@
     "ai"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 1,
+   "giorni_rimasti": 0,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Nessuna classe richiesta: ammessa qualunque laurea magistrale.",
    "titolo_classi": [],
@@ -673,7 +784,7 @@
     "funzionario tecnic"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 6,
+   "giorni_rimasti": 5,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 28/S, 3/S, 38/S, 4/S, LM-23, LM-24, LM-26, LM-3. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -721,7 +832,7 @@
     "cnr"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 21,
+   "giorni_rimasti": 20,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 20/S, 32/S, 61/S, 91/S, LM-17, LM-29, LM-53, LM-82. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -766,7 +877,7 @@
     "collaboratore professionale di ricerca"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 4,
+   "giorni_rimasti": 3,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Titoli richiesti: Medicina e Chirurgia; Professioni Sanitarie; Biologia; Scienze Motorie. Ingegneria biomedica non c'e'.",
    "titolo_classi": [],
@@ -805,7 +916,7 @@
     "laurea specialistica"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 11,
+   "giorni_rimasti": 10,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il PDF non contiene testo leggibile (scansione): da verificare a mano.",
    "titolo_classi": [],
@@ -839,7 +950,7 @@
     "laurea magistrale"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 4,
+   "giorni_rimasti": 3,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -873,7 +984,7 @@
     "laurea magistrale"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 1,
+   "giorni_rimasti": 0,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -907,7 +1018,7 @@
     "laurea specialistica"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 15,
+   "giorni_rimasti": 14,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
@@ -940,7 +1051,7 @@
     "laurea specialistica"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 15,
+   "giorni_rimasti": 14,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
@@ -972,7 +1083,7 @@
     "statistic"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 2,
+   "giorni_rimasti": 1,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-17, LM-32, LM-40, LM-82, LM-9. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -982,40 +1093,6 @@
     "LM-82",
     "LM-9"
    ],
-   "titolo_nomi": []
-  },
-  {
-   "id": "inpa:d1bba8715bf94f81b1c5c5691ae616c0",
-   "media_id": "6af4f67a-85c8-4b44-b182-188d1357fb1d",
-   "fonte": "InPA",
-   "titolo": "Pubblica selezione, per titoli e colloquio, per l'assegnazione di una borsa di studio, della durata di 12 mesi, per collaborare al progetto di ricerca denominato \"Controllo Neuronale dell'immunità: ruolo del neuropeptide AgRP e del suo recettore MC3R nella Sclerosi Multipla e nei modelli sperimentali\" (GA800), da svolgersi presso la U.O. Neuroscienze Sperimentali",
-   "figura": "Borsista",
-   "ente": "IRCCS Ospedale Policlinico San Martino",
-   "descrizione": "PUBBLICA SELEZIONE, PER TITOLI E COLLOQUIO, PER L’ASSEGNAZIONE DI UNA BORSA DI STUDIO, DELLA DURATA DI 12 MESI, PER COLLABORARE AL PROGETTO DI RICERCA DENOMINATO “CONTROLLO NEURONALE DELL’IMMUNITÀ: RUOLO DEL NEUROPEPTIDE AGRP E DEL SUO RECETTORE MC3R NELLA SCLEROSI MULTIPLA E NEI MODELLI SPERIMENTALI” (GA800), DA SVOLGERSI PRESSO LA U.O. NEUROSCIENZE SPERIMENTALI.",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=d1bba8715bf94f81b1c5c5691ae616c0",
-   "pubblicazione": "2026-09-18T09:40:00Z",
-   "scadenza": "2026-10-08T21:59:00Z",
-   "stato": "Aperto",
-   "posti": 1,
-   "procedura": "TITOLI_COLLOQUIO",
-   "sede": "Genova",
-   "provincia": "Genova",
-   "km": 139,
-   "ambito": "provincia",
-   "punteggio": 38,
-   "tag": [
-    "ricerca",
-    "ente-ricerca"
-   ],
-   "motivi": [
-    "borsa di studio",
-    "irccs"
-   ],
-   "fascia": "possibile",
-   "giorni_rimasti": 14,
-   "titolo_verdetto": "ignoto",
-   "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
-   "titolo_classi": [],
    "titolo_nomi": []
   },
   {
@@ -1045,7 +1122,7 @@
     "cineca."
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 15,
+   "giorni_rimasti": 14,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Il bando ammette Ingegneria biomedica.",
    "titolo_classi": [],
@@ -1078,7 +1155,7 @@
     "cineca."
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 20,
+   "giorni_rimasti": 19,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -1112,7 +1189,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 16,
+   "giorni_rimasti": 15,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Medicina e Chirurgia e abilitazione all. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -1148,7 +1225,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 4,
+   "giorni_rimasti": 3,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Titoli richiesti: Fisioterapia; professioni sanitarie della riabilitazione. Ingegneria biomedica non c'e'.",
    "titolo_classi": [],
@@ -1183,7 +1260,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 23,
+   "giorni_rimasti": 22,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1215,53 +1292,10 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 6,
+   "giorni_rimasti": 4,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
-   "titolo_nomi": []
-  },
-  {
-   "id": "inpa:3c9d921b6c244082acb967762751f5fe",
-   "media_id": "8141878d-53ae-4c9e-af99-0496b9f69b80",
-   "fonte": "InPA",
-   "titolo": "Concorso pubblico, per titoli ed esami, per la costituzione di n. 1 rapporto di lavoro a tempo determinato con contratto di APPRENDISTATO della durata di 36 mesi, nel profilo professionale di COLLABORATORE AMMINISTRATIVO PROFESSIONALE – SETTORE STATISTICO – Area dei Professionisti della salute e dei Funzionari per le esigenze della UOC Servizio Unico Metropolitano Amministrazione Economica del Personale (SUMAEP) - Azienda USL di Imola",
-   "figura": "COLLABORATORE AMMINISTRATIVO PROFESSIONALE – SETTORE STATISTICO – AREA DEI PROFESSIONISTI DELLA SALUTE E DEI FUNZIONARI",
-   "ente": "Azienda USL Imola",
-   "descrizione": "concorso pubblico, per titoli ed esami, per la costituzione di n. 1 rapporto di lavoro a tempo determinato con contratto di apprendistato della durata di 36 mesi, nel profilo professionale di COLLABORATORE AMMINISTRATIVO PROFESSIONALE – SETTORE STATISTICO per le esigenze della UOC Servizio Unico Metropolitano Amministrazione Economica del Personale (SUMAEP) - Azienda USL di Imola",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3c9d921b6c244082acb967762751f5fe",
-   "pubblicazione": "2026-08-25T13:00:00Z",
-   "scadenza": "2026-09-24T10:00:00Z",
-   "stato": "Aperto",
-   "posti": 1,
-   "procedura": "TITOLI_ESAMI",
-   "sede": "Bologna",
-   "provincia": "Bologna",
-   "km": 115,
-   "ambito": "provincia",
-   "punteggio": 30,
-   "tag": [
-    "ai-ml",
-    "sanita"
-   ],
-   "motivi": [
-    "statistic",
-    "azienda usl"
-   ],
-   "fascia": "possibile",
-   "giorni_rimasti": 0,
-   "titolo_verdetto": "escluso",
-   "titolo_nota": "Classi ammesse: LM-16, LM-56, LM-62, LM-63, LM-77, LM-82, LM-83, LM-87. LM-21 non e' compresa.",
-   "titolo_classi": [
-    "LM-16",
-    "LM-56",
-    "LM-62",
-    "LM-63",
-    "LM-77",
-    "LM-82",
-    "LM-83",
-    "LM-87"
-   ],
    "titolo_nomi": []
   },
   {
@@ -1290,7 +1324,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 28,
+   "giorni_rimasti": 27,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1322,7 +1356,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 9,
+   "giorni_rimasti": 8,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1356,7 +1390,7 @@
     "sistemi informativ"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 25,
+   "giorni_rimasti": 23,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-18, LM-27, LM-29, LM-31, LM-32, LM-40, LM-44, LM-82. LM-21 non e' compresa.",
    "titolo_classi": [
