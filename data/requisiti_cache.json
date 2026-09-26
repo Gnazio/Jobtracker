@@ -803,5 +803,60 @@
   "dottorato_affine": false,
   "caratteri": 40858,
   "letto_il": "2026-09-25"
+ },
+ "e918d2d5-340f-44ac-b598-d3fcae36f321": {
+  "classi": [
+   "14/S",
+   "26/S",
+   "6/S",
+   "62/S",
+   "8/S",
+   "81/S",
+   "9/S",
+   "LM-13",
+   "LM-21",
+   "LM-54",
+   "LM-6",
+   "LM-71",
+   "LM-8",
+   "LM-9"
+  ],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": true,
+  "nome_titolo": true,
+  "dottorato": true,
+  "dottorato_affine": false,
+  "caratteri": 39729,
+  "letto_il": "2026-09-26"
+ },
+ "9aedc78d-7bb2-4785-a603-96198ed90673": {
+  "classi": [],
+  "nomi": [
+   "Ingegneria Biomedica"
+  ],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": true,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 41552,
+  "letto_il": "2026-09-26"
+ },
+ "19f1f207-4aa6-4c32-aa85-37cb6715c74f": {
+  "classi": [
+   "LM-25",
+   "LM-29",
+   "LM-32",
+   "LM-33"
+  ],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 32422,
+  "letto_il": "2026-09-26"
  }
 }

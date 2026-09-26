@@ -1,28 +1,28 @@
 {
- "aggiornato": "2026-09-25T10:04:36+00:00",
+ "aggiornato": "2026-09-26T09:46:18+00:00",
  "raggio_km": 150,
  "origine": "Pisa",
  "statistiche": {
-  "grezzi": 403,
-  "pubblicati": 36,
+  "grezzi": 395,
+  "pubblicati": 35,
   "scartati_distanza": 46,
-  "scartati_profilo": 321,
+  "scartati_profilo": 314,
   "per_fascia": {
    "alta": 9,
-   "buona": 18,
+   "buona": 17,
    "possibile": 9
   },
   "per_titolo": {
    "escluso": 15,
-   "ignoto": 17,
-   "ammesso": 4
+   "ammesso": 4,
+   "ignoto": 16
   }
  },
  "errori_fonti": [],
  "fonti": [
   {
    "fonte": "InPA",
-   "annunci": 403,
+   "annunci": 395,
    "nota": null
   },
   {
@@ -71,53 +71,13 @@
     "area dei funzionari – settore scientific"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 5,
+   "giorni_rimasti": 4,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-25, LM-29, LM-32. LM-21 non e' compresa.",
    "titolo_classi": [
     "LM-25",
     "LM-29",
     "LM-32"
-   ],
-   "titolo_nomi": []
-  },
-  {
-   "id": "inpa:0ac94fa042d8488d9842b90a9992b067",
-   "media_id": "6aae65dd-a815-41e0-8b17-6c0966b9866b",
-   "fonte": "InPA",
-   "titolo": "Selezione pubblica, per titoli ed esami, per n. 1 Tecnologo di I livello, con contratto a tempo determinato e parziale al 50%, della durata di 36 mesi, da assegnare al Dipartimento di Ingegneria Industriale, nell’ambito del progetto “Gestione e sviluppo di procedure e strumenti per l’introduzione nella pratica clinica e nella simulazione di tecnologie di Digital e Physical 3D modelling e Reverse Engineering” (T3Ddy) – CUP B13C25001160007 –B13C26001220007",
-   "figura": "Tecnologo",
-   "ente": "Universita' degli Studi di Firenze",
-   "descrizione": "Selezione pubblica, per titoli ed esami, per n. 1 Tecnologo di I livello, ai sensi dell’art.24-bis della Legge 240/2010, con contratto di lavoro a tempo determinato e parziale, in misura pari al 50%, della durata di 36 mesi, da assegnare al Dipartimento di Ingegneria Industriale, nell’ambito del progetto “Gestione e sviluppo di procedure e strumenti per l’introduzione nella pratica clinica e nella simulazione di tecnologie di Digital e Physical 3D modelling e Reverse Engineering” (T3Ddy) – CUP B13C25001160007 –B13C26001220007",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0ac94fa042d8488d9842b90a9992b067",
-   "pubblicazione": "2026-09-04T11:00:00Z",
-   "scadenza": "2026-09-25T21:59:00Z",
-   "stato": "Aperto",
-   "posti": 1,
-   "procedura": "TITOLI_ESAMI",
-   "sede": "Firenze",
-   "provincia": "Firenze",
-   "km": 69,
-   "ambito": "provincia",
-   "punteggio": 80,
-   "tag": [
-    "ricerca",
-    "ai-ml",
-    "requisiti"
-   ],
-   "motivi": [
-    "tecnologo",
-    "dottorat",
-    "ai",
-    "laurea magistrale"
-   ],
-   "fascia": "alta",
-   "giorni_rimasti": 0,
-   "titolo_verdetto": "escluso",
-   "titolo_nota": "Classi ammesse: 36/S, LM-33. LM-21 non e' compresa.",
-   "titolo_classi": [
-    "36/S",
-    "LM-33"
    ],
    "titolo_nomi": []
   },
@@ -150,7 +110,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 20,
+   "giorni_rimasti": 19,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 27/S, LM-22. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -190,7 +150,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 20,
+   "giorni_rimasti": 19,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 20/S, LM-17. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -200,6 +160,56 @@
    "titolo_nomi": [
     "Fisica"
    ]
+  },
+  {
+   "id": "inpa:19d02fe1aec147c597db827df8224db6",
+   "media_id": "e918d2d5-340f-44ac-b598-d3fcae36f321",
+   "fonte": "InPA",
+   "titolo": "BANDO CNR N. 331.5 RIC ISOF",
+   "figura": "Ricercatore III livello professionale",
+   "ente": "Consiglio Nazionale delle Ricerche - CNR",
+   "descrizione": "BANDO CNR N. 331.5 RIC ISOF - Selezione per titoli e colloquio ai sensi dell'art. 8 del \"Disciplinare concernente le assunzioni di personale con contratto di lavoro a tempo determinato\", per l'assunzione, ai sensi dell'art. 141 del CCNL del Comparto “Istruzione e Ricerca” 2019-2021, sottoscritto in data 18 gennaio 2024, di una unità di personale con profilo professionale di Ricercatore III livello, presso l'Istituto per la Sintesi Organica e la Fotoreattività (Bologna).",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=19d02fe1aec147c597db827df8224db6",
+   "pubblicazione": "2026-09-25T16:00:00Z",
+   "scadenza": "2026-10-25T17:00:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_COLLOQUIO",
+   "sede": "Bologna",
+   "provincia": "Bologna",
+   "km": 115,
+   "ambito": "provincia",
+   "punteggio": 78,
+   "tag": [
+    "ricerca",
+    "ente-ricerca"
+   ],
+   "motivi": [
+    "ricercator",
+    "iii livello",
+    "cnr"
+   ],
+   "fascia": "alta",
+   "giorni_rimasti": 29,
+   "titolo_verdetto": "ammesso",
+   "titolo_nota": "Il bando elenca LM-21 fra le classi ammesse.",
+   "titolo_classi": [
+    "14/S",
+    "26/S",
+    "6/S",
+    "62/S",
+    "8/S",
+    "81/S",
+    "9/S",
+    "LM-13",
+    "LM-21",
+    "LM-54",
+    "LM-6",
+    "LM-71",
+    "LM-8",
+    "LM-9"
+   ],
+   "titolo_nomi": []
   },
   {
    "id": "inpa:d0a801edb21444f49b44c665094b6885",
@@ -230,7 +240,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 28,
+   "giorni_rimasti": 27,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 20/S, 23/S, 28/S, 38/S, 4/S, 62/S, 74/S, 82/S. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -290,7 +300,7 @@
     "laurea specialistica"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 3,
+   "giorni_rimasti": 2,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -325,7 +335,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 27,
+   "giorni_rimasti": 26,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 13/S, 43/S, 67/S, LM-19, LM-38, LM-59. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -340,7 +350,7 @@
   },
   {
    "id": "inpa:d58d79bc7c0c46848d4261d633938802",
-   "media_id": "e8a1a029-f6da-40a0-b1b8-3d1fe7c8b61d",
+   "media_id": "9aedc78d-7bb2-4785-a603-96198ed90673",
    "fonte": "InPA",
    "titolo": "AZIENDA OSPEDALIERA METROPOLITANA (AOM) - PUBBLICA SELEZIONE, PER TITOLI E COLLOQUIO, PER L’ASSEGNAZIONE DI UNA BORSA DI STUDIO, DELLA DURATA DI 8 MESI, PER COLLABORARE AL PROGETTO DENOMINATO “DISCOVERY AND PRECLINICAL DEVELOPMENT OF 18F-LABELED PET LIGANDS FOR SELECTIVE TARGETING OF BRAIN ESTROGEN RECEPTORS” – CARE – 2025- 9902848981 – CUP: B97G25000390007, P.I. PROF. GIANMARIO SAMBUCETI (GA360), DA SVOLGERSI PRESSO L’IIT CENTER FOR SYNAPTIC NEUROSCIENCE AND TECHNOLOGY (NSYN).",
    "figura": "Borsista",
@@ -369,7 +379,7 @@
     "azienda ospedalier"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 19,
+   "giorni_rimasti": 18,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Il bando ammette Ingegneria Biomedica.",
    "titolo_classi": [],
@@ -408,13 +418,53 @@
     "azienda ospedalier"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 13,
+   "giorni_rimasti": 12,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Psicologia. Da verificare nel PDF.",
    "titolo_classi": [],
    "titolo_nomi": [
     "Psicologia"
    ]
+  },
+  {
+   "id": "inpa:19a38578625840149a907b5496b9858e",
+   "media_id": "19f1f207-4aa6-4c32-aa85-37cb6715c74f",
+   "fonte": "InPA",
+   "titolo": "Università di Pisa - selezione per il reclutamento di un tecnologo di primo livello, per 18 mesi, presso il Centro di Ricerca \"E. Piaggio\"",
+   "figura": "tecnologo",
+   "ente": "Universita' di Pisa",
+   "descrizione": "Selezione per il reclutamento di un tecnologo di primo livello, per 18 mesi, presso il Centro di ricerca \"E. Piaggio\". Le domande di ammissione alla selezione devono essere presentate esclusivamente tramite la piattaforma PICA https://pica.cineca.it/unipi/",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=19a38578625840149a907b5496b9858e",
+   "pubblicazione": "2026-09-25T10:00:00Z",
+   "scadenza": "2026-10-16T11:00:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_COLLOQUIO",
+   "sede": "Pisa",
+   "provincia": "Pisa",
+   "km": 0,
+   "ambito": "provincia",
+   "punteggio": 60,
+   "tag": [
+    "ricerca",
+    "ente-ricerca"
+   ],
+   "motivi": [
+    "tecnologo",
+    "università di pisa",
+    "cineca."
+   ],
+   "fascia": "buona",
+   "giorni_rimasti": 20,
+   "titolo_verdetto": "escluso",
+   "titolo_nota": "Classi ammesse: LM-25, LM-29, LM-32, LM-33. LM-21 non e' compresa.",
+   "titolo_classi": [
+    "LM-25",
+    "LM-29",
+    "LM-32",
+    "LM-33"
+   ],
+   "titolo_nomi": []
   },
   {
    "id": "inpa:b4b4dfe215a443a590092d2dbedefe0b",
@@ -445,7 +495,7 @@
     "iit"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 19,
+   "giorni_rimasti": 18,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -480,7 +530,7 @@
     "iit"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 19,
+   "giorni_rimasti": 18,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -513,7 +563,7 @@
     "iii livello"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 7,
+   "giorni_rimasti": 6,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-17, LM-20, LM-23, LM-32, LM-35, LM-44, LM-58, LM-60. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -561,7 +611,7 @@
     "iii livello"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 9,
+   "giorni_rimasti": 8,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -594,7 +644,7 @@
     "iii livello"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 26,
+   "giorni_rimasti": 25,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-6, LM-60, LM-7, LM-73, LM-75, LM-8, LM-9. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -640,7 +690,7 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 19,
+   "giorni_rimasti": 18,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Il bando ammette Ingegneria biomedica.",
    "titolo_classi": [],
@@ -676,7 +726,7 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 13,
+   "giorni_rimasti": 12,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -712,7 +762,7 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 6,
+   "giorni_rimasti": 5,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-41. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -723,47 +773,13 @@
    ]
   },
   {
-   "id": "inpa:5ac9f9f2d4aa486da97788f12d5cff33",
-   "media_id": "385f5084-40ce-43a5-95c0-be5bae28b0d4",
-   "fonte": "InPA",
-   "titolo": "Concorso pubblico, per titoli ed esami, per n. 1 posto, Area dei Funzionari, Settore della comunicazione e informazione, con contratto di lavoro a tempo determinato e pieno della durata di 36 (trentasei) mesi presso l’Università degli Studi di Siena - Ufficio Comunicazione e URP",
-   "figura": "1 Funzionario",
-   "ente": "Universita' degli Studi di Siena",
-   "descrizione": "Concorso pubblico, per titoli ed esami, per la copertura di n. 1 posto, Area dei Funzionari, Settore della comunicazione e informazione, con contratto di lavoro a tempo determinato e pieno della durata di 36 (trentasei) mesi presso l’Università degli Studi di Siena, per le esigenze temporanee ed eccezionali dell’Ufficio Comunicazione e URP. Attività da svolgere L’attività progettuale consiste nella definizione e realizzazione di un piano organico di comunicazione a supporto del progetto di filiera approvato dal MASAF, finalizzato a garantirne la corretta divulgazione, la riconoscibilità istitu",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=5ac9f9f2d4aa486da97788f12d5cff33",
-   "pubblicazione": "2026-09-04T09:01:00Z",
-   "scadenza": "2026-09-25T21:59:00Z",
-   "stato": "Aperto",
-   "posti": 1,
-   "procedura": "TITOLI_ESAMI",
-   "sede": "Siena",
-   "provincia": "Siena",
-   "km": 87,
-   "ambito": "provincia",
-   "punteggio": 48,
-   "tag": [
-    "ente-ricerca",
-    "ai-ml"
-   ],
-   "motivi": [
-    "università degli studi di siena",
-    "ai"
-   ],
-   "fascia": "buona",
-   "giorni_rimasti": 0,
-   "titolo_verdetto": "ammesso",
-   "titolo_nota": "Nessuna classe richiesta: ammessa qualunque laurea magistrale.",
-   "titolo_classi": [],
-   "titolo_nomi": []
-  },
-  {
    "id": "inpa:ff62c75dc0c74bd1b66f397ad3f71a3d",
    "media_id": "44200e2a-086d-48cf-9f84-f4f432361fe3",
    "fonte": "InPA",
    "titolo": "CONCORSO PUBBLICO PER ESAMI PER LA COPERTURA DI N. 7 POSTI NEL PROFILO PROFESSIONALE DI FUNZIONARIO TECNICO – AREA DEI FUNZIONARI E DELLA ELEVATA QUALIFICAZIONE A TEMPO INDETERMINATO E PIENO, CON RISERVA DI N. 2 POSTI A FAVORE DEI SOGGETTI APPARTENENTI ALLE FORZE ARMATE E DI N. 1 POSTO A FAVORE DEI VOLONTARI DEL SERVIZIO CIVILE, DA ASSEGNARE AI SERVIZI TECNICI DELLA PROVINCIA DI REGGIO EMILIA.",
    "figura": "FUNZIONARIO TECNICO",
    "ente": "Provincia di Reggio Emilia",
-   "descrizione": "Si pubblica il bando in oggetto con scadenza del termine di presentazione delle domande il giorno 30 settembre 2026 ore 23.59.",
+   "descrizione": "Aggiornamento del 25/09/2026 Si pubblicano le istruzioni operative per l’accesso alla sala concorsuale e per lo svolgimento della prova scritta fissata per il giorno 8 ottobre 2026 alle ore 10.00. -------------------------------------------------------------------------------------------------- Si pubblica il bando in oggetto con scadenza del termine di presentazione delle domande il giorno 30 settembre 2026 ore 23.59.",
    "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ff62c75dc0c74bd1b66f397ad3f71a3d",
    "pubblicazione": "2026-08-31T15:50:00Z",
    "scadenza": "2026-09-30T21:59:00Z",
@@ -784,7 +800,7 @@
     "funzionario tecnic"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 5,
+   "giorni_rimasti": 4,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 28/S, 3/S, 38/S, 4/S, LM-23, LM-24, LM-26, LM-3. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -832,7 +848,7 @@
     "cnr"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 20,
+   "giorni_rimasti": 19,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 20/S, 32/S, 61/S, 91/S, LM-17, LM-29, LM-53, LM-82. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -877,7 +893,7 @@
     "collaboratore professionale di ricerca"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 3,
+   "giorni_rimasti": 2,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Titoli richiesti: Medicina e Chirurgia; Professioni Sanitarie; Biologia; Scienze Motorie. Ingegneria biomedica non c'e'.",
    "titolo_classi": [],
@@ -916,7 +932,7 @@
     "laurea specialistica"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 10,
+   "giorni_rimasti": 9,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il PDF non contiene testo leggibile (scansione): da verificare a mano.",
    "titolo_classi": [],
@@ -950,41 +966,7 @@
     "laurea magistrale"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 3,
-   "titolo_verdetto": "ignoto",
-   "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
-   "titolo_classi": [],
-   "titolo_nomi": []
-  },
-  {
-   "id": "inpa:30c7b4a1378348ffb9d5a4a60e1660b9",
-   "media_id": "65784d0d-bf79-40ff-84a5-6c25cabb4cc2",
-   "fonte": "InPA",
-   "titolo": "Concorso pubblico, per titoli ed esami, per l’assunzione di n. 1 Collaboratore ed Esperto Linguistico (CEL) di madrelingua cinese, con contratto di lavoro subordinato a tempo indeterminato e pieno con impegno complessivo pari a 540 ore annue, per le esigenze del Dipartimento di Formazione, Lingue, Intercultura, Letterature e Psicologia (FORLILPSI).",
-   "figura": "Collaboratore ed Esperto Linguistico (CEL)",
-   "ente": "Universita' degli Studi di Firenze",
-   "descrizione": "Concorso pubblico, per titoli ed esami, per l’assunzione di n. 1 Collaboratore ed Esperto Linguistico (CEL) di madrelingua cinese, con contratto di lavoro subordinato a tempo indeterminato e pieno con impegno complessivo pari a 540 ore annue, per le esigenze del Dipartimento di Formazione, Lingue, Intercultura, Letterature e Psicologia (FORLILPSI).",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=30c7b4a1378348ffb9d5a4a60e1660b9",
-   "pubblicazione": "2026-08-26T08:00:00Z",
-   "scadenza": "2026-09-25T21:59:00Z",
-   "stato": "Aperto",
-   "posti": 1,
-   "procedura": "TITOLI_ESAMI",
-   "sede": "Firenze",
-   "provincia": "Firenze",
-   "km": 69,
-   "ambito": "provincia",
-   "punteggio": 40,
-   "tag": [
-    "ai-ml",
-    "requisiti"
-   ],
-   "motivi": [
-    "ai",
-    "laurea magistrale"
-   ],
-   "fascia": "buona",
-   "giorni_rimasti": 0,
+   "giorni_rimasti": 2,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1018,7 +1000,7 @@
     "laurea specialistica"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 14,
+   "giorni_rimasti": 13,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
@@ -1051,7 +1033,7 @@
     "laurea specialistica"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 14,
+   "giorni_rimasti": 13,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
@@ -1083,7 +1065,7 @@
     "statistic"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 1,
+   "giorni_rimasti": 0,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-17, LM-32, LM-40, LM-82, LM-9. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1122,7 +1104,7 @@
     "cineca."
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 14,
+   "giorni_rimasti": 13,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Il bando ammette Ingegneria biomedica.",
    "titolo_classi": [],
@@ -1155,7 +1137,7 @@
     "cineca."
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 19,
+   "giorni_rimasti": 18,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -1189,7 +1171,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 15,
+   "giorni_rimasti": 14,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Medicina e Chirurgia e abilitazione all. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -1225,7 +1207,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 3,
+   "giorni_rimasti": 2,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Titoli richiesti: Fisioterapia; professioni sanitarie della riabilitazione. Ingegneria biomedica non c'e'.",
    "titolo_classi": [],
@@ -1260,7 +1242,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 22,
+   "giorni_rimasti": 21,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1324,7 +1306,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 27,
+   "giorni_rimasti": 26,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1356,7 +1338,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 8,
+   "giorni_rimasti": 7,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
