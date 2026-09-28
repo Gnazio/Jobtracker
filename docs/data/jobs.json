@@ -1,28 +1,28 @@
 {
- "aggiornato": "2026-09-27T10:26:03+00:00",
+ "aggiornato": "2026-09-28T11:31:54+00:00",
  "raggio_km": 150,
  "origine": "Pisa",
  "statistiche": {
-  "grezzi": 385,
-  "pubblicati": 34,
-  "scartati_distanza": 45,
-  "scartati_profilo": 306,
+  "grezzi": 382,
+  "pubblicati": 36,
+  "scartati_distanza": 42,
+  "scartati_profilo": 304,
   "per_fascia": {
-   "alta": 9,
+   "alta": 10,
    "buona": 16,
-   "possibile": 9
+   "possibile": 10
   },
   "per_titolo": {
-   "escluso": 14,
-   "ammesso": 4,
-   "ignoto": 16
+   "escluso": 15,
+   "ignoto": 17,
+   "ammesso": 4
   }
  },
  "errori_fonti": [],
  "fonti": [
   {
    "fonte": "InPA",
-   "annunci": 385,
+   "annunci": 382,
    "nota": null
   },
   {
@@ -71,7 +71,7 @@
     "area dei funzionari – settore scientific"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 3,
+   "giorni_rimasti": 2,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-25, LM-29, LM-32. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -79,6 +79,41 @@
     "LM-29",
     "LM-32"
    ],
+   "titolo_nomi": []
+  },
+  {
+   "id": "inpa:1783d088cd504d05ad04355eb3da0eea",
+   "media_id": "ae6d1386-0555-40dc-879f-48712e52f9bf",
+   "fonte": "InPA",
+   "titolo": "Procedura di selezione pubblica, per titoli ed eventuale colloquio, per il conferimento di n. 1 incarico post-doc (fascia I), ai sensi dell’art. 22-bis della Legge 30 dicembre 2010, n. 240, della durata di 12 mesi, eventualmente prorogabile Cod: 2026INAFINCPOS-OAS-10597-009",
+   "figura": "Incarico Post-Doc I° fascia",
+   "ente": "Istituto Nazionale di Astrofisica - INAF",
+   "descrizione": "Per le esigenze del Progetto dal titolo \"Programma di Ricerca Spaziale di Base (PRORIS)\", titolo del programma di ricerca: \"Sviluppo di Algoritmi di Onboard Artificial Intelligence per Analisi dei Dati X e Gamma\" Sede di Servizio: OAS Bologna",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=1783d088cd504d05ad04355eb3da0eea",
+   "pubblicazione": "2026-09-27T22:01:00Z",
+   "scadenza": "2026-10-13T21:59:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_COLLOQUIO",
+   "sede": "Bologna",
+   "provincia": "Bologna",
+   "km": 115,
+   "ambito": "provincia",
+   "punteggio": 80,
+   "tag": [
+    "ricerca",
+    "ai-ml"
+   ],
+   "motivi": [
+    "post-doc",
+    "artificial intelligence",
+    "analisi dei dati"
+   ],
+   "fascia": "alta",
+   "giorni_rimasti": 15,
+   "titolo_verdetto": "ignoto",
+   "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
+   "titolo_classi": [],
    "titolo_nomi": []
   },
   {
@@ -110,7 +145,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 18,
+   "giorni_rimasti": 17,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 27/S, LM-22. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -150,7 +185,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 18,
+   "giorni_rimasti": 17,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 20/S, LM-17. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -190,7 +225,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 28,
+   "giorni_rimasti": 27,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Il bando elenca LM-21 fra le classi ammesse.",
    "titolo_classi": [
@@ -240,7 +275,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 26,
+   "giorni_rimasti": 25,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 20/S, 23/S, 28/S, 38/S, 4/S, 62/S, 74/S, 82/S. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -300,7 +335,7 @@
     "laurea specialistica"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 1,
+   "giorni_rimasti": 0,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -335,7 +370,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 25,
+   "giorni_rimasti": 24,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 13/S, 43/S, 67/S, LM-19, LM-38, LM-59. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -379,7 +414,7 @@
     "azienda ospedalier"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 17,
+   "giorni_rimasti": 16,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Il bando ammette Ingegneria Biomedica.",
    "titolo_classi": [],
@@ -418,7 +453,7 @@
     "azienda ospedalier"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 11,
+   "giorni_rimasti": 10,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Psicologia. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -455,7 +490,7 @@
     "cineca."
    ],
    "fascia": "buona",
-   "giorni_rimasti": 19,
+   "giorni_rimasti": 17,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-25, LM-29, LM-32, LM-33. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -495,7 +530,7 @@
     "iit"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 17,
+   "giorni_rimasti": 16,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -530,7 +565,7 @@
     "iit"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 17,
+   "giorni_rimasti": 16,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -563,7 +598,7 @@
     "iii livello"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 5,
+   "giorni_rimasti": 4,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-17, LM-20, LM-23, LM-32, LM-35, LM-44, LM-58, LM-60. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -611,7 +646,7 @@
     "iii livello"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 7,
+   "giorni_rimasti": 6,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -644,7 +679,7 @@
     "iii livello"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 24,
+   "giorni_rimasti": 23,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-6, LM-60, LM-7, LM-73, LM-75, LM-8, LM-9. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -690,7 +725,7 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 17,
+   "giorni_rimasti": 16,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Il bando ammette Ingegneria biomedica.",
    "titolo_classi": [],
@@ -726,7 +761,7 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 11,
+   "giorni_rimasti": 10,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -762,7 +797,7 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 4,
+   "giorni_rimasti": 3,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-41. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -800,7 +835,7 @@
     "funzionario tecnic"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 3,
+   "giorni_rimasti": 2,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 28/S, 3/S, 38/S, 4/S, LM-23, LM-24, LM-26, LM-3. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -848,7 +883,7 @@
     "cnr"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 18,
+   "giorni_rimasti": 17,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 20/S, 32/S, 61/S, 91/S, LM-17, LM-29, LM-53, LM-82. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -893,7 +928,7 @@
     "collaboratore professionale di ricerca"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 1,
+   "giorni_rimasti": 0,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Titoli richiesti: Medicina e Chirurgia; Professioni Sanitarie; Biologia; Scienze Motorie. Ingegneria biomedica non c'e'.",
    "titolo_classi": [],
@@ -932,7 +967,7 @@
     "laurea specialistica"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 8,
+   "giorni_rimasti": 7,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il PDF non contiene testo leggibile (scansione): da verificare a mano.",
    "titolo_classi": [],
@@ -966,7 +1001,7 @@
     "laurea magistrale"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 1,
+   "giorni_rimasti": 0,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1000,7 +1035,7 @@
     "laurea specialistica"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 12,
+   "giorni_rimasti": 11,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
@@ -1033,10 +1068,56 @@
     "laurea specialistica"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 12,
+   "giorni_rimasti": 11,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
+  },
+  {
+   "id": "inpa:159e00eac2cf47b6901b24746190dbd8",
+   "media_id": "54d3462d-e9d7-4f78-b4cc-ec14a520073d",
+   "fonte": "InPA",
+   "titolo": "UNIVERSITA' DEGLI STUDI DI GENOVA - procedura pubblica per titoli ed esami a n. 1 posto a tempo indeterminato e pieno - Area dei Funzionari - Dipartimento di Chimica e Chimica Industriale – DCCI",
+   "figura": "Area dei Funzionari - Settore professionale scientifico-tecnologico",
+   "ente": "Universita Degli Studi di Genova",
+   "descrizione": "UNIVERSITA' DEGLI STUDI DI GENOVA - D.D.G. n. 3999 del 24 settembre 2026 - procedura selettiva pubblica, per titoli ed esami, per la costituzione di rapporto di lavoro a tempo indeterminato e pieno con n. 1 unità di personale da inquadrare nell’ Area dei Funzionari – Settore professionale scientifico-tecnologico, con profilo di Tecnico laureato con competenze chimiche per attività di supporto alla didattica e alla ricerca nei laboratori del Dipartimento di Chimica e Chimica Industriale – DCCI, di questo Ateneo.",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=159e00eac2cf47b6901b24746190dbd8",
+   "pubblicazione": "2026-09-27T22:00:00Z",
+   "scadenza": "2026-10-27T22:59:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_ESAMI",
+   "sede": "Genova",
+   "provincia": "Genova",
+   "km": 139,
+   "ambito": "provincia",
+   "punteggio": 36,
+   "tag": [
+    "ente-ricerca",
+    "ict"
+   ],
+   "motivi": [
+    "universita degli studi di genova",
+    "area dei funzionari - settore profession"
+   ],
+   "fascia": "possibile",
+   "giorni_rimasti": 29,
+   "titolo_verdetto": "escluso",
+   "titolo_nota": "Classi ammesse: LM-13, LM-17, LM-22, LM-53, LM-54, LM-6, LM-7, LM-71. LM-21 non e' compresa.",
+   "titolo_classi": [
+    "L-27",
+    "LM-13",
+    "LM-17",
+    "LM-22",
+    "LM-53",
+    "LM-54",
+    "LM-6",
+    "LM-7",
+    "LM-71",
+    "LM-8",
+    "LM-9"
+   ],
+   "titolo_nomi": []
   },
   {
    "id": "inpa:23ce95a1bb69437591f8fa37b324276e",
@@ -1065,7 +1146,7 @@
     "cineca."
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 12,
+   "giorni_rimasti": 10,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Il bando ammette Ingegneria biomedica.",
    "titolo_classi": [],
@@ -1098,7 +1179,7 @@
     "cineca."
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 17,
+   "giorni_rimasti": 15,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -1132,7 +1213,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 13,
+   "giorni_rimasti": 12,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Medicina e Chirurgia e abilitazione all. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -1168,7 +1249,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 1,
+   "giorni_rimasti": 0,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Titoli richiesti: Fisioterapia; professioni sanitarie della riabilitazione. Ingegneria biomedica non c'e'.",
    "titolo_classi": [],
@@ -1203,7 +1284,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 20,
+   "giorni_rimasti": 19,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1235,7 +1316,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 2,
+   "giorni_rimasti": 1,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1267,7 +1348,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 25,
+   "giorni_rimasti": 23,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1299,7 +1380,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 6,
+   "giorni_rimasti": 5,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1333,7 +1414,7 @@
     "sistemi informativ"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 21,
+   "giorni_rimasti": 20,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-18, LM-27, LM-29, LM-31, LM-32, LM-40, LM-44, LM-82. LM-21 non e' compresa.",
    "titolo_classi": [
