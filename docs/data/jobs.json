@@ -1,20 +1,20 @@
 {
- "aggiornato": "2026-09-28T11:31:54+00:00",
+ "aggiornato": "2026-09-29T11:12:53+00:00",
  "raggio_km": 150,
  "origine": "Pisa",
  "statistiche": {
-  "grezzi": 382,
-  "pubblicati": 36,
-  "scartati_distanza": 42,
-  "scartati_profilo": 304,
+  "grezzi": 379,
+  "pubblicati": 32,
+  "scartati_distanza": 44,
+  "scartati_profilo": 303,
   "per_fascia": {
-   "alta": 10,
-   "buona": 16,
-   "possibile": 10
+   "alta": 9,
+   "buona": 14,
+   "possibile": 9
   },
   "per_titolo": {
-   "escluso": 15,
-   "ignoto": 17,
+   "escluso": 13,
+   "ignoto": 15,
    "ammesso": 4
   }
  },
@@ -22,7 +22,7 @@
  "fonti": [
   {
    "fonte": "InPA",
-   "annunci": 382,
+   "annunci": 379,
    "nota": null
   },
   {
@@ -71,7 +71,7 @@
     "area dei funzionari – settore scientific"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 2,
+   "giorni_rimasti": 1,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-25, LM-29, LM-32. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -110,7 +110,7 @@
     "analisi dei dati"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 15,
+   "giorni_rimasti": 14,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -145,7 +145,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 17,
+   "giorni_rimasti": 16,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 27/S, LM-22. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -185,7 +185,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 17,
+   "giorni_rimasti": 16,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 20/S, LM-17. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -225,7 +225,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 27,
+   "giorni_rimasti": 26,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Il bando elenca LM-21 fra le classi ammesse.",
    "titolo_classi": [
@@ -275,7 +275,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 25,
+   "giorni_rimasti": 24,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 20/S, 23/S, 28/S, 38/S, 4/S, 62/S, 74/S, 82/S. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -303,43 +303,6 @@
    "titolo_nomi": [
     "Scienze Chimiche"
    ]
-  },
-  {
-   "id": "inpa:804169e80f034b17a6b56f5df3ff7f80",
-   "media_id": "cd0b7a2a-d62a-40a1-a941-7827365d8c3c",
-   "fonte": "InPA",
-   "titolo": "Concorso pubblico, per titoli ed esami, per n. 1 unità di personale, da inquadrare nell’Area dei Funzionari, settore scientifico-tecnologico, con contratto di lavoro subordinato a tempo indeterminato e pieno, per le esigenze del Centro di Servizio di Ateneo per la Formazione in materia di salute e sicurezza sui luoghi di lavoro (CESPRO)",
-   "figura": "Funzionario",
-   "ente": "Universita' degli Studi di Firenze",
-   "descrizione": "Concorso pubblico, per titoli ed esami, per n. 1 unità di personale, da inquadrare nell’Area dei Funzionari, settore scientifico-tecnologico, con contratto di lavoro subordinato a tempo indeterminato e pieno, per le esigenze del Centro di Servizio di Ateneo per la Formazione in materia di salute e sicurezza sui luoghi di lavoro (CESPRO).",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=804169e80f034b17a6b56f5df3ff7f80",
-   "pubblicazione": "2026-08-28T09:00:00Z",
-   "scadenza": "2026-09-28T21:59:00Z",
-   "stato": "Aperto",
-   "posti": 1,
-   "procedura": "TITOLI_ESAMI",
-   "sede": "Firenze",
-   "provincia": "Firenze",
-   "km": 69,
-   "ambito": "provincia",
-   "punteggio": 76,
-   "tag": [
-    "ai-ml",
-    "ict",
-    "requisiti"
-   ],
-   "motivi": [
-    "ai",
-    "area dei funzionari, settore scientific",
-    "settore scientifico-tecnologico",
-    "laurea specialistica"
-   ],
-   "fascia": "alta",
-   "giorni_rimasti": 0,
-   "titolo_verdetto": "ignoto",
-   "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
-   "titolo_classi": [],
-   "titolo_nomi": []
   },
   {
    "id": "inpa:73f92e3d0fd24c7cad36677a7a7f7fc2",
@@ -370,7 +333,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 24,
+   "giorni_rimasti": 23,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 13/S, 43/S, 67/S, LM-19, LM-38, LM-59. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -414,7 +377,7 @@
     "azienda ospedalier"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 16,
+   "giorni_rimasti": 15,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Il bando ammette Ingegneria Biomedica.",
    "titolo_classi": [],
@@ -453,7 +416,7 @@
     "azienda ospedalier"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 10,
+   "giorni_rimasti": 9,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Psicologia. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -490,7 +453,7 @@
     "cineca."
    ],
    "fascia": "buona",
-   "giorni_rimasti": 17,
+   "giorni_rimasti": 16,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-25, LM-29, LM-32, LM-33. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -530,7 +493,7 @@
     "iit"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 16,
+   "giorni_rimasti": 15,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -565,7 +528,7 @@
     "iit"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 16,
+   "giorni_rimasti": 15,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -598,7 +561,7 @@
     "iii livello"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 4,
+   "giorni_rimasti": 3,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-17, LM-20, LM-23, LM-32, LM-35, LM-44, LM-58, LM-60. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -646,7 +609,7 @@
     "iii livello"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 6,
+   "giorni_rimasti": 5,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -679,7 +642,7 @@
     "iii livello"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 23,
+   "giorni_rimasti": 22,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-6, LM-60, LM-7, LM-73, LM-75, LM-8, LM-9. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -725,7 +688,7 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 16,
+   "giorni_rimasti": 15,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Il bando ammette Ingegneria biomedica.",
    "titolo_classi": [],
@@ -761,7 +724,7 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 10,
+   "giorni_rimasti": 9,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -797,7 +760,7 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 3,
+   "giorni_rimasti": 2,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-41. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -835,7 +798,7 @@
     "funzionario tecnic"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 2,
+   "giorni_rimasti": 1,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 28/S, 3/S, 38/S, 4/S, LM-23, LM-24, LM-26, LM-3. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -883,7 +846,7 @@
     "cnr"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 17,
+   "giorni_rimasti": 16,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 20/S, 32/S, 61/S, 91/S, LM-17, LM-29, LM-53, LM-82. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -898,45 +861,6 @@
    ],
    "titolo_nomi": [
     "Scienze Statistiche"
-   ]
-  },
-  {
-   "id": "inpa:c3dddf5bce904cc485a61ecf8b1b1c8d",
-   "media_id": "bd8c760b-0546-4704-9acf-c37867a01eb8",
-   "fonte": "InPA",
-   "titolo": "INDIZIONE DI N. 1 CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER L’ATTRIBUZIONE DI N. 2 INCARICHI A TEMPO DETERMINATO IN QUALITÀ DI COLLABORATORE PROFESSIONALE DI RICERCA SANITARIA, NELL’AMBITO DI SPECIFICI PROGETTI DI RICERCA, DA ASSEGNARE RISPETTIVAMENTE AL CENTRO DOPO – DIPARTIMENTO DI EMATO-ONCOLOGIA E ALLA UOC CLINICA PEDIATRICA – ENDOCRINOLOGIA.",
-   "figura": "COLLABORATORE PROFESSIONALE DI RICERCA SANITARIA",
-   "ente": "Istituto Giannina Gaslini",
-   "descrizione": "INDIZIONE DI N. 1 CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER L’ATTRIBUZIONE DI N. 2 INCARICHI A TEMPO DETERMINATO IN QUALITÀ DI COLLABORATORE PROFESSIONALE DI RICERCA SANITARIA, NELL’AMBITO DI SPECIFICI PROGETTI DI RICERCA, DA ASSEGNARE RISPETTIVAMENTE AL CENTRO DOPO – DIPARTIMENTO DI EMATO-ONCOLOGIA E ALLA UOC CLINICA PEDIATRICA – ENDOCRINOLOGIA.",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=c3dddf5bce904cc485a61ecf8b1b1c8d",
-   "pubblicazione": "2026-08-26T22:00:00Z",
-   "scadenza": "2026-09-28T21:59:00Z",
-   "stato": "Aperto",
-   "posti": 1,
-   "procedura": "TITOLI_ESAMI",
-   "sede": "Genova",
-   "provincia": "Genova",
-   "km": 139,
-   "ambito": "provincia",
-   "punteggio": 44,
-   "tag": [
-    "ricerca",
-    "sanita"
-   ],
-   "motivi": [
-    "ricerca sanitaria",
-    "collaboratore professionale di ricerca"
-   ],
-   "fascia": "buona",
-   "giorni_rimasti": 0,
-   "titolo_verdetto": "escluso",
-   "titolo_nota": "Titoli richiesti: Medicina e Chirurgia; Professioni Sanitarie; Biologia; Scienze Motorie. Ingegneria biomedica non c'e'.",
-   "titolo_classi": [],
-   "titolo_nomi": [
-    "Medicina e Chirurgia",
-    "Professioni Sanitarie",
-    "Biologia",
-    "Scienze Motorie"
    ]
   },
   {
@@ -967,43 +891,9 @@
     "laurea specialistica"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 7,
+   "giorni_rimasti": 6,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il PDF non contiene testo leggibile (scansione): da verificare a mano.",
-   "titolo_classi": [],
-   "titolo_nomi": []
-  },
-  {
-   "id": "inpa:04475282807945f1917a884db7688333",
-   "media_id": "71a90b57-2286-4b94-8505-26d56d759451",
-   "fonte": "InPA",
-   "titolo": "Concorso pubblico, per titoli ed esami, per l’assunzione di n. 1 Collaboratore ed Esperto Linguistico (CEL) di madrelingua francese, con contratto di lavoro subordinato a tempo indeterminato e pieno con impegno complessivo pari a 540 ore annue, per le esigenze del Dipartimento di Formazione, Lingue, Intercultura, Letterature e Psicologia (FORLILPSI)",
-   "figura": "Collaboratore ed Esperto Linguistico (CEL)",
-   "ente": "Universita' degli Studi di Firenze",
-   "descrizione": "Concorso pubblico, per titoli ed esami, per l’assunzione di n. 1 Collaboratore ed Esperto Linguistico (CEL) di madrelingua francese, con contratto di lavoro subordinato a tempo indeterminato e pieno con impegno complessivo pari a 540 ore annue, per le esigenze del Dipartimento di Formazione, Lingue, Intercultura, Letterature e Psicologia (FORLILPSI)",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=04475282807945f1917a884db7688333",
-   "pubblicazione": "2026-08-28T08:00:00Z",
-   "scadenza": "2026-09-28T21:59:00Z",
-   "stato": "Aperto",
-   "posti": 1,
-   "procedura": "TITOLI_ESAMI",
-   "sede": "Firenze",
-   "provincia": "Firenze",
-   "km": 69,
-   "ambito": "provincia",
-   "punteggio": 40,
-   "tag": [
-    "ai-ml",
-    "requisiti"
-   ],
-   "motivi": [
-    "ai",
-    "laurea magistrale"
-   ],
-   "fascia": "buona",
-   "giorni_rimasti": 0,
-   "titolo_verdetto": "ignoto",
-   "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
    "titolo_nomi": []
   },
@@ -1035,7 +925,7 @@
     "laurea specialistica"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 11,
+   "giorni_rimasti": 10,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
@@ -1068,7 +958,7 @@
     "laurea specialistica"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 11,
+   "giorni_rimasti": 10,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
@@ -1101,7 +991,7 @@
     "area dei funzionari - settore profession"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 29,
+   "giorni_rimasti": 28,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-13, LM-17, LM-22, LM-53, LM-54, LM-6, LM-7, LM-71. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1146,7 +1036,7 @@
     "cineca."
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 10,
+   "giorni_rimasti": 9,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Il bando ammette Ingegneria biomedica.",
    "titolo_classi": [],
@@ -1179,7 +1069,7 @@
     "cineca."
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 15,
+   "giorni_rimasti": 14,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -1213,49 +1103,12 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 12,
+   "giorni_rimasti": 11,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Medicina e Chirurgia e abilitazione all. Da verificare nel PDF.",
    "titolo_classi": [],
    "titolo_nomi": [
     "Medicina e Chirurgia e abilitazione all"
-   ]
-  },
-  {
-   "id": "inpa:ece067b0f6c84ebd9fcbafa867ed7c81",
-   "media_id": "1fd07903-f08e-4eb7-8d20-b5ab8ba898f5",
-   "fonte": "InPA",
-   "titolo": "AZIENDA OSPEDALIERA METROPOLITANA (AOM) AVVISO PUBBLICO DI PROCEDURA COMPARATIVA, PER TITOLI E COLLOQUIO, PER IL CONFERIMENTO DI N. 1 INCARICO LIBERO-PROFESSIONALE, DELLA DURATA DI 6 MESI, PER COLLABORARE AL PROGETTO “NEUROMOVE \" RIAPERTURA TERMINI DA SVOLGERSI PRESSO L’U.O. NEUROLOGIA",
-   "figura": "Incarico libero professionale",
-   "ente": "IRCCS Ospedale Policlinico San Martino",
-   "descrizione": "Avviso pubblico di procedura comparativa, per titoli e colloquio, per il conferimento di n. 1 incarico libero-professionale, della durata di 6 mesi, per collaborare al progetto \"NEUROMOVE (NEUROlogical rehabilitation and MOVEment research)\" (GA904) da svolgersi presso l'U.O. Neurologia. RIAPERTURA DEI TERMINI",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ece067b0f6c84ebd9fcbafa867ed7c81",
-   "pubblicazione": "2026-09-07T09:59:00Z",
-   "scadenza": "2026-09-28T21:59:00Z",
-   "stato": "Aperto",
-   "posti": 1,
-   "procedura": "TITOLI_COLLOQUIO",
-   "sede": "Genova",
-   "provincia": "Genova",
-   "km": 139,
-   "ambito": "provincia",
-   "punteggio": 32,
-   "tag": [
-    "ente-ricerca",
-    "sanita"
-   ],
-   "motivi": [
-    "irccs",
-    "azienda ospedalier"
-   ],
-   "fascia": "possibile",
-   "giorni_rimasti": 0,
-   "titolo_verdetto": "escluso",
-   "titolo_nota": "Titoli richiesti: Fisioterapia; professioni sanitarie della riabilitazione. Ingegneria biomedica non c'e'.",
-   "titolo_classi": [],
-   "titolo_nomi": [
-    "Fisioterapia",
-    "professioni sanitarie della riabilitazione"
    ]
   },
   {
@@ -1284,7 +1137,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 19,
+   "giorni_rimasti": 18,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1316,7 +1169,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 1,
+   "giorni_rimasti": 0,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1348,7 +1201,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 23,
+   "giorni_rimasti": 22,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1380,7 +1233,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 5,
+   "giorni_rimasti": 4,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1414,7 +1267,7 @@
     "sistemi informativ"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 20,
+   "giorni_rimasti": 19,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-18, LM-27, LM-29, LM-31, LM-32, LM-40, LM-44, LM-82. LM-21 non e' compresa.",
    "titolo_classi": [
