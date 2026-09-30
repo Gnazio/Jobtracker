@@ -892,5 +892,67 @@
   "dottorato_affine": false,
   "caratteri": 57129,
   "letto_il": "2026-09-28"
+ },
+ "41dfb622-06db-45b4-bc9d-292583732039": {
+  "classi": [
+   "23/S",
+   "24/S",
+   "LM-12",
+   "LM-18",
+   "LM-43"
+  ],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": true,
+  "nome_titolo": false,
+  "dottorato": true,
+  "dottorato_affine": false,
+  "caratteri": 43720,
+  "letto_il": "2026-09-30"
+ },
+ "64de098b-02de-4fbc-87d9-0761f144c7ec": {
+  "classi": [
+   "21/S",
+   "77/S",
+   "82/S",
+   "LM-69",
+   "LM-75",
+   "LM-80"
+  ],
+  "nomi": [
+   "Scienze e tecnologie agrarie"
+  ],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": true,
+  "dottorato_affine": false,
+  "caratteri": 35897,
+  "letto_il": "2026-09-30"
+ },
+ "f235124c-46b5-4b28-aac0-3a31e97ce906": {
+  "classi": [],
+  "nomi": [
+   "SCIENZE BIOLOGICHE",
+   "BIOTECNOLOGIE"
+  ],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 14322,
+  "letto_il": "2026-09-30"
+ },
+ "654da3a1-af54-4887-980e-a4e188b473b3": {
+  "classi": [],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": true,
+  "dottorato_affine": false,
+  "caratteri": 28648,
+  "letto_il": "2026-09-30"
  }
 }
