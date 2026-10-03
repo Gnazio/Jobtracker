@@ -1077,5 +1077,29 @@
   "dottorato_affine": false,
   "caratteri": 51117,
   "letto_il": "2026-10-02"
+ },
+ "f6aabe5a-54ca-436a-a02b-de05ba2ec4ae": {
+  "classi": [],
+  "nomi": [
+   "Biologia"
+  ],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": true,
+  "dottorato_affine": false,
+  "caratteri": 42310,
+  "letto_il": "2026-10-03"
+ },
+ "9c53c7b8-df3e-47c5-9500-080d18e1e451": {
+  "classi": [],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 44432,
+  "letto_il": "2026-10-03"
  }
 }
