@@ -1101,5 +1101,74 @@
   "dottorato_affine": false,
   "caratteri": 44432,
   "letto_il": "2026-10-03"
+ },
+ "274d68ea-0d30-40f5-a676-08a38addd0dd": {
+  "classi": [
+   "20/S",
+   "23/S",
+   "26/S",
+   "30/S",
+   "35/S",
+   "45/S",
+   "90/S",
+   "LM-17",
+   "LM-18",
+   "LM-21",
+   "LM-27",
+   "LM-32",
+   "LM-40",
+   "LM-82"
+  ],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": true,
+  "dottorato": true,
+  "dottorato_affine": false,
+  "caratteri": 36895,
+  "letto_il": "2026-10-07"
+ },
+ "e8f03b57-e054-418a-aa25-7f0b3072747b": {
+  "classi": [],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": true,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 68442,
+  "letto_il": "2026-10-07"
+ },
+ "a6cdb702-ec7b-40d0-a323-4967a17ddf70": {
+  "classi": [
+   "L-17",
+   "L-21",
+   "L-23",
+   "L-32",
+   "L-34",
+   "L-6",
+   "L-7"
+  ],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": true,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 34578,
+  "letto_il": "2026-10-07"
+ },
+ "4bc8bb0d-a43b-4349-8331-193062f4ff53": {
+  "classi": [],
+  "nomi": [
+   "Lingue e Comunicazione interculturale e d"
+  ],
+  "errore": null,
+  "qualsiasi_magistrale": true,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 4353,
+  "letto_il": "2026-10-07"
  }
 }
