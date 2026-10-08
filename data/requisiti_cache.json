@@ -1170,5 +1170,25 @@
   "dottorato_affine": false,
   "caratteri": 4353,
   "letto_il": "2026-10-07"
+ },
+ "d6134252-f76d-488f-ba30-d3ee5961f8cd": {
+  "classi": [],
+  "nomi": [
+   "Ingegneria dell",
+   "Ingegneria Biomedica"
+  ],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": true,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 16014,
+  "letto_il": "2026-10-08"
+ },
+ "888729f3-fdba-405f-a789-291179f73136": {
+  "classi": [],
+  "nomi": [],
+  "errore": "ValueError: invalid literal for int() with base 10: 'LMG-1'",
+  "letto_il": "2026-10-08"
  }
 }
