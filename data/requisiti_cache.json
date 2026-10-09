@@ -1190,5 +1190,16 @@
   "nomi": [],
   "errore": "ValueError: invalid literal for int() with base 10: 'LMG-1'",
   "letto_il": "2026-10-08"
+ },
+ "a495dabe-adbc-49f6-939f-ca6e364fb32c": {
+  "classi": [],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 29867,
+  "letto_il": "2026-10-09"
  }
 }
