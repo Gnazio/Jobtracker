@@ -1201,5 +1201,29 @@
   "dottorato_affine": false,
   "caratteri": 29867,
   "letto_il": "2026-10-09"
+ },
+ "65bd219f-04b9-4c25-966c-13cbf6606d5e": {
+  "classi": [],
+  "nomi": [
+   "Scienze chimiche"
+  ],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": true,
+  "dottorato_affine": false,
+  "caratteri": 29179,
+  "letto_il": "2026-10-12"
+ },
+ "50cc618a-fca1-4f1c-b5a9-1cb3ce65322e": {
+  "classi": [],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 28359,
+  "letto_il": "2026-10-12"
  }
 }
