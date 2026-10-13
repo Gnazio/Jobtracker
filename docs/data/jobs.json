@@ -1,28 +1,28 @@
 {
- "aggiornato": "2026-10-12T12:51:18+00:00",
+ "aggiornato": "2026-10-13T12:32:20+00:00",
  "raggio_km": 150,
  "origine": "Pisa",
  "statistiche": {
-  "grezzi": 420,
-  "pubblicati": 42,
+  "grezzi": 438,
+  "pubblicati": 48,
   "scartati_distanza": 46,
-  "scartati_profilo": 332,
+  "scartati_profilo": 344,
   "per_fascia": {
-   "alta": 16,
-   "buona": 10,
-   "possibile": 16
+   "alta": 17,
+   "buona": 13,
+   "possibile": 18
   },
   "per_titolo": {
    "ammesso": 9,
-   "ignoto": 21,
-   "escluso": 12
+   "ignoto": 26,
+   "escluso": 13
   }
  },
  "errori_fonti": [],
  "fonti": [
   {
    "fonte": "InPA",
-   "annunci": 420,
+   "annunci": 438,
    "nota": null
   },
   {
@@ -71,11 +71,46 @@
     "azienda ospedalier"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 10,
+   "giorni_rimasti": 9,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Il bando ammette Ingegneria biomedica.",
    "titolo_classi": [],
    "titolo_nomi": []
+  },
+  {
+   "id": "inpa:f3d010db5f5648cf9ab5cb0393088118",
+   "media_id": null,
+   "fonte": "InPA",
+   "titolo": "BORSE DI STUDIO “BONALDO STRINGHER”, “GIORGIO MORTARA”, “DONATO MENICHELLA\"",
+   "figura": "Borsista",
+   "ente": "Banca D'Italia",
+   "descrizione": "BORSE DI STUDIO “BONALDO STRINGHER”, “GIORGIO MORTARA”, “DONATO MENICHELLA\" La Banca d’Italia indice il seguente concorso pubblico per l’assegnazione di: 3 borse di studio “Bonaldo Stringher” destinate al perfezionamento degli studi all’estero nel campo dell’economia politica e della politica economica ; 2 borse di studio “Giorgio Mortara” destinate al perfezionamento degli studi all’estero nei campi dell’economia finanziaria, dell’econometria o dei metodi matematici, statistici o informatici (es. intelligenza artificiale, machine learning, FinTech, cyber security) applicati all’economia e all",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=f3d010db5f5648cf9ab5cb0393088118",
+   "pubblicazione": "2026-10-13T10:00:00Z",
+   "scadenza": "2026-11-20T11:00:00Z",
+   "stato": "Aperto",
+   "posti": 7,
+   "procedura": "TITOLI",
+   "sede": "Nazionale",
+   "provincia": null,
+   "km": null,
+   "ambito": "nazionale",
+   "punteggio": 98,
+   "tag": [
+    "ricerca",
+    "ai-ml"
+   ],
+   "motivi": [
+    "borsist",
+    "intelligenza artificiale",
+    "machine learning",
+    "statistic"
+   ],
+   "fascia": "alta",
+   "giorni_rimasti": 37,
+   "titolo_verdetto": "ignoto",
+   "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
+   "titolo_classi": []
   },
   {
    "id": "inpa:ef582054692c4cfeaa50d30df5608e4f",
@@ -107,7 +142,7 @@
     "istituto di fisiologia clinica"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 24,
+   "giorni_rimasti": 23,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Il bando elenca LM-21 fra le classi ammesse.",
    "titolo_classi": [
@@ -157,7 +192,7 @@
     "ai"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 14,
+   "giorni_rimasti": 13,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Nessuna classe richiesta: ammessa qualunque laurea magistrale.",
    "titolo_classi": [],
@@ -192,7 +227,7 @@
     "analisi dei dati"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 1,
+   "giorni_rimasti": 0,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -227,7 +262,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 3,
+   "giorni_rimasti": 2,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 27/S, LM-22. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -267,7 +302,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 3,
+   "giorni_rimasti": 2,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 20/S, LM-17. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -307,7 +342,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 17,
+   "giorni_rimasti": 16,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 23/S, 24/S, LM-12, LM-18, LM-43. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -348,7 +383,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 13,
+   "giorni_rimasti": 12,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Il bando elenca LM-21 fra le classi ammesse.",
    "titolo_classi": [
@@ -398,7 +433,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 11,
+   "giorni_rimasti": 10,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 20/S, 23/S, 28/S, 38/S, 4/S, 62/S, 74/S, 82/S. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -456,7 +491,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 18,
+   "giorni_rimasti": 17,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Il bando elenca LM-21 fra le classi ammesse.",
    "titolo_classi": [
@@ -503,7 +538,7 @@
     "ingegneria informatic"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 17,
+   "giorni_rimasti": 16,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Il bando ammette Ingegneria Biomedica.",
    "titolo_classi": [],
@@ -541,7 +576,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 10,
+   "giorni_rimasti": 9,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 13/S, 43/S, 67/S, LM-19, LM-38, LM-59. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -583,7 +618,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 17,
+   "giorni_rimasti": 16,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 21/S, 77/S, 82/S, LM-69, LM-75, LM-80. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -629,7 +664,7 @@
     "azienda ospedalier"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 10,
+   "giorni_rimasti": 9,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Biologia. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -668,7 +703,7 @@
     "azienda ospedalier"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 10,
+   "giorni_rimasti": 9,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Biologia. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -707,7 +742,7 @@
     "azienda ospedalier"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 2,
+   "giorni_rimasti": 1,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Il bando ammette Ingegneria Biomedica.",
    "titolo_classi": [],
@@ -744,7 +779,7 @@
     "cineca."
    ],
    "fascia": "buona",
-   "giorni_rimasti": 3,
+   "giorni_rimasti": 2,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-25, LM-29, LM-32, LM-33. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -784,7 +819,7 @@
     "iit"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 2,
+   "giorni_rimasti": 1,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -819,11 +854,46 @@
     "iit"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 2,
+   "giorni_rimasti": 1,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
    "titolo_nomi": []
+  },
+  {
+   "id": "inpa:45b72ec21c4f4b73971d07e7e37a8ff7",
+   "media_id": "0cb1855c-05e6-487e-9f2d-0d96d3c1a105",
+   "fonte": "InPA",
+   "titolo": "CREA-AA Centro di Ricerca Agricoltura e Ambiente | Progetti “GENAPIS.IT.5\" e “CHAPIRE”- bando selezione pubblica e assunzione di un RICERCATORE III livello, a tempo determinato e pieno, per 12 (dodici) mesi. Sede di Bologna.",
+   "figura": "RICERCATORE",
+   "ente": "Consiglio per la ricerca in agricoltura e l'analisi dell'economia agraria",
+   "descrizione": "CREA-AA | Progetti “GENAPIS.IT.5\" e “CHAPIRE”- bando selezione pubblica e assunzione di un RICERCATORE III livello, a tempo determinato e pieno, per 12 (dodici) mesi. Sede di Bologna.",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=45b72ec21c4f4b73971d07e7e37a8ff7",
+   "pubblicazione": "2026-10-12T14:35:00Z",
+   "scadenza": "2026-10-22T21:59:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_COLLOQUIO",
+   "sede": "Bologna",
+   "provincia": "Bologna",
+   "km": 115,
+   "ambito": "provincia",
+   "punteggio": 56,
+   "tag": [
+    "ricerca"
+   ],
+   "motivi": [
+    "ricercator",
+    "iii livello"
+   ],
+   "fascia": "buona",
+   "giorni_rimasti": 9,
+   "titolo_verdetto": "ignoto",
+   "titolo_nota": "Il bando sembra chiedere: Scienze Agrarie e Forestali. Da verificare nel PDF.",
+   "titolo_classi": [],
+   "titolo_nomi": [
+    "Scienze Agrarie e Forestali"
+   ]
   },
   {
    "id": "inpa:8087040e915549beacdb0c2474c26512",
@@ -852,7 +922,7 @@
     "iii livello"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 9,
+   "giorni_rimasti": 8,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-6, LM-60, LM-7, LM-73, LM-75, LM-8, LM-9. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -898,7 +968,7 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 10,
+   "giorni_rimasti": 9,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Biologia. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -936,11 +1006,45 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 2,
+   "giorni_rimasti": 1,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Il bando ammette Ingegneria biomedica.",
    "titolo_classi": [],
    "titolo_nomi": []
+  },
+  {
+   "id": "inpa:aa2b122fc7de4f7f88531ba15920df3c",
+   "media_id": null,
+   "fonte": "InPA",
+   "titolo": "BANCA D'ITALIA - 4 BORSE DI RICERCA PER ECONOMISTE ED ECONOMISTI",
+   "figura": "Borsista",
+   "ente": "Banca D'Italia",
+   "descrizione": "BANCA D'ITALIA - 4 BORSE DI RICERCA PER ECONOMISTE ED ECONOMISTI La Banca d’Italia mette a concorso 4 borse di ricerca per economiste ed economisti con interesse ed esperienze nell’ambito della ricerca economica applicata e delle sue implicazioni di politica economica, nelle seguenti aree: Macroeconomics; Monetary Economics; Monetary Policy; Macroeconometrics; Financial and Credit Markets and the Macroeconomy; Financial Economics; Banking; Financial Institutions and Markets; Financial Stability; Macroprudential Policy; International Economics and Finance; International Trade; Industrial Organi",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=aa2b122fc7de4f7f88531ba15920df3c",
+   "pubblicazione": "2026-10-13T11:25:00Z",
+   "scadenza": "2026-11-13T11:00:00Z",
+   "stato": "Aperto",
+   "posti": 4,
+   "procedura": "TITOLI_ESAMI",
+   "sede": "Nazionale",
+   "provincia": null,
+   "km": null,
+   "ambito": "nazionale",
+   "punteggio": 50,
+   "tag": [
+    "ricerca",
+    "ai-ml"
+   ],
+   "motivi": [
+    "borsist",
+    "phd",
+    "statistic"
+   ],
+   "fascia": "buona",
+   "giorni_rimasti": 30,
+   "titolo_verdetto": "ignoto",
+   "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
+   "titolo_classi": []
   },
   {
    "id": "inpa:672d5ee5f96a4e2384eb20c9685e7aab",
@@ -970,12 +1074,47 @@
     "intelligenza artificiale"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 14,
+   "giorni_rimasti": 13,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Scienze chimiche. Da verificare nel PDF.",
    "titolo_classi": [],
    "titolo_nomi": [
     "Scienze chimiche"
+   ]
+  },
+  {
+   "id": "inpa:eb91af112bae42feab30f3dfaf6b8b90",
+   "media_id": "9a965037-645f-4358-8dec-19b63727b57e",
+   "fonte": "InPA",
+   "titolo": "CREA-AA Centro di Ricerca Agricoltura e Ambiente | Progetti \"ALERT VELUTINA\" “GENAPIS.IT.5\" e “VELUPARC”- bando selezione pubblica e assunzione di un TECNOLOGO III livello, a tempo determinato e pieno, per 12 (dodici) mesi. Sede di Bologna.",
+   "figura": "TECNOLOGO",
+   "ente": "Consiglio per la ricerca in agricoltura e l'analisi dell'economia agraria",
+   "descrizione": "CREA-AA | Progetti \"ALERT VELUTINA\" “GENAPIS.IT.5\" e “VELUPARC”- bando selezione pubblica e assunzione di un TECNOLOGO III livello, a tempo determinato e pieno, per 12 (dodici) mesi. Sede di Bologna.",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=eb91af112bae42feab30f3dfaf6b8b90",
+   "pubblicazione": "2026-10-12T14:40:00Z",
+   "scadenza": "2026-10-22T21:59:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_COLLOQUIO",
+   "sede": "Bologna",
+   "provincia": "Bologna",
+   "km": 115,
+   "ambito": "provincia",
+   "punteggio": 48,
+   "tag": [
+    "ricerca"
+   ],
+   "motivi": [
+    "tecnologo",
+    "iii livello"
+   ],
+   "fascia": "buona",
+   "giorni_rimasti": 9,
+   "titolo_verdetto": "ignoto",
+   "titolo_nota": "Il bando sembra chiedere: Scienze Agrarie e Forestali. Da verificare nel PDF.",
+   "titolo_classi": [],
+   "titolo_nomi": [
+    "Scienze Agrarie e Forestali"
    ]
   },
   {
@@ -1006,7 +1145,7 @@
     "cnr"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 3,
+   "giorni_rimasti": 2,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 20/S, 32/S, 61/S, 91/S, LM-17, LM-29, LM-53, LM-82. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1051,7 +1190,7 @@
     "sistemi informativ"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 24,
+   "giorni_rimasti": 23,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Non sono riuscito a leggere il PDF del bando.",
    "titolo_classi": [],
@@ -1084,7 +1223,7 @@
     "statistic"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 3,
+   "giorni_rimasti": 2,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1118,7 +1257,7 @@
     "irccs"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 2,
+   "giorni_rimasti": 1,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Titoli richiesti: SCIENZE BIOLOGICHE; BIOTECNOLOGIE. Ingegneria biomedica non c'e'.",
    "titolo_classi": [],
@@ -1155,7 +1294,7 @@
     "area dei funzionari - settore profession"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 15,
+   "giorni_rimasti": 14,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-13, LM-17, LM-22, LM-53, LM-54, LM-6, LM-7, LM-71. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1200,7 +1339,7 @@
     "cineca."
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 20,
+   "giorni_rimasti": 19,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1234,7 +1373,7 @@
     "area dei funzionari, settore tecnico-inf"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 7,
+   "giorni_rimasti": 6,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -1267,7 +1406,39 @@
     "cineca."
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 1,
+   "giorni_rimasti": 0,
+   "titolo_verdetto": "ignoto",
+   "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
+   "titolo_classi": [],
+   "titolo_nomi": []
+  },
+  {
+   "id": "inpa:3df47e90ba6c4ee49a8280ff8d02c7a5",
+   "media_id": "14a7a0c9-3829-4d22-a7cb-7ee122eeae23",
+   "fonte": "InPA",
+   "titolo": "New data processing, imaging and mining pipelines for Galactic science and community building and training in ALMA-WSU era Cod: 2026INAFRIC-IRA-ARC-009",
+   "figura": "Ricercatore III",
+   "ente": "Istituto Nazionale di Astrofisica - INAF",
+   "descrizione": "Concorso pubblico 2026INAFRIC/IRA/ARC/009, per titoli ed esame, per il reclutamento di una unità di personale da inquadrare nel profilo di \"Ricercatore\", Terzo Livello Professionale, prima fascia stipendiale, con contratto di lavoro a tempo determinato e regime di impegno a tempo pieno, della durata di 12 mesi, eventualmente prorogabile, nell’ambito dei progetti Alma Regional Centre Sede di Servizio: IRA Bologna",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3df47e90ba6c4ee49a8280ff8d02c7a5",
+   "pubblicazione": "2026-10-12T16:00:00Z",
+   "scadenza": "2026-10-22T21:00:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_ESAMI",
+   "sede": "Bologna",
+   "provincia": "Bologna",
+   "km": 115,
+   "ambito": "provincia",
+   "punteggio": 34,
+   "tag": [
+    "ricerca"
+   ],
+   "motivi": [
+    "ricercator"
+   ],
+   "fascia": "possibile",
+   "giorni_rimasti": 9,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -1301,7 +1472,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 10,
+   "giorni_rimasti": 9,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1335,7 +1506,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 10,
+   "giorni_rimasti": 9,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Medicina e Chirurgia. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -1369,7 +1540,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 5,
+   "giorni_rimasti": 4,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1401,7 +1572,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 24,
+   "giorni_rimasti": 23,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Nessuna classe richiesta: ammessa qualunque laurea magistrale.",
    "titolo_classi": [
@@ -1441,7 +1612,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 2,
+   "giorni_rimasti": 1,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1473,7 +1644,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 14,
+   "giorni_rimasti": 13,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
@@ -1504,7 +1675,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 16,
+   "giorni_rimasti": 15,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [
@@ -1546,7 +1717,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 16,
+   "giorni_rimasti": 15,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [
@@ -1588,7 +1759,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 9,
+   "giorni_rimasti": 8,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1622,7 +1793,7 @@
     "sistemi informativ"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 6,
+   "giorni_rimasti": 5,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-18, LM-27, LM-29, LM-31, LM-32, LM-40, LM-44, LM-82. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1671,13 +1842,49 @@
     "laurea magistrale"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 10,
+   "giorni_rimasti": 9,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Lingue e Comunicazione interculturale e d. Da verificare nel PDF.",
    "titolo_classi": [],
    "titolo_nomi": [
     "Lingue e Comunicazione interculturale e d"
    ]
+  },
+  {
+   "id": "inpa:f3024f2207db4c0e90f7fd2b3fbdaffc",
+   "media_id": "14296e48-613d-4004-b122-d96bcd015c40",
+   "fonte": "InPA",
+   "titolo": "SELEZIONE PUBBLICA PER N. 1 TECNOLOGO DI II LIV.,TEMPO DET. 18 MESI,PROGETTO \"PIMIQ\"-DIP. SCIENZE MATEMATICHE, FISICHE E INFORMATICHE-UNIV. PARMA",
+   "figura": "Tecnologo di II livello",
+   "ente": "Universita' degli Studi di Parma",
+   "descrizione": "Il Tecnologo dovrà operare nell’ambito delle direttive e del coordinamento del Responsabile del Progetto e dei livelli di autonomia e responsabilità riconducibili all’inquadramento previsto dal vigente CCNL Istruzione e Ricerca e in coerenza con le attività previste dal WP03 e dall’Attività 49 (AQuA-UniPR) del Progetto approvato. Si occuperà della predisposizione e della validazione di strumenti e procedure software per circuiti e stati quantistici, calcolo quantistico distribuito e sistemi a più livelli (qudit), inclusi schemi di correzione degli errori. Il Tecnologo svolgerà più specificatam",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=f3024f2207db4c0e90f7fd2b3fbdaffc",
+   "pubblicazione": "2026-10-13T22:01:00Z",
+   "scadenza": "2026-11-02T22:59:00Z",
+   "stato": "In Apertura",
+   "posti": 1,
+   "procedura": "TITOLI_ESAMI",
+   "sede": "Parma",
+   "provincia": "Parma",
+   "km": 121,
+   "ambito": "provincia",
+   "punteggio": 26,
+   "tag": [
+    "ricerca"
+   ],
+   "motivi": [
+    "tecnologo"
+   ],
+   "fascia": "possibile",
+   "giorni_rimasti": 20,
+   "titolo_verdetto": "escluso",
+   "titolo_nota": "Classi ammesse: 20/S, 35/S, 45/S. LM-21 non e' compresa.",
+   "titolo_classi": [
+    "20/S",
+    "35/S",
+    "45/S"
+   ],
+   "titolo_nomi": []
   }
  ],
  "curati": [

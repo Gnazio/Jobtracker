@@ -1225,5 +1225,57 @@
   "dottorato_affine": false,
   "caratteri": 28359,
   "letto_il": "2026-10-12"
+ },
+ "0cb1855c-05e6-487e-9f2d-0d96d3c1a105": {
+  "classi": [],
+  "nomi": [
+   "Scienze Agrarie e Forestali"
+  ],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": true,
+  "dottorato_affine": false,
+  "caratteri": 53959,
+  "letto_il": "2026-10-13"
+ },
+ "9a965037-645f-4358-8dec-19b63727b57e": {
+  "classi": [],
+  "nomi": [
+   "Scienze Agrarie e Forestali"
+  ],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": true,
+  "dottorato_affine": false,
+  "caratteri": 54003,
+  "letto_il": "2026-10-13"
+ },
+ "14a7a0c9-3829-4d22-a7cb-7ee122eeae23": {
+  "classi": [],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": true,
+  "dottorato_affine": false,
+  "caratteri": 157890,
+  "letto_il": "2026-10-13"
+ },
+ "14296e48-613d-4004-b122-d96bcd015c40": {
+  "classi": [
+   "20/S",
+   "35/S",
+   "45/S"
+  ],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": true,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 67878,
+  "letto_il": "2026-10-13"
  }
 }
