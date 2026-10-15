@@ -1,28 +1,28 @@
 {
- "aggiornato": "2026-10-14T10:00:05+00:00",
+ "aggiornato": "2026-10-15T09:41:48+00:00",
  "raggio_km": 150,
  "origine": "Pisa",
  "statistiche": {
-  "grezzi": 449,
-  "pubblicati": 47,
+  "grezzi": 443,
+  "pubblicati": 45,
   "scartati_distanza": 48,
-  "scartati_profilo": 354,
+  "scartati_profilo": 350,
   "per_fascia": {
-   "alta": 16,
-   "buona": 13,
-   "possibile": 18
+   "alta": 17,
+   "buona": 11,
+   "possibile": 17
   },
   "per_titolo": {
-   "ammesso": 9,
-   "ignoto": 25,
-   "escluso": 13
+   "ammesso": 7,
+   "ignoto": 22,
+   "escluso": 16
   }
  },
  "errori_fonti": [],
  "fonti": [
   {
    "fonte": "InPA",
-   "annunci": 448,
+   "annunci": 442,
    "nota": null
   },
   {
@@ -71,7 +71,7 @@
     "azienda ospedalier"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 8,
+   "giorni_rimasti": 7,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Il bando ammette Ingegneria biomedica.",
    "titolo_classi": [],
@@ -107,7 +107,7 @@
     "statistic"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 37,
+   "giorni_rimasti": 36,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
@@ -142,7 +142,7 @@
     "istituto di fisiologia clinica"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 22,
+   "giorni_rimasti": 21,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Il bando elenca LM-21 fra le classi ammesse.",
    "titolo_classi": [
@@ -192,7 +192,7 @@
     "ai"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 12,
+   "giorni_rimasti": 11,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Nessuna classe richiesta: ammessa qualunque laurea magistrale.",
    "titolo_classi": [],
@@ -227,7 +227,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 1,
+   "giorni_rimasti": 0,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 27/S, LM-22. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -267,7 +267,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 1,
+   "giorni_rimasti": 0,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 20/S, LM-17. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -307,7 +307,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 15,
+   "giorni_rimasti": 14,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 23/S, 24/S, LM-12, LM-18, LM-43. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -316,6 +316,90 @@
     "LM-12",
     "LM-18",
     "LM-43"
+   ],
+   "titolo_nomi": []
+  },
+  {
+   "id": "inpa:d5882632b7e24f93b2f48b4a4d56f2c8",
+   "media_id": "2a928351-5a47-4496-9b8b-8b2c1a5ad315",
+   "fonte": "InPA",
+   "titolo": "BANDO CNR N. 331.6 RIC ISMN",
+   "figura": "Ricercatore III livello professionale",
+   "ente": "Consiglio Nazionale delle Ricerche - CNR",
+   "descrizione": "BANDO CNR N. 331.6 RIC ISMN - Selezione per titoli e colloquio ai sensi dell'art. 8 del \"Disciplinare concernente le assunzioni di personale con contratto di lavoro a tempo determinato\", per l'assunzione, ai sensi dell'art. 141 del CCNL del Comparto “Istruzione e Ricerca” 2019-2021, sottoscritto in data 18 gennaio 2024, di una unità di personale con profilo professionale di Ricercatore III livello, presso l'Istituto per lo Studio dei Materiali Nanostrutturati, sede di Bologna.",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=d5882632b7e24f93b2f48b4a4d56f2c8",
+   "pubblicazione": "2026-10-14T16:00:00Z",
+   "scadenza": "2026-11-13T17:00:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_COLLOQUIO",
+   "sede": "Bologna",
+   "provincia": "Bologna",
+   "km": 115,
+   "ambito": "provincia",
+   "punteggio": 78,
+   "tag": [
+    "ricerca",
+    "ente-ricerca"
+   ],
+   "motivi": [
+    "ricercator",
+    "iii livello",
+    "cnr"
+   ],
+   "fascia": "alta",
+   "giorni_rimasti": 29,
+   "titolo_verdetto": "escluso",
+   "titolo_nota": "Classi ammesse: 20/S, 27/S, 61/S, 62/S, LM-17, LM-22, LM-53, LM-54. LM-21 non e' compresa.",
+   "titolo_classi": [
+    "20/S",
+    "27/S",
+    "61/S",
+    "62/S",
+    "LM-17",
+    "LM-22",
+    "LM-53",
+    "LM-54"
+   ],
+   "titolo_nomi": [
+    "Ingegneria Chimica"
+   ]
+  },
+  {
+   "id": "inpa:4bb9cb5291954a1e9cecc82b37538f4b",
+   "media_id": "f8e85c59-f64a-4405-98db-ff23440d2395",
+   "fonte": "InPA",
+   "titolo": "BANDO CNR N. 331.7 RIC ISMN",
+   "figura": "Ricercatore III livello professionale",
+   "ente": "Consiglio Nazionale delle Ricerche - CNR",
+   "descrizione": "BANDO CNR N. 331.7 RIC ISMN - Selezione per titoli e colloquio ai sensi dell'art. 8 del \"Disciplinare concernente le assunzioni di personale con contratto di lavoro a tempo determinato\", per l'assunzione, ai sensi dell'art. 141 del CCNL del Comparto “Istruzione e Ricerca” 2019-2021, sottoscritto in data 18 gennaio 2024, di una unità di personale con profilo professionale di Ricercatore III livello, presso l'Istituto per lo Studio dei Materiali Nanostrutturati, sede di Bologna.",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4bb9cb5291954a1e9cecc82b37538f4b",
+   "pubblicazione": "2026-10-14T16:00:00Z",
+   "scadenza": "2026-11-13T17:00:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_COLLOQUIO",
+   "sede": "Bologna",
+   "provincia": "Bologna",
+   "km": 115,
+   "ambito": "provincia",
+   "punteggio": 78,
+   "tag": [
+    "ricerca",
+    "ente-ricerca"
+   ],
+   "motivi": [
+    "ricercator",
+    "iii livello",
+    "cnr"
+   ],
+   "fascia": "alta",
+   "giorni_rimasti": 29,
+   "titolo_verdetto": "escluso",
+   "titolo_nota": "Classi ammesse: 20/S, LM-17. LM-21 non e' compresa.",
+   "titolo_classi": [
+    "20/S",
+    "LM-17"
    ],
    "titolo_nomi": []
   },
@@ -348,7 +432,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 11,
+   "giorni_rimasti": 10,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Il bando elenca LM-21 fra le classi ammesse.",
    "titolo_classi": [
@@ -398,7 +482,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 9,
+   "giorni_rimasti": 8,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 20/S, 23/S, 28/S, 38/S, 4/S, 62/S, 74/S, 82/S. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -456,7 +540,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 16,
+   "giorni_rimasti": 15,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Il bando elenca LM-21 fra le classi ammesse.",
    "titolo_classi": [
@@ -503,7 +587,7 @@
     "ingegneria informatic"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 15,
+   "giorni_rimasti": 14,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Il bando ammette Ingegneria Biomedica.",
    "titolo_classi": [],
@@ -541,7 +625,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 8,
+   "giorni_rimasti": 7,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 13/S, 43/S, 67/S, LM-19, LM-38, LM-59. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -583,7 +667,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 15,
+   "giorni_rimasti": 14,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 21/S, 77/S, 82/S, LM-69, LM-75, LM-80. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -629,7 +713,7 @@
     "azienda ospedalier"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 8,
+   "giorni_rimasti": 7,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Biologia. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -668,7 +752,7 @@
     "azienda ospedalier"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 8,
+   "giorni_rimasti": 7,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Biologia. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -677,16 +761,16 @@
    ]
   },
   {
-   "id": "inpa:d58d79bc7c0c46848d4261d633938802",
-   "media_id": "9aedc78d-7bb2-4785-a603-96198ed90673",
+   "id": "inpa:2c88345df68b43faa81d142ba88508f2",
+   "media_id": "dd4fc1b5-8bdb-4b3d-8bd4-5c6bffb91f2d",
    "fonte": "InPA",
-   "titolo": "AZIENDA OSPEDALIERA METROPOLITANA (AOM) - PUBBLICA SELEZIONE, PER TITOLI E COLLOQUIO, PER L’ASSEGNAZIONE DI UNA BORSA DI STUDIO, DELLA DURATA DI 8 MESI, PER COLLABORARE AL PROGETTO DENOMINATO “DISCOVERY AND PRECLINICAL DEVELOPMENT OF 18F-LABELED PET LIGANDS FOR SELECTIVE TARGETING OF BRAIN ESTROGEN RECEPTORS” – CARE – 2025- 9902848981 – CUP: B97G25000390007, P.I. PROF. GIANMARIO SAMBUCETI (GA360), DA SVOLGERSI PRESSO L’IIT CENTER FOR SYNAPTIC NEUROSCIENCE AND TECHNOLOGY (NSYN).",
-   "figura": "Borsista",
+   "titolo": "AOM- AZIENDA OSPEDALIERA METROPOLITANA - CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER L’ATTRIBUZIONE DI N. 1 INCARICO A TEMPO DETERMINATO, IN QUALITÀ DI RICERCATORE SANITARIO, DELLA DURATA DI 7 MESI (E, COMUNQUE NON OLTRE IL 30/05/2027), NELL’AMBITO DEL PROGETTO PNRR, CODICE PNRR-TR1-2023-12378169 - CUP C33C23001100006: “DEVELOPMENT OF LIQUID BIOPSY BASED APPROACHES FOR PRECISION MEDICINE IN UVEAL MELANOMA PATIENTS”, P.I. DOTT.SSA ADRIANA AGNESE AMARO",
+   "figura": "Ricercatore Sanitario",
    "ente": "IRCCS Ospedale Policlinico San Martino",
-   "descrizione": "PUBBLICA SELEZIONE, PER TITOLI E COLLOQUIO, PER L’ASSEGNAZIONE DI UNA BORSA DI STUDIO, DELLA DURATA DI 8 MESI, PER COLLABORARE AL PROGETTO DENOMINATO “DISCOVERY AND PRECLINICAL DEVELOPMENT OF 18F-LABELED PET LIGANDS FOR SELECTIVE TARGETING OF BRAIN ESTROGEN RECEPTORS” – CARE – 2025- 9902848981 – CUP: B97G25000390007, P.I. PROF. GIANMARIO SAMBUCETI (GA360), DA SVOLGERSI PRESSO L’IIT CENTER FOR SYNAPTIC NEUROSCIENCE AND TECHNOLOGY (NSYN).",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=d58d79bc7c0c46848d4261d633938802",
-   "pubblicazione": "2026-09-24T11:40:00Z",
-   "scadenza": "2026-10-14T21:59:00Z",
+   "descrizione": "AOM- AZIENDA OSPEDALIERA METROPOLITANA - CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER L’ATTRIBUZIONE DI N. 1 INCARICO A TEMPO DETERMINATO, IN QUALITÀ DI RICERCATORE SANITARIO, DELLA DURATA DI 7 MESI (E, COMUNQUE NON OLTRE IL 30/05/2027), NELL’AMBITO DEL PROGETTO PNRR, CODICE PNRR-TR1-2023-12378169 - CUP C33C23001100006: “DEVELOPMENT OF LIQUID BIOPSY BASED APPROACHES FOR PRECISION MEDICINE IN UVEAL MELANOMA PATIENTS”, P.I. DOTT.SSA ADRIANA AGNESE AMARO",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2c88345df68b43faa81d142ba88508f2",
+   "pubblicazione": "2026-10-14T14:15:00Z",
+   "scadenza": "2026-11-13T22:59:00Z",
    "stato": "Aperto",
    "posti": 1,
    "procedura": "TITOLI_COLLOQUIO",
@@ -694,25 +778,27 @@
    "provincia": "Genova",
    "km": 139,
    "ambito": "provincia",
-   "punteggio": 70,
+   "punteggio": 66,
    "tag": [
     "ricerca",
     "ente-ricerca",
     "sanita"
    ],
    "motivi": [
-    "borsa di studio",
-    "iit",
+    "ricercator",
     "irccs",
     "azienda ospedalier"
    ],
-   "fascia": "alta",
-   "giorni_rimasti": 0,
-   "titolo_verdetto": "ammesso",
-   "titolo_nota": "Il bando ammette Ingegneria Biomedica.",
+   "fascia": "buona",
+   "giorni_rimasti": 29,
+   "titolo_verdetto": "escluso",
+   "titolo_nota": "Titoli richiesti: Biologia; Biotecnologie Agrarie; Biotecnologie Industriali; Biotecnologie Mediche. Ingegneria biomedica non c'e'.",
    "titolo_classi": [],
    "titolo_nomi": [
-    "Ingegneria Biomedica"
+    "Biologia",
+    "Biotecnologie Agrarie",
+    "Biotecnologie Industriali",
+    "Biotecnologie Mediche"
    ]
   },
   {
@@ -744,7 +830,7 @@
     "cineca."
    ],
    "fascia": "buona",
-   "giorni_rimasti": 2,
+   "giorni_rimasti": 1,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-25, LM-29, LM-32, LM-33. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -753,76 +839,6 @@
     "LM-32",
     "LM-33"
    ],
-   "titolo_nomi": []
-  },
-  {
-   "id": "inpa:b4b4dfe215a443a590092d2dbedefe0b",
-   "media_id": "ae7c4d94-9c69-4483-b17f-9dce018e0b92",
-   "fonte": "InPA",
-   "titolo": "BANDO CNR N. 367.638 CTER IIT",
-   "figura": "COLLABORATORE TECNICO ENTI DI RICERCA VI LIVELLO PROFESSIONALE",
-   "ente": "Consiglio Nazionale delle Ricerche - CNR",
-   "descrizione": "BANDO CNR N. 367.638 CTER IIT - CONCORSO PUBBLICO PER TITOLI ED ESAMI PER L’ASSUNZIONE CON CONTRATTO DI LAVORO A TEMPO PIENO E INDETERMINATO DI N. 1 UNITÀ DI PERSONALE PROFILO COLLABORATORE TECNICO ENTI DI RICERCA, VI LIVELLO PROFESSIONALE PRESSO L’ISTITUTO DI INFORMATICA E TELEMATICA (IIT) DEL CONSIGLIO NAZIONALE DELLE RICERCHE CON SEDE A PISA.",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=b4b4dfe215a443a590092d2dbedefe0b",
-   "pubblicazione": "2026-09-14T16:00:00Z",
-   "scadenza": "2026-10-14T16:00:00Z",
-   "stato": "Aperto",
-   "posti": 1,
-   "procedura": "TITOLI_ESAMI",
-   "sede": "Pisa",
-   "provincia": "Pisa",
-   "km": 0,
-   "ambito": "provincia",
-   "punteggio": 58,
-   "tag": [
-    "ricerca",
-    "ente-ricerca"
-   ],
-   "motivi": [
-    "cter",
-    "cnr",
-    "iit"
-   ],
-   "fascia": "buona",
-   "giorni_rimasti": 0,
-   "titolo_verdetto": "ignoto",
-   "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
-   "titolo_classi": [],
-   "titolo_nomi": []
-  },
-  {
-   "id": "inpa:8ba1715c547747469480a25b93c963fb",
-   "media_id": "eb62cb86-6e39-4525-961d-f1924086b2e7",
-   "fonte": "InPA",
-   "titolo": "BANDO CNR N. 367.639 CTER IIT",
-   "figura": "COLLABORATORE TECNICO ENTI DI RICERCA VI LIVELLO PROFESSIONALE",
-   "ente": "Consiglio Nazionale delle Ricerche - CNR",
-   "descrizione": "BANDO CNR N. 367.639 CTER IIT - CONCORSO PUBBLICO PER TITOLI ED ESAMI PER L’ASSUNZIONE CON CONTRATTO DI LAVORO A TEMPO PIENO E INDETERMINATO DI N. 1 UNITÀ DI PERSONALE PROFILO COLLABORATORE TECNICO ENTI DI RICERCA, VI LIVELLO PROFESSIONALE PRESSO L’ISTITUTO DI INFORMATICA E TELEMATICA (IIT) DEL CONSIGLIO NAZIONALE DELLE RICERCHE CON SEDE A PISA.",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=8ba1715c547747469480a25b93c963fb",
-   "pubblicazione": "2026-09-14T16:00:00Z",
-   "scadenza": "2026-10-14T16:00:00Z",
-   "stato": "Aperto",
-   "posti": 1,
-   "procedura": "TITOLI_ESAMI",
-   "sede": "Pisa",
-   "provincia": "Pisa",
-   "km": 0,
-   "ambito": "provincia",
-   "punteggio": 58,
-   "tag": [
-    "ricerca",
-    "ente-ricerca"
-   ],
-   "motivi": [
-    "cter",
-    "cnr",
-    "iit"
-   ],
-   "fascia": "buona",
-   "giorni_rimasti": 0,
-   "titolo_verdetto": "ignoto",
-   "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
-   "titolo_classi": [],
    "titolo_nomi": []
   },
   {
@@ -852,7 +868,7 @@
     "iii livello"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 8,
+   "giorni_rimasti": 7,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Scienze Agrarie e Forestali. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -887,7 +903,7 @@
     "iii livello"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 7,
+   "giorni_rimasti": 6,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-6, LM-60, LM-7, LM-73, LM-75, LM-8, LM-9. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -933,49 +949,13 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 8,
+   "giorni_rimasti": 7,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Biologia. Da verificare nel PDF.",
    "titolo_classi": [],
    "titolo_nomi": [
     "Biologia"
    ]
-  },
-  {
-   "id": "inpa:8e097986106643a9a65b08fb252b17fc",
-   "media_id": "6ec6a10b-121a-4253-98df-92b8a68b2558",
-   "fonte": "InPA",
-   "titolo": "AZIENDA OSPEDALIERA METROPOLITANA (AOM) -PUBBLICA SELEZIONE, PER TITOLI E COLLOQUIO, PER L’ASSEGNAZIONE DI UNA BORSA DI STUDIO, DELLA DURATA DI 12 MESI, PER COLLABORARE AL PROGETTO DI RICERCA DENOMINATO “AFFRONTARE LA SFIDA DELLA MEDICINA DI PRECISIONE NELLA MALATTIA DI ALZHEIMER ATTRAVERSO LA VALIDAZIONE DI UN PROTOCOLLO MRI QUANTITATIVO MULTI-PARAMETRICO APPLICABILE IN UN CONTESTO CLINICO” (GA904), DA SVOLGERSI PRESSO LA U.O. CLINICA NEUROLOGICA.",
-   "figura": "Borsista",
-   "ente": "IRCCS Ospedale Policlinico San Martino",
-   "descrizione": "PUBBLICA SELEZIONE, PER TITOLI E COLLOQUIO, PER L’ASSEGNAZIONE DI UNA BORSA DI STUDIO, DELLA DURATA DI 12 MESI, PER COLLABORARE AL PROGETTO DI RICERCA DENOMINATO “ AFFRONTARE LA SFIDA DELLA MEDICINA DI PRECISIONE NELLA MALATTIA DI ALZHEIMER ATTRAVERSO LA VALIDAZIONE DI UN PROTOCOLLO MRI QUANTITATIVO MULTI-PARAMETRICO APPLICABILE IN UN CONTESTO CLINICO ” (GA904), DA SVOLGERSI PRESSO LA U.O. CLINICA NEUROLOGICA.",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=8e097986106643a9a65b08fb252b17fc",
-   "pubblicazione": "2026-09-24T12:10:00Z",
-   "scadenza": "2026-10-14T21:59:00Z",
-   "stato": "Aperto",
-   "posti": 1,
-   "procedura": "TITOLI_COLLOQUIO",
-   "sede": "Genova",
-   "provincia": "Genova",
-   "km": 139,
-   "ambito": "provincia",
-   "punteggio": 52,
-   "tag": [
-    "ricerca",
-    "ente-ricerca",
-    "sanita"
-   ],
-   "motivi": [
-    "borsa di studio",
-    "irccs",
-    "azienda ospedalier"
-   ],
-   "fascia": "buona",
-   "giorni_rimasti": 0,
-   "titolo_verdetto": "ammesso",
-   "titolo_nota": "Il bando ammette Ingegneria biomedica.",
-   "titolo_classi": [],
-   "titolo_nomi": []
   },
   {
    "id": "inpa:aa2b122fc7de4f7f88531ba15920df3c",
@@ -1006,7 +986,7 @@
     "statistic"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 30,
+   "giorni_rimasti": 29,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
@@ -1039,7 +1019,7 @@
     "intelligenza artificiale"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 12,
+   "giorni_rimasti": 11,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Scienze chimiche. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -1074,7 +1054,7 @@
     "iii livello"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 8,
+   "giorni_rimasti": 7,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Scienze Agrarie e Forestali. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -1110,7 +1090,7 @@
     "cnr"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 1,
+   "giorni_rimasti": 0,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 20/S, 32/S, 61/S, 91/S, LM-17, LM-29, LM-53, LM-82. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1155,7 +1135,7 @@
     "sistemi informativ"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 23,
+   "giorni_rimasti": 22,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Non sono riuscito a leggere il PDF del bando.",
    "titolo_classi": [],
@@ -1188,7 +1168,7 @@
     "statistic"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 1,
+   "giorni_rimasti": 0,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1222,7 +1202,7 @@
     "irccs"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 1,
+   "giorni_rimasti": 0,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Titoli richiesti: SCIENZE BIOLOGICHE; BIOTECNOLOGIE. Ingegneria biomedica non c'e'.",
    "titolo_classi": [],
@@ -1259,7 +1239,7 @@
     "area dei funzionari - settore profession"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 13,
+   "giorni_rimasti": 12,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-13, LM-17, LM-22, LM-53, LM-54, LM-6, LM-7, LM-71. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1304,7 +1284,7 @@
     "cineca."
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 19,
+   "giorni_rimasti": 18,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1338,40 +1318,7 @@
     "area dei funzionari, settore tecnico-inf"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 6,
-   "titolo_verdetto": "ignoto",
-   "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
-   "titolo_classi": [],
-   "titolo_nomi": []
-  },
-  {
-   "id": "inpa:244fa1390b0a4c048b217c6de9d0a97b",
-   "media_id": "ec63e5f1-f2e6-4996-8638-ec04f03b0a71",
-   "fonte": "InPA",
-   "titolo": "Università di Pisa - Selezione pubblica per n. 1 unità di personale da inquadrare nell’Area delle Elevate Professionalità settore amministrativo-dipartimentale o amministrativo gestionale, per le esigenze delle Direzioni, Dipartimenti, Centri e Sistemi di Ateneo",
-   "figura": "Area delle Elevate Professionalità",
-   "ente": "Universita' di Pisa",
-   "descrizione": "Selezione pubblica per n. 1 unità di personale da inquadrare nell’Area delle Elevate Professionalità settore amministrativo-dipartimentale o amministrativo gestionale, per le esigenze delle Direzioni, Dipartimenti, Centri e Sistemi di Ateneo. Le domande di ammissione alla selezione devono essere presentate esclusivamente tramite la piattaforma PICA https://pica.cineca.it/unipi/",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=244fa1390b0a4c048b217c6de9d0a97b",
-   "pubblicazione": "2026-09-14T07:00:00Z",
-   "scadenza": "2026-10-14T11:00:00Z",
-   "stato": "Aperto",
-   "posti": 1,
-   "procedura": "TITOLI_ESAMI",
-   "sede": "Pisa",
-   "provincia": "Pisa",
-   "km": 0,
-   "ambito": "provincia",
-   "punteggio": 34,
-   "tag": [
-    "ente-ricerca"
-   ],
-   "motivi": [
-    "università di pisa",
-    "cineca."
-   ],
-   "fascia": "possibile",
-   "giorni_rimasti": 0,
+   "giorni_rimasti": 5,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -1403,9 +1350,43 @@
     "ricercator"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 8,
+   "giorni_rimasti": 7,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
+   "titolo_classi": [],
+   "titolo_nomi": []
+  },
+  {
+   "id": "inpa:265a7969979a4840bbb01cad291013fb",
+   "media_id": "98fdc340-5db7-4f85-a69b-191b7896d407",
+   "fonte": "InPA",
+   "titolo": "AZIENDA OSPEDALIERA METROPOLITANA (AOM) - PROCEDURA DI SELEZIONE COMPARATIVA PER IL CONFERIMENTO DI INCARICO A TEMPO DETERMINATO E CON RAPPORTO DI LAVORO ESCLUSIVO, AI SENSI DELL’ART. 15-SEPTIES, COMMA 2, DEL D. LGS. N. 502/1992 E S.M.I., PER N. 1 DIRIGENTE PER IL RUOLO PROFESSIONALE, TECNICO O AMMINISTRATIVO DA ASSEGNARE ALLA U.O. CONTROLLO DI GESTIONE DELL’AOM. RIAPERTURA TERMINI PER LA PRESENTAZIONE DELLE DOMANDE DI PARTECIPAZIONE",
+   "figura": "dirigente per il ruolo professionale, tecnico o amministrativo",
+   "ente": "IRCCS Ospedale Policlinico San Martino",
+   "descrizione": "PROCEDURA DI SELEZIONE COMPARATIVA PER IL CONFERIMENTO DI INCARICO A TEMPO DETERMINATO E CON RAPPORTO DI LAVORO ESCLUSIVO, AI SENSI DELL’ART. 15- SEPTIES , COMMA 2, DEL D. LGS. N. 502/1992 E S.M.I., PER N. 1 DIRIGENTE PER IL RUOLO PROFESSIONALE, TECNICO O AMMINISTRATIVO DA ASSEGNARE ALLA U.O. CONTROLLO DI GESTIONE DELL’AOM. RIAPERTURA TERMINI PER LA PRESENTAZIONE DELLE DOMANDE DI PARTECIPAZIONE.",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=265a7969979a4840bbb01cad291013fb",
+   "pubblicazione": "2026-10-14T13:45:00Z",
+   "scadenza": "2026-10-29T22:59:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_COLLOQUIO",
+   "sede": "Genova",
+   "provincia": "Genova",
+   "km": 139,
+   "ambito": "provincia",
+   "punteggio": 32,
+   "tag": [
+    "ente-ricerca",
+    "sanita"
+   ],
+   "motivi": [
+    "irccs",
+    "azienda ospedalier"
+   ],
+   "fascia": "possibile",
+   "giorni_rimasti": 14,
+   "titolo_verdetto": "ignoto",
+   "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
    "titolo_nomi": []
   },
@@ -1437,7 +1418,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 8,
+   "giorni_rimasti": 7,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1471,7 +1452,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 8,
+   "giorni_rimasti": 7,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Medicina e Chirurgia. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -1505,7 +1486,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 3,
+   "giorni_rimasti": 2,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1537,7 +1518,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 22,
+   "giorni_rimasti": 21,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Nessuna classe richiesta: ammessa qualunque laurea magistrale.",
    "titolo_classi": [
@@ -1549,38 +1530,6 @@
     "L-6",
     "L-7"
    ],
-   "titolo_nomi": []
-  },
-  {
-   "id": "inpa:9a3cf27e587a4e19b2e6748d448ea581",
-   "media_id": "5f3da4ec-e98e-451f-a5fb-2b76d04a1f25",
-   "fonte": "InPA",
-   "titolo": "PROCEDURA SELETTIVO/COMPARATIVA PUBBLICA, PER TITOLI ED ESAMI, PER IL RECLUTAMENTO A TEMPO INDETERMINATO DI N. 1 DOCENTE DI PRIMA FASCIA, PROFILO DISCIPLINARE VIOLA, SAD AFAM005 (EX CODI/05) SU CATTEDRA A TEMPO DEFINITO, PRESSO IL CONSERVATORIO DI MUSICA DI MODENA E CARPI",
-   "figura": "Reclutamento a tempo indeterminato di n. 1 docente di prima fascia, profilo disciplinare Viola, SAD AFAM005 (ex CODI/05) su cattedra a tempo definito",
-   "ente": "Istituto Superiore di Studi Musicali O.Vecchi - A.Tonelli",
-   "descrizione": "La domanda di partecipazione al concorso dovrà essere presentata unicamente tramite il Portale del Reclutamento InPA, al link: https://www.inpa.gov.it/, a pena di inammissibilità. Il Candidato, una volta collegato al predetto indirizzo web, potrà accedere all’applicativo autenticandosi con il “Sistema pubblico di identità digitale” (SPID) o con la “Carta di identità elettronica” (CIE), ovvero la “Carta nazionale dei servizi” (CNS) mediante la compilazione del modello di candidatura presente sul portale InPA, previa registrazione sul portale stesso. La procedura dovrà essere completata con l’in",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=9a3cf27e587a4e19b2e6748d448ea581",
-   "pubblicazione": "2026-09-14T21:00:00Z",
-   "scadenza": "2026-10-14T21:59:00Z",
-   "stato": "Aperto",
-   "posti": 1,
-   "procedura": "TITOLI_ESAMI",
-   "sede": "Modena",
-   "provincia": "Modena",
-   "km": 112,
-   "ambito": "provincia",
-   "punteggio": 30,
-   "tag": [
-    "ai-ml"
-   ],
-   "motivi": [
-    "ai"
-   ],
-   "fascia": "possibile",
-   "giorni_rimasti": 0,
-   "titolo_verdetto": "ignoto",
-   "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
-   "titolo_classi": [],
    "titolo_nomi": []
   },
   {
@@ -1609,7 +1558,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 12,
+   "giorni_rimasti": 11,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
@@ -1640,7 +1589,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 14,
+   "giorni_rimasti": 13,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [
@@ -1682,7 +1631,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 14,
+   "giorni_rimasti": 13,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [
@@ -1724,7 +1673,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 8,
+   "giorni_rimasti": 7,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1758,7 +1707,7 @@
     "sistemi informativ"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 5,
+   "giorni_rimasti": 4,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-18, LM-27, LM-29, LM-31, LM-32, LM-40, LM-44, LM-82. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1807,7 +1756,7 @@
     "laurea magistrale"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 8,
+   "giorni_rimasti": 7,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Lingue e Comunicazione interculturale e d. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -1841,7 +1790,7 @@
     "tecnologo"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 19,
+   "giorni_rimasti": 18,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 20/S, 35/S, 45/S. LM-21 non e' compresa.",
    "titolo_classi": [

@@ -1277,5 +1277,57 @@
   "dottorato_affine": false,
   "caratteri": 67878,
   "letto_il": "2026-10-13"
+ },
+ "2a928351-5a47-4496-9b8b-8b2c1a5ad315": {
+  "classi": [
+   "20/S",
+   "27/S",
+   "61/S",
+   "62/S",
+   "LM-17",
+   "LM-22",
+   "LM-53",
+   "LM-54"
+  ],
+  "nomi": [
+   "Ingegneria Chimica"
+  ],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": true,
+  "dottorato_affine": false,
+  "caratteri": 34372,
+  "letto_il": "2026-10-15"
+ },
+ "f8e85c59-f64a-4405-98db-ff23440d2395": {
+  "classi": [
+   "20/S",
+   "LM-17"
+  ],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": true,
+  "nome_titolo": false,
+  "dottorato": true,
+  "dottorato_affine": false,
+  "caratteri": 34249,
+  "letto_il": "2026-10-15"
+ },
+ "dd4fc1b5-8bdb-4b3d-8bd4-5c6bffb91f2d": {
+  "classi": [],
+  "nomi": [
+   "Biologia",
+   "Biotecnologie Agrarie",
+   "Biotecnologie Industriali",
+   "Biotecnologie Mediche"
+  ],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 51377,
+  "letto_il": "2026-10-15"
  }
 }
