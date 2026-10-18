@@ -1370,5 +1370,28 @@
   "dottorato_affine": false,
   "caratteri": 66122,
   "letto_il": "2026-10-17"
+ },
+ "1b39bb90-4819-4370-8dab-12724ace15c5": {
+  "classi": [
+   "56/S",
+   "65/S",
+   "87/S",
+   "L-19",
+   "L-24",
+   "L-34",
+   "LM-50",
+   "LM-57",
+   "LM-85"
+  ],
+  "nomi": [
+   "Educazione Professionale"
+  ],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 55563,
+  "letto_il": "2026-10-18"
  }
 }
