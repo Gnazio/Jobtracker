@@ -1,20 +1,20 @@
 {
- "aggiornato": "2026-10-19T10:35:42+00:00",
+ "aggiornato": "2026-10-20T09:52:43+00:00",
  "raggio_km": 150,
  "origine": "Pisa",
  "statistiche": {
-  "grezzi": 426,
-  "pubblicati": 44,
+  "grezzi": 427,
+  "pubblicati": 47,
   "scartati_distanza": 47,
-  "scartati_profilo": 335,
+  "scartati_profilo": 333,
   "per_fascia": {
    "alta": 15,
-   "buona": 11,
+   "buona": 14,
    "possibile": 18
   },
   "per_titolo": {
    "ammesso": 8,
-   "ignoto": 24,
+   "ignoto": 27,
    "escluso": 12
   }
  },
@@ -22,7 +22,7 @@
  "fonti": [
   {
    "fonte": "InPA",
-   "annunci": 423,
+   "annunci": 424,
    "nota": null
   },
   {
@@ -71,7 +71,7 @@
     "azienda ospedalier"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 3,
+   "giorni_rimasti": 2,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Il bando ammette Ingegneria biomedica.",
    "titolo_classi": [],
@@ -107,7 +107,7 @@
     "statistic"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 32,
+   "giorni_rimasti": 31,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
@@ -142,7 +142,7 @@
     "istituto di fisiologia clinica"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 17,
+   "giorni_rimasti": 16,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Il bando elenca LM-21 fra le classi ammesse.",
    "titolo_classi": [
@@ -192,7 +192,7 @@
     "ai"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 7,
+   "giorni_rimasti": 6,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Nessuna classe richiesta: ammessa qualunque laurea magistrale.",
    "titolo_classi": [],
@@ -227,7 +227,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 10,
+   "giorni_rimasti": 9,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 23/S, 24/S, LM-12, LM-18, LM-43. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -268,7 +268,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 25,
+   "giorni_rimasti": 24,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 20/S, 27/S, 61/S, 62/S, LM-17, LM-22, LM-53, LM-54. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -314,7 +314,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 25,
+   "giorni_rimasti": 24,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 20/S, LM-17. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -352,7 +352,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 6,
+   "giorni_rimasti": 5,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Il bando elenca LM-21 fra le classi ammesse.",
    "titolo_classi": [
@@ -402,7 +402,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 4,
+   "giorni_rimasti": 3,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 20/S, 23/S, 28/S, 38/S, 4/S, 62/S, 74/S, 82/S. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -460,7 +460,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 11,
+   "giorni_rimasti": 10,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Il bando elenca LM-21 fra le classi ammesse.",
    "titolo_classi": [
@@ -507,7 +507,7 @@
     "ingegneria informatic"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 10,
+   "giorni_rimasti": 9,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Il bando ammette Ingegneria Biomedica.",
    "titolo_classi": [],
@@ -545,7 +545,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 3,
+   "giorni_rimasti": 2,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 13/S, 43/S, 67/S, LM-19, LM-38, LM-59. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -587,7 +587,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 10,
+   "giorni_rimasti": 9,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 21/S, 77/S, 82/S, LM-69, LM-75, LM-80. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -633,7 +633,7 @@
     "azienda ospedalier"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 3,
+   "giorni_rimasti": 2,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Biologia. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -672,7 +672,7 @@
     "azienda ospedalier"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 3,
+   "giorni_rimasti": 2,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Biologia. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -710,7 +710,7 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 25,
+   "giorni_rimasti": 24,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Titoli richiesti: Biologia; Biotecnologie Agrarie; Biotecnologie Industriali; Biotecnologie Mediche. Ingegneria biomedica non c'e'.",
    "titolo_classi": [],
@@ -720,6 +720,39 @@
     "Biotecnologie Industriali",
     "Biotecnologie Mediche"
    ]
+  },
+  {
+   "id": "inpa:675de877ce9645548b094095012e6dbc",
+   "media_id": null,
+   "fonte": "InPA",
+   "titolo": "Rif. 6135 - Concorso pubblico per esami, a n. 1 posto nell’Area dei Collaboratori - settore tecnico, scientifico, tecnologico, informatico e dei servizi generali, con competenze in ambito anatomia, biochimica e biologia molecolare, per le esigenze del Dipartimento di Scienze Mediche e Chirurgiche dell'Università di Bologna, prioritariamente riservato agli operatori volontari che abbiano concluso il servizio civile universale ovvero il servizio civile nazionale di cui alla legge 06/03/2001 n. 64.",
+   "figura": "Area dei Collaboratori - settore tecnico, scientifico, tecnologico, informatico e dei servizi generali",
+   "ente": "Alma Mater Studiorum - Universita' di Bologna",
+   "descrizione": "Rif. 6135 - Concorso pubblico per esami, a n. 1 posto nell’Area dei Collaboratori - settore tecnico, scientifico, tecnologico, informatico e dei servizi generali, con competenze in ambito anatomia, biochimica e biologia molecolare, per le esigenze del Dipartimento di Scienze Mediche e Chirurgiche – DIMEC dell'Alma Mater Studiorum, Università di Bologna, prioritariamente riservato agli operatori volontari che abbiano concluso il servizio civile universale ovvero il servizio civile nazionale di cui alla legge 06/03/2001 n. 64 senza demerito.",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=675de877ce9645548b094095012e6dbc",
+   "pubblicazione": "2026-10-20T08:00:00Z",
+   "scadenza": "2026-11-10T22:59:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "ESAMI",
+   "sede": "Forli'-Cesena",
+   "provincia": "Forli'-Cesena",
+   "km": 143,
+   "ambito": "provincia",
+   "punteggio": 64,
+   "tag": [
+    "ricerca",
+    "ai-ml"
+   ],
+   "motivi": [
+    "ricercator",
+    "ai"
+   ],
+   "fascia": "buona",
+   "giorni_rimasti": 21,
+   "titolo_verdetto": "ignoto",
+   "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
+   "titolo_classi": []
   },
   {
    "id": "inpa:45b72ec21c4f4b73971d07e7e37a8ff7",
@@ -748,7 +781,7 @@
     "iii livello"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 3,
+   "giorni_rimasti": 2,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Scienze Agrarie e Forestali. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -783,7 +816,7 @@
     "iii livello"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 2,
+   "giorni_rimasti": 1,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-6, LM-60, LM-7, LM-73, LM-75, LM-8, LM-9. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -798,6 +831,39 @@
    "titolo_nomi": [
     "Biologia"
    ]
+  },
+  {
+   "id": "inpa:fbb588d8ee1c47938ec197b9e21abbb2",
+   "media_id": null,
+   "fonte": "InPA",
+   "titolo": "Rif. 6112 - concorso pubblico, per esami, a n. 1 posto nell’area dei funzionari, settore scientifico – tecnologico con competenze in ambito dell’istologia, embriologia e imaging avanzato – per le esigenze del Dipartimento di scienze mediche e chirurgiche - DIMEC dell'Alma Mater Studiorum, Università di Bologna, prioritariamente riservato a volontario delle FFAA",
+   "figura": "Area dei funzionari, settore scientifico – tecnologico",
+   "ente": "Alma Mater Studiorum - Universita' di Bologna",
+   "descrizione": "Rif. 6112 - concorso pubblico, per esami, a n. 1 posto nell’area dei funzionari, settore scientifico – tecnologico con competenze in ambito dell’istologia, embriologia e imaging avanzato – per le esigenze del Dipartimento di scienze mediche e chirurgiche - DIMEC dell'Alma Mater Studiorum, Università di Bologna, prioritariamente riservato a volontario delle FFAA",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=fbb588d8ee1c47938ec197b9e21abbb2",
+   "pubblicazione": "2026-10-20T08:00:00Z",
+   "scadenza": "2026-11-10T22:59:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "ESAMI",
+   "sede": "Bologna",
+   "provincia": "Bologna",
+   "km": 115,
+   "ambito": "provincia",
+   "punteggio": 52,
+   "tag": [
+    "ricerca",
+    "ict"
+   ],
+   "motivi": [
+    "ricercator",
+    "area dei funzionari, settore scientific"
+   ],
+   "fascia": "buona",
+   "giorni_rimasti": 21,
+   "titolo_verdetto": "ignoto",
+   "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
+   "titolo_classi": []
   },
   {
    "id": "inpa:58a2161b27814eba8bf1766785ae5c1c",
@@ -829,7 +895,7 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 3,
+   "giorni_rimasti": 2,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Biologia. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -937,6 +1003,41 @@
    "titolo_classi": []
   },
   {
+   "id": "inpa:27ae48a16d844c408b65007201e97e6c",
+   "media_id": "90a2db66-bd39-4c9a-96be-cefe1b1facc2",
+   "fonte": "InPA",
+   "titolo": "AVVISO PUBBLICO DI PROCEDURA COMPARATIVA PER IL CONFERIMENTO DI UN INCARICO INDIVIDUALE DI LAVORO AUTONOMO, DI NATURA OCCASIONALE, A ESPERTO IN STATISTICA SPAZIALE E ANALISI CONTROFATTUALE PER UNO STUDIO SULLE LOCAZIONI TURISTICHE BREVI IN TOSCANA E SUI RELATIVI IMPATTI ABITATIVI E COMMERCIALI",
+   "figura": "esperto in analisi statistica e controfattuale per uno studio sulle locazioni turistiche brevi",
+   "ente": "I.R.P.E.T Istituto Regionale per La Programmazione Economica della Toscana",
+   "descrizione": "La professionalità richiesta deve essere in possesso: a. di laurea magistrale (LM – D.M. n. 270/2004), specialistica (LS – D.M. n. 509/1999) o diploma di laurea (DL) vecchio ordinamento in Scienze Statistiche o Statistica; b. ottima conoscenza dei principali software di statistica spaziale e delle tecniche di trattamento e analisi dei dati georiferiti, nonché dei metodi di analisi statistica spaziale e di valutazione controfattuale; c. di esperienza di ricerca di almeno 2 anni sul tema delle locazioni turistiche brevi (da dichiarare nelle sezioni dedicate alle esperienze lavorative).",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=27ae48a16d844c408b65007201e97e6c",
+   "pubblicazione": "2026-10-19T11:00:00Z",
+   "scadenza": "2026-11-03T22:59:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI",
+   "sede": "Firenze",
+   "provincia": "Firenze",
+   "km": 69,
+   "ambito": "provincia",
+   "punteggio": 50,
+   "tag": [
+    "ai-ml",
+    "requisiti"
+   ],
+   "motivi": [
+    "analisi dei dati",
+    "statistic",
+    "laurea magistrale"
+   ],
+   "fascia": "buona",
+   "giorni_rimasti": 14,
+   "titolo_verdetto": "ignoto",
+   "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
+   "titolo_classi": [],
+   "titolo_nomi": []
+  },
+  {
    "id": "inpa:aa2b122fc7de4f7f88531ba15920df3c",
    "media_id": null,
    "fonte": "InPA",
@@ -965,7 +1066,7 @@
     "statistic"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 25,
+   "giorni_rimasti": 24,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
@@ -998,7 +1099,7 @@
     "intelligenza artificiale"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 7,
+   "giorni_rimasti": 6,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Scienze chimiche. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -1033,7 +1134,7 @@
     "iii livello"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 3,
+   "giorni_rimasti": 2,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Scienze Agrarie e Forestali. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -1069,7 +1170,7 @@
     "sistemi informativ"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 18,
+   "giorni_rimasti": 17,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Non sono riuscito a leggere il PDF del bando.",
    "titolo_classi": [],
@@ -1103,7 +1204,7 @@
     "area dei funzionari - settore profession"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 8,
+   "giorni_rimasti": 7,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-13, LM-17, LM-22, LM-53, LM-54, LM-6, LM-7, LM-71. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1148,7 +1249,7 @@
     "cineca."
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 14,
+   "giorni_rimasti": 13,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1182,7 +1283,7 @@
     "area dei funzionari, settore tecnico-inf"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 1,
+   "giorni_rimasti": 0,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -1214,7 +1315,7 @@
     "ricercator"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 3,
+   "giorni_rimasti": 2,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -1248,7 +1349,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 10,
+   "giorni_rimasti": 9,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1282,7 +1383,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 3,
+   "giorni_rimasti": 2,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1316,7 +1417,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 3,
+   "giorni_rimasti": 2,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Medicina e Chirurgia. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -1350,7 +1451,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 7,
+   "giorni_rimasti": 6,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Nessuna classe richiesta: ammessa qualunque laurea magistrale.",
    "titolo_classi": [
@@ -1385,7 +1486,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 7,
+   "giorni_rimasti": 6,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1417,7 +1518,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 17,
+   "giorni_rimasti": 16,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Nessuna classe richiesta: ammessa qualunque laurea magistrale.",
    "titolo_classi": [
@@ -1457,7 +1558,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 28,
+   "giorni_rimasti": 27,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 56/S, 65/S, 87/S, LM-50, LM-57, LM-85. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1501,7 +1602,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 7,
+   "giorni_rimasti": 6,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
@@ -1532,7 +1633,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 9,
+   "giorni_rimasti": 8,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [
@@ -1574,7 +1675,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 9,
+   "giorni_rimasti": 8,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [
@@ -1616,7 +1717,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 3,
+   "giorni_rimasti": 2,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1650,7 +1751,7 @@
     "laurea magistrale"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 3,
+   "giorni_rimasti": 2,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Lingue e Comunicazione interculturale e d. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -1684,7 +1785,7 @@
     "tecnologo"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 14,
+   "giorni_rimasti": 13,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 20/S, 35/S, 45/S. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1720,7 +1821,7 @@
     "modelli predittiv"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 12,
+   "giorni_rimasti": 11,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-7, LM-70, LM-8, LM-9. LM-21 non e' compresa.",
    "titolo_classi": [
