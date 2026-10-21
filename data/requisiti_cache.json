@@ -1404,5 +1404,29 @@
   "dottorato_affine": false,
   "caratteri": 29470,
   "letto_il": "2026-10-20"
+ },
+ "f52804d3-d06f-4780-ab09-9b1635388322": {
+  "classi": [],
+  "nomi": [
+   "Medicina e Chirurgia"
+  ],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 12705,
+  "letto_il": "2026-10-21"
+ },
+ "da27b1a8-d980-45f6-aec4-5031a0286965": {
+  "classi": [],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": true,
+  "dottorato_affine": false,
+  "caratteri": 71053,
+  "letto_il": "2026-10-21"
  }
 }
