@@ -1428,5 +1428,56 @@
   "dottorato_affine": false,
   "caratteri": 71053,
   "letto_il": "2026-10-21"
+ },
+ "e4745a96-dfbb-4a08-8803-199c8d1da6f6": {
+  "classi": [],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 40835,
+  "letto_il": "2026-10-22"
+ },
+ "c6c9d7a9-f0c5-4d3c-af4a-129caeb965d3": {
+  "classi": [
+   "LM-6"
+  ],
+  "nomi": [
+   "Biologia"
+  ],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 44034,
+  "letto_il": "2026-10-22"
+ },
+ "4f5548cb-d23b-448b-a4d5-70c54e9e760a": {
+  "classi": [],
+  "nomi": [
+   "Tecniche di Radiologia Medica",
+   "Professioni Sanitarie Tecniche"
+  ],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 43806,
+  "letto_il": "2026-10-22"
+ },
+ "3d24a654-330e-495c-bb4a-ed219d87ee81": {
+  "classi": [],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": true,
+  "dottorato_affine": false,
+  "caratteri": 156591,
+  "letto_il": "2026-10-22"
  }
 }
