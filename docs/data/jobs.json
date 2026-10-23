@@ -1,20 +1,20 @@
 {
- "aggiornato": "2026-10-22T09:55:21+00:00",
+ "aggiornato": "2026-10-23T09:48:59+00:00",
  "raggio_km": 150,
  "origine": "Pisa",
  "statistiche": {
-  "grezzi": 440,
-  "pubblicati": 51,
-  "scartati_distanza": 49,
-  "scartati_profilo": 340,
+  "grezzi": 420,
+  "pubblicati": 41,
+  "scartati_distanza": 53,
+  "scartati_profilo": 326,
   "per_fascia": {
-   "alta": 15,
-   "buona": 14,
-   "possibile": 22
+   "alta": 11,
+   "buona": 12,
+   "possibile": 18
   },
   "per_titolo": {
-   "ammesso": 8,
-   "ignoto": 30,
+   "ignoto": 21,
+   "ammesso": 7,
    "escluso": 13
   }
  },
@@ -22,7 +22,7 @@
  "fonti": [
   {
    "fonte": "InPA",
-   "annunci": 436,
+   "annunci": 416,
    "nota": null
   },
   {
@@ -37,46 +37,6 @@
   }
  ],
  "annunci": [
-  {
-   "id": "inpa:3e8d860a28fb459c9aceef9c5691729b",
-   "media_id": "9b013716-eda4-4fa6-af27-63b72fbce972",
-   "fonte": "InPA",
-   "titolo": "AZIENDA OSPEDALIERA METROPOLITANA (AOM) - Pubblica selezione, per titoli e colloquio, per l'assegnazione di una borsa di studio, della durata di 12 mesi, per collaborare al progetto di ricerca \"Attività di analisi dei dati con approcci statistici e di intelligenza artificiale per gli studi osservazionali approvati o in approvazione CE (MANI, SANI, ICORE, COLD/S) e condotti presso la Clinica di Malattie Respiratorie e Allergologia\" (GA904), presso U.O. Cl. di Mal. Respiratorie e Allergologia",
-   "figura": "Borsa di studio",
-   "ente": "IRCCS Ospedale Policlinico San Martino",
-   "descrizione": "Pubblica selezione, per titoli e colloquio, per l'assegnazione di una borsa di studio, della durata di 12 mesi, per collaborare al progetto di ricerca denominato \"Attività di analisi dei dati con approcci statistici e di intelligenza artificiale per gli studi osservazionali approvati o in approvazione CE (MANI, SANI, ICORE, COLD/S) e condotti presso la Clinica di Malattie Respiratorie e Allergologia\" (GA904), da svolgersi presso l'U.O. Clinica di Malattie Respiratorie e Allergologia. (Codice Selezione: 26B_ALLERGOLOGIA_CE)",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3e8d860a28fb459c9aceef9c5691729b",
-   "pubblicazione": "2026-10-02T09:06:00Z",
-   "scadenza": "2026-10-22T21:59:00Z",
-   "stato": "Aperto",
-   "posti": 1,
-   "procedura": "TITOLI_COLLOQUIO",
-   "sede": "Liguria (provincia da verificare)",
-   "provincia": null,
-   "km": 139,
-   "ambito": "regione",
-   "punteggio": 122,
-   "tag": [
-    "ricerca",
-    "ente-ricerca",
-    "ai-ml",
-    "sanita"
-   ],
-   "motivi": [
-    "borsa di studio",
-    "irccs",
-    "intelligenza artificiale",
-    "analisi dei dati",
-    "statistic",
-    "azienda ospedalier"
-   ],
-   "fascia": "alta",
-   "giorni_rimasti": 0,
-   "titolo_verdetto": "ammesso",
-   "titolo_nota": "Il bando ammette Ingegneria biomedica.",
-   "titolo_classi": [],
-   "titolo_nomi": []
-  },
   {
    "id": "inpa:f3d010db5f5648cf9ab5cb0393088118",
    "media_id": null,
@@ -107,7 +67,7 @@
     "statistic"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 29,
+   "giorni_rimasti": 28,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
@@ -142,7 +102,7 @@
     "istituto di fisiologia clinica"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 14,
+   "giorni_rimasti": 13,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Il bando elenca LM-21 fra le classi ammesse.",
    "titolo_classi": [
@@ -192,7 +152,7 @@
     "ai"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 4,
+   "giorni_rimasti": 3,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Nessuna classe richiesta: ammessa qualunque laurea magistrale.",
    "titolo_classi": [],
@@ -227,7 +187,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 7,
+   "giorni_rimasti": 6,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 23/S, 24/S, LM-12, LM-18, LM-43. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -268,7 +228,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 22,
+   "giorni_rimasti": 21,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 20/S, 27/S, 61/S, 62/S, LM-17, LM-22, LM-53, LM-54. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -314,7 +274,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 22,
+   "giorni_rimasti": 21,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 20/S, LM-17. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -352,7 +312,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 3,
+   "giorni_rimasti": 2,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Il bando elenca LM-21 fra le classi ammesse.",
    "titolo_classi": [
@@ -402,7 +362,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 1,
+   "giorni_rimasti": 0,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 20/S, 23/S, 28/S, 38/S, 4/S, 62/S, 74/S, 82/S. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -460,7 +420,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 8,
+   "giorni_rimasti": 7,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Il bando elenca LM-21 fra le classi ammesse.",
    "titolo_classi": [
@@ -507,7 +467,7 @@
     "ingegneria informatic"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 7,
+   "giorni_rimasti": 6,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Il bando ammette Ingegneria Biomedica.",
    "titolo_classi": [],
@@ -515,48 +475,6 @@
     "Ingegneria dell",
     "Ingegneria Biomedica"
    ]
-  },
-  {
-   "id": "inpa:73f92e3d0fd24c7cad36677a7a7f7fc2",
-   "media_id": "4b5df014-7af6-4e43-b7f7-9dea45b9c125",
-   "fonte": "InPA",
-   "titolo": "BANDO CNR N. 331.15 TEC ISTI",
-   "figura": "Tecnologo III livello professionale",
-   "ente": "Consiglio Nazionale delle Ricerche - CNR",
-   "descrizione": "BANDO CNR N. 331.15 TEC ISTI - Selezione per titoli e colloquio ai sensi dell’art. 8 del “Disciplinare concernente le assunzioni di personale con contratto di lavoro a tempo determinato”, per l’assunzione, ai sensi dell’art. 141 del CCNL del Comparto “Istruzione e Ricerca” 2019-2021, sottoscritto in data 18 gennaio 2024, di una unità di personale con profilo professionale di Tecnologo III livello, presso l’Istituto di Scienza e Tecnologie dell’Informazione “A. Faedo” del CNR (Pisa).",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=73f92e3d0fd24c7cad36677a7a7f7fc2",
-   "pubblicazione": "2026-09-22T16:00:00Z",
-   "scadenza": "2026-10-22T16:00:00Z",
-   "stato": "Aperto",
-   "posti": 1,
-   "procedura": "TITOLI_COLLOQUIO",
-   "sede": "Pisa",
-   "provincia": "Pisa",
-   "km": 0,
-   "ambito": "provincia",
-   "punteggio": 70,
-   "tag": [
-    "ricerca",
-    "ente-ricerca"
-   ],
-   "motivi": [
-    "tecnologo",
-    "iii livello",
-    "cnr"
-   ],
-   "fascia": "alta",
-   "giorni_rimasti": 0,
-   "titolo_verdetto": "escluso",
-   "titolo_nota": "Classi ammesse: 13/S, 43/S, 67/S, LM-19, LM-38, LM-59. LM-21 non e' compresa.",
-   "titolo_classi": [
-    "13/S",
-    "43/S",
-    "67/S",
-    "LM-19",
-    "LM-38",
-    "LM-59"
-   ],
-   "titolo_nomi": []
   },
   {
    "id": "inpa:0b6226a9878b4dd1a764a4fec3dd2b2d",
@@ -587,7 +505,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 7,
+   "giorni_rimasti": 6,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 21/S, 77/S, 82/S, LM-69, LM-75, LM-80. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -600,84 +518,6 @@
    ],
    "titolo_nomi": [
     "Scienze e tecnologie agrarie"
-   ]
-  },
-  {
-   "id": "inpa:2b7fe04b12d349b6b7c36699605df3ae",
-   "media_id": "52ee346f-43fd-4de2-aaab-5e1f818e7561",
-   "fonte": "InPA",
-   "titolo": "AZIENDA OSPEDALIERA METROPOLITANA (AOM) - Pubblica selezione, per titoli e colloquio, per l'assegnazione di una borsa di studio, della durata di 4 mesi, per collaborare al progetto denominato \"Discovery and preclinical development of 18F-labeled PET Ligands for selective targeting of brain estrogen receptors\" - CARE - 2025- 9902848981 - CUP: B97G25000390007, P.I. Prof. Gianmario Sambuceti (GA360), da svolgersi presso l'IIT Center for Synaptic Neuroscience and Technology (NSYN).",
-   "figura": "Borsa di studio",
-   "ente": "IRCCS Ospedale Policlinico San Martino",
-   "descrizione": "Pubblica selezione, per titoli e colloquio, per l'assegnazione di una borsa di studio, della durata di 4 mesi, per collaborare al progetto denominato \"Discovery and preclinical development of 18F-labeled PET Ligands for selective targeting of brain estrogen receptors\" - CARE - 2025- 9902848981 - CUP: B97G25000390007, P.I. Prof. Gianmario Sambuceti (GA360), da svolgersi presso l'IIT Center for Synaptic Neuroscience and Technology (NSYN).",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2b7fe04b12d349b6b7c36699605df3ae",
-   "pubblicazione": "2026-10-02T10:30:00Z",
-   "scadenza": "2026-10-22T21:59:00Z",
-   "stato": "Aperto",
-   "posti": 1,
-   "procedura": "TITOLI_COLLOQUIO",
-   "sede": "Liguria (provincia da verificare)",
-   "provincia": null,
-   "km": 139,
-   "ambito": "regione",
-   "punteggio": 70,
-   "tag": [
-    "ricerca",
-    "ente-ricerca",
-    "sanita"
-   ],
-   "motivi": [
-    "borsa di studio",
-    "iit",
-    "irccs",
-    "azienda ospedalier"
-   ],
-   "fascia": "alta",
-   "giorni_rimasti": 0,
-   "titolo_verdetto": "ignoto",
-   "titolo_nota": "Il bando sembra chiedere: Biologia. Da verificare nel PDF.",
-   "titolo_classi": [],
-   "titolo_nomi": [
-    "Biologia"
-   ]
-  },
-  {
-   "id": "inpa:3043ee557ec6434c8a3eee9cf826e85b",
-   "media_id": "05ec4c6a-6f48-4d1b-a251-28cc121977dd",
-   "fonte": "InPA",
-   "titolo": "AZIENDA OSPEDALIERA METROPOLITANA (AOM) - Pubblica selezione, per titoli e colloquio, per l’assegnazione di una borsa di studio, della durata di 4 mesi, per collaborare al progetto denominato “Cell-targeted biophotonic nanoparticles for vision restoration in age-related macular degeneration: the new liquid retina concept” (R391A), da svolgersi presso l’IIT Center for Synaptic Neuroscience and Technology (NSYN)",
-   "figura": "Borsa di studio",
-   "ente": "IRCCS Ospedale Policlinico San Martino",
-   "descrizione": "Pubblica selezione, per titoli e colloquio, per l’assegnazione di una borsa di studio, della durata di 4 mesi, per collaborare al progetto denominato “Cell-targeted biophotonic nanoparticles for vision restoration in age-related macular degeneration: the new liquid retina concept” (R391A), da svolgersi presso l’IIT Center for Synaptic Neuroscience and Technology (NSYN)",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3043ee557ec6434c8a3eee9cf826e85b",
-   "pubblicazione": "2026-10-02T10:10:00Z",
-   "scadenza": "2026-10-22T21:59:00Z",
-   "stato": "Aperto",
-   "posti": 1,
-   "procedura": "TITOLI_COLLOQUIO",
-   "sede": "Liguria (provincia da verificare)",
-   "provincia": null,
-   "km": 139,
-   "ambito": "regione",
-   "punteggio": 70,
-   "tag": [
-    "ricerca",
-    "ente-ricerca",
-    "sanita"
-   ],
-   "motivi": [
-    "borsa di studio",
-    "iit",
-    "irccs",
-    "azienda ospedalier"
-   ],
-   "fascia": "alta",
-   "giorni_rimasti": 0,
-   "titolo_verdetto": "ignoto",
-   "titolo_nota": "Il bando sembra chiedere: Biologia. Da verificare nel PDF.",
-   "titolo_classi": [],
-   "titolo_nomi": [
-    "Biologia"
    ]
   },
   {
@@ -710,7 +550,7 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 22,
+   "giorni_rimasti": 21,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Titoli richiesti: Biologia; Biotecnologie Agrarie; Biotecnologie Industriali; Biotecnologie Mediche. Ingegneria biomedica non c'e'.",
    "titolo_classi": [],
@@ -749,45 +589,10 @@
     "ai"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 19,
+   "giorni_rimasti": 18,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
-  },
-  {
-   "id": "inpa:45b72ec21c4f4b73971d07e7e37a8ff7",
-   "media_id": "0cb1855c-05e6-487e-9f2d-0d96d3c1a105",
-   "fonte": "InPA",
-   "titolo": "CREA-AA Centro di Ricerca Agricoltura e Ambiente | Progetti “GENAPIS.IT.5\" e “CHAPIRE”- bando selezione pubblica e assunzione di un RICERCATORE III livello, a tempo determinato e pieno, per 12 (dodici) mesi. Sede di Bologna.",
-   "figura": "RICERCATORE",
-   "ente": "Consiglio per la ricerca in agricoltura e l'analisi dell'economia agraria",
-   "descrizione": "CREA-AA | Progetti “GENAPIS.IT.5\" e “CHAPIRE”- bando selezione pubblica e assunzione di un RICERCATORE III livello, a tempo determinato e pieno, per 12 (dodici) mesi. Sede di Bologna.",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=45b72ec21c4f4b73971d07e7e37a8ff7",
-   "pubblicazione": "2026-10-12T14:35:00Z",
-   "scadenza": "2026-10-22T21:59:00Z",
-   "stato": "Aperto",
-   "posti": 1,
-   "procedura": "TITOLI_COLLOQUIO",
-   "sede": "Bologna",
-   "provincia": "Bologna",
-   "km": 115,
-   "ambito": "provincia",
-   "punteggio": 56,
-   "tag": [
-    "ricerca"
-   ],
-   "motivi": [
-    "ricercator",
-    "iii livello"
-   ],
-   "fascia": "buona",
-   "giorni_rimasti": 0,
-   "titolo_verdetto": "ignoto",
-   "titolo_nota": "Il bando sembra chiedere: Scienze Agrarie e Forestali. Da verificare nel PDF.",
-   "titolo_classi": [],
-   "titolo_nomi": [
-    "Scienze Agrarie e Forestali"
-   ]
   },
   {
    "id": "inpa:fbb588d8ee1c47938ec197b9e21abbb2",
@@ -817,7 +622,7 @@
     "area dei funzionari, settore scientific"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 19,
+   "giorni_rimasti": 18,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
@@ -852,49 +657,11 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 19,
+   "giorni_rimasti": 18,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
    "titolo_nomi": []
-  },
-  {
-   "id": "inpa:58a2161b27814eba8bf1766785ae5c1c",
-   "media_id": "f6aabe5a-54ca-436a-a02b-de05ba2ec4ae",
-   "fonte": "InPA",
-   "titolo": "AZIENDA OSPEDALIERA METROPOLITANA (AOM) - Pubblica selezione, per titoli e colloquio, per l’assegnazione di una borsa di studio, della durata di 12 mesi, per collaborare al progetto di ricerca denominato “L’asse rene cervello nella GSDIb e nella malattia renale cronica: contributi dei modelli preclinici e prospettive terapeutiche” (GA804) da svolgersi presso la S.S.D. Animal Facility.",
-   "figura": "Borsista",
-   "ente": "IRCCS Ospedale Policlinico San Martino",
-   "descrizione": "PUBBLICA SELEZIONE, PER TITOLI E COLLOQUIO, PER L’ASSEGNAZIONE DI UNA BORSA DI STUDIO, DELLA DURATA DI 12 MESI, PER COLLABORARE AL PROGETTO DI RICERCA DENOMINATO “ L’ASSE RENE CERVELLO NELLA GSDIB E NELLA MALATTIA RENALE CRONICA: CONTRIBUTI DEI MODELLI PRECLINICI E PROSPETTIVE TERAPEUTICHE ” (GA804) DA SVOLGERSI PRESSO LA S.S.D. ANIMAL FACILITY.",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=58a2161b27814eba8bf1766785ae5c1c",
-   "pubblicazione": "2026-10-02T12:35:00Z",
-   "scadenza": "2026-10-22T21:59:00Z",
-   "stato": "Aperto",
-   "posti": 1,
-   "procedura": "TITOLI_COLLOQUIO",
-   "sede": "Genova",
-   "provincia": "Genova",
-   "km": 139,
-   "ambito": "provincia",
-   "punteggio": 52,
-   "tag": [
-    "ricerca",
-    "ente-ricerca",
-    "sanita"
-   ],
-   "motivi": [
-    "borsa di studio",
-    "irccs",
-    "azienda ospedalier"
-   ],
-   "fascia": "buona",
-   "giorni_rimasti": 0,
-   "titolo_verdetto": "ignoto",
-   "titolo_nota": "Il bando sembra chiedere: Biologia. Da verificare nel PDF.",
-   "titolo_classi": [],
-   "titolo_nomi": [
-    "Biologia"
-   ]
   },
   {
    "id": "gu:tta20261016attocodiceRedazionale26E05454",
@@ -1024,7 +791,7 @@
     "laurea magistrale"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 12,
+   "giorni_rimasti": 11,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1059,7 +826,7 @@
     "statistic"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 22,
+   "giorni_rimasti": 21,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
@@ -1092,7 +859,7 @@
     "intelligenza artificiale"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 4,
+   "giorni_rimasti": 3,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Scienze chimiche. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -1101,23 +868,23 @@
    ]
   },
   {
-   "id": "inpa:eb91af112bae42feab30f3dfaf6b8b90",
-   "media_id": "9a965037-645f-4358-8dec-19b63727b57e",
+   "id": "inpa:540a72cd32664e649c0f2142f9950b28",
+   "media_id": "f9687f53-49c3-490a-93db-e58ed66ce125",
    "fonte": "InPA",
-   "titolo": "CREA-AA Centro di Ricerca Agricoltura e Ambiente | Progetti \"ALERT VELUTINA\" “GENAPIS.IT.5\" e “VELUPARC”- bando selezione pubblica e assunzione di un TECNOLOGO III livello, a tempo determinato e pieno, per 12 (dodici) mesi. Sede di Bologna.",
-   "figura": "TECNOLOGO",
+   "titolo": "Selezione pubblica per colloquio e titoli",
+   "figura": "Tecnologo III livello",
    "ente": "Consiglio per la ricerca in agricoltura e l'analisi dell'economia agraria",
-   "descrizione": "CREA-AA | Progetti \"ALERT VELUTINA\" “GENAPIS.IT.5\" e “VELUPARC”- bando selezione pubblica e assunzione di un TECNOLOGO III livello, a tempo determinato e pieno, per 12 (dodici) mesi. Sede di Bologna.",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=eb91af112bae42feab30f3dfaf6b8b90",
-   "pubblicazione": "2026-10-12T14:40:00Z",
-   "scadenza": "2026-10-22T21:59:00Z",
+   "descrizione": "SELEZIONE PUBBLICA, PER TITOLI E COLLOQUIO, FINALIZZATA ALL’ASSUNZIONE DI N. 3 UNITA’ DI PERSONALE, DA ASSUMERE CON CONTRATTO DI LAVORO SUBORDINATO A TEMPO DETERMINATO, A TEMPO PIENO, IDONEO ALL'ESERCIZIO DI FUNZIONI ASCRIVIBILI AL PROFILO PROFESSIONALE DI TECNOLOGO III LIVELLO, DA SVOLGERSI PRESSO IL CREA CENTRO DI RICERCA POLITICHE E BIOECONOMIA, SEDI REGIONALI DI RENDE (CS), SAVONA E PALERMO, NELL’AMBITO DEI PROGETTI “PROGRAMMA DI RILEVAZIONE DEI DATI SULLA SOSTENIBILITÀ AGRICOLA SU TUTTO IL TERRITORIO NAZIONALE PER L’ANNO 2026 OB.FU. 1.99.09.33.00 - CUP C53C26001490006 E “RETE DI INFORMAZI",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=540a72cd32664e649c0f2142f9950b28",
+   "pubblicazione": "2026-10-23T09:30:00Z",
+   "scadenza": "2026-11-02T22:59:00Z",
    "stato": "Aperto",
-   "posti": 1,
+   "posti": 3,
    "procedura": "TITOLI_COLLOQUIO",
-   "sede": "Bologna",
-   "provincia": "Bologna",
-   "km": 115,
-   "ambito": "provincia",
+   "sede": "Liguria (provincia da verificare)",
+   "provincia": null,
+   "km": 139,
+   "ambito": "regione",
    "punteggio": 48,
    "tag": [
     "ricerca"
@@ -1127,13 +894,17 @@
     "iii livello"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 0,
-   "titolo_verdetto": "ignoto",
-   "titolo_nota": "Il bando sembra chiedere: Scienze Agrarie e Forestali. Da verificare nel PDF.",
-   "titolo_classi": [],
-   "titolo_nomi": [
-    "Scienze Agrarie e Forestali"
-   ]
+   "giorni_rimasti": 10,
+   "titolo_verdetto": "escluso",
+   "titolo_nota": "Classi ammesse: LM-17, LM-69, LM-70, LM-73, LM-75. LM-21 non e' compresa.",
+   "titolo_classi": [
+    "LM-17",
+    "LM-69",
+    "LM-70",
+    "LM-73",
+    "LM-75"
+   ],
+   "titolo_nomi": []
   },
   {
    "id": "inpa:1df8f6d229604fb98be18bba6d8c98a9",
@@ -1163,9 +934,42 @@
     "sistemi informativ"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 15,
+   "giorni_rimasti": 14,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Non sono riuscito a leggere il PDF del bando.",
+   "titolo_classi": [],
+   "titolo_nomi": []
+  },
+  {
+   "id": "inpa:ca878a33d5e84b4bbd505201f412bfcb",
+   "media_id": "45548d50-aa8f-4a77-b7e1-84791334f5ea",
+   "fonte": "InPA",
+   "titolo": "26-1EP-AAGL-04 Selezione pubblica, per esami, per l’assunzione a tempo indeterminato e pieno di n. 1 unità di personale dell’Area delle Elevate Professionalità – settore professionale amministrativo-gestionale, presso l’Area Affari generali e legali della Scuola Normale Superiore",
+   "figura": "Elevata professionalità",
+   "ente": "Scuola Normale Superiore",
+   "descrizione": "Selezione pubblica, per esami, per l’assunzione a tempo indeterminato e pieno di n. 1 unità di personale dell’Area delle Elevate Professionalità – settore professionale amministrativo-gestionale, presso l’Area Affari generali e legali della Scuola Normale Superiore La domanda deve essere presentata esclusivamente per via telematica attraverso la procedura informatica PICA collegandosi al seguente link https://pica.cineca.it/sns , che sarà disponibile dalle ore 16:00 del giorno 26 ottobre 2026 Termine per la presentazione delle domande: entro le ore 16.00 (ora italiana) del 16 novembre 2026. Pe",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ca878a33d5e84b4bbd505201f412bfcb",
+   "pubblicazione": "2026-10-23T09:00:00Z",
+   "scadenza": "2026-12-16T15:00:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "ESAMI",
+   "sede": "Toscana (provincia da verificare)",
+   "provincia": null,
+   "km": 69,
+   "ambito": "regione",
+   "punteggio": 38,
+   "tag": [
+    "ente-ricerca"
+   ],
+   "motivi": [
+    "scuola normale superiore",
+    "cineca."
+   ],
+   "fascia": "possibile",
+   "giorni_rimasti": 54,
+   "titolo_verdetto": "ignoto",
+   "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
    "titolo_nomi": []
   },
@@ -1197,7 +1001,7 @@
     "irccs"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 14,
+   "giorni_rimasti": 13,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Medicina e Chirurgia. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -1233,7 +1037,7 @@
     "area dei funzionari - settore profession"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 5,
+   "giorni_rimasti": 4,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-13, LM-17, LM-22, LM-53, LM-54, LM-6, LM-7, LM-71. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1278,41 +1082,9 @@
     "cineca."
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 11,
+   "giorni_rimasti": 10,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
-   "titolo_classi": [],
-   "titolo_nomi": []
-  },
-  {
-   "id": "inpa:3df47e90ba6c4ee49a8280ff8d02c7a5",
-   "media_id": "14a7a0c9-3829-4d22-a7cb-7ee122eeae23",
-   "fonte": "InPA",
-   "titolo": "New data processing, imaging and mining pipelines for Galactic science and community building and training in ALMA-WSU era Cod: 2026INAFRIC-IRA-ARC-009",
-   "figura": "Ricercatore III",
-   "ente": "Istituto Nazionale di Astrofisica - INAF",
-   "descrizione": "Concorso pubblico 2026INAFRIC/IRA/ARC/009, per titoli ed esame, per il reclutamento di una unità di personale da inquadrare nel profilo di \"Ricercatore\", Terzo Livello Professionale, prima fascia stipendiale, con contratto di lavoro a tempo determinato e regime di impegno a tempo pieno, della durata di 12 mesi, eventualmente prorogabile, nell’ambito dei progetti Alma Regional Centre Sede di Servizio: IRA Bologna",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3df47e90ba6c4ee49a8280ff8d02c7a5",
-   "pubblicazione": "2026-10-12T16:00:00Z",
-   "scadenza": "2026-10-22T21:00:00Z",
-   "stato": "Aperto",
-   "posti": 1,
-   "procedura": "TITOLI_ESAMI",
-   "sede": "Bologna",
-   "provincia": "Bologna",
-   "km": 115,
-   "ambito": "provincia",
-   "punteggio": 34,
-   "tag": [
-    "ricerca"
-   ],
-   "motivi": [
-    "ricercator"
-   ],
-   "fascia": "possibile",
-   "giorni_rimasti": 0,
-   "titolo_verdetto": "ignoto",
-   "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
    "titolo_nomi": []
   },
@@ -1342,7 +1114,7 @@
     "ricercator"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 13,
+   "giorni_rimasti": 12,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -1376,7 +1148,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 19,
+   "giorni_rimasti": 18,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-6. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1414,7 +1186,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 7,
+   "giorni_rimasti": 6,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1448,83 +1220,13 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 19,
+   "giorni_rimasti": 18,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Titoli richiesti: Tecniche di Radiologia Medica; Professioni Sanitarie Tecniche. Ingegneria biomedica non c'e'.",
    "titolo_classi": [],
    "titolo_nomi": [
     "Tecniche di Radiologia Medica",
     "Professioni Sanitarie Tecniche"
-   ]
-  },
-  {
-   "id": "inpa:10aab6856cd84e99a4a90231dfb19320",
-   "media_id": "9c53c7b8-df3e-47c5-9500-080d18e1e451",
-   "fonte": "InPA",
-   "titolo": "AZIENDA OSPEDALIERA METROPOLITANA (AOM) - Avviso pubblico di procedura comparativa, per titoli e colloquio, per il conferimento di n. 1 incarico libero-professionale in qualità di Auditor della durata di 36 mesi, finalizzato all’Istituzione e Mantenimento dei Requisiti di n. 6 Unità Cliniche di Fase 1 e del Laboratorio di Fase 1, ai sensi della Determina AIFA n. 809/2015",
-   "figura": "Incarico libero professionale",
-   "ente": "IRCCS Ospedale Policlinico San Martino",
-   "descrizione": "Avviso pubblico di procedura comparativa, per titoli e colloquio, per il conferimento di n. 1 incarico libero-professionale in qualità di Auditor della durata di 36 mesi, finalizzato all’Istituzione e Mantenimento dei Requisiti di n. 6 Unità Cliniche di Fase 1 e del Laboratorio di Fase 1, ai sensi della Determina AIFA n. 809/2015",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=10aab6856cd84e99a4a90231dfb19320",
-   "pubblicazione": "2026-10-02T13:25:00Z",
-   "scadenza": "2026-10-22T21:59:00Z",
-   "stato": "Aperto",
-   "posti": 1,
-   "procedura": "TITOLI_COLLOQUIO",
-   "sede": "Liguria (provincia da verificare)",
-   "provincia": null,
-   "km": 139,
-   "ambito": "regione",
-   "punteggio": 32,
-   "tag": [
-    "ente-ricerca",
-    "sanita"
-   ],
-   "motivi": [
-    "irccs",
-    "azienda ospedalier"
-   ],
-   "fascia": "possibile",
-   "giorni_rimasti": 0,
-   "titolo_verdetto": "ignoto",
-   "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
-   "titolo_classi": [],
-   "titolo_nomi": []
-  },
-  {
-   "id": "inpa:d3ff3f8b4f1a4e4bae13d9a0a538507a",
-   "media_id": "42157a2c-a54f-4027-8a92-f72c4b67f5e4",
-   "fonte": "InPA",
-   "titolo": "AZIENDA OSPEDALIERA METROPOLITANA (AOM) - Avviso pubblico di procedura comparativa, per titoli e colloquio, per il conferimento di n. 1 incarico libero-professionale, della durata di 12 mesi, per collaborare al progetto “Implementazione di un modello di ultraselezione clinico-organizzativa per la riduzione delle liste d’attesa nella patologia mammaria benigna e a comportamento incerto mediante chirurgia ambulatoriale dedicata” (GA904) da svolgersi presso l’U.O. Clinica di Chirurgia Senologica.",
-   "figura": "Incarico libero professionale",
-   "ente": "IRCCS Ospedale Policlinico San Martino",
-   "descrizione": "Avviso pubblico di procedura comparativa, per titoli e colloquio, per il conferimento di n. 1 incarico libero-professionale, della durata di 12 mesi, per collaborare al progetto “Implementazione di un modello di ultraselezione clinico-organizzativa per la riduzione delle liste d’attesa nella patologia mammaria benigna e a comportamento incerto mediante chirurgia ambulatoriale dedicata” (GA904) da svolgersi presso l’U.O. Clinica di Chirurgia Senologica.",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=d3ff3f8b4f1a4e4bae13d9a0a538507a",
-   "pubblicazione": "2026-10-02T09:46:00Z",
-   "scadenza": "2026-10-22T21:59:00Z",
-   "stato": "Aperto",
-   "posti": 1,
-   "procedura": "TITOLI_COLLOQUIO",
-   "sede": "Liguria (provincia da verificare)",
-   "provincia": null,
-   "km": 139,
-   "ambito": "regione",
-   "punteggio": 32,
-   "tag": [
-    "ente-ricerca",
-    "sanita"
-   ],
-   "motivi": [
-    "irccs",
-    "azienda ospedalier"
-   ],
-   "fascia": "possibile",
-   "giorni_rimasti": 0,
-   "titolo_verdetto": "ignoto",
-   "titolo_nota": "Il bando sembra chiedere: Medicina e Chirurgia. Da verificare nel PDF.",
-   "titolo_classi": [],
-   "titolo_nomi": [
-    "Medicina e Chirurgia"
    ]
   },
   {
@@ -1553,7 +1255,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 4,
+   "giorni_rimasti": 3,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Nessuna classe richiesta: ammessa qualunque laurea magistrale.",
    "titolo_classi": [
@@ -1588,7 +1290,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 4,
+   "giorni_rimasti": 3,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1620,7 +1322,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 14,
+   "giorni_rimasti": 13,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Nessuna classe richiesta: ammessa qualunque laurea magistrale.",
    "titolo_classi": [
@@ -1660,7 +1362,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 25,
+   "giorni_rimasti": 24,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 56/S, 65/S, 87/S, LM-50, LM-57, LM-85. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1704,7 +1406,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 4,
+   "giorni_rimasti": 3,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
@@ -1735,7 +1437,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 6,
+   "giorni_rimasti": 5,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [
@@ -1777,7 +1479,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 6,
+   "giorni_rimasti": 5,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [
@@ -1792,74 +1494,6 @@
     "L-9"
    ],
    "titolo_nomi": []
-  },
-  {
-   "id": "inpa:9282c171562840c6a31ee65c2efa0dbe",
-   "media_id": "57d16715-fdb9-49bf-a2fc-2662b9879728",
-   "fonte": "InPA",
-   "titolo": "Concorso pubblico, per soli ed esami, per l’assunzione a tempo indeterminato e a tempo pieno, per n. 1 unità di personale da inquadrare nell’Area “Operatori Esperti” del vigente CCNL Funzioni Locali, con profilo Amministrativo, esclusivamente riservata ai soggetti di cui all’art. 1 della L. 12 marzo 1999, n. 68",
-   "figura": "OPERATORE ESPERTO PROFILO AMMINISTRATIVO",
-   "ente": "Comune di Sansepolcro",
-   "descrizione": "Concorso pubblico, per soli ed esami, per l’assunzione a tempo indeterminato e a tempo pieno, per n. 1 unità di personale da inquadrare nell’Area “Operatori Esperti” del vigente CCNL Funzioni Locali, con profilo Amministrativo, esclusivamente riservata ai soggetti di cui all’art. 1 della L. 12 marzo 1999, n. 68",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=9282c171562840c6a31ee65c2efa0dbe",
-   "pubblicazione": "2026-09-22T11:00:00Z",
-   "scadenza": "2026-10-22T11:00:00Z",
-   "stato": "Aperto",
-   "posti": 1,
-   "procedura": "ESAMI",
-   "sede": "Arezzo",
-   "provincia": "Arezzo",
-   "km": 122,
-   "ambito": "provincia",
-   "punteggio": 30,
-   "tag": [
-    "ai-ml"
-   ],
-   "motivi": [
-    "ai"
-   ],
-   "fascia": "possibile",
-   "giorni_rimasti": 0,
-   "titolo_verdetto": "ignoto",
-   "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
-   "titolo_classi": [],
-   "titolo_nomi": []
-  },
-  {
-   "id": "inpa:adf2cef97ea3418e8642ee0c094ddc0d",
-   "media_id": "4bc8bb0d-a43b-4349-8331-193062f4ff53",
-   "fonte": "InPA",
-   "titolo": "Concorso pubblico, per esami, per n. 1 posto per Collaboratore Esperto Linguistico (CEL), madrelingua francese, a tempo determinato (7 mesi), presso l’Università degli Studi di Siena, per le esigenze temporanee ed eccezionali del Centro Linguistico di Ateneo, sede di Arezzo",
-   "figura": "1 Collaboratore Esperto Linguistico (CEL)",
-   "ente": "Universita' degli Studi di Siena",
-   "descrizione": "Concorso pubblico, per esami, per la copertura di n. 1 (un) posto per Collaboratore Esperto Linguistico (CEL), madrelingua francese, con contratto di lavoro a tempo determinato della durata di 7 (sette) mesi, presso l’Università degli Studi di Siena, per le esigenze temporanee ed eccezionali del Centro Linguistico di Ateneo, sede di Arezzo. Requisiti di ammissione: Essere di madrelingua francese. Per i soggetti di madrelingua, si intendono i cittadini italiani stranieri e le cittadine italiane straniere che, per derivazione familiare o vissuto linguistico, abbiano la capacità di esprimersi con",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=adf2cef97ea3418e8642ee0c094ddc0d",
-   "pubblicazione": "2026-10-07T09:00:00Z",
-   "scadenza": "2026-10-22T21:59:00Z",
-   "stato": "Aperto",
-   "posti": 1,
-   "procedura": "ESAMI",
-   "sede": "Arezzo",
-   "provincia": "Arezzo",
-   "km": 122,
-   "ambito": "provincia",
-   "punteggio": 28,
-   "tag": [
-    "ente-ricerca",
-    "requisiti"
-   ],
-   "motivi": [
-    "università degli studi di siena",
-    "laurea magistrale"
-   ],
-   "fascia": "possibile",
-   "giorni_rimasti": 0,
-   "titolo_verdetto": "ignoto",
-   "titolo_nota": "Il bando sembra chiedere: Lingue e Comunicazione interculturale e d. Da verificare nel PDF.",
-   "titolo_classi": [],
-   "titolo_nomi": [
-    "Lingue e Comunicazione interculturale e d"
-   ]
   },
   {
    "id": "inpa:33c882849ddb45608d49cd1849e23358",
@@ -1887,7 +1521,7 @@
     "tecnologo"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 14,
+   "giorni_rimasti": 13,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -1919,7 +1553,7 @@
     "tecnologo"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 11,
+   "giorni_rimasti": 10,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 20/S, 35/S, 45/S. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1955,7 +1589,7 @@
     "modelli predittiv"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 9,
+   "giorni_rimasti": 8,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-7, LM-70, LM-8, LM-9. LM-21 non e' compresa.",
    "titolo_classi": [

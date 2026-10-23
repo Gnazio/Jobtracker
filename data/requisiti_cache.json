@@ -1479,5 +1479,33 @@
   "dottorato_affine": false,
   "caratteri": 156591,
   "letto_il": "2026-10-22"
+ },
+ "f9687f53-49c3-490a-93db-e58ed66ce125": {
+  "classi": [
+   "LM-17",
+   "LM-69",
+   "LM-70",
+   "LM-73",
+   "LM-75"
+  ],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": true,
+  "dottorato_affine": false,
+  "caratteri": 57439,
+  "letto_il": "2026-10-23"
+ },
+ "45548d50-aa8f-4a77-b7e1-84791334f5ea": {
+  "classi": [],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 65641,
+  "letto_il": "2026-10-23"
  }
 }
