@@ -1507,5 +1507,77 @@
   "dottorato_affine": false,
   "caratteri": 65641,
   "letto_il": "2026-10-23"
+ },
+ "e0a952bf-a96e-4ead-9447-a99beb39e2ba": {
+  "classi": [
+   "L-8"
+  ],
+  "nomi": [
+   "Ingegneria dell'informazione"
+  ],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": true,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 41482,
+  "letto_il": "2026-10-27"
+ },
+ "60f99d88-018d-4967-aded-8cb3b15c5619": {
+  "classi": [
+   "L-6"
+  ],
+  "nomi": [
+   "Biologia Applicata e Sperimentale",
+   "Biologia"
+  ],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 41340,
+  "letto_il": "2026-10-27"
+ },
+ "38b592cf-246e-4ef6-a399-43f1014f279f": {
+  "classi": [
+   "LM-6"
+  ],
+  "nomi": [
+   "Biologia"
+  ],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 42953,
+  "letto_il": "2026-10-27"
+ },
+ "3e5d0932-179b-4246-a1f2-2684e35fd1bb": {
+  "classi": [],
+  "nomi": [
+   "Medicina e Chirurgia"
+  ],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 43775,
+  "letto_il": "2026-10-27"
+ },
+ "80edee1f-4c86-438a-abdc-a6a0b3eef06e": {
+  "classi": [],
+  "nomi": [
+   "Medicina e Chirurgia"
+  ],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 43705,
+  "letto_il": "2026-10-27"
  }
 }
