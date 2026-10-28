@@ -1579,5 +1579,20 @@
   "dottorato_affine": false,
   "caratteri": 43705,
   "letto_il": "2026-10-27"
+ },
+ "66e4dcd0-1b3f-4f04-b933-632c4e09a487": {
+  "classi": [
+   "68/S",
+   "L-32",
+   "LM-60"
+  ],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 44163,
+  "letto_il": "2026-10-28"
  }
 }

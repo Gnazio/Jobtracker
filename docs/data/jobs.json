@@ -1,16 +1,16 @@
 {
- "aggiornato": "2026-10-27T10:17:10+00:00",
+ "aggiornato": "2026-10-28T11:04:22+00:00",
  "raggio_km": 150,
  "origine": "Pisa",
  "statistiche": {
-  "grezzi": 405,
+  "grezzi": 417,
   "pubblicati": 41,
-  "scartati_distanza": 49,
-  "scartati_profilo": 315,
+  "scartati_distanza": 52,
+  "scartati_profilo": 324,
   "per_fascia": {
    "alta": 8,
-   "buona": 15,
-   "possibile": 18
+   "buona": 16,
+   "possibile": 17
   },
   "per_titolo": {
    "ignoto": 22,
@@ -22,12 +22,12 @@
  "fonti": [
   {
    "fonte": "InPA",
-   "annunci": 402,
+   "annunci": 411,
    "nota": null
   },
   {
    "fonte": "Gazzetta Ufficiale",
-   "annunci": 0,
+   "annunci": 3,
    "nota": null
   },
   {
@@ -67,7 +67,7 @@
     "statistic"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 24,
+   "giorni_rimasti": 22,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
@@ -102,7 +102,7 @@
     "istituto di fisiologia clinica"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 9,
+   "giorni_rimasti": 8,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Il bando elenca LM-21 fra le classi ammesse.",
    "titolo_classi": [
@@ -152,7 +152,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 2,
+   "giorni_rimasti": 1,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 23/S, 24/S, LM-12, LM-18, LM-43. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -193,7 +193,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 17,
+   "giorni_rimasti": 16,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 20/S, 27/S, 61/S, 62/S, LM-17, LM-22, LM-53, LM-54. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -239,7 +239,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 17,
+   "giorni_rimasti": 16,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 20/S, LM-17. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -277,7 +277,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 3,
+   "giorni_rimasti": 2,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Il bando elenca LM-21 fra le classi ammesse.",
    "titolo_classi": [
@@ -324,7 +324,7 @@
     "ingegneria informatic"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 2,
+   "giorni_rimasti": 1,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Il bando ammette Ingegneria Biomedica.",
    "titolo_classi": [],
@@ -362,7 +362,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 2,
+   "giorni_rimasti": 1,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 21/S, 77/S, 82/S, LM-69, LM-75, LM-80. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -376,6 +376,46 @@
    "titolo_nomi": [
     "Scienze e tecnologie agrarie"
    ]
+  },
+  {
+   "id": "inpa:a2ceeb2c49794604813eb402f5f61a9b",
+   "media_id": "66e4dcd0-1b3f-4f04-b933-632c4e09a487",
+   "fonte": "InPA",
+   "titolo": "Selezione pubblica, per titoli ed esami, per n. 1 Tecnologo di II livello, con contratto di lavoro a tempo determinato e pieno, della durata di 24 mesi, per il Dipartimento di Biologia, nell’ambito del progetto europeo GAP 101113950 - LIFE22-NAT-IT-LIFE TETIDE “Turning Eradication Targets Into Durable Effects” e dell’Accordo di collaborazione tra il Parco Nazionale Arcipelago Toscano e Dipartimento di Biologia per il “Monitoraggio della vegetazione a Capraia, Giannutri, Giglio e Montecristo”",
+   "figura": "Tecnologo",
+   "ente": "Universita' degli Studi di Firenze",
+   "descrizione": "Selezione pubblica, per titoli ed esami, per n. 1 Tecnologo di II livello, ai sensi dell’art.24-bis della Legge 240/2010, con contratto di lavoro a tempo determinato e pieno, della durata di 24 mesi, da assegnare al Dipartimento di Biologia, nell’ambito del progetto europeo GAP 101113950 - LIFE22-NAT-IT-LIFE TETIDE “Turning Eradication Targets Into Durable Effects” e dell’Accordo di collaborazione tra il Parco Nazionale Arcipelago Toscano e Dipartimento di Biologia dell’Università di Firenze per il “Monitoraggio della vegetazione a Capraia, Giannutri, Giglio e Montecristo”",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a2ceeb2c49794604813eb402f5f61a9b",
+   "pubblicazione": "2026-10-28T10:00:00Z",
+   "scadenza": "2026-11-18T22:59:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_ESAMI",
+   "sede": "Firenze",
+   "provincia": "Firenze",
+   "km": 69,
+   "ambito": "provincia",
+   "punteggio": 66,
+   "tag": [
+    "ricerca",
+    "ai-ml",
+    "requisiti"
+   ],
+   "motivi": [
+    "tecnologo",
+    "ai",
+    "laurea magistrale"
+   ],
+   "fascia": "buona",
+   "giorni_rimasti": 21,
+   "titolo_verdetto": "escluso",
+   "titolo_nota": "Classi ammesse: 68/S, LM-60. LM-21 non e' compresa.",
+   "titolo_classi": [
+    "68/S",
+    "L-32",
+    "LM-60"
+   ],
+   "titolo_nomi": []
   },
   {
    "id": "inpa:2c88345df68b43faa81d142ba88508f2",
@@ -407,7 +447,7 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 17,
+   "giorni_rimasti": 16,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Titoli richiesti: Biologia; Biotecnologie Agrarie; Biotecnologie Industriali; Biotecnologie Mediche. Ingegneria biomedica non c'e'.",
    "titolo_classi": [],
@@ -446,7 +486,7 @@
     "ai"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 14,
+   "giorni_rimasti": 13,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
@@ -478,7 +518,7 @@
     "post-doc"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 14,
+   "giorni_rimasti": 13,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
@@ -510,7 +550,7 @@
     "post-doc"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 14,
+   "giorni_rimasti": 13,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
@@ -543,7 +583,7 @@
     "area dei funzionari, settore scientific"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 14,
+   "giorni_rimasti": 13,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
@@ -578,7 +618,7 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 20,
+   "giorni_rimasti": 19,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Il bando ammette Ingegneria biomedica.",
    "titolo_classi": [
@@ -618,7 +658,7 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 20,
+   "giorni_rimasti": 19,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Titoli richiesti: Biologia Applicata e Sperimentale; Biologia. Ingegneria biomedica non c'e'.",
    "titolo_classi": [
@@ -659,7 +699,7 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 14,
+   "giorni_rimasti": 13,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -793,7 +833,7 @@
     "laurea magistrale"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 7,
+   "giorni_rimasti": 6,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -828,7 +868,7 @@
     "statistic"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 17,
+   "giorni_rimasti": 15,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
@@ -860,7 +900,7 @@
     "iii livello"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 6,
+   "giorni_rimasti": 5,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-17, LM-69, LM-70, LM-73, LM-75. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -900,7 +940,7 @@
     "sistemi informativ"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 10,
+   "giorni_rimasti": 8,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Non sono riuscito a leggere il PDF del bando.",
    "titolo_classi": [],
@@ -916,7 +956,7 @@
    "descrizione": "Selezione pubblica, per esami, per l’assunzione a tempo indeterminato e pieno di n. 1 unità di personale dell’Area delle Elevate Professionalità – settore professionale amministrativo-gestionale, presso l’Area Affari generali e legali della Scuola Normale Superiore La domanda deve essere presentata esclusivamente per via telematica attraverso la procedura informatica PICA collegandosi al seguente link https://pica.cineca.it/sns , che sarà disponibile dalle ore 16:00 del giorno 26 ottobre 2026 Termine per la presentazione delle domande: entro le ore 16.00 (ora italiana) del 16 novembre 2026. Pe",
    "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ca878a33d5e84b4bbd505201f412bfcb",
    "pubblicazione": "2026-10-23T09:00:00Z",
-   "scadenza": "2026-12-16T15:00:00Z",
+   "scadenza": "2026-11-16T15:00:00Z",
    "stato": "Aperto",
    "posti": 1,
    "procedura": "ESAMI",
@@ -933,7 +973,7 @@
     "cineca."
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 50,
+   "giorni_rimasti": 19,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -967,59 +1007,13 @@
     "irccs"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 9,
+   "giorni_rimasti": 7,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Medicina e Chirurgia. Da verificare nel PDF.",
    "titolo_classi": [],
    "titolo_nomi": [
     "Medicina e Chirurgia"
    ]
-  },
-  {
-   "id": "inpa:159e00eac2cf47b6901b24746190dbd8",
-   "media_id": "54d3462d-e9d7-4f78-b4cc-ec14a520073d",
-   "fonte": "InPA",
-   "titolo": "UNIVERSITA' DEGLI STUDI DI GENOVA - procedura pubblica per titoli ed esami a n. 1 posto a tempo indeterminato e pieno - Area dei Funzionari - Dipartimento di Chimica e Chimica Industriale – DCCI",
-   "figura": "Area dei Funzionari - Settore professionale scientifico-tecnologico",
-   "ente": "Universita Degli Studi di Genova",
-   "descrizione": "UNIVERSITA' DEGLI STUDI DI GENOVA - D.D.G. n. 3999 del 24 settembre 2026 - procedura selettiva pubblica, per titoli ed esami, per la costituzione di rapporto di lavoro a tempo indeterminato e pieno con n. 1 unità di personale da inquadrare nell’ Area dei Funzionari – Settore professionale scientifico-tecnologico, con profilo di Tecnico laureato con competenze chimiche per attività di supporto alla didattica e alla ricerca nei laboratori del Dipartimento di Chimica e Chimica Industriale – DCCI, di questo Ateneo.",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=159e00eac2cf47b6901b24746190dbd8",
-   "pubblicazione": "2026-09-27T22:00:00Z",
-   "scadenza": "2026-10-27T22:59:00Z",
-   "stato": "Aperto",
-   "posti": 1,
-   "procedura": "TITOLI_ESAMI",
-   "sede": "Genova",
-   "provincia": "Genova",
-   "km": 139,
-   "ambito": "provincia",
-   "punteggio": 36,
-   "tag": [
-    "ente-ricerca",
-    "ict"
-   ],
-   "motivi": [
-    "universita degli studi di genova",
-    "area dei funzionari - settore profession"
-   ],
-   "fascia": "possibile",
-   "giorni_rimasti": 0,
-   "titolo_verdetto": "escluso",
-   "titolo_nota": "Classi ammesse: LM-13, LM-17, LM-22, LM-53, LM-54, LM-6, LM-7, LM-71. LM-21 non e' compresa.",
-   "titolo_classi": [
-    "L-27",
-    "LM-13",
-    "LM-17",
-    "LM-22",
-    "LM-53",
-    "LM-54",
-    "LM-6",
-    "LM-7",
-    "LM-71",
-    "LM-8",
-    "LM-9"
-   ],
-   "titolo_nomi": []
   },
   {
    "id": "inpa:86df9e71afc343b79ad358f87b4afc2e",
@@ -1048,7 +1042,7 @@
     "cineca."
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 6,
+   "giorni_rimasti": 5,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1080,7 +1074,7 @@
     "ricercator"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 8,
+   "giorni_rimasti": 7,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -1114,7 +1108,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 20,
+   "giorni_rimasti": 19,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-6. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1152,7 +1146,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 20,
+   "giorni_rimasti": 19,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Medicina e Chirurgia. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -1188,7 +1182,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 20,
+   "giorni_rimasti": 19,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Medicina e Chirurgia. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -1224,7 +1218,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 14,
+   "giorni_rimasti": 13,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-6. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1262,7 +1256,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 2,
+   "giorni_rimasti": 1,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1296,7 +1290,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 14,
+   "giorni_rimasti": 13,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Titoli richiesti: Tecniche di Radiologia Medica; Professioni Sanitarie Tecniche. Ingegneria biomedica non c'e'.",
    "titolo_classi": [],
@@ -1331,7 +1325,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 9,
+   "giorni_rimasti": 8,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Nessuna classe richiesta: ammessa qualunque laurea magistrale.",
    "titolo_classi": [
@@ -1371,7 +1365,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 20,
+   "giorni_rimasti": 19,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 56/S, 65/S, 87/S, LM-50, LM-57, LM-85. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1415,7 +1409,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 1,
+   "giorni_rimasti": 0,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [
@@ -1457,7 +1451,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 1,
+   "giorni_rimasti": 0,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [
@@ -1499,7 +1493,7 @@
     "tecnologo"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 9,
+   "giorni_rimasti": 8,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -1531,7 +1525,7 @@
     "tecnologo"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 6,
+   "giorni_rimasti": 5,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 20/S, 35/S, 45/S. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1567,7 +1561,7 @@
     "modelli predittiv"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 4,
+   "giorni_rimasti": 3,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-7, LM-70, LM-8, LM-9. LM-21 non e' compresa.",
    "titolo_classi": [
