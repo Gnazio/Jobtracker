@@ -1,19 +1,19 @@
 {
- "aggiornato": "2026-10-28T11:04:22+00:00",
+ "aggiornato": "2026-10-29T11:25:14+00:00",
  "raggio_km": 150,
  "origine": "Pisa",
  "statistiche": {
   "grezzi": 417,
-  "pubblicati": 41,
+  "pubblicati": 39,
   "scartati_distanza": 52,
-  "scartati_profilo": 324,
+  "scartati_profilo": 326,
   "per_fascia": {
    "alta": 8,
    "buona": 16,
-   "possibile": 17
+   "possibile": 15
   },
   "per_titolo": {
-   "ignoto": 22,
+   "ignoto": 20,
    "ammesso": 5,
    "escluso": 14
   }
@@ -22,12 +22,12 @@
  "fonti": [
   {
    "fonte": "InPA",
-   "annunci": 411,
+   "annunci": 414,
    "nota": null
   },
   {
    "fonte": "Gazzetta Ufficiale",
-   "annunci": 3,
+   "annunci": 0,
    "nota": null
   },
   {
@@ -67,7 +67,7 @@
     "statistic"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 22,
+   "giorni_rimasti": 21,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
@@ -102,7 +102,7 @@
     "istituto di fisiologia clinica"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 8,
+   "giorni_rimasti": 7,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Il bando elenca LM-21 fra le classi ammesse.",
    "titolo_classi": [
@@ -152,7 +152,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 1,
+   "giorni_rimasti": 0,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 23/S, 24/S, LM-12, LM-18, LM-43. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -193,7 +193,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 16,
+   "giorni_rimasti": 15,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 20/S, 27/S, 61/S, 62/S, LM-17, LM-22, LM-53, LM-54. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -239,7 +239,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 16,
+   "giorni_rimasti": 15,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 20/S, LM-17. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -277,7 +277,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 2,
+   "giorni_rimasti": 1,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Il bando elenca LM-21 fra le classi ammesse.",
    "titolo_classi": [
@@ -324,7 +324,7 @@
     "ingegneria informatic"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 1,
+   "giorni_rimasti": 0,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Il bando ammette Ingegneria Biomedica.",
    "titolo_classi": [],
@@ -362,7 +362,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 1,
+   "giorni_rimasti": 0,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 21/S, 77/S, 82/S, LM-69, LM-75, LM-80. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -407,7 +407,7 @@
     "laurea magistrale"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 21,
+   "giorni_rimasti": 20,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 68/S, LM-60. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -447,7 +447,7 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 16,
+   "giorni_rimasti": 15,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Titoli richiesti: Biologia; Biotecnologie Agrarie; Biotecnologie Industriali; Biotecnologie Mediche. Ingegneria biomedica non c'e'.",
    "titolo_classi": [],
@@ -486,7 +486,7 @@
     "ai"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 13,
+   "giorni_rimasti": 12,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
@@ -518,7 +518,7 @@
     "post-doc"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 13,
+   "giorni_rimasti": 12,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
@@ -550,7 +550,7 @@
     "post-doc"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 13,
+   "giorni_rimasti": 12,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
@@ -583,7 +583,7 @@
     "area dei funzionari, settore scientific"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 13,
+   "giorni_rimasti": 12,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
@@ -618,7 +618,7 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 19,
+   "giorni_rimasti": 18,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Il bando ammette Ingegneria biomedica.",
    "titolo_classi": [
@@ -658,7 +658,7 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 19,
+   "giorni_rimasti": 18,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Titoli richiesti: Biologia Applicata e Sperimentale; Biologia. Ingegneria biomedica non c'e'.",
    "titolo_classi": [
@@ -699,7 +699,7 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 13,
+   "giorni_rimasti": 12,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -833,7 +833,7 @@
     "laurea magistrale"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 6,
+   "giorni_rimasti": 5,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -868,7 +868,7 @@
     "statistic"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 15,
+   "giorni_rimasti": 14,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
@@ -900,7 +900,7 @@
     "iii livello"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 5,
+   "giorni_rimasti": 4,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-17, LM-69, LM-70, LM-73, LM-75. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -940,7 +940,7 @@
     "sistemi informativ"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 8,
+   "giorni_rimasti": 7,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Non sono riuscito a leggere il PDF del bando.",
    "titolo_classi": [],
@@ -973,7 +973,7 @@
     "cineca."
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 19,
+   "giorni_rimasti": 18,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1007,7 +1007,7 @@
     "irccs"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 7,
+   "giorni_rimasti": 6,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Medicina e Chirurgia. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -1042,7 +1042,7 @@
     "cineca."
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 5,
+   "giorni_rimasti": 4,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1074,7 +1074,7 @@
     "ricercator"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 7,
+   "giorni_rimasti": 6,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -1108,7 +1108,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 19,
+   "giorni_rimasti": 18,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-6. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1146,7 +1146,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 19,
+   "giorni_rimasti": 18,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Medicina e Chirurgia. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -1182,7 +1182,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 19,
+   "giorni_rimasti": 18,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Medicina e Chirurgia. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -1218,7 +1218,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 13,
+   "giorni_rimasti": 12,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-6. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1256,7 +1256,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 1,
+   "giorni_rimasti": 0,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1290,7 +1290,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 13,
+   "giorni_rimasti": 12,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Titoli richiesti: Tecniche di Radiologia Medica; Professioni Sanitarie Tecniche. Ingegneria biomedica non c'e'.",
    "titolo_classi": [],
@@ -1325,7 +1325,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 8,
+   "giorni_rimasti": 7,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Nessuna classe richiesta: ammessa qualunque laurea magistrale.",
    "titolo_classi": [
@@ -1365,7 +1365,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 19,
+   "giorni_rimasti": 18,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 56/S, 65/S, 87/S, LM-50, LM-57, LM-85. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1382,90 +1382,6 @@
    "titolo_nomi": [
     "Educazione Professionale"
    ]
-  },
-  {
-   "id": "inpa:36a81f753c134ecdb37327146e33bc26",
-   "media_id": "2bfa1da7-5cb3-477f-974d-f9a3a1d36e35",
-   "fonte": "InPA",
-   "titolo": "ARPAE - Selezione pubblica, per esami, per assunzione a tempo indeterminato di COLLABORATORE AMMINISTRATIVO PROFESSIONALE da assegnare Area Demanio Idrico o Servizi Autorizzazioni ambientali e Energia",
-   "figura": "collaboratore amministrativo professionale",
-   "ente": "Agenzia Regionale per la Prevenzione, l'Ambiente e l'Energia dell'Emilia Romagna",
-   "descrizione": "La presente pagina è riferita alla sola procedura per l’ assunzione a tempo indeterminato di n. 1 posto per il profilo di COLLABORATORE AMMINISTRATIVO PROFESSIONALE dell’area dei professionisti della salute e dei funzionari - CCNL comparto Sanità - da assegnare all’Area Demanio Idrico o ai Servizi Autorizzazioni ambientali e Energia di Bologna e Ferrara . Il candidato è tenuto a indicare nella sezione \"Titoli di studio\" la tipologia di laurea posseduta, avendo a riferimento il titolo di studio previsto dal bando di selezione richiesto quale requisito di ammissione per il profilo di COLLABORATO",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=36a81f753c134ecdb37327146e33bc26",
-   "pubblicazione": "2026-10-02T07:30:00Z",
-   "scadenza": "2026-10-28T22:59:00Z",
-   "stato": "Aperto",
-   "posti": 1,
-   "procedura": "ESAMI",
-   "sede": "Emilia Romagna (provincia da verificare)",
-   "provincia": null,
-   "km": 115,
-   "ambito": "regione",
-   "punteggio": 30,
-   "tag": [
-    "ai-ml"
-   ],
-   "motivi": [
-    "ai"
-   ],
-   "fascia": "possibile",
-   "giorni_rimasti": 0,
-   "titolo_verdetto": "ignoto",
-   "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
-   "titolo_classi": [
-    "L-14",
-    "L-25",
-    "L-32",
-    "L-33",
-    "L-34",
-    "L-36",
-    "L-7",
-    "L-8",
-    "L-9"
-   ],
-   "titolo_nomi": []
-  },
-  {
-   "id": "inpa:557cf27f0cbd4442ac51ee839b289117",
-   "media_id": "81aa3496-0d95-4185-8c66-38b08e6662e3",
-   "fonte": "InPA",
-   "titolo": "ARPAE - Selezione pubblica, per esami, per assunzione a tempo indeterminato di COLLABORATORE TECNICO PROFESSIONALE da assegnare all’Area Demanio Idrico e ai Servizi Autorizzazioni ambientali e Energia",
-   "figura": "collaboratore tecnico professionale",
-   "ente": "Agenzia Regionale per la Prevenzione, l'Ambiente e l'Energia dell'Emilia Romagna",
-   "descrizione": "La presente pagina è riferita alla sola procedura per l’ assunzione a tempo indeterminato di n. 3 posti per il profilo di COLLABORATORE TECNICO PROFESSIONALE dell’area dei professionisti della salute e dei funzionari - CCNL comparto Sanità - da assegnare all’Area Demanio Idrico e ai Servizi Autorizzazioni ambientali e Energia di Bologna e Ferrara . Il candidato è tenuto a indicare nella sezione \"Titoli di studio\" la tipologia di laurea posseduta, avendo a riferimento il titolo di studio previsto dal bando di selezione richiesto quale requisito di ammissione per il profilo di COLLABORATORE TECN",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=557cf27f0cbd4442ac51ee839b289117",
-   "pubblicazione": "2026-10-02T07:30:00Z",
-   "scadenza": "2026-10-28T22:59:00Z",
-   "stato": "Aperto",
-   "posti": 3,
-   "procedura": "ESAMI",
-   "sede": "Emilia Romagna (provincia da verificare)",
-   "provincia": null,
-   "km": 115,
-   "ambito": "regione",
-   "punteggio": 30,
-   "tag": [
-    "ai-ml"
-   ],
-   "motivi": [
-    "ai"
-   ],
-   "fascia": "possibile",
-   "giorni_rimasti": 0,
-   "titolo_verdetto": "ignoto",
-   "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
-   "titolo_classi": [
-    "L-14",
-    "L-25",
-    "L-32",
-    "L-33",
-    "L-34",
-    "L-36",
-    "L-7",
-    "L-8",
-    "L-9"
-   ],
-   "titolo_nomi": []
   },
   {
    "id": "inpa:33c882849ddb45608d49cd1849e23358",
@@ -1493,7 +1409,7 @@
     "tecnologo"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 8,
+   "giorni_rimasti": 7,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -1525,7 +1441,7 @@
     "tecnologo"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 5,
+   "giorni_rimasti": 4,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 20/S, 35/S, 45/S. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1561,7 +1477,7 @@
     "modelli predittiv"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 3,
+   "giorni_rimasti": 2,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-7, LM-70, LM-8, LM-9. LM-21 non e' compresa.",
    "titolo_classi": [
