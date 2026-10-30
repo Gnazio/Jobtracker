@@ -1594,5 +1594,47 @@
   "dottorato_affine": false,
   "caratteri": 44163,
   "letto_il": "2026-10-28"
+ },
+ "0532a0a7-6a39-451b-97ce-528054a34093": {
+  "classi": [],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": true,
+  "dottorato_affine": false,
+  "caratteri": 43224,
+  "letto_il": "2026-10-30"
+ },
+ "63c66393-de0b-449b-b038-953bab1cb82c": {
+  "classi": [
+   "LM-23",
+   "LM-24",
+   "LM-26",
+   "LM-28",
+   "LM-33",
+   "LM-4"
+  ],
+  "nomi": [
+   "Architettura e Ingegneria edile"
+  ],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": true,
+  "dottorato_affine": false,
+  "caratteri": 30033,
+  "letto_il": "2026-10-30"
+ },
+ "72dcaca3-8a77-404d-9f5c-f0754baae6a3": {
+  "classi": [],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 9623,
+  "letto_il": "2026-10-30"
  }
 }
