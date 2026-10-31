@@ -1,12 +1,12 @@
 {
- "aggiornato": "2026-10-30T11:15:16+00:00",
+ "aggiornato": "2026-10-31T10:47:36+00:00",
  "raggio_km": 150,
  "origine": "Pisa",
  "statistiche": {
-  "grezzi": 422,
+  "grezzi": 416,
   "pubblicati": 38,
-  "scartati_distanza": 51,
-  "scartati_profilo": 333,
+  "scartati_distanza": 53,
+  "scartati_profilo": 325,
   "per_fascia": {
    "alta": 5,
    "buona": 18,
@@ -14,20 +14,20 @@
   },
   "per_titolo": {
    "ignoto": 21,
-   "ammesso": 4,
-   "escluso": 13
+   "ammesso": 3,
+   "escluso": 14
   }
  },
  "errori_fonti": [],
  "fonti": [
   {
    "fonte": "InPA",
-   "annunci": 416,
+   "annunci": 413,
    "nota": null
   },
   {
    "fonte": "Gazzetta Ufficiale",
-   "annunci": 3,
+   "annunci": 0,
    "nota": null
   },
   {
@@ -102,7 +102,7 @@
     "istituto di fisiologia clinica"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 6,
+   "giorni_rimasti": 5,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Il bando elenca LM-21 fra le classi ammesse.",
    "titolo_classi": [
@@ -120,6 +120,46 @@
     "LM-32",
     "LM-40",
     "LM-82"
+   ],
+   "titolo_nomi": []
+  },
+  {
+   "id": "inpa:e66bec474dcb4f9a996782b58b5d0999",
+   "media_id": "47434392-b426-43ea-855d-fc8f40ba2288",
+   "fonte": "InPA",
+   "titolo": "BANDO CNR N. 331.4 RIC ICCOM",
+   "figura": "Ricercatore III livello professionale",
+   "ente": "Consiglio Nazionale delle Ricerche - CNR",
+   "descrizione": "BANDO CNR N. 331.4 RIC ICCOM - Selezione per titoli e colloquio ai sensi dell'art. 8 del \"Disciplinare concernente le assunzioni di personale con contratto di lavoro a tempo determinato\", per l'assunzione, ai sensi dell'art. 141 del CCNL del Comparto “Istruzione e Ricerca” 2019-2021, sottoscritto in data 18 gennaio 2024, di una unità di personale con profilo professionale di Ricercatore III livello, presso l'Istituto di Chimica dei Composti Organometallici (ICCOM), sede di Sesto Fiorentino (FI).",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e66bec474dcb4f9a996782b58b5d0999",
+   "pubblicazione": "2026-10-31T09:00:00Z",
+   "scadenza": "2026-11-20T17:00:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_COLLOQUIO",
+   "sede": "Firenze",
+   "provincia": "Firenze",
+   "km": 69,
+   "ambito": "provincia",
+   "punteggio": 78,
+   "tag": [
+    "ricerca",
+    "ente-ricerca"
+   ],
+   "motivi": [
+    "ricercator",
+    "iii livello",
+    "cnr"
+   ],
+   "fascia": "alta",
+   "giorni_rimasti": 20,
+   "titolo_verdetto": "escluso",
+   "titolo_nota": "Classi ammesse: 14/S, 62/S, LM-13, LM-54. LM-21 non e' compresa.",
+   "titolo_classi": [
+    "14/S",
+    "62/S",
+    "LM-13",
+    "LM-54"
    ],
    "titolo_nomi": []
   },
@@ -152,7 +192,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 14,
+   "giorni_rimasti": 13,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 20/S, 27/S, 61/S, 62/S, LM-17, LM-22, LM-53, LM-54. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -198,56 +238,12 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 14,
+   "giorni_rimasti": 13,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 20/S, LM-17. LM-21 non e' compresa.",
    "titolo_classi": [
     "20/S",
     "LM-17"
-   ],
-   "titolo_nomi": []
-  },
-  {
-   "id": "inpa:6e27d0cd057546ea89292865bea288b6",
-   "media_id": "85c1e99c-8396-43ee-ab08-a1445ddba119",
-   "fonte": "InPA",
-   "titolo": "BANDO CNR N. 331.7 RIC INM",
-   "figura": "Ricercatore III livello professionale",
-   "ente": "Consiglio Nazionale delle Ricerche - CNR",
-   "descrizione": "BANDO CNR N. 331.7 RIC INM - Selezione per titoli e colloquio ai sensi dell'art. 8 del \"Disciplinare concernente le assunzioni di personale con contratto di lavoro a tempo determinato\", per l'assunzione, ai sensi dell'art. 141 del CCNL del Comparto “Istruzione e Ricerca” 2019-2021, sottoscritto in data 18 gennaio 2024, di una unità di personale con profilo professionale di Ricercatore III livello, presso l’Istituto di Ingegneria del Mare (INM) sede secondaria di Genova.",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=6e27d0cd057546ea89292865bea288b6",
-   "pubblicazione": "2026-09-30T16:00:00Z",
-   "scadenza": "2026-10-30T17:00:00Z",
-   "stato": "Aperto",
-   "posti": 1,
-   "procedura": "TITOLI_COLLOQUIO",
-   "sede": "Genova",
-   "provincia": "Genova",
-   "km": 139,
-   "ambito": "provincia",
-   "punteggio": 78,
-   "tag": [
-    "ricerca",
-    "ente-ricerca"
-   ],
-   "motivi": [
-    "ricercator",
-    "iii livello",
-    "cnr"
-   ],
-   "fascia": "alta",
-   "giorni_rimasti": 0,
-   "titolo_verdetto": "ammesso",
-   "titolo_nota": "Il bando elenca LM-21 fra le classi ammesse.",
-   "titolo_classi": [
-    "20/S",
-    "26/S",
-    "29/S",
-    "35/S",
-    "LM-17",
-    "LM-21",
-    "LM-25",
-    "LM-32"
    ],
    "titolo_nomi": []
   },
@@ -281,7 +277,7 @@
     "laurea magistrale"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 19,
+   "giorni_rimasti": 18,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 68/S, LM-60. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -321,7 +317,7 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 14,
+   "giorni_rimasti": 13,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Titoli richiesti: Biologia; Biotecnologie Agrarie; Biotecnologie Industriali; Biotecnologie Mediche. Ingegneria biomedica non c'e'.",
    "titolo_classi": [],
@@ -360,7 +356,7 @@
     "ai"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 11,
+   "giorni_rimasti": 10,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
@@ -392,7 +388,7 @@
     "post-doc"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 11,
+   "giorni_rimasti": 10,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
@@ -424,7 +420,7 @@
     "post-doc"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 11,
+   "giorni_rimasti": 10,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
@@ -457,7 +453,7 @@
     "ai"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 20,
+   "giorni_rimasti": 19,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -491,7 +487,7 @@
     "area dei funzionari, settore scientific"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 11,
+   "giorni_rimasti": 10,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
@@ -526,7 +522,7 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 17,
+   "giorni_rimasti": 16,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Il bando ammette Ingegneria biomedica.",
    "titolo_classi": [
@@ -566,7 +562,7 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 17,
+   "giorni_rimasti": 16,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Titoli richiesti: Biologia Applicata e Sperimentale; Biologia. Ingegneria biomedica non c'e'.",
    "titolo_classi": [
@@ -607,7 +603,7 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 11,
+   "giorni_rimasti": 10,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -741,7 +737,7 @@
     "laurea magistrale"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 4,
+   "giorni_rimasti": 3,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -808,7 +804,7 @@
     "iii livello"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 3,
+   "giorni_rimasti": 2,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-17, LM-69, LM-70, LM-73, LM-75. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -847,7 +843,7 @@
     "iii livello"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 29,
+   "giorni_rimasti": 28,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-23, LM-24, LM-26, LM-28, LM-33, LM-4. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -923,7 +919,7 @@
     "cineca."
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 17,
+   "giorni_rimasti": 16,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -992,7 +988,7 @@
     "cineca."
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 3,
+   "giorni_rimasti": 2,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1024,7 +1020,7 @@
     "ricercator"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 5,
+   "giorni_rimasti": 4,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -1058,7 +1054,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 31,
+   "giorni_rimasti": 30,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1092,7 +1088,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 17,
+   "giorni_rimasti": 16,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-6. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1130,7 +1126,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 17,
+   "giorni_rimasti": 16,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Medicina e Chirurgia. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -1166,7 +1162,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 17,
+   "giorni_rimasti": 16,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Medicina e Chirurgia. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -1202,7 +1198,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 11,
+   "giorni_rimasti": 10,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-6. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1240,7 +1236,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 11,
+   "giorni_rimasti": 10,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Titoli richiesti: Tecniche di Radiologia Medica; Professioni Sanitarie Tecniche. Ingegneria biomedica non c'e'.",
    "titolo_classi": [],
@@ -1275,7 +1271,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 6,
+   "giorni_rimasti": 5,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Nessuna classe richiesta: ammessa qualunque laurea magistrale.",
    "titolo_classi": [
@@ -1315,7 +1311,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 17,
+   "giorni_rimasti": 16,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 56/S, 65/S, 87/S, LM-50, LM-57, LM-85. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1359,7 +1355,7 @@
     "tecnologo"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 6,
+   "giorni_rimasti": 5,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -1391,7 +1387,7 @@
     "tecnologo"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 3,
+   "giorni_rimasti": 2,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 20/S, 35/S, 45/S. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1427,7 +1423,7 @@
     "modelli predittiv"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 1,
+   "giorni_rimasti": 0,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-7, LM-70, LM-8, LM-9. LM-21 non e' compresa.",
    "titolo_classi": [
