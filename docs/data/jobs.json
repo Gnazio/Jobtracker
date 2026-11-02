@@ -1,28 +1,28 @@
 {
- "aggiornato": "2026-11-01T11:44:58+00:00",
+ "aggiornato": "2026-11-02T13:12:53+00:00",
  "raggio_km": 150,
  "origine": "Pisa",
  "statistiche": {
-  "grezzi": 406,
-  "pubblicati": 37,
-  "scartati_distanza": 53,
-  "scartati_profilo": 316,
+  "grezzi": 412,
+  "pubblicati": 42,
+  "scartati_distanza": 55,
+  "scartati_profilo": 315,
   "per_fascia": {
    "alta": 5,
-   "buona": 18,
-   "possibile": 14
+   "buona": 24,
+   "possibile": 13
   },
   "per_titolo": {
-   "ignoto": 21,
+   "ignoto": 23,
    "ammesso": 3,
-   "escluso": 13
+   "escluso": 16
   }
  },
  "errori_fonti": [],
  "fonti": [
   {
    "fonte": "InPA",
-   "annunci": 403,
+   "annunci": 409,
    "nota": null
   },
   {
@@ -67,7 +67,7 @@
     "statistic"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 18,
+   "giorni_rimasti": 17,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
@@ -102,7 +102,7 @@
     "istituto di fisiologia clinica"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 4,
+   "giorni_rimasti": 3,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Il bando elenca LM-21 fra le classi ammesse.",
    "titolo_classi": [
@@ -152,7 +152,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 19,
+   "giorni_rimasti": 18,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 14/S, 62/S, LM-13, LM-54. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -192,7 +192,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 12,
+   "giorni_rimasti": 11,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 20/S, 27/S, 61/S, 62/S, LM-17, LM-22, LM-53, LM-54. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -238,7 +238,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 12,
+   "giorni_rimasti": 11,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 20/S, LM-17. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -277,7 +277,7 @@
     "laurea magistrale"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 17,
+   "giorni_rimasti": 16,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 68/S, LM-60. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -317,7 +317,7 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 12,
+   "giorni_rimasti": 11,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Titoli richiesti: Biologia; Biotecnologie Agrarie; Biotecnologie Industriali; Biotecnologie Mediche. Ingegneria biomedica non c'e'.",
    "titolo_classi": [],
@@ -356,7 +356,7 @@
     "ai"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 9,
+   "giorni_rimasti": 8,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
@@ -388,7 +388,7 @@
     "post-doc"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 9,
+   "giorni_rimasti": 8,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
@@ -420,10 +420,80 @@
     "post-doc"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 9,
+   "giorni_rimasti": 8,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
+  },
+  {
+   "id": "inpa:649b4056f0dc40e3bb13a2007be14df6",
+   "media_id": "b9f7162f-9f54-4ff0-bf14-5d6a27de4472",
+   "fonte": "InPA",
+   "titolo": "Procedura selettiva, per titoli e colloquio, per la trasformazione di contratti o assegni di ricerca in rapporto di lavoro a tempo indeterminato, di n. 2 unità di personale per il profilo di Tecnologo III° livello professionale dell’Istituto Superiore di Sanità. Codice procedura: TI TEC ART12BIS 2026 01",
+   "figura": "Tecnologo III liv.",
+   "ente": "Istituto Superiore di Sanita' - ISS",
+   "descrizione": "TITECART12BIS202601",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=649b4056f0dc40e3bb13a2007be14df6",
+   "pubblicazione": "2026-11-01T23:00:00Z",
+   "scadenza": "2026-12-01T22:59:00Z",
+   "stato": "Aperto",
+   "posti": 2,
+   "procedura": "TITOLI_COLLOQUIO",
+   "sede": "Nazionale",
+   "provincia": null,
+   "km": null,
+   "ambito": "nazionale",
+   "punteggio": 60,
+   "tag": [
+    "ricerca"
+   ],
+   "motivi": [
+    "assegni di ricerca",
+    "tecnologo"
+   ],
+   "fascia": "buona",
+   "giorni_rimasti": 29,
+   "titolo_verdetto": "ignoto",
+   "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
+   "titolo_classi": [],
+   "titolo_nomi": []
+  },
+  {
+   "id": "inpa:3aa75b95a45f401e877de6f9c45e688d",
+   "media_id": "098e1484-9d4e-4c50-9e2a-7c321e60b6f9",
+   "fonte": "InPA",
+   "titolo": "pubblico concorso, per titoli ed esame, per l’assunzione, a tempo indeterminato, di n. 1 unità di personale con il profilo di Primo Ricercatore in prova – II livello professionale dell’Istituto Superiore di Sanità presso il Centro Nazionale per la Ricerca e la Valutazione Preclinica e Clinica dei Farmaci – codice concorso: TI PR FARVA 2026 01.",
+   "figura": "Primo Ricercatore",
+   "ente": "Istituto Superiore di Sanita' - ISS",
+   "descrizione": "TIPRFARVA202601",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3aa75b95a45f401e877de6f9c45e688d",
+   "pubblicazione": "2026-11-01T23:00:00Z",
+   "scadenza": "2026-12-01T22:59:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_COLLOQUIO",
+   "sede": "Nazionale",
+   "provincia": null,
+   "km": null,
+   "ambito": "nazionale",
+   "punteggio": 56,
+   "tag": [
+    "ricerca"
+   ],
+   "motivi": [
+    "ricercator",
+    "primo ricercator"
+   ],
+   "fascia": "buona",
+   "giorni_rimasti": 29,
+   "titolo_verdetto": "escluso",
+   "titolo_nota": "Classi ammesse: LM-41. LM-21 non e' compresa.",
+   "titolo_classi": [
+    "LM-41"
+   ],
+   "titolo_nomi": [
+    "Medicina e Chirurgia"
+   ]
   },
   {
    "id": "inpa:8d5e0ecd54a14ab98839397ed3c53cbd",
@@ -453,7 +523,7 @@
     "ai"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 18,
+   "giorni_rimasti": 17,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -487,7 +557,7 @@
     "area dei funzionari, settore scientific"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 9,
+   "giorni_rimasti": 8,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
@@ -522,7 +592,7 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 15,
+   "giorni_rimasti": 14,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Il bando ammette Ingegneria biomedica.",
    "titolo_classi": [
@@ -562,7 +632,7 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 15,
+   "giorni_rimasti": 14,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Titoli richiesti: Biologia Applicata e Sperimentale; Biologia. Ingegneria biomedica non c'e'.",
    "titolo_classi": [
@@ -603,7 +673,40 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 9,
+   "giorni_rimasti": 8,
+   "titolo_verdetto": "ignoto",
+   "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
+   "titolo_classi": [],
+   "titolo_nomi": []
+  },
+  {
+   "id": "inpa:696a07a70f0049b7932107933321373d",
+   "media_id": "a4a4b959-4977-4b2b-8f3d-0c2e64fd5d1c",
+   "fonte": "InPA",
+   "titolo": "Procedura selettiva, per titoli e colloquio, per la trasformazione di contratti o assegni di ricerca in rapporto di lavoro a tempo indeterminato, di n. 2 unità di personale per il profilo di Collaboratore tecnico enti di ricerca – VI° livello professionale dell’Istituto Superiore di Sanità. Codice procedura: TI CTER ART12BIS 2026 01",
+   "figura": "Collaboratore Tecnico enti di ricerca",
+   "ente": "Istituto Superiore di Sanita' - ISS",
+   "descrizione": "TICTERART2BIS202601",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=696a07a70f0049b7932107933321373d",
+   "pubblicazione": "2026-11-01T23:00:00Z",
+   "scadenza": "2026-12-01T22:59:00Z",
+   "stato": "Aperto",
+   "posti": 2,
+   "procedura": "TITOLI_COLLOQUIO",
+   "sede": "Nazionale",
+   "provincia": null,
+   "km": null,
+   "ambito": "nazionale",
+   "punteggio": 52,
+   "tag": [
+    "ricerca"
+   ],
+   "motivi": [
+    "assegni di ricerca",
+    "collaboratore tecnico enti di ricerca"
+   ],
+   "fascia": "buona",
+   "giorni_rimasti": 29,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -737,7 +840,7 @@
     "laurea magistrale"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 2,
+   "giorni_rimasti": 1,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -772,7 +875,7 @@
     "statistic"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 11,
+   "giorni_rimasti": 10,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
@@ -804,7 +907,7 @@
     "iii livello"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 1,
+   "giorni_rimasti": 0,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-17, LM-69, LM-70, LM-73, LM-75. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -815,6 +918,80 @@
     "LM-75"
    ],
    "titolo_nomi": []
+  },
+  {
+   "id": "inpa:91c62cff2c924787a1d275d305ca0039",
+   "media_id": "2bc291ac-8f68-4bee-945f-d42302f3f6cd",
+   "fonte": "InPA",
+   "titolo": "Pubblico concorso, per titoli ed esami, per l'assunzione, a tempo indeterminato, di n. 2 unità di personale con il profilo di Tecnologo in prova - III livello professionale dell'Istituto Superiore di Sanità presso l'Organismo notificato",
+   "figura": "Tecnologo",
+   "ente": "Istituto Superiore di Sanita' - ISS",
+   "descrizione": "TI TEC ON 2026 01",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=91c62cff2c924787a1d275d305ca0039",
+   "pubblicazione": "2026-11-01T23:00:00Z",
+   "scadenza": "2026-12-01T22:59:00Z",
+   "stato": "Aperto",
+   "posti": 2,
+   "procedura": "TITOLI_ESAMI",
+   "sede": "Nazionale",
+   "provincia": null,
+   "km": null,
+   "ambito": "nazionale",
+   "punteggio": 48,
+   "tag": [
+    "ricerca"
+   ],
+   "motivi": [
+    "tecnologo",
+    "iii livello"
+   ],
+   "fascia": "buona",
+   "giorni_rimasti": 29,
+   "titolo_verdetto": "ignoto",
+   "titolo_nota": "Il bando sembra chiedere: Biologia. Da verificare nel PDF.",
+   "titolo_classi": [],
+   "titolo_nomi": [
+    "Biologia"
+   ]
+  },
+  {
+   "id": "inpa:7d4d4c8075244fe580c6dfd5d4c278e8",
+   "media_id": "0fe32b99-7098-4bd6-8a8a-9d179bc66960",
+   "fonte": "InPA",
+   "titolo": "Pubblico concorso, per titoli ed esami, per l’assunzione, a tempo indeterminato, di n. 1 unità di personale con il profilo di Tecnologo in prova – III livello professionale dell’Istituto Superiore di Sanità presso il Servizio tecnico scientifico biologico – codice concorso: TI TEC BIOL 2026 01.",
+   "figura": "Tecnologo",
+   "ente": "Istituto Superiore di Sanita' - ISS",
+   "descrizione": "TI TEC BIOL 2026 01",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=7d4d4c8075244fe580c6dfd5d4c278e8",
+   "pubblicazione": "2026-11-01T23:00:00Z",
+   "scadenza": "2026-12-01T22:59:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_ESAMI",
+   "sede": "Nazionale",
+   "provincia": null,
+   "km": null,
+   "ambito": "nazionale",
+   "punteggio": 48,
+   "tag": [
+    "ricerca"
+   ],
+   "motivi": [
+    "tecnologo",
+    "iii livello"
+   ],
+   "fascia": "buona",
+   "giorni_rimasti": 29,
+   "titolo_verdetto": "escluso",
+   "titolo_nota": "Classi ammesse: LM-6, LM-8, LM-9. LM-21 non e' compresa.",
+   "titolo_classi": [
+    "LM-6",
+    "LM-8",
+    "LM-9"
+   ],
+   "titolo_nomi": [
+    "Biologia"
+   ]
   },
   {
    "id": "inpa:b66f2848811043bbbae21203694c41f7",
@@ -843,7 +1020,7 @@
     "iii livello"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 27,
+   "giorni_rimasti": 26,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-23, LM-24, LM-26, LM-28, LM-33, LM-4. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -857,6 +1034,45 @@
    "titolo_nomi": [
     "Architettura e Ingegneria edile"
    ]
+  },
+  {
+   "id": "inpa:2d00c31f860e47928a91c04a9f16af78",
+   "media_id": "ca385332-43e8-42d1-8512-80b8193a2677",
+   "fonte": "InPA",
+   "titolo": "BANDO PER IL RECLUTAMENTO DI N. 20, ELEVABILI A 40, TIROCINANTI CON ORIENTAMENTO ECONOMICO-FINANZIARIO-STATISTICO",
+   "figura": "Tirocinio extracurriculare con orientamento economico-finanziario-statistico",
+   "ente": "Corte dei Conti",
+   "descrizione": "BANDO PER IL RECLUTAMENTO DI N. 20 TIROCINANTI, ELEVABILI A 40, CON ORIENTAMENTO ECONOMICO-FINANZIARIO-STATISTICO, AI FINI DELLO SVOLGIMENTO DI UN PERIODO DI FORMAZIONE TEORICO-PRATICA (TIROCINIO EXTRACURRICULARE) PRESSO GLI UFFICI E LE SEZIONI DI CONTROLLO CENTRALI E TERRITORIALI DELLA CORTE DEI CONTI.",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2d00c31f860e47928a91c04a9f16af78",
+   "pubblicazione": "2026-11-02T08:00:00Z",
+   "scadenza": "2026-12-02T15:30:00Z",
+   "stato": "Aperto",
+   "posti": 20,
+   "procedura": "TITOLI",
+   "sede": "Liguria (provincia da verificare)",
+   "provincia": null,
+   "km": 139,
+   "ambito": "regione",
+   "punteggio": 46,
+   "tag": [
+    "ai-ml"
+   ],
+   "motivi": [
+    "ai",
+    "statistic"
+   ],
+   "fascia": "buona",
+   "giorni_rimasti": 30,
+   "titolo_verdetto": "escluso",
+   "titolo_nota": "Classi ammesse: LM-16, LM-56, LM-77, LM-82, LM-83. LM-21 non e' compresa.",
+   "titolo_classi": [
+    "LM-16",
+    "LM-56",
+    "LM-77",
+    "LM-82",
+    "LM-83"
+   ],
+   "titolo_nomi": []
   },
   {
    "id": "inpa:1df8f6d229604fb98be18bba6d8c98a9",
@@ -886,7 +1102,7 @@
     "sistemi informativ"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 4,
+   "giorni_rimasti": 3,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Non sono riuscito a leggere il PDF del bando.",
    "titolo_classi": [],
@@ -919,7 +1135,7 @@
     "cineca."
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 15,
+   "giorni_rimasti": 14,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -953,46 +1169,13 @@
     "irccs"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 3,
+   "giorni_rimasti": 2,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Medicina e Chirurgia. Da verificare nel PDF.",
    "titolo_classi": [],
    "titolo_nomi": [
     "Medicina e Chirurgia"
    ]
-  },
-  {
-   "id": "inpa:86df9e71afc343b79ad358f87b4afc2e",
-   "media_id": "50cc618a-fca1-4f1c-b5a9-1cb3ce65322e",
-   "fonte": "InPA",
-   "titolo": "Università di Pisa - selezione pubblica, per colloquio, di n. 1 unità di personale Area dei Collaboratori, settore tecnico, scientifico, tecn., inf. e dei serv. gen., per 12 mesi, presso il Dipartimento di Ingegneria civile e industriale",
-   "figura": "collaboratore",
-   "ente": "Universita' di Pisa",
-   "descrizione": "Università di Pisa - selezione pubblica, per colloquio, di n. 1 unità di personale appartenente all'Area dei Collaboratori, settore tecnico, scientifico, tecnologico, informatico e dei servizi generali, per 12 mesi, presso il Dipartimento di Ingegneria civile e industriale. Le domande di ammissione alla selezione devono essere presentate esclusivamente tramite la piattaforma PICA https://pica.cineca.it/unipi/",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=86df9e71afc343b79ad358f87b4afc2e",
-   "pubblicazione": "2026-10-12T09:30:00Z",
-   "scadenza": "2026-11-02T12:00:00Z",
-   "stato": "Aperto",
-   "posti": 1,
-   "procedura": "COLLOQUIO",
-   "sede": "Pisa",
-   "provincia": "Pisa",
-   "km": 0,
-   "ambito": "provincia",
-   "punteggio": 34,
-   "tag": [
-    "ente-ricerca"
-   ],
-   "motivi": [
-    "università di pisa",
-    "cineca."
-   ],
-   "fascia": "possibile",
-   "giorni_rimasti": 1,
-   "titolo_verdetto": "ignoto",
-   "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
-   "titolo_classi": [],
-   "titolo_nomi": []
   },
   {
    "id": "inpa:7900e5bf6b024cf690e86f04815192fa",
@@ -1020,7 +1203,7 @@
     "ricercator"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 3,
+   "giorni_rimasti": 2,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -1054,7 +1237,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 29,
+   "giorni_rimasti": 28,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1088,7 +1271,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 15,
+   "giorni_rimasti": 14,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-6. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1126,7 +1309,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 15,
+   "giorni_rimasti": 14,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Medicina e Chirurgia. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -1162,7 +1345,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 15,
+   "giorni_rimasti": 14,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Medicina e Chirurgia. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -1198,7 +1381,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 9,
+   "giorni_rimasti": 8,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-6. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1236,7 +1419,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 9,
+   "giorni_rimasti": 8,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Titoli richiesti: Tecniche di Radiologia Medica; Professioni Sanitarie Tecniche. Ingegneria biomedica non c'e'.",
    "titolo_classi": [],
@@ -1271,7 +1454,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 4,
+   "giorni_rimasti": 3,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Nessuna classe richiesta: ammessa qualunque laurea magistrale.",
    "titolo_classi": [
@@ -1311,7 +1494,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 15,
+   "giorni_rimasti": 13,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 56/S, 65/S, 87/S, LM-50, LM-57, LM-85. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1355,7 +1538,7 @@
     "tecnologo"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 4,
+   "giorni_rimasti": 3,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -1387,7 +1570,7 @@
     "tecnologo"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 1,
+   "giorni_rimasti": 0,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 20/S, 35/S, 45/S. LM-21 non e' compresa.",
    "titolo_classi": [
