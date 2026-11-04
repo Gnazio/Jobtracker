@@ -1824,5 +1824,20 @@
   "dottorato_affine": false,
   "caratteri": 43031,
   "letto_il": "2026-11-03"
+ },
+ "bad1a733-8465-423e-9e75-694339a0ef31": {
+  "classi": [
+   "LM-61"
+  ],
+  "nomi": [
+   "scienze della nutrizione umana"
+  ],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": true,
+  "dottorato_affine": false,
+  "caratteri": 13156,
+  "letto_il": "2026-11-04"
  }
 }
