@@ -1,16 +1,16 @@
 {
- "aggiornato": "2026-11-04T12:51:24+00:00",
+ "aggiornato": "2026-11-05T13:00:15+00:00",
  "raggio_km": 150,
  "origine": "Pisa",
  "statistiche": {
-  "grezzi": 425,
+  "grezzi": 426,
   "pubblicati": 47,
-  "scartati_distanza": 54,
+  "scartati_distanza": 55,
   "scartati_profilo": 324,
   "per_fascia": {
    "alta": 8,
-   "buona": 24,
-   "possibile": 15
+   "buona": 25,
+   "possibile": 14
   },
   "per_titolo": {
    "ignoto": 27,
@@ -22,7 +22,7 @@
  "fonti": [
   {
    "fonte": "InPA",
-   "annunci": 418,
+   "annunci": 419,
    "nota": null
   },
   {
@@ -67,7 +67,7 @@
     "statistic"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 15,
+   "giorni_rimasti": 14,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
@@ -102,7 +102,7 @@
     "istituto di fisiologia clinica"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 1,
+   "giorni_rimasti": 0,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Il bando elenca LM-21 fra le classi ammesse.",
    "titolo_classi": [
@@ -152,7 +152,7 @@
     "elaborazione di immagin"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 20,
+   "giorni_rimasti": 19,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
@@ -186,7 +186,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 16,
+   "giorni_rimasti": 15,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 14/S, 62/S, LM-13, LM-54. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -226,7 +226,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 9,
+   "giorni_rimasti": 8,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 20/S, 27/S, 61/S, 62/S, LM-17, LM-22, LM-53, LM-54. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -272,7 +272,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 9,
+   "giorni_rimasti": 8,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 20/S, LM-17. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -312,7 +312,7 @@
     "collaboratore professionale di ricerca"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 28,
+   "giorni_rimasti": 27,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Scienze Biologiche. Da verificare nel PDF.",
    "titolo_classi": [
@@ -353,7 +353,7 @@
     "collaboratore professionale di ricerca"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 28,
+   "giorni_rimasti": 27,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Titoli richiesti: Biotecnologie; Scienze Biologiche; Scienze e Tecnologie Farmaceutiche; Scienze e Tecnologie Chimiche. Ingegneria biomedica non c'e'.",
    "titolo_classi": [
@@ -399,7 +399,7 @@
     "laurea magistrale"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 14,
+   "giorni_rimasti": 13,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 68/S, LM-60. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -439,7 +439,7 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 9,
+   "giorni_rimasti": 8,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Titoli richiesti: Biologia; Biotecnologie Agrarie; Biotecnologie Industriali; Biotecnologie Mediche. Ingegneria biomedica non c'e'.",
    "titolo_classi": [],
@@ -478,14 +478,14 @@
     "ai"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 6,
+   "giorni_rimasti": 5,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
   },
   {
    "id": "inpa:0e7d0a233f904b669f5fd651427eb474",
-   "media_id": null,
+   "media_id": "f6febaa2-cbb3-4d42-a9f5-2bcd53b94510",
    "fonte": "InPA",
    "titolo": "SELEZIONE PUBB. N. 1 INCAR. POST-DOC,ART. 22ter L.240/2010,TD 12 m.,(GSD) 11/SDEA-01,(SSD) SDEA-01/A-DISCIPLINE DEMOETNOANTROPOLOGICHE-DIP.TO GIURISPRUDENZA, STUDI POLITICI E INT.LI-UNIV. DI PARMA",
    "figura": "conferimento di Incarico Post-Doc",
@@ -510,14 +510,15 @@
     "post-doc"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 6,
+   "giorni_rimasti": 5,
    "titolo_verdetto": "ignoto",
-   "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
-   "titolo_classi": []
+   "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
+   "titolo_classi": [],
+   "titolo_nomi": []
   },
   {
    "id": "inpa:64bf845598ce4f369b91180a1be22cfd",
-   "media_id": null,
+   "media_id": "71fcd084-c22d-4696-b65b-09b7d5e05691",
    "fonte": "InPA",
    "titolo": "SELEZIONE PUBB. N. 1 INCAR. POST-DOC,ART. 22ter L.240/2010,TD 12 m.,(GSD) 14/GSPS-06,(SSD) GSPS-06/A-SOCIOLOGIA PROCESSI CULTUR. E COMUN.-DIP.TO GIURISPRUDENZA, STUDI POLITICI E INT.LI-UNIV. DI PARMA",
    "figura": "conferimento di Incarico Post-Doc",
@@ -542,10 +543,11 @@
     "post-doc"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 6,
+   "giorni_rimasti": 5,
    "titolo_verdetto": "ignoto",
-   "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
-   "titolo_classi": []
+   "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
+   "titolo_classi": [],
+   "titolo_nomi": []
   },
   {
    "id": "inpa:649b4056f0dc40e3bb13a2007be14df6",
@@ -574,9 +576,43 @@
     "tecnologo"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 27,
+   "giorni_rimasti": 26,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
+   "titolo_classi": [],
+   "titolo_nomi": []
+  },
+  {
+   "id": "inpa:6f9fb74efc44415ebaa8bf7fc230f674",
+   "media_id": "dc956519-bb4a-4f7c-bc09-82f95d59f197",
+   "fonte": "InPA",
+   "titolo": "SELEZIONE PUBB. N. 1 INCAR. POST-DOC,ART. 22ter L.240/2010,TD 24 m.,(GSD) 07/MVET-04,(SSD) MVET-04/B - Clinica medica veterinaria -DIP.TO DI SCIENZE MEDICO-VETERINARIE-UNIV. DI PARMA",
+   "figura": "conferimento di Incarico post-doc",
+   "ente": "Universita' degli Studi di Parma",
+   "descrizione": "OBIETTIVI OGGETTO DELL'INCARICO Il progetto si propone di affrontare una delle sfide più comuni nella pratica clinica veterinaria: la gestione delle malattie gastroenteriche nel cane e nel gatto, che rappresentano una delle prime cause di morbilità. L'obiettivo principale della ricerca è quello di fare un salto di qualità nella precisione delle diagnosi e nel monitoraggio di queste patologie, sia acute che croniche, attraverso lo sviluppo, la validazione e l'applicazione clinica di nuovi biomarcatori fecali e sierici. Scopo del progetto è identificare nuovi e più affidabili indicatori diagnost",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=6f9fb74efc44415ebaa8bf7fc230f674",
+   "pubblicazione": "2026-11-04T23:01:00Z",
+   "scadenza": "2026-11-19T22:59:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_COLLOQUIO",
+   "sede": "Parma",
+   "provincia": "Parma",
+   "km": 121,
+   "ambito": "provincia",
+   "punteggio": 56,
+   "tag": [
+    "ricerca",
+    "biomedico"
+   ],
+   "motivi": [
+    "post-doc",
+    "diagnostica per immagini"
+   ],
+   "fascia": "buona",
+   "giorni_rimasti": 14,
+   "titolo_verdetto": "ignoto",
+   "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
    "titolo_nomi": []
   },
@@ -607,7 +643,7 @@
     "primo ricercator"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 27,
+   "giorni_rimasti": 26,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-41. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -645,7 +681,7 @@
     "ai"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 15,
+   "giorni_rimasti": 14,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -679,7 +715,7 @@
     "area dei funzionari, settore scientific"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 6,
+   "giorni_rimasti": 5,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
@@ -714,7 +750,7 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 19,
+   "giorni_rimasti": 18,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -750,7 +786,7 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 19,
+   "giorni_rimasti": 18,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Biologia. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -788,7 +824,7 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 12,
+   "giorni_rimasti": 11,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Il bando ammette Ingegneria biomedica.",
    "titolo_classi": [
@@ -828,7 +864,7 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 12,
+   "giorni_rimasti": 11,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Titoli richiesti: Biologia Applicata e Sperimentale; Biologia. Ingegneria biomedica non c'e'.",
    "titolo_classi": [
@@ -869,7 +905,7 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 6,
+   "giorni_rimasti": 5,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -902,7 +938,7 @@
     "collaboratore tecnico enti di ricerca"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 27,
+   "giorni_rimasti": 26,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1036,7 +1072,7 @@
     "statistic"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 8,
+   "giorni_rimasti": 7,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
@@ -1068,7 +1104,7 @@
     "iii livello"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 27,
+   "giorni_rimasti": 26,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Biologia. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -1103,7 +1139,7 @@
     "iii livello"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 27,
+   "giorni_rimasti": 26,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-6, LM-8, LM-9. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1142,7 +1178,7 @@
     "iii livello"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 24,
+   "giorni_rimasti": 23,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-23, LM-24, LM-26, LM-28, LM-33, LM-4. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1184,7 +1220,7 @@
     "statistic"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 28,
+   "giorni_rimasti": 27,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-16, LM-56, LM-77, LM-82, LM-83. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1224,7 +1260,7 @@
     "sistemi informativ"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 1,
+   "giorni_rimasti": 0,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Non sono riuscito a leggere il PDF del bando.",
    "titolo_classi": [],
@@ -1257,7 +1293,7 @@
     "cineca."
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 12,
+   "giorni_rimasti": 11,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1291,7 +1327,7 @@
     "irccs"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 14,
+   "giorni_rimasti": 13,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-61. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1299,42 +1335,6 @@
    ],
    "titolo_nomi": [
     "scienze della nutrizione umana"
-   ]
-  },
-  {
-   "id": "inpa:2d606a5c360c4b4f9c13ee901f98dd01",
-   "media_id": "f52804d3-d06f-4780-ab09-9b1635388322",
-   "fonte": "InPA",
-   "titolo": "PUBBLICA SELEZIONE PER TITOLI E COLLOQUIO PER IL CONFERIMENTO DI N. 1 BORSA DI STUDIO PER LAUREATO IN MEDICINA E CHIRURGIA PRESSO LA UOC PNEUMOLOGIA E FIBROSI CISTICA.",
-   "figura": "MEDICO",
-   "ente": "Istituto Giannina Gaslini",
-   "descrizione": "BANDO DI PUBBLICA SELEZIONE PER TITOLI E COLLOQUIO PER IL CONFERIMENTO DI N. 1 BORSA DI STUDIO PER LAUREATO IN MEDICINA E CHIRURGIA PRESSO LA UOC PNEUMOLOGIA E FIBROSI CISTICA // IRCCS ISTITUTO GIANNINA GASLINI",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2d606a5c360c4b4f9c13ee901f98dd01",
-   "pubblicazione": "2026-10-20T22:00:00Z",
-   "scadenza": "2026-11-05T11:00:00Z",
-   "stato": "Aperto",
-   "posti": 1,
-   "procedura": "TITOLI_COLLOQUIO",
-   "sede": "Genova",
-   "provincia": "Genova",
-   "km": 139,
-   "ambito": "provincia",
-   "punteggio": 38,
-   "tag": [
-    "ricerca",
-    "ente-ricerca"
-   ],
-   "motivi": [
-    "borsa di studio",
-    "irccs"
-   ],
-   "fascia": "possibile",
-   "giorni_rimasti": 0,
-   "titolo_verdetto": "ignoto",
-   "titolo_nota": "Il bando sembra chiedere: Medicina e Chirurgia. Da verificare nel PDF.",
-   "titolo_classi": [],
-   "titolo_nomi": [
-    "Medicina e Chirurgia"
    ]
   },
   {
@@ -1364,7 +1364,7 @@
     "cineca."
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 28,
+   "giorni_rimasti": 27,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-18, LM-27, LM-32. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1372,38 +1372,6 @@
     "LM-27",
     "LM-32"
    ],
-   "titolo_nomi": []
-  },
-  {
-   "id": "inpa:7900e5bf6b024cf690e86f04815192fa",
-   "media_id": "da27b1a8-d980-45f6-aec4-5031a0286965",
-   "fonte": "InPA",
-   "titolo": "SELEZIONE PUBBL. PER N. 1 CONTRATTO DI RICERCA,ART.22 L. 240/2010,TD 24 MESI,GSD 03/CHEM-07,CHEM-07/B – CHIMICA DEGLI ALIMENTI,DIP.TO DI SCIENZE DEGLI ALIMENTI E DEL FARMACO-UNIV. PARMA",
-   "figura": "contrattista di ricerca",
-   "ente": "Universita' degli Studi di Parma",
-   "descrizione": "OBIETTIVI OGGETTO DELL'INCARICO L’obiettivo della ricerca è sviluppare una piattaforma analitica integrata per la valutazione della sicurezza e della qualità nutrizionale di fonti proteiche innovative e sostenibili mediante approcci multi-omici e metodologie avanzate. Parallelamente, il progetto mira a rafforzare le competenze scientifiche di ricercatori provenienti dall’area MENA attraverso attività di formazione, trasferimento tecnologico e collaborazione internazionale",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=7900e5bf6b024cf690e86f04815192fa",
-   "pubblicazione": "2026-10-20T22:01:00Z",
-   "scadenza": "2026-11-04T22:59:00Z",
-   "stato": "Aperto",
-   "posti": 1,
-   "procedura": "TITOLI_COLLOQUIO",
-   "sede": "Parma",
-   "provincia": "Parma",
-   "km": 121,
-   "ambito": "provincia",
-   "punteggio": 34,
-   "tag": [
-    "ricerca"
-   ],
-   "motivi": [
-    "ricercator"
-   ],
-   "fascia": "possibile",
-   "giorni_rimasti": 0,
-   "titolo_verdetto": "ignoto",
-   "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
-   "titolo_classi": [],
    "titolo_nomi": []
   },
   {
@@ -1434,7 +1402,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 26,
+   "giorni_rimasti": 25,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1468,7 +1436,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 19,
+   "giorni_rimasti": 18,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Medicina e Chirurgia. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -1504,7 +1472,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 12,
+   "giorni_rimasti": 11,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-6. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1542,7 +1510,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 12,
+   "giorni_rimasti": 11,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Medicina e Chirurgia. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -1578,7 +1546,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 12,
+   "giorni_rimasti": 11,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Medicina e Chirurgia. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -1614,7 +1582,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 6,
+   "giorni_rimasti": 5,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-6. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1652,7 +1620,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 6,
+   "giorni_rimasti": 5,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Titoli richiesti: Tecniche di Radiologia Medica; Professioni Sanitarie Tecniche. Ingegneria biomedica non c'e'.",
    "titolo_classi": [],
@@ -1687,7 +1655,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 1,
+   "giorni_rimasti": 0,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Nessuna classe richiesta: ammessa qualunque laurea magistrale.",
    "titolo_classi": [
@@ -1727,7 +1695,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 11,
+   "giorni_rimasti": 10,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 56/S, 65/S, 87/S, LM-50, LM-57, LM-85. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1771,7 +1739,39 @@
     "tecnologo"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 1,
+   "giorni_rimasti": 0,
+   "titolo_verdetto": "ignoto",
+   "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
+   "titolo_classi": [],
+   "titolo_nomi": []
+  },
+  {
+   "id": "inpa:7f9ac95eaba64119bd5fcd2a8c6406ba",
+   "media_id": "5feb2555-ef05-4321-a3b6-67937ea754ac",
+   "fonte": "InPA",
+   "titolo": "SELEZIONE PUBB. N. 1 INCAR. POST-DOC,ART. 22ter L.240/2010,TD 24 m.,(GSD) 07/MVET-01,(SSD) MVET-01/A ANATOMIA VETERINARIA -DIP.TO DI SCIENZE MEDICO-VETERINARIE-UNIV. DI PARMA",
+   "figura": "conferimento di Incarico post-doc",
+   "ente": "Universita' degli Studi di Parma",
+   "descrizione": "OBIETTIVI OGGETTO DELL'INCARICO L’attività di ricerca sarà focalizzata sullo studio delle nicchie delle cellule staminali in organi target selezionati (cute, polmone, intestino, muscolo scheletrico, osso e cartilagine) quali modelli di invecchiamento e rigenerazione. Le analisi saranno condotte in soggetti giovani e anziani, consentendo di identificare alterazioni comuni e organo-specifiche associate al processo di invecchiamento. Le attività comprenderanno la raccolta e il processamento dei campioni biologici, la caratterizzazione morfologica e molecolare dei tessuti, l'acquisizione e l'anali",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=7f9ac95eaba64119bd5fcd2a8c6406ba",
+   "pubblicazione": "2026-11-05T23:01:00Z",
+   "scadenza": "2026-11-20T22:59:00Z",
+   "stato": "In Apertura",
+   "posti": 1,
+   "procedura": "TITOLI_COLLOQUIO",
+   "sede": "Parma",
+   "provincia": "Parma",
+   "km": 121,
+   "ambito": "provincia",
+   "punteggio": 26,
+   "tag": [
+    "ricerca"
+   ],
+   "motivi": [
+    "post-doc"
+   ],
+   "fascia": "possibile",
+   "giorni_rimasti": 15,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
