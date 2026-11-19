@@ -1883,5 +1883,319 @@
   "dottorato_affine": false,
   "caratteri": 60191,
   "letto_il": "2026-11-05"
+ },
+ "370f4717-6091-4a95-9637-6b897dfd286b": {
+  "classi": [
+   "68/S",
+   "LM-60"
+  ],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": true,
+  "dottorato_affine": false,
+  "caratteri": 40834,
+  "letto_il": "2026-11-19"
+ },
+ "d4c4ab8c-677f-49f0-89a8-9dfdf49da035": {
+  "classi": [
+   "L-13",
+   "L-2"
+  ],
+  "nomi": [
+   "Scienze Biologiche",
+   "Biotecnologie"
+  ],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 53282,
+  "letto_il": "2026-11-19"
+ },
+ "3725afed-6a56-4756-8d65-6188269cd053": {
+  "classi": [],
+  "nomi": [
+   "Scienze Statistiche"
+  ],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": true,
+  "dottorato_affine": false,
+  "caratteri": 35197,
+  "letto_il": "2026-11-19"
+ },
+ "5e4fae97-e871-4308-8909-348a26f06c4a": {
+  "classi": [
+   "LM-13",
+   "LM-6",
+   "LM-8",
+   "LM-9"
+  ],
+  "nomi": [
+   "Biologia",
+   "Biotecnologie Mediche",
+   "Biotecnologie Industriali",
+   "Chimica e Tecnologia Farmaceutiche"
+  ],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 53954,
+  "letto_il": "2026-11-19"
+ },
+ "254adf41-3f3c-4983-bcb4-cf1ce750aa2a": {
+  "classi": [
+   "6/S",
+   "9/S"
+  ],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 16178,
+  "letto_il": "2026-11-19"
+ },
+ "1042c9a5-f4f5-4fb7-bf59-5043121f5c5a": {
+  "classi": [],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": true,
+  "dottorato_affine": false,
+  "caratteri": 31556,
+  "letto_il": "2026-11-19"
+ },
+ "f48cdd4d-b6f6-47b3-aa97-de955f7f2440": {
+  "classi": [],
+  "nomi": [
+   "Scienze Biologiche o titoli considerati"
+  ],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": true,
+  "dottorato_affine": false,
+  "caratteri": 29494,
+  "letto_il": "2026-11-19"
+ },
+ "1785bfe2-ae95-4c7d-9881-65579800960a": {
+  "classi": [
+   "LM-6",
+   "LM-7",
+   "LM-8",
+   "LM-9"
+  ],
+  "nomi": [
+   "Biologia"
+  ],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": true,
+  "dottorato_affine": false,
+  "caratteri": 34777,
+  "letto_il": "2026-11-19"
+ },
+ "31b16f09-de76-4be7-a50b-73f053ec0522": {
+  "classi": [
+   "LM-17",
+   "LM-41",
+   "LM-6",
+   "LM-7",
+   "LM-8",
+   "LM-9"
+  ],
+  "nomi": [
+   "Medicina e chirurgia"
+  ],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": true,
+  "dottorato_affine": false,
+  "caratteri": 34668,
+  "letto_il": "2026-11-19"
+ },
+ "a1abfdf7-e40a-4ece-ba90-917ee8f6eecf": {
+  "classi": [],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 41072,
+  "letto_il": "2026-11-19"
+ },
+ "be91591e-1b2e-45c3-8d6a-682bf94cfefe": {
+  "classi": [
+   "14/S",
+   "62/S",
+   "8/S",
+   "81/S",
+   "LM-13",
+   "LM-54",
+   "LM-71",
+   "LM-8"
+  ],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 38155,
+  "letto_il": "2026-11-19"
+ },
+ "1c9f83c6-c12d-4ad1-bd69-055e393b2462": {
+  "classi": [],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 38635,
+  "letto_il": "2026-11-19"
+ },
+ "af75613f-7217-4bd7-9ac0-e827fa5be943": {
+  "classi": [],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 27815,
+  "letto_il": "2026-11-19"
+ },
+ "435d4e3a-aa19-4f9a-b51d-129e37b69f53": {
+  "classi": [],
+  "nomi": [
+   "Medicina e Chirurgia e abilitazione all"
+  ],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 64988,
+  "letto_il": "2026-11-19"
+ },
+ "d717dc2f-ff1e-4178-b05f-2ca6e2423c84": {
+  "classi": [],
+  "nomi": [
+   "Medicina e Chirurgia"
+  ],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 43564,
+  "letto_il": "2026-11-19"
+ },
+ "daab1c25-f900-4130-aff1-15aa1710d9a6": {
+  "classi": [],
+  "nomi": [
+   "Scienze ambientali o di titoli"
+  ],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 14023,
+  "letto_il": "2026-11-19"
+ },
+ "b2001e88-7914-4523-b6dd-fff257821567": {
+  "classi": [],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 35513,
+  "letto_il": "2026-11-19"
+ },
+ "7ad1794b-8e8d-4ff6-babf-c822bc186718": {
+  "classi": [
+   "LM-9"
+  ],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": true,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 59552,
+  "letto_il": "2026-11-19"
+ },
+ "59b1d22d-1a79-4e78-b632-a5451c1dd9d2": {
+  "classi": [],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 49851,
+  "letto_il": "2026-11-19"
+ },
+ "32de646e-9066-4f38-8389-1b5af1547fa5": {
+  "classi": [],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 29936,
+  "letto_il": "2026-11-19"
+ },
+ "4d1d833d-d4b9-4f54-838f-86d043ee4a73": {
+  "classi": [],
+  "nomi": [
+   "Medicina e Chirurgia b"
+  ],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 7851,
+  "letto_il": "2026-11-19"
+ },
+ "8f63508e-7998-47e3-8952-fac20afa3cbd": {
+  "classi": [],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": true,
+  "dottorato_affine": false,
+  "caratteri": 96158,
+  "letto_il": "2026-11-19"
+ },
+ "3c454cf7-c9aa-41f9-be13-72bdc8aa050b": {
+  "classi": [],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": true,
+  "dottorato_affine": false,
+  "caratteri": 56267,
+  "letto_il": "2026-11-19"
  }
 }

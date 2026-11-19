@@ -1,33 +1,32 @@
 {
- "aggiornato": "2026-11-05T13:00:15+00:00",
+ "aggiornato": "2026-11-19T14:12:44+00:00",
  "raggio_km": 150,
  "origine": "Pisa",
  "statistiche": {
-  "grezzi": 426,
+  "grezzi": 433,
   "pubblicati": 47,
-  "scartati_distanza": 55,
-  "scartati_profilo": 324,
+  "scartati_distanza": 44,
+  "scartati_profilo": 342,
   "per_fascia": {
    "alta": 8,
-   "buona": 25,
-   "possibile": 14
+   "buona": 24,
+   "possibile": 15
   },
   "per_titolo": {
-   "ignoto": 27,
-   "ammesso": 3,
-   "escluso": 17
+   "ignoto": 32,
+   "escluso": 15
   }
  },
  "errori_fonti": [],
  "fonti": [
   {
    "fonte": "InPA",
-   "annunci": 419,
+   "annunci": 428,
    "nota": null
   },
   {
    "fonte": "Gazzetta Ufficiale",
-   "annunci": 4,
+   "annunci": 2,
    "nota": null
   },
   {
@@ -67,61 +66,10 @@
     "statistic"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 14,
+   "giorni_rimasti": 0,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
-  },
-  {
-   "id": "inpa:ef582054692c4cfeaa50d30df5608e4f",
-   "media_id": "274d68ea-0d30-40f5-a676-08a38addd0dd",
-   "fonte": "InPA",
-   "titolo": "BANDO CNR N. 332.1 RIC IFC",
-   "figura": "Ricercatore III livello professionale",
-   "ente": "Consiglio Nazionale delle Ricerche - CNR",
-   "descrizione": "BANDO CNR N. 332.1 RIC IFC - Selezione per titoli e colloquio ai sensi dell'art. 8 del \"Disciplinare concernente le assunzioni di personale con contratto di lavoro a tempo determinato\", per l'assunzione, ai sensi dell'art. 141 del CCNL del Comparto “Istruzione e Ricerca” 2019-2021, sottoscritto in data 18 gennaio 2024, di una unità di personale con profilo professionale di Ricercatore III livello, presso l'Istituto di Fisiologia Clinica (IFC), Sede di Pisa.",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ef582054692c4cfeaa50d30df5608e4f",
-   "pubblicazione": "2026-10-06T16:00:00Z",
-   "scadenza": "2026-11-05T17:00:00Z",
-   "stato": "Aperto",
-   "posti": 1,
-   "procedura": "TITOLI_COLLOQUIO",
-   "sede": "Pisa",
-   "provincia": "Pisa",
-   "km": 0,
-   "ambito": "provincia",
-   "punteggio": 96,
-   "tag": [
-    "ricerca",
-    "ente-ricerca"
-   ],
-   "motivi": [
-    "ricercator",
-    "iii livello",
-    "cnr",
-    "istituto di fisiologia clinica"
-   ],
-   "fascia": "alta",
-   "giorni_rimasti": 0,
-   "titolo_verdetto": "ammesso",
-   "titolo_nota": "Il bando elenca LM-21 fra le classi ammesse.",
-   "titolo_classi": [
-    "20/S",
-    "23/S",
-    "26/S",
-    "30/S",
-    "35/S",
-    "45/S",
-    "90/S",
-    "LM-17",
-    "LM-18",
-    "LM-21",
-    "LM-27",
-    "LM-32",
-    "LM-40",
-    "LM-82"
-   ],
-   "titolo_nomi": []
   },
   {
    "id": "inpa:d29a4ce49aa845cf9f9d667c6f056622",
@@ -152,10 +100,50 @@
     "elaborazione di immagin"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 19,
+   "giorni_rimasti": 5,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
+  },
+  {
+   "id": "inpa:b877f23b63fb4b54b97861a07c780bf6",
+   "media_id": "370f4717-6091-4a95-9637-6b897dfd286b",
+   "fonte": "InPA",
+   "titolo": "Selezione pubblica, per titoli ed esami, per n. 1 Tecnologo di I livello, con contratto di lavoro a tempo determinato e pieno, della durata di 18 mesi, da assegnare al Dipartimento di Biologia, nell’ambito degli accordi con la Regione Toscana relativi ai progetti “NATura Network Toscana” - NAT.NE.T – CUP D53C25001810007 - e “Implementazione e aggiornamento del quadro conoscitivo di specie e habitat di importanza conservazionistica presenti nel territorio regionale” – CUP B53C250066300020",
+   "figura": "Tecnologo",
+   "ente": "Universita' degli Studi di Firenze",
+   "descrizione": "Selezione pubblica, per titoli ed esami, per n. 1 Tecnologo di I livello, ai sensi dell’art.24-bis della Legge 240/2010, con contratto di lavoro a tempo determinato e pieno, della durata di 18 mesi, da assegnare al Dipartimento di Biologia, nell’ambito degli accordi con la Regione Toscana relativi ai progetti “NATura Network Toscana” - NAT.NE.T – CUP D53C25001810007 - e “Implementazione e aggiornamento del quadro conoscitivo di specie e habitat di importanza conservazionistica presenti nel territorio regionale” – CUP B53C250066300020",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=b877f23b63fb4b54b97861a07c780bf6",
+   "pubblicazione": "2026-11-17T14:00:00Z",
+   "scadenza": "2026-12-15T22:59:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_ESAMI",
+   "sede": "Firenze",
+   "provincia": "Firenze",
+   "km": 69,
+   "ambito": "provincia",
+   "punteggio": 80,
+   "tag": [
+    "ricerca",
+    "ai-ml",
+    "requisiti"
+   ],
+   "motivi": [
+    "tecnologo",
+    "dottorat",
+    "ai",
+    "laurea magistrale"
+   ],
+   "fascia": "alta",
+   "giorni_rimasti": 26,
+   "titolo_verdetto": "escluso",
+   "titolo_nota": "Classi ammesse: 68/S, LM-60. LM-21 non e' compresa.",
+   "titolo_classi": [
+    "68/S",
+    "LM-60"
+   ],
+   "titolo_nomi": []
   },
   {
    "id": "inpa:e66bec474dcb4f9a996782b58b5d0999",
@@ -186,7 +174,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 15,
+   "giorni_rimasti": 1,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 14/S, 62/S, LM-13, LM-54. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -198,88 +186,47 @@
    "titolo_nomi": []
   },
   {
-   "id": "inpa:d5882632b7e24f93b2f48b4a4d56f2c8",
-   "media_id": "2a928351-5a47-4496-9b8b-8b2c1a5ad315",
+   "id": "inpa:eb2b61db84e044dfafba9aeac1bec9aa",
+   "media_id": "d4c4ab8c-677f-49f0-89a8-9dfdf49da035",
    "fonte": "InPA",
-   "titolo": "BANDO CNR N. 331.6 RIC ISMN",
-   "figura": "Ricercatore III livello professionale",
-   "ente": "Consiglio Nazionale delle Ricerche - CNR",
-   "descrizione": "BANDO CNR N. 331.6 RIC ISMN - Selezione per titoli e colloquio ai sensi dell'art. 8 del \"Disciplinare concernente le assunzioni di personale con contratto di lavoro a tempo determinato\", per l'assunzione, ai sensi dell'art. 141 del CCNL del Comparto “Istruzione e Ricerca” 2019-2021, sottoscritto in data 18 gennaio 2024, di una unità di personale con profilo professionale di Ricercatore III livello, presso l'Istituto per lo Studio dei Materiali Nanostrutturati, sede di Bologna.",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=d5882632b7e24f93b2f48b4a4d56f2c8",
-   "pubblicazione": "2026-10-14T16:00:00Z",
-   "scadenza": "2026-11-13T17:00:00Z",
+   "titolo": "AZIENDA OSPEDALIERA METROPOLITANA (AOM) CONCORSO PUBBLICO PER 1 INCARICO A TEMPO DETERMINATO, COLLABORATORE PROFESSIONALE DI RICERCA SANITARIA, TRE ANNI, EVENTUALMENTE PROROGABILI, BANDO FIS 3 “DEFINING THE FUNCTIONAL ROLES OF THE SH2-CONTAINING INOSITOL 5-PHOSPHATASE PARALOGS IN IPSC DERIVED MICROGLIA AND TRI-CULTURE BRAIN MODEL TO UNRAVEL RESILIENCE TRAITS AND MOLECULAR TARGETS IN NEURODEGENERATIVE DISEASES (SHIP-MIND)”,CUP C53C25000950001, CODICE FIS- 2024-02860 (26C_COLL_PROF_RIC_FIS_SHIP)",
+   "figura": "Collaboratore Professionale di Ricerca Sanitaria",
+   "ente": "IRCCS Ospedale Policlinico San Martino",
+   "descrizione": "AZIENDA OSPEDALIERA METROPOLITANA (AOM) CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER L’ATTRIBUZIONE DI N. 1 INCARICO A TEMPO DETERMINATO, IN QUALITÀ DI COLLABORATORE PROFESSIONALE DI RICERCA SANITARIA, DELLA DURATA DI TRE ANNI, EVENTUALMENTE PROROGABILI, (E, COMUNQUE, NON OLTRE IL 29/09/2031), NELL’AMBITO DEL FONDO ITALIANO PER LA SCIENZA 2024-2025 (BANDO FIS 3) - PROGETTO “DEFINING THE FUNCTIONAL ROLES OF THE SH2-CONTAINING INOSITOL 5-PHOSPHATASE (SHIP) PARALOGS IN IPSC DERIVED MICROGLIA AND TRI-CULTURE BRAIN MODEL TO UNRAVEL RESILIENCE TRAITS AND MOLECULAR TARGETS IN NEURODEGENERATIVE DISEASE",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=eb2b61db84e044dfafba9aeac1bec9aa",
+   "pubblicazione": "2026-11-13T14:40:00Z",
+   "scadenza": "2026-12-14T22:59:00Z",
    "stato": "Aperto",
    "posti": 1,
-   "procedura": "TITOLI_COLLOQUIO",
-   "sede": "Bologna",
-   "provincia": "Bologna",
-   "km": 115,
+   "procedura": "TITOLI_ESAMI",
+   "sede": "Genova",
+   "provincia": "Genova",
+   "km": 139,
    "ambito": "provincia",
-   "punteggio": 78,
+   "punteggio": 76,
    "tag": [
     "ricerca",
-    "ente-ricerca"
+    "ente-ricerca",
+    "sanita"
    ],
    "motivi": [
-    "ricercator",
-    "iii livello",
-    "cnr"
+    "ricerca sanitaria",
+    "irccs",
+    "azienda ospedalier",
+    "collaboratore professionale di ricerca"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 8,
+   "giorni_rimasti": 25,
    "titolo_verdetto": "escluso",
-   "titolo_nota": "Classi ammesse: 20/S, 27/S, 61/S, 62/S, LM-17, LM-22, LM-53, LM-54. LM-21 non e' compresa.",
+   "titolo_nota": "Titoli richiesti: Scienze Biologiche; Biotecnologie. Ingegneria biomedica non c'e'.",
    "titolo_classi": [
-    "20/S",
-    "27/S",
-    "61/S",
-    "62/S",
-    "LM-17",
-    "LM-22",
-    "LM-53",
-    "LM-54"
+    "L-13",
+    "L-2"
    ],
    "titolo_nomi": [
-    "Ingegneria Chimica"
+    "Scienze Biologiche",
+    "Biotecnologie"
    ]
-  },
-  {
-   "id": "inpa:4bb9cb5291954a1e9cecc82b37538f4b",
-   "media_id": "f8e85c59-f64a-4405-98db-ff23440d2395",
-   "fonte": "InPA",
-   "titolo": "BANDO CNR N. 331.7 RIC ISMN",
-   "figura": "Ricercatore III livello professionale",
-   "ente": "Consiglio Nazionale delle Ricerche - CNR",
-   "descrizione": "BANDO CNR N. 331.7 RIC ISMN - Selezione per titoli e colloquio ai sensi dell'art. 8 del \"Disciplinare concernente le assunzioni di personale con contratto di lavoro a tempo determinato\", per l'assunzione, ai sensi dell'art. 141 del CCNL del Comparto “Istruzione e Ricerca” 2019-2021, sottoscritto in data 18 gennaio 2024, di una unità di personale con profilo professionale di Ricercatore III livello, presso l'Istituto per lo Studio dei Materiali Nanostrutturati, sede di Bologna.",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4bb9cb5291954a1e9cecc82b37538f4b",
-   "pubblicazione": "2026-10-14T16:00:00Z",
-   "scadenza": "2026-11-13T17:00:00Z",
-   "stato": "Aperto",
-   "posti": 1,
-   "procedura": "TITOLI_COLLOQUIO",
-   "sede": "Bologna",
-   "provincia": "Bologna",
-   "km": 115,
-   "ambito": "provincia",
-   "punteggio": 78,
-   "tag": [
-    "ricerca",
-    "ente-ricerca"
-   ],
-   "motivi": [
-    "ricercator",
-    "iii livello",
-    "cnr"
-   ],
-   "fascia": "alta",
-   "giorni_rimasti": 8,
-   "titolo_verdetto": "escluso",
-   "titolo_nota": "Classi ammesse: 20/S, LM-17. LM-21 non e' compresa.",
-   "titolo_classi": [
-    "20/S",
-    "LM-17"
-   ],
-   "titolo_nomi": []
   },
   {
    "id": "inpa:fc5ebc88cd1c4ce4b13dcf05c1c39d0f",
@@ -312,7 +259,7 @@
     "collaboratore professionale di ricerca"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 27,
+   "giorni_rimasti": 13,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Scienze Biologiche. Da verificare nel PDF.",
    "titolo_classi": [
@@ -353,7 +300,7 @@
     "collaboratore professionale di ricerca"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 27,
+   "giorni_rimasti": 13,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Titoli richiesti: Biotecnologie; Scienze Biologiche; Scienze e Tecnologie Farmaceutiche; Scienze e Tecnologie Chimiche. Ingegneria biomedica non c'e'.",
    "titolo_classi": [
@@ -370,59 +317,91 @@
    ]
   },
   {
-   "id": "inpa:a2ceeb2c49794604813eb402f5f61a9b",
-   "media_id": "66e4dcd0-1b3f-4f04-b933-632c4e09a487",
+   "id": "inpa:29e7c363f69f4f6094504df9f0085b14",
+   "media_id": "3725afed-6a56-4756-8d65-6188269cd053",
    "fonte": "InPA",
-   "titolo": "Selezione pubblica, per titoli ed esami, per n. 1 Tecnologo di II livello, con contratto di lavoro a tempo determinato e pieno, della durata di 24 mesi, per il Dipartimento di Biologia, nell’ambito del progetto europeo GAP 101113950 - LIFE22-NAT-IT-LIFE TETIDE “Turning Eradication Targets Into Durable Effects” e dell’Accordo di collaborazione tra il Parco Nazionale Arcipelago Toscano e Dipartimento di Biologia per il “Monitoraggio della vegetazione a Capraia, Giannutri, Giglio e Montecristo”",
-   "figura": "Tecnologo",
-   "ente": "Universita' degli Studi di Firenze",
-   "descrizione": "Selezione pubblica, per titoli ed esami, per n. 1 Tecnologo di II livello, ai sensi dell’art.24-bis della Legge 240/2010, con contratto di lavoro a tempo determinato e pieno, della durata di 24 mesi, da assegnare al Dipartimento di Biologia, nell’ambito del progetto europeo GAP 101113950 - LIFE22-NAT-IT-LIFE TETIDE “Turning Eradication Targets Into Durable Effects” e dell’Accordo di collaborazione tra il Parco Nazionale Arcipelago Toscano e Dipartimento di Biologia dell’Università di Firenze per il “Monitoraggio della vegetazione a Capraia, Giannutri, Giglio e Montecristo”",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a2ceeb2c49794604813eb402f5f61a9b",
-   "pubblicazione": "2026-10-28T10:00:00Z",
-   "scadenza": "2026-11-18T22:59:00Z",
+   "titolo": "Pubblico concorso, per titoli ed esami, per l’assunzione, a tempo indeterminato, di n. 1 unità di personale con il profilo di Ricercatore in prova – III livello professionale dell’Istituto Superiore di Sanità presso il Servizio tecnico-scientifico di statistica – codice concorso: TI RIC STAT 2026 01",
+   "figura": "Ricercatore",
+   "ente": "Istituto Superiore di Sanita' - ISS",
+   "descrizione": "TIRICSTAT202601",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=29e7c363f69f4f6094504df9f0085b14",
+   "pubblicazione": "2026-11-05T23:00:00Z",
+   "scadenza": "2026-12-05T22:59:00Z",
    "stato": "Aperto",
    "posti": 1,
    "procedura": "TITOLI_ESAMI",
-   "sede": "Firenze",
-   "provincia": "Firenze",
-   "km": 69,
-   "ambito": "provincia",
-   "punteggio": 66,
+   "sede": "Nazionale",
+   "provincia": null,
+   "km": null,
+   "ambito": "nazionale",
+   "punteggio": 72,
    "tag": [
     "ricerca",
-    "ai-ml",
-    "requisiti"
+    "ai-ml"
    ],
    "motivi": [
-    "tecnologo",
-    "ai",
-    "laurea magistrale"
+    "ricercator",
+    "iii livello",
+    "statistic"
    ],
-   "fascia": "buona",
-   "giorni_rimasti": 13,
-   "titolo_verdetto": "escluso",
-   "titolo_nota": "Classi ammesse: 68/S, LM-60. LM-21 non e' compresa.",
-   "titolo_classi": [
-    "68/S",
-    "L-32",
-    "LM-60"
-   ],
-   "titolo_nomi": []
+   "fascia": "alta",
+   "giorni_rimasti": 16,
+   "titolo_verdetto": "ignoto",
+   "titolo_nota": "Il bando sembra chiedere: Scienze Statistiche. Da verificare nel PDF.",
+   "titolo_classi": [],
+   "titolo_nomi": [
+    "Scienze Statistiche"
+   ]
   },
   {
-   "id": "inpa:2c88345df68b43faa81d142ba88508f2",
-   "media_id": "dd4fc1b5-8bdb-4b3d-8bd4-5c6bffb91f2d",
+   "id": "inpa:64997492413c473db1e7f57314ec4f01",
+   "media_id": null,
    "fonte": "InPA",
-   "titolo": "AOM- AZIENDA OSPEDALIERA METROPOLITANA - CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER L’ATTRIBUZIONE DI N. 1 INCARICO A TEMPO DETERMINATO, IN QUALITÀ DI RICERCATORE SANITARIO, DELLA DURATA DI 7 MESI (E, COMUNQUE NON OLTRE IL 30/05/2027), NELL’AMBITO DEL PROGETTO PNRR, CODICE PNRR-TR1-2023-12378169 - CUP C33C23001100006: “DEVELOPMENT OF LIQUID BIOPSY BASED APPROACHES FOR PRECISION MEDICINE IN UVEAL MELANOMA PATIENTS”, P.I. DOTT.SSA ADRIANA AGNESE AMARO",
-   "figura": "Ricercatore Sanitario",
-   "ente": "IRCCS Ospedale Policlinico San Martino",
-   "descrizione": "AOM- AZIENDA OSPEDALIERA METROPOLITANA - CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER L’ATTRIBUZIONE DI N. 1 INCARICO A TEMPO DETERMINATO, IN QUALITÀ DI RICERCATORE SANITARIO, DELLA DURATA DI 7 MESI (E, COMUNQUE NON OLTRE IL 30/05/2027), NELL’AMBITO DEL PROGETTO PNRR, CODICE PNRR-TR1-2023-12378169 - CUP C33C23001100006: “DEVELOPMENT OF LIQUID BIOPSY BASED APPROACHES FOR PRECISION MEDICINE IN UVEAL MELANOMA PATIENTS”, P.I. DOTT.SSA ADRIANA AGNESE AMARO",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2c88345df68b43faa81d142ba88508f2",
-   "pubblicazione": "2026-10-14T14:15:00Z",
-   "scadenza": "2026-11-13T22:59:00Z",
+   "titolo": "Procedura selettiva pubblica, per titoli ed esami, per il reclutamento di n. 1 unità di personale da inquadrare nell’Area dei Funzionari, Settore tecnico-informatico, con contratto di lavoro subordinato a tempo pieno e determinato, presso il Dipartimento di Scienze Biomediche, Metaboliche e Neuroscienze dell’Università degli Studi UNIMORE nell’ambito del progetto ““Ingegneria per l’innovazione in medicina (Classe LM-21 – Ingegneria biomedica)” - Rif.PA 2024-22646/RER - CUP E83C24001210002.",
+   "figura": "Funzionari",
+   "ente": "Universita' degli Studi di Modena e Reggio Emilia",
+   "descrizione": "Procedura selettiva pubblica, per titoli ed esami, per il reclutamento di n. 1 unità di personale da inquadrare nell’Area dei Funzionari, Settore tecnico-informatico, con contratto di lavoro subordinato a tempo pieno e determinato, presso il Dipartimento di Scienze Biomediche, Metaboliche e Neuroscienze dell’Università degli Studi di Modena e Reggio Emilia nell’ambito del progetto ““Ingegneria per l’innovazione in medicina (Classe LM-21 – Ingegneria biomedica)” - Rif.PA 2024-22646/RER - CUP E83C24001210002.",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=64997492413c473db1e7f57314ec4f01",
+   "pubblicazione": "2026-11-06T12:00:00Z",
+   "scadenza": "2026-11-26T12:00:00Z",
    "stato": "Aperto",
    "posti": 1,
-   "procedura": "TITOLI_COLLOQUIO",
+   "procedura": "TITOLI_ESAMI",
+   "sede": "Modena",
+   "provincia": "Modena",
+   "km": 112,
+   "ambito": "provincia",
+   "punteggio": 68,
+   "tag": [
+    "ente-ricerca",
+    "biomedico",
+    "ict"
+   ],
+   "motivi": [
+    "università degli studi di modena",
+    "ingegneria biomedic",
+    "area dei funzionari, settore tecnico-inf"
+   ],
+   "fascia": "buona",
+   "giorni_rimasti": 6,
+   "titolo_verdetto": "ignoto",
+   "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
+   "titolo_classi": []
+  },
+  {
+   "id": "inpa:fdd467994b4e403283eab8ce7f99c0bc",
+   "media_id": "5e4fae97-e871-4308-8909-348a26f06c4a",
+   "fonte": "InPA",
+   "titolo": "AZIENDA OSPEDALIERA METROPOLITANA (AOM) CONCORSO PUBBLICO, PER 1 INCARICO A TEMPO DETERMINATO, RICERCATORE SANITARIO, TRE ANNI, EVENTUALMENTE PROROGABILI, BANDO FIS 3 - PROGETTO “DEFINING THE FUNCTIONAL ROLES OF THE SH2-CONTAINING INOSITOL 5-PHOSPHATASE PARALOGS IN IPSC DERIVED MICROGLIA AND TRI-CULTURE BRAIN MODEL TO UNRAVEL RESILIENCE TRAITS AND MOLECULAR TARGETS IN NEURODEGENERATIVE DISEASES (SHIP-MIND) ”,CUP C53C25000950001, CODICE FIS- 2024-02860. (26C_RIC_SAN_FIS_SHIP)",
+   "figura": "Ricercatore Sanitario",
+   "ente": "IRCCS Ospedale Policlinico San Martino",
+   "descrizione": "AZIENDA OSPEDALIERA METROPOLITANA (AOM) - CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER L’ATTRIBUZIONE DI N. 1 INCARICO A TEMPO DETERMINATO, IN QUALITÀ DI RICERCATORE SANITARIO, DELLA DURATA DI TRE ANNI, EVENTUALMENTE PROROGABILI, (E, COMUNQUE, NON OLTRE IL 29/09/2031), NELL’AMBITO DEL FONDO ITALIANO PER LA SCIENZA 2024-2025 (BANDO FIS 3) - PROGETTO “DEFINING THE FUNCTIONAL ROLES OF THE SH2-CONTAINING INOSITOL 5-PHOSPHATASE (SHIP) PARALOGS IN IPSC DERIVED MICROGLIA AND TRI-CULTURE BRAIN MODEL TO UNRAVEL RESILIENCE TRAITS AND MOLECULAR TARGETS IN NEURODEGENERATIVE DISEASES - SHOVING HOMEOSTATIC P",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=fdd467994b4e403283eab8ce7f99c0bc",
+   "pubblicazione": "2026-11-13T14:50:00Z",
+   "scadenza": "2026-12-14T22:59:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_ESAMI",
    "sede": "Genova",
    "provincia": "Genova",
    "km": 139,
@@ -439,111 +418,93 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 8,
+   "giorni_rimasti": 25,
    "titolo_verdetto": "escluso",
-   "titolo_nota": "Titoli richiesti: Biologia; Biotecnologie Agrarie; Biotecnologie Industriali; Biotecnologie Mediche. Ingegneria biomedica non c'e'.",
-   "titolo_classi": [],
+   "titolo_nota": "Classi ammesse: LM-13, LM-6, LM-8, LM-9. LM-21 non e' compresa.",
+   "titolo_classi": [
+    "LM-13",
+    "LM-6",
+    "LM-8",
+    "LM-9"
+   ],
    "titolo_nomi": [
     "Biologia",
-    "Biotecnologie Agrarie",
+    "Biotecnologie Mediche",
     "Biotecnologie Industriali",
-    "Biotecnologie Mediche"
+    "Chimica e Tecnologia Farmaceutiche"
    ]
   },
   {
-   "id": "inpa:675de877ce9645548b094095012e6dbc",
-   "media_id": null,
+   "id": "inpa:c1eff271a48d4b7f80def7bf64637e27",
+   "media_id": "254adf41-3f3c-4983-bcb4-cf1ce750aa2a",
    "fonte": "InPA",
-   "titolo": "Rif. 6135 - Concorso pubblico per esami, a n. 1 posto nell’Area dei Collaboratori - settore tecnico, scientifico, tecnologico, informatico e dei servizi generali, con competenze in ambito anatomia, biochimica e biologia molecolare, per le esigenze del Dipartimento di Scienze Mediche e Chirurgiche dell'Università di Bologna, prioritariamente riservato agli operatori volontari che abbiano concluso il servizio civile universale ovvero il servizio civile nazionale di cui alla legge 06/03/2001 n. 64.",
-   "figura": "Area dei Collaboratori - settore tecnico, scientifico, tecnologico, informatico e dei servizi generali",
-   "ente": "Alma Mater Studiorum - Universita' di Bologna",
-   "descrizione": "Rif. 6135 - Concorso pubblico per esami, a n. 1 posto nell’Area dei Collaboratori - settore tecnico, scientifico, tecnologico, informatico e dei servizi generali, con competenze in ambito anatomia, biochimica e biologia molecolare, per le esigenze del Dipartimento di Scienze Mediche e Chirurgiche – DIMEC dell'Alma Mater Studiorum, Università di Bologna, prioritariamente riservato agli operatori volontari che abbiano concluso il servizio civile universale ovvero il servizio civile nazionale di cui alla legge 06/03/2001 n. 64 senza demerito.",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=675de877ce9645548b094095012e6dbc",
-   "pubblicazione": "2026-10-20T08:00:00Z",
-   "scadenza": "2026-11-10T22:59:00Z",
-   "stato": "Aperto",
-   "posti": 1,
-   "procedura": "ESAMI",
-   "sede": "Forli'-Cesena",
-   "provincia": "Forli'-Cesena",
-   "km": 143,
-   "ambito": "provincia",
-   "punteggio": 64,
-   "tag": [
-    "ricerca",
-    "ai-ml"
-   ],
-   "motivi": [
-    "ricercator",
-    "ai"
-   ],
-   "fascia": "buona",
-   "giorni_rimasti": 5,
-   "titolo_verdetto": "ignoto",
-   "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
-   "titolo_classi": []
-  },
-  {
-   "id": "inpa:0e7d0a233f904b669f5fd651427eb474",
-   "media_id": "f6febaa2-cbb3-4d42-a9f5-2bcd53b94510",
-   "fonte": "InPA",
-   "titolo": "SELEZIONE PUBB. N. 1 INCAR. POST-DOC,ART. 22ter L.240/2010,TD 12 m.,(GSD) 11/SDEA-01,(SSD) SDEA-01/A-DISCIPLINE DEMOETNOANTROPOLOGICHE-DIP.TO GIURISPRUDENZA, STUDI POLITICI E INT.LI-UNIV. DI PARMA",
-   "figura": "conferimento di Incarico Post-Doc",
-   "ente": "Universita' degli Studi di Parma",
-   "descrizione": "OBIETTIVI OGGETTO DELL'INCARICO Il/la ricercatore/ricercatrice post-doc contribuirà a uno dei \"key passages\" di DEBMAT — le aree di indagine del progetto — indagando come le infrastrutture materiali e digitali co-costituiscano le rotte migratorie lungo il Mediterraneo orientale, dalle isole che funzionano da apparati d'eccezione del confine — come a Cipro — al re-bordering dei Paesi dell’area Schengen, dalla Grecia al corridoio balcanico, e la sua articolazione urbana. Anziché trattare le infrastrutture come sistemi tecnici neutri, la ricerca le analizzerà come parte di assemblaggi di oggetti,",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0e7d0a233f904b669f5fd651427eb474",
-   "pubblicazione": "2026-10-26T23:01:00Z",
-   "scadenza": "2026-11-10T22:59:00Z",
+   "titolo": "N° 1 BORSA DI STUDIO PER TITOLARI PER TITOLARI DI LAUREA MAGISTRALE/SPECIALISTICA IN BIOLOGIA (LM 06 O 6/S) O LAUREA MAGISTRALE/SPECIALISTICA IN BIOTECNOLOGIE MEDICHE, VETERINARIE E FARMACEUTICHE (LM 0 9 – 9/S) PER LO SVOLGIMENTO DI ATTIVITA’ DI STUDIO E DI RICERCA NELL’AMBITO DEL PROGETTO “THE INTERPLAY BETWEEN INBORN ERROR OF IMMUNITY AND BLOOD DISORDERS: UNRAVELLING IMMUNE DEFECTS BEHIND COMMON HAEMATOLOGICAL DISEASES”, A FAVORE DELLA SOS IMMUNOLOGIA ONCOEMATOLOGICA DELL’AOU MEYER IRCCS",
+   "figura": "Biologo-Data manager",
+   "ente": "Azienda Ospedaliero Universitaria Meyer di Firenze",
+   "descrizione": "N° 1 BORSA DI STUDIO PER TITOLARI PER TITOLARI DI LAUREA MAGISTRALE/SPECIALISTICA IN BIOLOGIA (LM 06 O 6/S) O LAUREA MAGISTRALE/SPECIALISTICA IN BIOTECNOLOGIE MEDICHE, VETERINARIE E FARMACEUTICHE (LM 0 9 – 9/S)",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=c1eff271a48d4b7f80def7bf64637e27",
+   "pubblicazione": "2026-11-09T11:00:00Z",
+   "scadenza": "2026-11-30T22:59:00Z",
    "stato": "Aperto",
    "posti": 1,
    "procedura": "TITOLI_COLLOQUIO",
-   "sede": "Parma",
-   "provincia": "Parma",
-   "km": 121,
+   "sede": "Firenze",
+   "provincia": "Firenze",
+   "km": 69,
    "ambito": "provincia",
-   "punteggio": 60,
+   "punteggio": 62,
    "tag": [
-    "ricerca"
+    "ricerca",
+    "ente-ricerca",
+    "sanita",
+    "requisiti"
    ],
    "motivi": [
-    "ricercator",
-    "post-doc"
+    "borsa di studio",
+    "irccs",
+    "aou",
+    "laurea magistrale"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 5,
-   "titolo_verdetto": "ignoto",
-   "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
-   "titolo_classi": [],
+   "giorni_rimasti": 11,
+   "titolo_verdetto": "escluso",
+   "titolo_nota": "Classi ammesse: 6/S, 9/S. LM-21 non e' compresa.",
+   "titolo_classi": [
+    "6/S",
+    "9/S"
+   ],
    "titolo_nomi": []
   },
   {
-   "id": "inpa:64bf845598ce4f369b91180a1be22cfd",
-   "media_id": "71fcd084-c22d-4696-b65b-09b7d5e05691",
+   "id": "inpa:d75cf91946404e5faaf4ee549fcb96f6",
+   "media_id": "1042c9a5-f4f5-4fb7-bf59-5043121f5c5a",
    "fonte": "InPA",
-   "titolo": "SELEZIONE PUBB. N. 1 INCAR. POST-DOC,ART. 22ter L.240/2010,TD 12 m.,(GSD) 14/GSPS-06,(SSD) GSPS-06/A-SOCIOLOGIA PROCESSI CULTUR. E COMUN.-DIP.TO GIURISPRUDENZA, STUDI POLITICI E INT.LI-UNIV. DI PARMA",
-   "figura": "conferimento di Incarico Post-Doc",
-   "ente": "Universita' degli Studi di Parma",
-   "descrizione": "OBIETTIVI OGGETTO DELL'INCARICO Il/la ricercatore/ricercatrice post-doc contribuirà primariamente, ma non esclusivamente, a uno dei \"key passages\" di DEBMAT — le aree di indagine del progetto — esaminando le pratiche di agency delle persone in transito e di solidarietà che ne sostengono la mobilità, all'incrocio tra apparati d'eccezione del confine e riemersione dei confini interni dell'UE, estendendo gli strumenti metodologici rilevanti agli altri key passages del progetto. La ricerca combinerà il lavoro etnografico con un approccio a metodi misti attento alla materialità del transito, estend",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=64bf845598ce4f369b91180a1be22cfd",
-   "pubblicazione": "2026-10-26T23:01:00Z",
-   "scadenza": "2026-11-10T22:59:00Z",
+   "titolo": "Università di Pisa - Selezione per il reclutamento di un tecnologo di secondo livello, per 18 mesi, presso il Dipartimento di Scienze agrarie alimentari e agro-ambientali",
+   "figura": "Tecnologo di II livello",
+   "ente": "Universita' di Pisa",
+   "descrizione": "Selezione per il reclutamento di un tecnologo di secondo livello, per 24 mesi, presso il Dipartimento di Scienze agrarie alimentari e agro-ambientali Le domande di ammissione alla selezione devono essere presentate esclusivamente tramite la piattaforma PICA https://pica.cineca.it/unipi/",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=d75cf91946404e5faaf4ee549fcb96f6",
+   "pubblicazione": "2026-11-19T11:00:00Z",
+   "scadenza": "2026-12-09T12:00:00Z",
    "stato": "Aperto",
    "posti": 1,
    "procedura": "TITOLI_COLLOQUIO",
-   "sede": "Parma",
-   "provincia": "Parma",
-   "km": 121,
+   "sede": "Pisa",
+   "provincia": "Pisa",
+   "km": 0,
    "ambito": "provincia",
    "punteggio": 60,
    "tag": [
-    "ricerca"
+    "ricerca",
+    "ente-ricerca"
    ],
    "motivi": [
-    "ricercator",
-    "post-doc"
+    "tecnologo",
+    "università di pisa",
+    "cineca."
    ],
    "fascia": "buona",
-   "giorni_rimasti": 5,
+   "giorni_rimasti": 19,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -576,7 +537,7 @@
     "tecnologo"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 26,
+   "giorni_rimasti": 12,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -610,11 +571,128 @@
     "diagnostica per immagini"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 14,
+   "giorni_rimasti": 0,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
    "titolo_nomi": []
+  },
+  {
+   "id": "inpa:d9e2f9d8e6c44e398410dc8a2155d093",
+   "media_id": "f48cdd4d-b6f6-47b3-aa97-de955f7f2440",
+   "fonte": "InPA",
+   "titolo": "Procedura di mobilità per titoli e colloquio, ai sensi dell’art. 30 del D. Lgs n. 165/2001 e s. m. i, per n. 1 unità di personale con il profilo di Primo ricercatore – II livello professionale dell’Istituto Superiore di Sanità, presso il Dipartimento di Neuroscienze – codice procedura: MOB PR NEURO 2026 01.",
+   "figura": "PRIMO RICERCATORE",
+   "ente": "Istituto Superiore di Sanita' - ISS",
+   "descrizione": "MOBPRNEURO202601",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=d9e2f9d8e6c44e398410dc8a2155d093",
+   "pubblicazione": "2026-11-05T23:00:00Z",
+   "scadenza": "2026-12-05T22:59:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_COLLOQUIO",
+   "sede": "Nazionale",
+   "provincia": null,
+   "km": null,
+   "ambito": "nazionale",
+   "punteggio": 56,
+   "tag": [
+    "ricerca"
+   ],
+   "motivi": [
+    "ricercator",
+    "primo ricercator"
+   ],
+   "fascia": "buona",
+   "giorni_rimasti": 16,
+   "titolo_verdetto": "ignoto",
+   "titolo_nota": "Il bando sembra chiedere: Scienze Biologiche o titoli considerati. Da verificare nel PDF.",
+   "titolo_classi": [],
+   "titolo_nomi": [
+    "Scienze Biologiche o titoli considerati"
+   ]
+  },
+  {
+   "id": "inpa:d5a707276ddb4b3a85f9e577877ca9f5",
+   "media_id": "1785bfe2-ae95-4c7d-9881-65579800960a",
+   "fonte": "InPA",
+   "titolo": "Pubblico concorso, per titoli ed esami, per l’assunzione, a tempo indeterminato, di n. 1 unità di personale con il profilo di Ricercatore in prova – III livello professionale dell’Istituto Superiore di Sanità presso il Centro Nazionale per la Ricerca e la Valutazione Preclinica e Clinica dei Farmaci – codice concorso: TI RIC FARVA 2026 01",
+   "figura": "Ricercatore",
+   "ente": "Istituto Superiore di Sanita' - ISS",
+   "descrizione": "TIRICFARVA202601",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=d5a707276ddb4b3a85f9e577877ca9f5",
+   "pubblicazione": "2026-11-05T23:00:00Z",
+   "scadenza": "2026-12-05T22:59:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_ESAMI",
+   "sede": "Nazionale",
+   "provincia": null,
+   "km": null,
+   "ambito": "nazionale",
+   "punteggio": 56,
+   "tag": [
+    "ricerca"
+   ],
+   "motivi": [
+    "ricercator",
+    "iii livello"
+   ],
+   "fascia": "buona",
+   "giorni_rimasti": 16,
+   "titolo_verdetto": "escluso",
+   "titolo_nota": "Classi ammesse: LM-6, LM-7, LM-8, LM-9. LM-21 non e' compresa.",
+   "titolo_classi": [
+    "LM-6",
+    "LM-7",
+    "LM-8",
+    "LM-9"
+   ],
+   "titolo_nomi": [
+    "Biologia"
+   ]
+  },
+  {
+   "id": "inpa:140934ab20d7427ab92a9f2c70693a98",
+   "media_id": "31b16f09-de76-4be7-a50b-73f053ec0522",
+   "fonte": "InPA",
+   "titolo": "pubblico concorso, per titoli ed esami, per l’assunzione, a tempo indeterminato, di n. 1 unità di personale con il profilo di Ricercatore in prova – III livello professionale dell’Istituto Superiore di Sanità presso il Dipartimento Neuroscienze – codice concorso: TI RIC NEURO 2026 01.",
+   "figura": "Ricercatore",
+   "ente": "Istituto Superiore di Sanita' - ISS",
+   "descrizione": "TIRICNEURO202601",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=140934ab20d7427ab92a9f2c70693a98",
+   "pubblicazione": "2026-11-05T23:00:00Z",
+   "scadenza": "2026-12-05T22:59:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_ESAMI",
+   "sede": "Nazionale",
+   "provincia": null,
+   "km": null,
+   "ambito": "nazionale",
+   "punteggio": 56,
+   "tag": [
+    "ricerca"
+   ],
+   "motivi": [
+    "ricercator",
+    "iii livello"
+   ],
+   "fascia": "buona",
+   "giorni_rimasti": 16,
+   "titolo_verdetto": "escluso",
+   "titolo_nota": "Classi ammesse: LM-17, LM-41, LM-6, LM-7, LM-8, LM-9. LM-21 non e' compresa.",
+   "titolo_classi": [
+    "LM-17",
+    "LM-41",
+    "LM-6",
+    "LM-7",
+    "LM-8",
+    "LM-9"
+   ],
+   "titolo_nomi": [
+    "Medicina e chirurgia"
+   ]
   },
   {
    "id": "inpa:3aa75b95a45f401e877de6f9c45e688d",
@@ -643,7 +721,7 @@
     "primo ricercator"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 26,
+   "giorni_rimasti": 12,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-41. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -681,44 +759,47 @@
     "ai"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 14,
+   "giorni_rimasti": 0,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
    "titolo_nomi": []
   },
   {
-   "id": "inpa:fbb588d8ee1c47938ec197b9e21abbb2",
-   "media_id": null,
+   "id": "inpa:a73435df12364f1cb4c53c441882f2b7",
+   "media_id": "a1abfdf7-e40a-4ece-ba90-917ee8f6eecf",
    "fonte": "InPA",
-   "titolo": "Rif. 6112 - concorso pubblico, per esami, a n. 1 posto nell’area dei funzionari, settore scientifico – tecnologico con competenze in ambito dell’istologia, embriologia e imaging avanzato – per le esigenze del Dipartimento di scienze mediche e chirurgiche - DIMEC dell'Alma Mater Studiorum, Università di Bologna, prioritariamente riservato a volontario delle FFAA",
-   "figura": "Area dei funzionari, settore scientifico – tecnologico",
-   "ente": "Alma Mater Studiorum - Universita' di Bologna",
-   "descrizione": "Rif. 6112 - concorso pubblico, per esami, a n. 1 posto nell’area dei funzionari, settore scientifico – tecnologico con competenze in ambito dell’istologia, embriologia e imaging avanzato – per le esigenze del Dipartimento di scienze mediche e chirurgiche - DIMEC dell'Alma Mater Studiorum, Università di Bologna, prioritariamente riservato a volontario delle FFAA",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=fbb588d8ee1c47938ec197b9e21abbb2",
-   "pubblicazione": "2026-10-20T08:00:00Z",
-   "scadenza": "2026-11-10T22:59:00Z",
+   "titolo": "AZIENDA OSPEDALIERA METROPOLITANA (AOM) - Pubblica selezione, per titoli e colloquio, per l'assegnazione di una borsa di studio, della durata di 12 mesi, per collaborare al progetto di ricerca denominato \"A phase IIIb multicenter, randomized, double-blind, placebocontrolled study to evaluate the efficacy and safety of Ocrelizumab in adults with primary progressive Multiple Sclerosis - WA40404\" (BA581), da svolgersi presso l'U.O. Clinica Neurologica",
+   "figura": "Borsista",
+   "ente": "IRCCS Ospedale Policlinico San Martino",
+   "descrizione": "PUBBLICA SELEZIONE, PER TITOLI E COLLOQUIO, PER L’ASSEGNAZIONE DI UNA BORSA DI STUDIO, DELLA DURATA DI 12 MESI, PER COLLABORARE AL PROGETTO DI RICERCA DENOMINATO “ A PHASE IIIB MULTICENTER, RANDOMIZED, DOUBLE-BLIND, PLACEBOCONTROLLED STUDY TO EVALUATE THE EFFICACY AND SAFETY OF OCRELIZUMAB IN ADULTS WITH PRIMARY PROGRESSIVE MULTIPLE SCLEROSIS – WA40404 ” (BA581) , DA SVOLGERSI PRESSO L’U.O. CLINICA NEUROLOGICA.",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a73435df12364f1cb4c53c441882f2b7",
+   "pubblicazione": "2026-11-16T14:20:00Z",
+   "scadenza": "2026-12-07T22:59:00Z",
    "stato": "Aperto",
    "posti": 1,
-   "procedura": "ESAMI",
-   "sede": "Bologna",
-   "provincia": "Bologna",
-   "km": 115,
+   "procedura": "TITOLI_COLLOQUIO",
+   "sede": "Genova",
+   "provincia": "Genova",
+   "km": 139,
    "ambito": "provincia",
    "punteggio": 52,
    "tag": [
     "ricerca",
-    "ict"
+    "ente-ricerca",
+    "sanita"
    ],
    "motivi": [
-    "ricercator",
-    "area dei funzionari, settore scientific"
+    "borsa di studio",
+    "irccs",
+    "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 5,
+   "giorni_rimasti": 18,
    "titolo_verdetto": "ignoto",
-   "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
-   "titolo_classi": []
+   "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
+   "titolo_classi": [],
+   "titolo_nomi": []
   },
   {
    "id": "inpa:2b15381822744c6cb6d9f3ab882af967",
@@ -750,7 +831,7 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 18,
+   "giorni_rimasti": 4,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -786,130 +867,13 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 18,
+   "giorni_rimasti": 4,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Biologia. Da verificare nel PDF.",
    "titolo_classi": [],
    "titolo_nomi": [
     "Biologia"
    ]
-  },
-  {
-   "id": "inpa:e9aab3591c224111b6811cd705c06bd0",
-   "media_id": "e0a952bf-a96e-4ead-9447-a99beb39e2ba",
-   "fonte": "InPA",
-   "titolo": "AZIENDA OSPEDALIERA METROPOLITANA (AOM) - Pubblica selezione, una borsa di studio, della durata di 12 mesi da svolgersi presso la U.O. Oncologia Medica. ( codice selezione",
-   "figura": "Borsista",
-   "ente": "IRCCS Ospedale Policlinico San Martino",
-   "descrizione": "Pubblica selezione, per titoli e colloquio, per l’assegnazione di una borsa di studio, delladurata di 12 mesi, per collaborare al progetto NET - 2018-12367032 “COMPAS: communication and Management Of PAIliative care through digital Simulation-based education” (M383A), da svolgersi presso la U.O. Oncologia Medica.",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e9aab3591c224111b6811cd705c06bd0",
-   "pubblicazione": "2026-10-26T15:30:00Z",
-   "scadenza": "2026-11-16T22:59:00Z",
-   "stato": "Aperto",
-   "posti": 1,
-   "procedura": "TITOLI_COLLOQUIO",
-   "sede": "Genova",
-   "provincia": "Genova",
-   "km": 139,
-   "ambito": "provincia",
-   "punteggio": 52,
-   "tag": [
-    "ricerca",
-    "ente-ricerca",
-    "sanita"
-   ],
-   "motivi": [
-    "borsa di studio",
-    "irccs",
-    "azienda ospedalier"
-   ],
-   "fascia": "buona",
-   "giorni_rimasti": 11,
-   "titolo_verdetto": "ammesso",
-   "titolo_nota": "Il bando ammette Ingegneria biomedica.",
-   "titolo_classi": [
-    "L-8"
-   ],
-   "titolo_nomi": [
-    "Ingegneria dell'informazione"
-   ]
-  },
-  {
-   "id": "inpa:62198a7568a34cddbc8efdbf425c1135",
-   "media_id": "60f99d88-018d-4967-aded-8cb3b15c5619",
-   "fonte": "InPA",
-   "titolo": "AZIENDA OSPEDALIERA METROPOLITANA (AOM) - Pubblica selezione, per titoli e colloquio, per l'assegnazione di una borsa di studio, della durata di 12 mesi, per collaborare al progetto \"Sorveglianza genomica dei germi multiresistenti e dei loro meccanismi di resistenza agli antimicrobici - PNCAR 2025-2026\" (GA635), da svolgersi presso la U.O. Microbiologia.",
-   "figura": "Borsa di studio",
-   "ente": "IRCCS Ospedale Policlinico San Martino",
-   "descrizione": "Pubblica selezione, per titoli e colloquio, per l'assegnazione di una borsa di studio, della durata di 12 mesi, per collaborare al progetto \"Sorveglianza genomica dei germi multiresistenti e dei loro meccanismi di resistenza agli antimicrobici - PNCAR 2025-2026\" (GA635), da svolgersi presso la U.O. Microbiologia.",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=62198a7568a34cddbc8efdbf425c1135",
-   "pubblicazione": "2026-10-26T14:40:00Z",
-   "scadenza": "2026-11-16T14:36:00Z",
-   "stato": "Aperto",
-   "posti": 1,
-   "procedura": "TITOLI_COLLOQUIO",
-   "sede": "Liguria (provincia da verificare)",
-   "provincia": null,
-   "km": 139,
-   "ambito": "regione",
-   "punteggio": 52,
-   "tag": [
-    "ricerca",
-    "ente-ricerca",
-    "sanita"
-   ],
-   "motivi": [
-    "borsa di studio",
-    "irccs",
-    "azienda ospedalier"
-   ],
-   "fascia": "buona",
-   "giorni_rimasti": 11,
-   "titolo_verdetto": "escluso",
-   "titolo_nota": "Titoli richiesti: Biologia Applicata e Sperimentale; Biologia. Ingegneria biomedica non c'e'.",
-   "titolo_classi": [
-    "L-6"
-   ],
-   "titolo_nomi": [
-    "Biologia Applicata e Sperimentale",
-    "Biologia"
-   ]
-  },
-  {
-   "id": "inpa:cb935a3525804a0a8b8161c59faa0104",
-   "media_id": "e4745a96-dfbb-4a08-8803-199c8d1da6f6",
-   "fonte": "InPA",
-   "titolo": "AZIENDA OSPEDALIERA METROPOLITANA (AOM)Pubblica selezione, per titoli e colloquio, per l'assegnazione di una borsa di studio, della durata di 6 mesi, presso le UU.OO. Medicina Nucleare e Radiologia",
-   "figura": "Borsista",
-   "ente": "IRCCS Ospedale Policlinico San Martino",
-   "descrizione": "Pubblica selezione, per titoli e colloquio, per l’assegnazione di una borsa di studio, della durata di 6 mesi, per collaborare al progetto denominato “Molecular Imaging Study of the immune response in muscle denervation: a high tech study in murine models and human patients” CUP C33C21000240001 (R399A) da svolgersi presso le UU.OO. Medicina Nucleare e Radiologia.",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=cb935a3525804a0a8b8161c59faa0104",
-   "pubblicazione": "2026-10-21T13:30:00Z",
-   "scadenza": "2026-11-10T22:59:00Z",
-   "stato": "Aperto",
-   "posti": 1,
-   "procedura": "TITOLI_COLLOQUIO",
-   "sede": "Genova",
-   "provincia": "Genova",
-   "km": 139,
-   "ambito": "provincia",
-   "punteggio": 52,
-   "tag": [
-    "ricerca",
-    "ente-ricerca",
-    "sanita"
-   ],
-   "motivi": [
-    "borsa di studio",
-    "irccs",
-    "azienda ospedalier"
-   ],
-   "fascia": "buona",
-   "giorni_rimasti": 5,
-   "titolo_verdetto": "ignoto",
-   "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
-   "titolo_classi": [],
-   "titolo_nomi": []
   },
   {
    "id": "inpa:696a07a70f0049b7932107933321373d",
@@ -938,7 +902,7 @@
     "collaboratore tecnico enti di ricerca"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 26,
+   "giorni_rimasti": 12,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1044,40 +1008,6 @@
    "titolo_classi": []
   },
   {
-   "id": "inpa:aa2b122fc7de4f7f88531ba15920df3c",
-   "media_id": null,
-   "fonte": "InPA",
-   "titolo": "BANCA D'ITALIA - 4 BORSE DI RICERCA PER ECONOMISTE ED ECONOMISTI",
-   "figura": "Borsista",
-   "ente": "Banca D'Italia",
-   "descrizione": "BANCA D'ITALIA - 4 BORSE DI RICERCA PER ECONOMISTE ED ECONOMISTI La Banca d’Italia mette a concorso 4 borse di ricerca per economiste ed economisti con interesse ed esperienze nell’ambito della ricerca economica applicata e delle sue implicazioni di politica economica, nelle seguenti aree: Macroeconomics; Monetary Economics; Monetary Policy; Macroeconometrics; Financial and Credit Markets and the Macroeconomy; Financial Economics; Banking; Financial Institutions and Markets; Financial Stability; Macroprudential Policy; International Economics and Finance; International Trade; Industrial Organi",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=aa2b122fc7de4f7f88531ba15920df3c",
-   "pubblicazione": "2026-10-13T11:25:00Z",
-   "scadenza": "2026-11-13T11:00:00Z",
-   "stato": "Aperto",
-   "posti": 4,
-   "procedura": "TITOLI_ESAMI",
-   "sede": "Nazionale",
-   "provincia": null,
-   "km": null,
-   "ambito": "nazionale",
-   "punteggio": 50,
-   "tag": [
-    "ricerca",
-    "ai-ml"
-   ],
-   "motivi": [
-    "borsist",
-    "phd",
-    "statistic"
-   ],
-   "fascia": "buona",
-   "giorni_rimasti": 7,
-   "titolo_verdetto": "ignoto",
-   "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
-   "titolo_classi": []
-  },
-  {
    "id": "inpa:91c62cff2c924787a1d275d305ca0039",
    "media_id": "2bc291ac-8f68-4bee-945f-d42302f3f6cd",
    "fonte": "InPA",
@@ -1104,7 +1034,7 @@
     "iii livello"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 26,
+   "giorni_rimasti": 12,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Biologia. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -1139,7 +1069,7 @@
     "iii livello"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 26,
+   "giorni_rimasti": 12,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-6, LM-8, LM-9. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1178,7 +1108,7 @@
     "iii livello"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 23,
+   "giorni_rimasti": 9,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-23, LM-24, LM-26, LM-28, LM-33, LM-4. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1192,6 +1122,50 @@
    "titolo_nomi": [
     "Architettura e Ingegneria edile"
    ]
+  },
+  {
+   "id": "inpa:ba21a98f1d714433a70616ba8347d812",
+   "media_id": "be91591e-1b2e-45c3-8d6a-682bf94cfefe",
+   "fonte": "InPA",
+   "titolo": "Concorso pubblico, per titoli ed esami, per n. 1 posto, Area dei Funzionari, settore scientifico-tecnologico, con contratto di lavoro subordinato a tempo indeterminato e pieno, per le esigenze del Dipartimento di Chimica “Ugo Schiff” – DICUS",
+   "figura": "Funzionario",
+   "ente": "Universita' degli Studi di Firenze",
+   "descrizione": "Concorso pubblico, per titoli ed esami, per n. 1 posto, Area dei Funzionari, settore scientifico-tecnologico, con contratto di lavoro subordinato a tempo indeterminato e pieno, per le esigenze del Dipartimento di Chimica “Ugo Schiff” – DICUS",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ba21a98f1d714433a70616ba8347d812",
+   "pubblicazione": "2026-11-06T10:00:00Z",
+   "scadenza": "2026-12-04T22:59:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_ESAMI",
+   "sede": "Firenze",
+   "provincia": "Firenze",
+   "km": 69,
+   "ambito": "provincia",
+   "punteggio": 46,
+   "tag": [
+    "ict",
+    "requisiti"
+   ],
+   "motivi": [
+    "area dei funzionari, settore scientific",
+    "settore scientifico-tecnologico",
+    "laurea specialistica"
+   ],
+   "fascia": "buona",
+   "giorni_rimasti": 15,
+   "titolo_verdetto": "escluso",
+   "titolo_nota": "Classi ammesse: 14/S, 62/S, 8/S, 81/S, LM-13, LM-54, LM-71, LM-8. LM-21 non e' compresa.",
+   "titolo_classi": [
+    "14/S",
+    "62/S",
+    "8/S",
+    "81/S",
+    "LM-13",
+    "LM-54",
+    "LM-71",
+    "LM-8"
+   ],
+   "titolo_nomi": []
   },
   {
    "id": "inpa:2d00c31f860e47928a91c04a9f16af78",
@@ -1220,7 +1194,7 @@
     "statistic"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 27,
+   "giorni_rimasti": 13,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-16, LM-56, LM-77, LM-82, LM-83. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1233,23 +1207,23 @@
    "titolo_nomi": []
   },
   {
-   "id": "inpa:1df8f6d229604fb98be18bba6d8c98a9",
-   "media_id": "888729f3-fdba-405f-a789-291179f73136",
+   "id": "inpa:252697ca6d4040bca0d89e31c16d7d3f",
+   "media_id": "1c9f83c6-c12d-4ad1-bd69-055e393b2462",
    "fonte": "InPA",
-   "titolo": "CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER L’ASSUNZIONE A TEMPO PIENO, CONTRATTO DI APPRENDISTATO 36 MESI, DI N. 5 UNITÀ DI PERSONALE – AREA DEI FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE",
-   "figura": "FUNZIONARIO GESTIONE RISORSE FINANZIARIE - FUNZIONARIO ANALISI ECONOMICO - FINANZIARE",
-   "ente": "Regione Toscana",
-   "descrizione": "CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER L’ASSUNZIONE A TEMPO PIENO, CONTRATTO DI APPRENDISTATO 36 MESI, DI N. 5 UNITÀ DI PERSONALE – AREA DEI FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=1df8f6d229604fb98be18bba6d8c98a9",
-   "pubblicazione": "2026-10-08T08:00:00Z",
-   "scadenza": "2026-11-06T11:00:00Z",
+   "titolo": "SELEZIONE PUBBLICA PER ESAMI PER L’ASSUNZIONE A TEMPO INDETERMINATO E PIENO DI N. 1 ISTRUTTORE INFORMATICO (AREA DEGLI ISTRUTTORI) PRESSO IL SERVIZIO INNOVAZIONE TECNOLOGICA E DIGITALE",
+   "figura": "Istruttore Informatico",
+   "ente": "Comune di Forli'",
+   "descrizione": "E' indetto un concorso pubblico, per soli esami, ai fini dell’assunzione a tempo indeterminato e a tempo pieno di nr. 1 Istruttore Informatico (Area degli istruttori) da assegnare al Servizio Innovazione Tecnologica e Digitale del Comune di Forlì.",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=252697ca6d4040bca0d89e31c16d7d3f",
+   "pubblicazione": "2026-11-09T14:00:00Z",
+   "scadenza": "2026-12-04T13:00:00Z",
    "stato": "Aperto",
    "posti": 1,
-   "procedura": "TITOLI_ESAMI",
-   "sede": "Toscana (provincia da verificare)",
-   "provincia": null,
-   "km": 69,
-   "ambito": "regione",
+   "procedura": "ESAMI",
+   "sede": "Forli'-Cesena",
+   "provincia": "Forli'-Cesena",
+   "km": 143,
+   "ambito": "provincia",
    "punteggio": 44,
    "tag": [
     "ai-ml",
@@ -1257,85 +1231,47 @@
    ],
    "motivi": [
     "ai",
-    "sistemi informativ"
+    "ict"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 0,
-   "titolo_verdetto": "ignoto",
-   "titolo_nota": "Non sono riuscito a leggere il PDF del bando.",
-   "titolo_classi": [],
-   "titolo_nomi": []
-  },
-  {
-   "id": "inpa:ca878a33d5e84b4bbd505201f412bfcb",
-   "media_id": "45548d50-aa8f-4a77-b7e1-84791334f5ea",
-   "fonte": "InPA",
-   "titolo": "Selezione pubblica, per esami, per l’assunzione a tempo indeterminato e pieno di n. 1 unità di personale dell’Area delle Elevate Professionalità – settore professionale amministrativo-gestionale, presso l’Area Affari generali e legali della Scuola Normale Superiore",
-   "figura": "Elevata professionalità",
-   "ente": "Scuola Normale Superiore",
-   "descrizione": "Selezione pubblica, per esami, per l’assunzione a tempo indeterminato e pieno di n. 1 unità di personale dell’Area delle Elevate Professionalità – settore professionale amministrativo-gestionale, presso l’Area Affari generali e legali della Scuola Normale Superiore La domanda deve essere presentata esclusivamente per via telematica attraverso la procedura informatica PICA collegandosi al seguente link https://pica.cineca.it/sns , che sarà disponibile dalle ore 16:00 del giorno 26 ottobre 2026 Termine per la presentazione delle domande: entro le ore 16.00 (ora italiana) del 16 novembre 2026. Pe",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ca878a33d5e84b4bbd505201f412bfcb",
-   "pubblicazione": "2026-10-23T09:00:00Z",
-   "scadenza": "2026-11-16T15:00:00Z",
-   "stato": "Aperto",
-   "posti": 1,
-   "procedura": "ESAMI",
-   "sede": "Toscana (provincia da verificare)",
-   "provincia": null,
-   "km": 69,
-   "ambito": "regione",
-   "punteggio": 38,
-   "tag": [
-    "ente-ricerca"
-   ],
-   "motivi": [
-    "scuola normale superiore",
-    "cineca."
-   ],
-   "fascia": "possibile",
-   "giorni_rimasti": 11,
+   "giorni_rimasti": 14,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
    "titolo_nomi": []
   },
   {
-   "id": "inpa:f6d7948770dd452bbff086e71f1f00b6",
-   "media_id": "bad1a733-8465-423e-9e75-694339a0ef31",
+   "id": "inpa:05505ea83d3543fc8acfccf59cd10ee7",
+   "media_id": "af75613f-7217-4bd7-9ac0-e827fa5be943",
    "fonte": "InPA",
-   "titolo": "BANDO DI PUBBLICA SELEZIONE PER SOLI TITOLI PER IL CONFERIMENTO DI N. 1 BORSA DI STUDIO PER LAUREATO IN SCIENZE DELLA NUTRIZIONE UMANA PRESSO LA UOC NEUROLOGIA PEDIATRICA E MALATTIE MUSCOLARI.",
-   "figura": "Laureato in scienze della nutrizione umana",
-   "ente": "Istituto Giannina Gaslini",
-   "descrizione": "BANDO DI PUBBLICA SELEZIONE PER SOLI TITOLI PER IL CONFERIMENTO DI N. 1 BORSA DI STUDIO PER LAUREATO IN SCIENZE DELLA NUTRIZIONE UMANA PRESSO LA UOC NEUROLOGIA PEDIATRICA E MALATTIE MUSCOLARI - IRCCS ISTITUTO GIANNINA GASLINI",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=f6d7948770dd452bbff086e71f1f00b6",
-   "pubblicazione": "2026-11-03T23:00:00Z",
-   "scadenza": "2026-11-19T11:00:00Z",
+   "titolo": "Università di Pisa - selezione pubblica, per esami, per il reclutamento a tempo indeterminato di n. 1 unità di personale da inquadrare nell’Area dei Collaboratori, settore tecnico, scientifico, tecnologico, informatico e dei servizi generali per le esigenze del Sistema Museale di Ateneo",
+   "figura": "Area dei Collaboratori - settore tecnico, scientifico, tecnologico, informatico e dei servizi generali",
+   "ente": "Universita' di Pisa",
+   "descrizione": "Selezione pubblica, per esami, per il reclutamento a tempo indeterminato di n. 1 unità di personale da inquadrare nell’Area dei Collaboratori, settore tecnico, scientifico, tecnologico, informatico e dei servizi generali per le esigenze del Sistema Museale di Ateneo. Le domande di ammissione alla selezione devono essere presentate esclusivamente tramite la piattaforma PICA https://pica.cineca.it/unipi/",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=05505ea83d3543fc8acfccf59cd10ee7",
+   "pubblicazione": "2026-11-13T11:00:00Z",
+   "scadenza": "2026-12-14T12:00:00Z",
    "stato": "Aperto",
    "posti": 1,
-   "procedura": "TITOLI",
-   "sede": "Genova",
-   "provincia": "Genova",
-   "km": 139,
+   "procedura": "ESAMI",
+   "sede": "Pisa",
+   "provincia": "Pisa",
+   "km": 0,
    "ambito": "provincia",
-   "punteggio": 38,
+   "punteggio": 34,
    "tag": [
-    "ricerca",
     "ente-ricerca"
    ],
    "motivi": [
-    "borsa di studio",
-    "irccs"
+    "università di pisa",
+    "cineca."
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 13,
-   "titolo_verdetto": "escluso",
-   "titolo_nota": "Classi ammesse: LM-61. LM-21 non e' compresa.",
-   "titolo_classi": [
-    "LM-61"
-   ],
-   "titolo_nomi": [
-    "scienze della nutrizione umana"
-   ]
+   "giorni_rimasti": 24,
+   "titolo_verdetto": "ignoto",
+   "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
+   "titolo_classi": [],
+   "titolo_nomi": []
   },
   {
    "id": "inpa:bcd98205bb2c4d6f80141577f34902f3",
@@ -1364,7 +1300,7 @@
     "cineca."
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 27,
+   "giorni_rimasti": 13,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-18, LM-27, LM-32. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1402,11 +1338,83 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 25,
+   "giorni_rimasti": 11,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
    "titolo_nomi": []
+  },
+  {
+   "id": "inpa:ddb6d8963083405a85f8b288dddfb993",
+   "media_id": "435d4e3a-aa19-4f9a-b51d-129e37b69f53",
+   "fonte": "InPA",
+   "titolo": "AZIENDA OSPEDALIERA METROPOLITANA (AOM) AVVISO PUBBLICO PER L'ATTRIBUZIONE DI INCARICO QUINQUENNALE DI DIREZIONE DI STRUTTURA COMPLESSA – DISCIPLINA MEDICINA TRASFUSIONALE, PER LA DIREZIONE E L’ORGANIZZAZIONE DELLA U.O.C. MEDICINA TRASFUSIONALE DELL’IRCCS OSPEDALE POLICLINICO SAN MARTINO DELL’AOM (26P_MED_TRASF)",
+   "figura": "INCARICO QUINQUENNALE DI STRUTTURA COMPLESSA",
+   "ente": "IRCCS Ospedale Policlinico San Martino",
+   "descrizione": "AZIENDA OSPEDALIERA METROPOLITANA (AOM) AVVISO PUBBLICO PER L'ATTRIBUZIONE DI INCARICO QUINQUENNALE DI DIREZIONE DI STRUTTURA COMPLESSA – DISCIPLINA MEDICINA TRASFUSIONALE, PER LA DIREZIONE E L’ORGANIZZAZIONE DELLA U.O.C. MEDICINA TRASFUSIONALE DELL’IRCCS OSPEDALE POLICLINICO SAN MARTINO DELL’AOM (26P_MED_TRASF)",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ddb6d8963083405a85f8b288dddfb993",
+   "pubblicazione": "2026-11-19T10:00:00Z",
+   "scadenza": "2026-12-19T22:59:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_COLLOQUIO",
+   "sede": "Genova",
+   "provincia": "Genova",
+   "km": 139,
+   "ambito": "provincia",
+   "punteggio": 32,
+   "tag": [
+    "ente-ricerca",
+    "sanita"
+   ],
+   "motivi": [
+    "irccs",
+    "azienda ospedalier"
+   ],
+   "fascia": "possibile",
+   "giorni_rimasti": 30,
+   "titolo_verdetto": "ignoto",
+   "titolo_nota": "Il bando sembra chiedere: Medicina e Chirurgia e abilitazione all. Da verificare nel PDF.",
+   "titolo_classi": [],
+   "titolo_nomi": [
+    "Medicina e Chirurgia e abilitazione all"
+   ]
+  },
+  {
+   "id": "inpa:2bd5762905804c448868d0f41e30fdbc",
+   "media_id": "d717dc2f-ff1e-4178-b05f-2ca6e2423c84",
+   "fonte": "InPA",
+   "titolo": "AZIENDA OSPEDALIERA METROPOLITANA (AOM) AVVISO PUBBLICO DI PROCEDURA COMPARATIVA, PER TITOLI E COLLOQUIO, PER IL CONFERIMENTO DI N. 1 INCARICO LIBERO-PROFESSIONALE, DELLA DURATA DI 12 MESI, PER COLLABORARE AL PROGETTO “NUOVI APPROCCI DI PREVISIONE DEL RISCHIO PER LA PREVENZIONE PRIMARIA DELLE MALATTIE CARDIOVASCOLARI IN ITALIA: LO STUDIO CVRISK-IT” (RCR-2023-23684267; CUP: C33C23000660001) (U329A) DA SVOLGERSI PRESSO L’U.O. CLINICA DELLE MALATTIE DELL’APPARATO CARDIOVASCOLARE E UTIC",
+   "figura": "Incarico libero professionale",
+   "ente": "IRCCS Ospedale Policlinico San Martino",
+   "descrizione": "AVVISO PUBBLICO DI PROCEDURA COMPARATIVA, PER TITOLI E COLLOQUIO, PER IL CONFERIMENTO DI N. 1 INCARICO LIBERO-PROFESSIONALE, DELLA DURATA DI 12 MESI, PER COLLABORARE AL PROGETTO “NUOVI APPROCCI DI PREVISIONE DEL RISCHIO PER LA PREVENZIONE PRIMARIA DELLE MALATTIE CARDIOVASCOLARI IN ITALIA: LO STUDIO CVRISK-IT” (RCR-2023-23684267; CUP: C33C23000660001) (U329A) DA SVOLGERSI PRESSO L’U.O. CLINICA DELLE MALATTIE DELL’APPARATO CARDIOVASCOLARE E UTIC",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2bd5762905804c448868d0f41e30fdbc",
+   "pubblicazione": "2026-11-06T13:40:00Z",
+   "scadenza": "2026-11-26T22:59:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_COLLOQUIO",
+   "sede": "Genova",
+   "provincia": "Genova",
+   "km": 139,
+   "ambito": "provincia",
+   "punteggio": 32,
+   "tag": [
+    "ente-ricerca",
+    "sanita"
+   ],
+   "motivi": [
+    "irccs",
+    "azienda ospedalier"
+   ],
+   "fascia": "possibile",
+   "giorni_rimasti": 7,
+   "titolo_verdetto": "ignoto",
+   "titolo_nota": "Il bando sembra chiedere: Medicina e Chirurgia. Da verificare nel PDF.",
+   "titolo_classi": [],
+   "titolo_nomi": [
+    "Medicina e Chirurgia"
+   ]
   },
   {
    "id": "inpa:a5a04982d55047389e59dc790b673d8c",
@@ -1436,7 +1444,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 18,
+   "giorni_rimasti": 4,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Medicina e Chirurgia. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -1445,208 +1453,123 @@
    ]
   },
   {
-   "id": "inpa:66cf1af937964a1aa557f7bed3ce1fe7",
-   "media_id": "38b592cf-246e-4ef6-a399-43f1014f279f",
+   "id": "inpa:718045cf54034d9485e04de36113229c",
+   "media_id": "daab1c25-f900-4130-aff1-15aa1710d9a6",
    "fonte": "InPA",
-   "titolo": "AZIENDA OSPEDALIERA METROPOLITANA (AOM) - Avviso pubblico di procedura comparativa, per titoli e colloquio, per i n. 1 incarico libero-professionale, della durata di 4 mesi, per collaborare al Progetto FISM 2022/R-Multi/034 \"Impatto tDCS anodica e realtà virtuale nei pazienti con SM e deficit cognitivo: doppio cieco prospettico randomizzato e controllato\" da svolgersi presso l'U.O. Clinica di Neuroriabilitazione.",
-   "figura": "Incarico libero professionale",
-   "ente": "IRCCS Ospedale Policlinico San Martino",
-   "descrizione": "Avviso pubblico di procedura comparativa, per titoli e colloquio, per il conferimento di n. 1 incarico libero-professionale, della durata di 4 mesi, per collaborare al Progetto FISM 2022/R–Multi/034 “Impatto tDCS anodica e realtà virtuale nei pazienti con SM e deficit cognitivo: doppio cieco prospettico randomizzato e controllato” (N320A) da svolgersi presso l’U.O. Clinica di Neuroriabilitazione",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=66cf1af937964a1aa557f7bed3ce1fe7",
-   "pubblicazione": "2026-10-26T15:55:00Z",
-   "scadenza": "2026-11-16T22:59:00Z",
+   "titolo": "AVVISO PUBBLICO DI RECLUTAMENTO SPECIALE PER L’ASSUNZIONE A TEMPO INDETERMINATO DI 1 UNITA’ DI PERSONALE CON PROFILO DI COLLABORATORE TECNICO PROFESSIONALE DESTINATO AI SOGGETTI IN POSSESSO DEI REQUISITI PREVISTI DALL’ART. 1, COMMA 6 QUATER, DEL D.L. 144/2026, COSI’ COME CONVERTITO CON LEGGE 174/2026",
+   "figura": "collaboratore tecnico professionale con laurea in scienze ambientali",
+   "ente": "Agenzia Regionale per la protezione ambientale della Toscana",
+   "descrizione": "AVVISO PUBBLICO DI RECLUTAMENTO SPECIALE PER L’ASSUNZIONE A TEMPO INDETERMINATO DI 1 UNITA’ DI PERSONALE CON PROFILO DI COLLABORATORE TECNICO PROFESSIONALE DESTINATO AI SOGGETTI IN POSSESSO DEI REQUISITI PREVISTI DALL’ART. 1, COMMA 6 QUATER, DEL D.L. 144/2026, COSI’ COME CONVERTITO CON LEGGE 174/2026",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=718045cf54034d9485e04de36113229c",
+   "pubblicazione": "2026-11-15T23:00:00Z",
+   "scadenza": "2026-11-30T22:59:00Z",
    "stato": "Aperto",
    "posti": 1,
-   "procedura": "TITOLI_COLLOQUIO",
-   "sede": "Genova",
-   "provincia": "Genova",
-   "km": 139,
-   "ambito": "provincia",
-   "punteggio": 32,
+   "procedura": "COLLOQUIO",
+   "sede": "Toscana (provincia da verificare)",
+   "provincia": null,
+   "km": 69,
+   "ambito": "regione",
+   "punteggio": 30,
    "tag": [
-    "ente-ricerca",
-    "sanita"
+    "ai-ml"
    ],
    "motivi": [
-    "irccs",
-    "azienda ospedalier"
+    "ai"
    ],
    "fascia": "possibile",
    "giorni_rimasti": 11,
+   "titolo_verdetto": "ignoto",
+   "titolo_nota": "Il bando sembra chiedere: Scienze ambientali o di titoli. Da verificare nel PDF.",
+   "titolo_classi": [],
+   "titolo_nomi": [
+    "Scienze ambientali o di titoli"
+   ]
+  },
+  {
+   "id": "inpa:b64f398168ee472bbbd4fb5a058301ad",
+   "media_id": "b2001e88-7914-4523-b6dd-fff257821567",
+   "fonte": "InPA",
+   "titolo": "CONCORSO PUBBLICO PER SOLI ESAMI PER L’ASSUNZIONE A TEMPO PIENO ED INDETERMINATO DI N. 1 UNITA’ DI PERSONALE NEL PROFILO PROFESSIONALE DI \"ISTRUTTORE AMMINISTRATIVO” - AREA DEGLI ISTRUTTORI, DA DESTINARE AL SETTORE “SERVIZI AL TERRITORIO” DEL COMUNE DI SANT'ILARIO D'ENZA",
+   "figura": "Istruttore amministrativo",
+   "ente": "Comune di Sant'Ilario D'Enza",
+   "descrizione": "Il Comune di Sant'Ilario d'Enza rende noto che è indetto un concorso pubblico, per soli esami, ai fini della copertura a tempo pieno e indeterminato di n. 1 posto vacante nel profilo di ISTRUTTORE AMMINISTRATIVO, con inquadramento nell’Area degli Istruttori del CCNL Funzioni Locali, da assegnare al Settore “SERVIZI AL TERRITORIO”.",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=b64f398168ee472bbbd4fb5a058301ad",
+   "pubblicazione": "2026-11-18T10:00:00Z",
+   "scadenza": "2026-12-18T12:00:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "ESAMI",
+   "sede": "Reggio Emilia",
+   "provincia": "Reggio Emilia",
+   "km": 111,
+   "ambito": "provincia",
+   "punteggio": 30,
+   "tag": [
+    "ai-ml"
+   ],
+   "motivi": [
+    "ai"
+   ],
+   "fascia": "possibile",
+   "giorni_rimasti": 28,
+   "titolo_verdetto": "ignoto",
+   "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
+   "titolo_classi": [],
+   "titolo_nomi": []
+  },
+  {
+   "id": "inpa:cc6e4d7148614731b63547cbacc52937",
+   "media_id": "7ad1794b-8e8d-4ff6-babf-c822bc186718",
+   "fonte": "InPA",
+   "titolo": "SELEZIONE PUBBLICA PER N. 1 INCARICO DI RICERCA,ART. 22ter L. 240/2010,TD 12 MESI,(GSD) 06/MEDS-09,(SSD) MEDS-09/A ONCOLOGIA MEDICA-DIP. DI MEDICINA E CHIRURGIA-UNIV. PARMA",
+   "figura": "conferimento di Incarichi di Ricerca",
+   "ente": "Universita' degli Studi di Parma",
+   "descrizione": "Il programma di ricerca è finalizzato allo studio del carcinoma mammario a esordio precoce, con particolare attenzione alle pazienti di età inferiore ai 40 anni prive di mutazioni germinali patogenetiche nei geni BRCA1/2. Il progetto mira a valutare il ruolo del deficit funzionale della ricombinazione omologa (HRD), mediante saggio funzionale RAD51, nell’identificazione di alterazioni dei meccanismi di riparazione del DNA. Attraverso l’analisi di campioni tumorali mediante tecniche di immunofluorescenza, sequenziamento genomico e analisi dell’espressione genica, saranno caratterizzate le basi ",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=cc6e4d7148614731b63547cbacc52937",
+   "pubblicazione": "2026-11-10T23:01:00Z",
+   "scadenza": "2026-11-25T22:59:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_COLLOQUIO",
+   "sede": "Parma",
+   "provincia": "Parma",
+   "km": 121,
+   "ambito": "provincia",
+   "punteggio": 30,
+   "tag": [
+    "ai-ml"
+   ],
+   "motivi": [
+    "ai"
+   ],
+   "fascia": "possibile",
+   "giorni_rimasti": 6,
    "titolo_verdetto": "escluso",
-   "titolo_nota": "Classi ammesse: LM-6. LM-21 non e' compresa.",
+   "titolo_nota": "Classi ammesse: LM-9. LM-21 non e' compresa.",
    "titolo_classi": [
-    "LM-6"
+    "LM-9"
    ],
-   "titolo_nomi": [
-    "Biologia"
-   ]
+   "titolo_nomi": []
   },
   {
-   "id": "inpa:b22f518b87384b73bb3847f5d2a26716",
-   "media_id": "3e5d0932-179b-4246-a1f2-2684e35fd1bb",
+   "id": "inpa:6425cd406d3d48e7be7153af327c94aa",
+   "media_id": "59b1d22d-1a79-4e78-b632-a5451c1dd9d2",
    "fonte": "InPA",
-   "titolo": "AZIENDA OSPEDALIERA METROPOLITANA (AOM) - Avviso pubblico per il conferimento di n. 1 incarico libero-professionale, della durata di 12 mesi, per collaborare al Programma Regionale FESR 2021-2027 - progetto \"SOCRATE - Soluzione tecnologica Organizzativa per la Continuità di cuRA integrata e TErritoriale del paziente fragile\" (U326A) da svolgersi presso l'U.O. Clinica di Neuroriabilitazione",
-   "figura": "Incarico libero professionale",
-   "ente": "IRCCS Ospedale Policlinico San Martino",
-   "descrizione": "Avviso pubblico di procedura comparativa, per titoli e colloquio, per il conferimento di n. 1 incarico libero-professionale, della durata di 12 mesi, per collaborare al Programma Regionale FESR 2021-2027 – progetto “ SOCRATE – Soluzione tecnologica Organizzativa per la Continuità di cuRA integrata e TErritoriale del paziente fragile ” (U326A) da svolgersi presso l’U.O. Clinica di Neuroriabilitazione",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=b22f518b87384b73bb3847f5d2a26716",
-   "pubblicazione": "2026-10-26T14:46:00Z",
-   "scadenza": "2026-11-16T22:59:00Z",
+   "titolo": "concorso pubblico, per titoli ed esami, per la copertura a tempo indeterminato di n. 17 posti di Operatore tecnico specializzato di Centrale operativa – Area degli Operatori – da assegnare al Dipartimento Regionale Emergenza Urgenza dell’Azienda Tutela della Salute Liguria, di cui n. 5 posti riservati ai volontari delle Forze armate e n. 2 posti riservati agli operatori volontari che hanno concluso senza demerito il servizio civile universale ovvero il servizio civile nazionale.",
+   "figura": "OPERATORE/TECNICO/SPECIALIZZATO/CENTRALI/OPERATIVE",
+   "ente": "Azienda Sociosanitaria Ligure n.1",
+   "descrizione": "Concorso pubblico, per titoli ed esami, per la copertura a tempo indeterminato di n. 17 posti di Operatore tecnico specializzato di Centrale operativa – Area degli Operatori – da assegnare al Dipartimento Regionale Emergenza Urgenza dell’Azienda Tutela della Salute Liguria, di cui n. 5 posti riservati ai volontari delle Forze armate e n. 2 posti riservati agli operatori volontari che hanno concluso senza demerito il servizio civile universale ovvero il servizio civile nazionale.",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=6425cd406d3d48e7be7153af327c94aa",
+   "pubblicazione": "2026-11-18T16:00:00Z",
+   "scadenza": "2026-12-18T11:00:00Z",
    "stato": "Aperto",
-   "posti": 1,
-   "procedura": "TITOLI_COLLOQUIO",
-   "sede": "Genova",
-   "provincia": "Genova",
-   "km": 139,
-   "ambito": "provincia",
-   "punteggio": 32,
-   "tag": [
-    "ente-ricerca",
-    "sanita"
-   ],
-   "motivi": [
-    "irccs",
-    "azienda ospedalier"
-   ],
-   "fascia": "possibile",
-   "giorni_rimasti": 11,
-   "titolo_verdetto": "ignoto",
-   "titolo_nota": "Il bando sembra chiedere: Medicina e Chirurgia. Da verificare nel PDF.",
-   "titolo_classi": [],
-   "titolo_nomi": [
-    "Medicina e Chirurgia"
-   ]
-  },
-  {
-   "id": "inpa:3474f3b6565c49e4b0398eab1a2b889a",
-   "media_id": "80edee1f-4c86-438a-abdc-a6a0b3eef06e",
-   "fonte": "InPA",
-   "titolo": "AZIENDA OSPEDALIERA METROPOLITANA (AOM) - Avviso pubblico di procedura comparativa, per titoli e colloquio, per il conferimento di n. 1 incarico libero-professionale, della durata di 24 mesi, per collaborare al progetto “Enroll-HD” (GA379) da svolgersi presso l’U.O. Genetica Medica.",
-   "figura": "Incarico libero professionale",
-   "ente": "IRCCS Ospedale Policlinico San Martino",
-   "descrizione": "Avviso pubblico di procedura comparativa, per titoli e colloquio, per il conferimento di n. 1 incarico libero-professionale, della durata di 24 mesi, per collaborare al progetto “Enroll-HD” (GA379) da svolgersi presso l’U.O. Genetica Medica.",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3474f3b6565c49e4b0398eab1a2b889a",
-   "pubblicazione": "2026-10-26T14:00:00Z",
-   "scadenza": "2026-11-16T22:59:00Z",
-   "stato": "Aperto",
-   "posti": 1,
+   "posti": 17,
    "procedura": "TITOLI_COLLOQUIO",
    "sede": "Liguria (provincia da verificare)",
    "provincia": null,
    "km": 139,
    "ambito": "regione",
-   "punteggio": 32,
-   "tag": [
-    "ente-ricerca",
-    "sanita"
-   ],
-   "motivi": [
-    "irccs",
-    "azienda ospedalier"
-   ],
-   "fascia": "possibile",
-   "giorni_rimasti": 11,
-   "titolo_verdetto": "ignoto",
-   "titolo_nota": "Il bando sembra chiedere: Medicina e Chirurgia. Da verificare nel PDF.",
-   "titolo_classi": [],
-   "titolo_nomi": [
-    "Medicina e Chirurgia"
-   ]
-  },
-  {
-   "id": "inpa:adb4c666e5c84b2cbc73abb46f7fa5d2",
-   "media_id": "c6c9d7a9-f0c5-4d3c-af4a-129caeb965d3",
-   "fonte": "InPA",
-   "titolo": "AZIENDA OSPEDALIERA METROPOLITANA (AOM) Avviso pubblico di procedura comparativa, per 1 incarico libero-professionale, della durata di 24 mesi, per collaborare al progetto \"TROMBI-NANO-ICTUS - Studio ex vivo di sistemi nanoparticellari per il veicolamento di agenti trombolitici su trombi prelevati nel corso di procedure angiografiche in pazienti con ictus ischemico acuto da occlusione dei grossi vasi\" (FA377) da svolgersi presso l'U.O. Neurologia. (codice selezione 26LP_NEUROLOGIA_ICTUS_24)",
-   "figura": "Incarico libero professionale",
-   "ente": "IRCCS Ospedale Policlinico San Martino",
-   "descrizione": "Avviso pubblico di procedura comparativa, per titoli e colloquio, per il conferimento di n. 1 incarico libero-professionale, della durata di 24 mesi, per collaborare al progetto “ TROMBI-NANO-ICTUS - Studio ex vivo di sistemi nanoparticellari per il veicolamento di agenti trombolitici su trombi prelevati nel corso di procedure angiografiche in pazienti con ictus ischemico acuto da occlusione dei grossi vasi” (FA377) da svolgersi presso l’U.O. Neurologia.",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=adb4c666e5c84b2cbc73abb46f7fa5d2",
-   "pubblicazione": "2026-10-21T12:20:00Z",
-   "scadenza": "2026-11-10T22:59:00Z",
-   "stato": "Aperto",
-   "posti": 1,
-   "procedura": "TITOLI_COLLOQUIO",
-   "sede": "Genova",
-   "provincia": "Genova",
-   "km": 139,
-   "ambito": "provincia",
-   "punteggio": 32,
-   "tag": [
-    "ente-ricerca",
-    "sanita"
-   ],
-   "motivi": [
-    "irccs",
-    "azienda ospedalier"
-   ],
-   "fascia": "possibile",
-   "giorni_rimasti": 5,
-   "titolo_verdetto": "escluso",
-   "titolo_nota": "Classi ammesse: LM-6. LM-21 non e' compresa.",
-   "titolo_classi": [
-    "LM-6"
-   ],
-   "titolo_nomi": [
-    "Biologia"
-   ]
-  },
-  {
-   "id": "inpa:0bb895af99fc48c587d88c5807e850c1",
-   "media_id": "4f5548cb-d23b-448b-a4d5-70c54e9e760a",
-   "fonte": "InPA",
-   "titolo": "AZIENDA OSPEDALIERA METROPOLITANA (AOM) Avviso pubblico di procedura comparativa, per titoli e colloquio, per il conferimento di n. 1 incarico libero-professionale, della durata di 24 mesi da svolgersi presso l'U.O. Clinica di Neuroriabilitazione",
-   "figura": "Incarico libero professionale",
-   "ente": "IRCCS Ospedale Policlinico San Martino",
-   "descrizione": "Avviso pubblico di procedura comparativa, per titoli e colloquio, per il conferimento di n. 1 incarico libero-professionale, della durata di 24 mesi, per collaborare al Progetto FISM 2025/R – multi 021 Studio MS-BONE-TRAINING-2026 – “ Aerobic and resistance training program in Multiple Sclerosis patients: effects on bone metabolism, motor function and quality of life ” (GA343) da svolgersi presso l’U.O. Clinica di Neuroriabilitazione",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0bb895af99fc48c587d88c5807e850c1",
-   "pubblicazione": "2026-10-11T14:30:00Z",
-   "scadenza": "2026-11-10T22:59:00Z",
-   "stato": "Aperto",
-   "posti": 1,
-   "procedura": "TITOLI_COLLOQUIO",
-   "sede": "Genova",
-   "provincia": "Genova",
-   "km": 139,
-   "ambito": "provincia",
-   "punteggio": 32,
-   "tag": [
-    "ente-ricerca",
-    "sanita"
-   ],
-   "motivi": [
-    "irccs",
-    "azienda ospedalier"
-   ],
-   "fascia": "possibile",
-   "giorni_rimasti": 5,
-   "titolo_verdetto": "escluso",
-   "titolo_nota": "Titoli richiesti: Tecniche di Radiologia Medica; Professioni Sanitarie Tecniche. Ingegneria biomedica non c'e'.",
-   "titolo_classi": [],
-   "titolo_nomi": [
-    "Tecniche di Radiologia Medica",
-    "Professioni Sanitarie Tecniche"
-   ]
-  },
-  {
-   "id": "inpa:7b3b4a8aea934e798e7ad1e216790342",
-   "media_id": "a6cdb702-ec7b-40d0-a323-4967a17ddf70",
-   "fonte": "InPA",
-   "titolo": "CONCORSO PUBBLICO PER ESAMI PER N. 3 POSTI A TEMPO INDETERMINATO E PIENO DI ISTRUTTORE IN ATTIVITA’ TECNICHE E PROGETTUALI (con prioritaria applicazione, su n. 1 posto, della riserva alla Categoria Disabili di cui all’art. 1 della L. 68/1999 o della riserva ai Volontari delle Forze Armate, di cui agli artt. 678 e 1014 del D.Lgs. 66/2010)",
-   "figura": "Istruttore in attività tecniche e progettuali",
-   "ente": "Comune di Scarperia e San Piero",
-   "descrizione": "Concorso pubblico per esami, per la copertura di n. 3 posti a tempo indeterminato e pieno nel profilo professionale di “Istruttore in attività tecniche e progettuali”, Area degli Istruttori CCNL 2022-2024 Comparto Funzioni Locali",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=7b3b4a8aea934e798e7ad1e216790342",
-   "pubblicazione": "2026-10-06T14:00:00Z",
-   "scadenza": "2026-11-05T22:59:00Z",
-   "stato": "Aperto",
-   "posti": 3,
-   "procedura": "ESAMI",
-   "sede": "Firenze",
-   "provincia": "Firenze",
-   "km": 69,
-   "ambito": "provincia",
    "punteggio": 30,
    "tag": [
     "ai-ml"
@@ -1655,37 +1578,29 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 0,
-   "titolo_verdetto": "ammesso",
-   "titolo_nota": "Nessuna classe richiesta: ammessa qualunque laurea magistrale.",
-   "titolo_classi": [
-    "L-17",
-    "L-21",
-    "L-23",
-    "L-32",
-    "L-34",
-    "L-6",
-    "L-7"
-   ],
+   "giorni_rimasti": 28,
+   "titolo_verdetto": "ignoto",
+   "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
+   "titolo_classi": [],
    "titolo_nomi": []
   },
   {
-   "id": "inpa:73115355e472460db1a853a27ee28074",
-   "media_id": "1b39bb90-4819-4370-8dab-12724ace15c5",
+   "id": "inpa:39e4f91df7434ddea892a76135c52382",
+   "media_id": "32de646e-9066-4f38-8389-1b5af1547fa5",
    "fonte": "InPA",
-   "titolo": "BANDO DI CONCORSO PUBBLICO, PER SOLI ESAMI, PER LA COPERTURA DI N. 2 POSTI A TEMPO PIENO E INDETERMINATO AL PROFILO PROFESSIONALE DI EDUCATORE – AREA DEI FUNZIONARI E DELL’E.Q. (ex Cat. D) DEL VIGENTE CCNL FUNZIONI LOCALI, DA ASSEGNARE AI SERVIZI GESTITI DA ASP GHIRLANDINA MODENA",
-   "figura": "Educatore",
-   "ente": "ASP Ghirlandina Modena",
-   "descrizione": "BANDO DI CONCORSO PUBBLICO, PER SOLI ESAMI, PER LA COPERTURA DI N. 2 POSTI A TEMPO PIENO E INDETERMINATO AL PROFILO PROFESSIONALE DI EDUCATORE .",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=73115355e472460db1a853a27ee28074",
-   "pubblicazione": "2026-10-17T11:00:00Z",
-   "scadenza": "2026-11-16T12:00:00Z",
+   "titolo": "Procedura Selettiva Pubblica per l’individuazione di esperto esterno Oboista, destinatario di contratto di collaborazione per supporto lezioni AFAM035 - Musica d’Insieme per Strumenti a Fiato",
+   "figura": "Espero esterno Oboista",
+   "ente": "Conservatorio Statale di Musica Paganini di Genova",
+   "descrizione": "Procedura selettiva pubblica per titoli e prove finalizzata all’individuazione di un esperto con il quale stipulare contratti di prestazione d’opera per la seguente area di attività dell’Istituto: collaborazione, nel ruolo di Oboista, per supporto alle lezioni, agli esami, ai saggi e alle altre attività didattiche della Classe di AFAM035 - Musica d’Insieme per Strumenti a Fiato ex COMI/04, insieme agli Studenti iscritti al Conservatorio di Musica Genova",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=39e4f91df7434ddea892a76135c52382",
+   "pubblicazione": "2026-11-17T07:00:00Z",
+   "scadenza": "2026-12-02T22:59:00Z",
    "stato": "Aperto",
-   "posti": 2,
-   "procedura": "ESAMI",
-   "sede": "Modena",
-   "provincia": "Modena",
-   "km": 112,
+   "posti": 1,
+   "procedura": "TITOLI_ESAMI",
+   "sede": "Genova",
+   "provincia": "Genova",
+   "km": 139,
    "ambito": "provincia",
    "punteggio": 30,
    "tag": [
@@ -1695,38 +1610,60 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 10,
-   "titolo_verdetto": "escluso",
-   "titolo_nota": "Classi ammesse: 56/S, 65/S, 87/S, LM-50, LM-57, LM-85. LM-21 non e' compresa.",
-   "titolo_classi": [
-    "56/S",
-    "65/S",
-    "87/S",
-    "L-19",
-    "L-24",
-    "L-34",
-    "LM-50",
-    "LM-57",
-    "LM-85"
+   "giorni_rimasti": 13,
+   "titolo_verdetto": "ignoto",
+   "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
+   "titolo_classi": [],
+   "titolo_nomi": []
+  },
+  {
+   "id": "inpa:87fdc5b412094bd1ab684434e9019b4a",
+   "media_id": "4d1d833d-d4b9-4f54-838f-86d043ee4a73",
+   "fonte": "InPA",
+   "titolo": "PUBBLICA SELEZIONE PER SOLI TITOLI PER IL CONFERIMENTO DI N. 1 CONTRATTO DI COLLABORAZIONE LIBERO PROFESSIONALE PER LAUREATO IN MEDICINA E CHIRURGIA, ISCRITTO ALL’ALBO DEI MEDICI CHIRURGHI CON SPECIALIZZAZIONE IN NEUROPSICHIATRIA PER IL PROGETTO: “(EDU) SONNO – FASE I TELEMONITORAGGIO”",
+   "figura": "Laureato in Medicina e Chirurgia specializzato in Neuropsichiatria",
+   "ente": "Istituto Giannina Gaslini",
+   "descrizione": "Pubblicalica selezione per n. 1 colipro Medico- Neuropsichiatra per collaborazione al Progetto: (EDU) SONNO FASE I TELEMONITORAGGIO.",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=87fdc5b412094bd1ab684434e9019b4a",
+   "pubblicazione": "2026-11-13T14:30:00Z",
+   "scadenza": "2026-11-28T22:59:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI",
+   "sede": "Liguria (provincia da verificare)",
+   "provincia": null,
+   "km": 139,
+   "ambito": "regione",
+   "punteggio": 28,
+   "tag": [
+    "biomedico"
    ],
+   "motivi": [
+    "telemonitoraggio"
+   ],
+   "fascia": "possibile",
+   "giorni_rimasti": 9,
+   "titolo_verdetto": "ignoto",
+   "titolo_nota": "Il bando sembra chiedere: Medicina e Chirurgia b. Da verificare nel PDF.",
+   "titolo_classi": [],
    "titolo_nomi": [
-    "Educazione Professionale"
+    "Medicina e Chirurgia b"
    ]
   },
   {
-   "id": "inpa:33c882849ddb45608d49cd1849e23358",
-   "media_id": "3d24a654-330e-495c-bb4a-ed219d87ee81",
+   "id": "inpa:81c64a820b4545ed8eacc87d63689891",
+   "media_id": "8f63508e-7998-47e3-8952-fac20afa3cbd",
    "fonte": "InPA",
-   "titolo": "Attività scientifico-tecnologiche IRA-INAF in ambito di calcolo critico in astrofisica e radioastronomia con SKA e precursori Cod: 2026INAFTEC-IRA-CN-010",
-   "figura": "Dirigente Tecnologo I",
+   "titolo": "Procedura di selezione pubblica, per titoli ed eventuale colloquio, per il conferimento di n. 1 Incarico post-doc (fascia I, RSN5), ai sensi dell’art. 22-bis della Legge 30 dicembre 2010, n. 240, della durata di 12 mesi, eventualmente prorogabile Cod: 2026INAFINCPOS-OAS-105033224-011",
+   "figura": "Incarico Post-Doc I° fascia",
    "ente": "Istituto Nazionale di Astrofisica - INAF",
-   "descrizione": "Concorso pubblico, per titoli ed esame, per il reclutamento di una unità di personale da inquadrare nel profilo di \"Dirigente Tecnologo\", con contratto di lavoro a tempo determinato e regime di impegno a tempo pieno, della durata di 12 mesi eventualmente prorogabile Sede di Servizio: IRA Bologna",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=33c882849ddb45608d49cd1849e23358",
-   "pubblicazione": "2026-10-21T16:00:00Z",
-   "scadenza": "2026-11-05T22:00:00Z",
+   "descrizione": "per le esigenze dei progetti CTA, AGILE e altre opportunità per progetti gamma da terra e dallo spazio con titolo del programma di ricerca: \"Sviluppo di Algoritmi per Analisi Dati in Tempo Reale per Progetti di Astrofisica Gamma\". Sede di Servizio: OAS Bologna",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=81c64a820b4545ed8eacc87d63689891",
+   "pubblicazione": "2026-11-15T23:01:00Z",
+   "scadenza": "2026-12-01T22:59:00Z",
    "stato": "Aperto",
    "posti": 1,
-   "procedura": "TITOLI_ESAMI",
+   "procedura": "TITOLI_COLLOQUIO",
    "sede": "Bologna",
    "provincia": "Bologna",
    "km": 115,
@@ -1736,10 +1673,42 @@
     "ricerca"
    ],
    "motivi": [
-    "tecnologo"
+    "post-doc"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 0,
+   "giorni_rimasti": 12,
+   "titolo_verdetto": "ignoto",
+   "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
+   "titolo_classi": [],
+   "titolo_nomi": []
+  },
+  {
+   "id": "inpa:ca6147edc60b4f89a9715542c43c291d",
+   "media_id": "3c454cf7-c9aa-41f9-be13-72bdc8aa050b",
+   "fonte": "InPA",
+   "titolo": "SELEZIONE PUBB. N. 1 INCAR. POST-DOC,ART. 22ter L.240/2010,TD 12 m,(GSD) GSD 14/GSPS-06,(SSD) GSPS-06/A–SOCIOLOGIA DEI PROCESSI CULTURALI E COMUNICATIVI-DIP.TO SCIENZE ECONOM. E AZIENDALI-UNIV. PARMA",
+   "figura": "conferimento di Incarico Post-Doc",
+   "ente": "Universita' degli Studi di Parma",
+   "descrizione": "Il progetto INTERFACED si propone di comprendere il funzionamento delle molteplici interfacce di partecipazione tra cittadini e istituzioni rappresentative nella post-pandemia, valutandone la capacità di includere i cittadini nei processi decisionali e di governance. Particolare attenzione è dedicata al WorkPackage n. 5, di cui l’unità di ricerca dell’università di Parma è responsabile, che si concentra sulle interazioni tra le organizzazioni di movimento sociale e le istituzioni mediali nel periodo successivo alla pandemia, con un focus specifico su Italia, Regno Unito, Ungheria, Romania e Tu",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ca6147edc60b4f89a9715542c43c291d",
+   "pubblicazione": "2026-11-10T23:01:00Z",
+   "scadenza": "2026-11-25T22:59:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_COLLOQUIO",
+   "sede": "Parma",
+   "provincia": "Parma",
+   "km": 121,
+   "ambito": "provincia",
+   "punteggio": 26,
+   "tag": [
+    "ricerca"
+   ],
+   "motivi": [
+    "post-doc"
+   ],
+   "fascia": "possibile",
+   "giorni_rimasti": 6,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -1756,7 +1725,7 @@
    "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=7f9ac95eaba64119bd5fcd2a8c6406ba",
    "pubblicazione": "2026-11-05T23:01:00Z",
    "scadenza": "2026-11-20T22:59:00Z",
-   "stato": "In Apertura",
+   "stato": "Aperto",
    "posti": 1,
    "procedura": "TITOLI_COLLOQUIO",
    "sede": "Parma",
@@ -1771,7 +1740,7 @@
     "post-doc"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 15,
+   "giorni_rimasti": 1,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
