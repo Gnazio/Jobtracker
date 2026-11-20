@@ -1,27 +1,28 @@
 {
- "aggiornato": "2026-11-19T14:12:44+00:00",
+ "aggiornato": "2026-11-20T13:54:57+00:00",
  "raggio_km": 150,
  "origine": "Pisa",
  "statistiche": {
-  "grezzi": 433,
-  "pubblicati": 47,
+  "grezzi": 439,
+  "pubblicati": 51,
   "scartati_distanza": 44,
-  "scartati_profilo": 342,
+  "scartati_profilo": 344,
   "per_fascia": {
-   "alta": 8,
-   "buona": 24,
-   "possibile": 15
+   "alta": 7,
+   "buona": 25,
+   "possibile": 19
   },
   "per_titolo": {
-   "ignoto": 32,
-   "escluso": 15
+   "ignoto": 34,
+   "escluso": 16,
+   "ammesso": 1
   }
  },
  "errori_fonti": [],
  "fonti": [
   {
    "fonte": "InPA",
-   "annunci": 428,
+   "annunci": 434,
    "nota": null
   },
   {
@@ -36,41 +37,6 @@
   }
  ],
  "annunci": [
-  {
-   "id": "inpa:f3d010db5f5648cf9ab5cb0393088118",
-   "media_id": null,
-   "fonte": "InPA",
-   "titolo": "BORSE DI STUDIO “BONALDO STRINGHER”, “GIORGIO MORTARA”, “DONATO MENICHELLA\"",
-   "figura": "Borsista",
-   "ente": "Banca D'Italia",
-   "descrizione": "BORSE DI STUDIO “BONALDO STRINGHER”, “GIORGIO MORTARA”, “DONATO MENICHELLA\" La Banca d’Italia indice il seguente concorso pubblico per l’assegnazione di: 3 borse di studio “Bonaldo Stringher” destinate al perfezionamento degli studi all’estero nel campo dell’economia politica e della politica economica ; 2 borse di studio “Giorgio Mortara” destinate al perfezionamento degli studi all’estero nei campi dell’economia finanziaria, dell’econometria o dei metodi matematici, statistici o informatici (es. intelligenza artificiale, machine learning, FinTech, cyber security) applicati all’economia e all",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=f3d010db5f5648cf9ab5cb0393088118",
-   "pubblicazione": "2026-10-13T10:00:00Z",
-   "scadenza": "2026-11-20T11:00:00Z",
-   "stato": "Aperto",
-   "posti": 7,
-   "procedura": "TITOLI",
-   "sede": "Nazionale",
-   "provincia": null,
-   "km": null,
-   "ambito": "nazionale",
-   "punteggio": 98,
-   "tag": [
-    "ricerca",
-    "ai-ml"
-   ],
-   "motivi": [
-    "borsist",
-    "intelligenza artificiale",
-    "machine learning",
-    "statistic"
-   ],
-   "fascia": "alta",
-   "giorni_rimasti": 0,
-   "titolo_verdetto": "ignoto",
-   "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
-   "titolo_classi": []
-  },
   {
    "id": "inpa:d29a4ce49aa845cf9f9d667c6f056622",
    "media_id": null,
@@ -100,7 +66,7 @@
     "elaborazione di immagin"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 5,
+   "giorni_rimasti": 4,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
@@ -136,7 +102,7 @@
     "laurea magistrale"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 26,
+   "giorni_rimasti": 25,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 68/S, LM-60. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -174,7 +140,7 @@
     "cnr"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 1,
+   "giorni_rimasti": 0,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 14/S, 62/S, LM-13, LM-54. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -216,7 +182,7 @@
     "collaboratore professionale di ricerca"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 25,
+   "giorni_rimasti": 24,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Titoli richiesti: Scienze Biologiche; Biotecnologie. Ingegneria biomedica non c'e'.",
    "titolo_classi": [
@@ -259,7 +225,7 @@
     "collaboratore professionale di ricerca"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 13,
+   "giorni_rimasti": 12,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Scienze Biologiche. Da verificare nel PDF.",
    "titolo_classi": [
@@ -300,7 +266,7 @@
     "collaboratore professionale di ricerca"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 13,
+   "giorni_rimasti": 12,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Titoli richiesti: Biotecnologie; Scienze Biologiche; Scienze e Tecnologie Farmaceutiche; Scienze e Tecnologie Chimiche. Ingegneria biomedica non c'e'.",
    "titolo_classi": [
@@ -345,7 +311,7 @@
     "statistic"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 16,
+   "giorni_rimasti": 15,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Scienze Statistiche. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -383,7 +349,7 @@
     "area dei funzionari, settore tecnico-inf"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 6,
+   "giorni_rimasti": 5,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
@@ -418,7 +384,7 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 25,
+   "giorni_rimasti": 24,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-13, LM-6, LM-8, LM-9. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -466,13 +432,129 @@
     "laurea magistrale"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 11,
+   "giorni_rimasti": 10,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 6/S, 9/S. LM-21 non e' compresa.",
    "titolo_classi": [
     "6/S",
     "9/S"
    ],
+   "titolo_nomi": []
+  },
+  {
+   "id": "inpa:ff458a92889a44eab6dd672068e2340d",
+   "media_id": "900e0ee0-708f-49e1-b18f-4245215aaa9c",
+   "fonte": "InPA",
+   "titolo": "AZIENDA OSPEDALIERA METROPOLITANA (AOM) - Pubblica selezione, per titoli e colloquio, per n. 1 borsa di studio per candidato in possesso di laurea magistrale in Chimica oppure in Farmacia oppure in Chimica e Tecnologia Farmaceutiche, della durata di 6 mesi, per collaborare al progetto denominato \"Discovery and preclinical development of 18F-labeled PET ligands for selective targeting of brain estrogen receptors (DEEPER)\" (GA360) da svolgersi presso l'U.O. Medicina Nucleare.",
+   "figura": "Borsa di studio",
+   "ente": "IRCCS Ospedale Policlinico San Martino",
+   "descrizione": "Pubblica selezione, per titoli e colloquio, per l'assegnazione di una borsa di studio per candidato in possesso di laurea magistrale in Chimica oppure in Farmacia oppure in Chimica e Tecnologia Farmaceutiche, della durata di 6 mesi, per collaborare al progetto denominato \"Discovery and preclinical development of 18F-labeled PET ligands for selective targeting of brain estrogen receptors (DEEPER)\" (GA360) da svolgersi presso l'U.O. Medicina Nucleare",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ff458a92889a44eab6dd672068e2340d",
+   "pubblicazione": "2026-11-19T16:49:00Z",
+   "scadenza": "2026-12-09T22:59:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_COLLOQUIO",
+   "sede": "Liguria (provincia da verificare)",
+   "provincia": null,
+   "km": 139,
+   "ambito": "regione",
+   "punteggio": 62,
+   "tag": [
+    "ricerca",
+    "ente-ricerca",
+    "sanita",
+    "requisiti"
+   ],
+   "motivi": [
+    "borsa di studio",
+    "irccs",
+    "azienda ospedalier",
+    "laurea magistrale"
+   ],
+   "fascia": "buona",
+   "giorni_rimasti": 19,
+   "titolo_verdetto": "escluso",
+   "titolo_nota": "Titoli richiesti: Scienze Chimiche; Farmacia e Farmacia Industriale. Ingegneria biomedica non c'e'.",
+   "titolo_classi": [],
+   "titolo_nomi": [
+    "Scienze Chimiche",
+    "Farmacia e Farmacia Industriale"
+   ]
+  },
+  {
+   "id": "inpa:da0fec01bdb74bb18dc39a7efbc31968",
+   "media_id": "051bbe27-914a-4fe8-9dc7-8ebc7530eb75",
+   "fonte": "InPA",
+   "titolo": "AZIENDA OSPEDALIERA METROPOLITANA (AOM) - Pubblica selezione, per titoli e colloquio, per l'assegnazione di una borsa di studio per candidato in possesso del diploma di laurea magistrale in Biologia, della durata di 6 mesi, per collaborare al progetto denominato \"Discovery and preclinical development of 18F-labeled PET ligands for selective targeting of brain estrogen receptors (DEEPER)\" (GA360) da svolgersi presso l'U.O. Medicina Nucleare. (Codice Selezione: 26B_DISCOVERY_BIOLOGO_DEEPER)",
+   "figura": "Borsa di studio",
+   "ente": "IRCCS Ospedale Policlinico San Martino",
+   "descrizione": "Pubblica selezione, per titoli e colloquio, per l'assegnazione di una borsa di studio per candidato in possesso del diploma di laurea magistrale in Biologia, della durata di 6 mesi, per collaborare al progetto denominato \"Discovery and preclinical development of 18F-labeled PET ligands for selective targeting of brain estrogen receptors (DEEPER)\" (GA360) da svolgersi presso l'U.O. Medicina Nucleare.",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=da0fec01bdb74bb18dc39a7efbc31968",
+   "pubblicazione": "2026-11-19T16:33:00Z",
+   "scadenza": "2026-12-09T22:59:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_COLLOQUIO",
+   "sede": "Liguria (provincia da verificare)",
+   "provincia": null,
+   "km": 139,
+   "ambito": "regione",
+   "punteggio": 62,
+   "tag": [
+    "ricerca",
+    "ente-ricerca",
+    "sanita",
+    "requisiti"
+   ],
+   "motivi": [
+    "borsa di studio",
+    "irccs",
+    "azienda ospedalier",
+    "laurea magistrale"
+   ],
+   "fascia": "buona",
+   "giorni_rimasti": 19,
+   "titolo_verdetto": "ignoto",
+   "titolo_nota": "Il bando sembra chiedere: BIOLOGIA. Da verificare nel PDF.",
+   "titolo_classi": [],
+   "titolo_nomi": [
+    "BIOLOGIA"
+   ]
+  },
+  {
+   "id": "inpa:4c1f348cd17a4f1f8f30e6571adac14a",
+   "media_id": "c378ba0d-1e8b-4286-8b37-ab7543d9a9c6",
+   "fonte": "InPA",
+   "titolo": "Università di Pisa - Selezione per il reclutamento di un tecnologo di secondo livello, per 36 mesi, presso il Dipartimento di Scienze agrarie alimentari e agro-ambientali",
+   "figura": "Tecnologo di II livello",
+   "ente": "Universita' di Pisa",
+   "descrizione": "Selezione per il reclutamento di un tecnologo di secondo livello, per 36 mesi, presso il Dipartimento di Scienze agrarie, alimentari e agro-ambientali Le domande di ammissione alla selezione devono essere presentate esclusivamente tramite la piattaforma PICA https://pica.cineca.it/unipi/",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4c1f348cd17a4f1f8f30e6571adac14a",
+   "pubblicazione": "2026-11-20T11:00:00Z",
+   "scadenza": "2026-12-11T12:00:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_COLLOQUIO",
+   "sede": "Pisa",
+   "provincia": "Pisa",
+   "km": 0,
+   "ambito": "provincia",
+   "punteggio": 60,
+   "tag": [
+    "ricerca",
+    "ente-ricerca"
+   ],
+   "motivi": [
+    "tecnologo",
+    "università di pisa",
+    "cineca."
+   ],
+   "fascia": "buona",
+   "giorni_rimasti": 20,
+   "titolo_verdetto": "ignoto",
+   "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
+   "titolo_classi": [],
    "titolo_nomi": []
   },
   {
@@ -504,7 +586,7 @@
     "cineca."
    ],
    "fascia": "buona",
-   "giorni_rimasti": 19,
+   "giorni_rimasti": 18,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -537,43 +619,9 @@
     "tecnologo"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 12,
+   "giorni_rimasti": 11,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
-   "titolo_classi": [],
-   "titolo_nomi": []
-  },
-  {
-   "id": "inpa:6f9fb74efc44415ebaa8bf7fc230f674",
-   "media_id": "dc956519-bb4a-4f7c-bc09-82f95d59f197",
-   "fonte": "InPA",
-   "titolo": "SELEZIONE PUBB. N. 1 INCAR. POST-DOC,ART. 22ter L.240/2010,TD 24 m.,(GSD) 07/MVET-04,(SSD) MVET-04/B - Clinica medica veterinaria -DIP.TO DI SCIENZE MEDICO-VETERINARIE-UNIV. DI PARMA",
-   "figura": "conferimento di Incarico post-doc",
-   "ente": "Universita' degli Studi di Parma",
-   "descrizione": "OBIETTIVI OGGETTO DELL'INCARICO Il progetto si propone di affrontare una delle sfide più comuni nella pratica clinica veterinaria: la gestione delle malattie gastroenteriche nel cane e nel gatto, che rappresentano una delle prime cause di morbilità. L'obiettivo principale della ricerca è quello di fare un salto di qualità nella precisione delle diagnosi e nel monitoraggio di queste patologie, sia acute che croniche, attraverso lo sviluppo, la validazione e l'applicazione clinica di nuovi biomarcatori fecali e sierici. Scopo del progetto è identificare nuovi e più affidabili indicatori diagnost",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=6f9fb74efc44415ebaa8bf7fc230f674",
-   "pubblicazione": "2026-11-04T23:01:00Z",
-   "scadenza": "2026-11-19T22:59:00Z",
-   "stato": "Aperto",
-   "posti": 1,
-   "procedura": "TITOLI_COLLOQUIO",
-   "sede": "Parma",
-   "provincia": "Parma",
-   "km": 121,
-   "ambito": "provincia",
-   "punteggio": 56,
-   "tag": [
-    "ricerca",
-    "biomedico"
-   ],
-   "motivi": [
-    "post-doc",
-    "diagnostica per immagini"
-   ],
-   "fascia": "buona",
-   "giorni_rimasti": 0,
-   "titolo_verdetto": "ignoto",
-   "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
    "titolo_nomi": []
   },
@@ -604,7 +652,7 @@
     "primo ricercator"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 16,
+   "giorni_rimasti": 15,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Scienze Biologiche o titoli considerati. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -639,7 +687,7 @@
     "iii livello"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 16,
+   "giorni_rimasti": 15,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-6, LM-7, LM-8, LM-9. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -679,7 +727,7 @@
     "iii livello"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 16,
+   "giorni_rimasti": 15,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-17, LM-41, LM-6, LM-7, LM-8, LM-9. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -721,7 +769,7 @@
     "primo ricercator"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 12,
+   "giorni_rimasti": 11,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-41. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -730,40 +778,6 @@
    "titolo_nomi": [
     "Medicina e Chirurgia"
    ]
-  },
-  {
-   "id": "inpa:8d5e0ecd54a14ab98839397ed3c53cbd",
-   "media_id": "0532a0a7-6a39-451b-97ce-528054a34093",
-   "fonte": "InPA",
-   "titolo": "Università degli Studi di Trieste - Selezione pubblica, per titoli e colloquio, n. 3 tecnologi di II livello a tempo determinato, full-time 36 mesi, - fondi FSE+",
-   "figura": "tecnologo II livello a tempo determinato per 36 mesi",
-   "ente": "Universita' degli Studi di Trieste",
-   "descrizione": "Selezione pubblica, per titoli e colloquio, per il reclutamento di n. 3 tecnologi di II livello a tempo determinato full time, per la durata di 36 mesi, per la realizzazione delle attività relative ai progetti di potenziamento dei servizi di progettazione nazionale ed europea a valere sul Programma Regionale FSE+ della Regione Friuli Venezia Giulia - CUP J93C23001490008 presso l’Università degli Studi di Trieste",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=8d5e0ecd54a14ab98839397ed3c53cbd",
-   "pubblicazione": "2026-10-29T14:00:00Z",
-   "scadenza": "2026-11-19T22:59:00Z",
-   "stato": "Aperto",
-   "posti": 3,
-   "procedura": "TITOLI_COLLOQUIO",
-   "sede": "Nazionale",
-   "provincia": null,
-   "km": null,
-   "ambito": "nazionale",
-   "punteggio": 56,
-   "tag": [
-    "ricerca",
-    "ai-ml"
-   ],
-   "motivi": [
-    "tecnologi",
-    "ai"
-   ],
-   "fascia": "buona",
-   "giorni_rimasti": 0,
-   "titolo_verdetto": "ignoto",
-   "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
-   "titolo_classi": [],
-   "titolo_nomi": []
   },
   {
    "id": "inpa:a73435df12364f1cb4c53c441882f2b7",
@@ -795,7 +809,7 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 18,
+   "giorni_rimasti": 17,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -831,7 +845,7 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 4,
+   "giorni_rimasti": 3,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -867,7 +881,7 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 4,
+   "giorni_rimasti": 3,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Biologia. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -902,7 +916,7 @@
     "collaboratore tecnico enti di ricerca"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 12,
+   "giorni_rimasti": 11,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1034,7 +1048,7 @@
     "iii livello"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 12,
+   "giorni_rimasti": 11,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Biologia. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -1069,7 +1083,7 @@
     "iii livello"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 12,
+   "giorni_rimasti": 11,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-6, LM-8, LM-9. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1108,7 +1122,7 @@
     "iii livello"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 9,
+   "giorni_rimasti": 8,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-23, LM-24, LM-26, LM-28, LM-33, LM-4. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1152,7 +1166,7 @@
     "laurea specialistica"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 15,
+   "giorni_rimasti": 14,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 14/S, 62/S, 8/S, 81/S, LM-13, LM-54, LM-71, LM-8. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1194,7 +1208,7 @@
     "statistic"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 13,
+   "giorni_rimasti": 12,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-16, LM-56, LM-77, LM-82, LM-83. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1234,7 +1248,7 @@
     "ict"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 14,
+   "giorni_rimasti": 13,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1267,7 +1281,7 @@
     "cineca."
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 24,
+   "giorni_rimasti": 23,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1300,7 +1314,7 @@
     "cineca."
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 13,
+   "giorni_rimasti": 12,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-18, LM-27, LM-32. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1338,11 +1352,161 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 11,
+   "giorni_rimasti": 10,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
    "titolo_nomi": []
+  },
+  {
+   "id": "inpa:122f9c69d17e429a918131d24acb9c60",
+   "media_id": "395e6dc7-3c55-409d-b5f5-3e6612f524c1",
+   "fonte": "InPA",
+   "titolo": "AZIENDA OSPEDALIERA METROPOLITANA (AOM) - PAVVISO PUBBLICO DI PROCEDURA COMPARATIVA, PER TITOLI E COLLOQUIO, PER IL CONFERIMENTO DI N. 1 INCARICO LIBERO-PROFESSIONALE, DELLA DURATA DI 6 MESI, PER COLLABORARE AL PROGETTO “IMPIEGO DELLA TOMOGRAFIA A COERENZA OTTICA CONFOCALE LINE-FIELD (LC-OCT) NELLA DIAGNOSI NON INVASIVA DEL CARCINOMA BASOCELLULARE” (FA166) DA SVOLGERSI PRESSO L’U.O. CLINICA DERMATOLOGICA",
+   "figura": "Incarico libero professionale",
+   "ente": "IRCCS Ospedale Policlinico San Martino",
+   "descrizione": "AVVISO PUBBLICO DI PROCEDURA COMPARATIVA, PER TITOLI E COLLOQUIO, PER IL CONFERIMENTO DI N. 1 INCARICO LIBERO-PROFESSIONALE, DELLA DURATA DI 6 MESI, PER COLLABORARE AL PROGETTO “ IMPIEGO DELLA TOMOGRAFIA A COERENZA OTTICA CONFOCALE LINE-FIELD (LC-OCT) NELLA DIAGNOSI NON INVASIVA DEL CARCINOMA BASOCELLULARE ” (FA166) DA SVOLGERSI PRESSO L’U.O. CLINICA DERMATOLOGICA",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=122f9c69d17e429a918131d24acb9c60",
+   "pubblicazione": "2026-11-20T12:20:00Z",
+   "scadenza": "2026-12-10T22:59:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_COLLOQUIO",
+   "sede": "Genova",
+   "provincia": "Genova",
+   "km": 139,
+   "ambito": "provincia",
+   "punteggio": 32,
+   "tag": [
+    "ente-ricerca",
+    "sanita"
+   ],
+   "motivi": [
+    "irccs",
+    "azienda ospedalier"
+   ],
+   "fascia": "possibile",
+   "giorni_rimasti": 20,
+   "titolo_verdetto": "ignoto",
+   "titolo_nota": "Il bando sembra chiedere: Medicina e Chirurgia. Da verificare nel PDF.",
+   "titolo_classi": [],
+   "titolo_nomi": [
+    "Medicina e Chirurgia"
+   ]
+  },
+  {
+   "id": "inpa:1ac69efb7371452ab3d2ec1c8d1eeafd",
+   "media_id": "55351822-23a9-4483-83ad-c4b3ed27e863",
+   "fonte": "InPA",
+   "titolo": "AZIENDA OSPEDALIERA METROPOLITANA (AOM) - AVVISO PUBBLICO DI PROCEDURA COMPARATIVA, PER TITOLI E COLLOQUIO, PER IL CONFERIMENTO DI N. 1 INCARICO LIBERO-PROFESSIONALE, DELLA DURATA DI 12 MESI, PER COLLABORARE AL PROGETTO \"ATTIVITÀ DI RICERCA CLINICA NEL SOGGETTO AFFETTO DA DOLORE CRONICO\" (GA904) DA SVOLGERSI PRESSO L'U.O. CLINICA NEUROLOGICA",
+   "figura": "Incarico libero professionale",
+   "ente": "IRCCS Ospedale Policlinico San Martino",
+   "descrizione": "AVVISO PUBBLICO DI PROCEDURA COMPARATIVA, PER TITOLI E COLLOQUIO, PER IL CONFERIMENTO DI N. 1 INCARICO LIBERO-PROFESSIONALE, DELLA DURATA DI 12 MESI, PER COLLABORARE AL PROGETTO “ATTIVITÀ DI RICERCA CLINICA NEL SOGGETTO AFFETTO DA DOLORE CRONICO” (GA904) DA SVOLGERSI PRESSO L’U.O. CLINICA NEUROLOGICA",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=1ac69efb7371452ab3d2ec1c8d1eeafd",
+   "pubblicazione": "2026-11-20T11:50:00Z",
+   "scadenza": "2026-12-10T22:59:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_COLLOQUIO",
+   "sede": "Genova",
+   "provincia": "Genova",
+   "km": 139,
+   "ambito": "provincia",
+   "punteggio": 32,
+   "tag": [
+    "ente-ricerca",
+    "sanita"
+   ],
+   "motivi": [
+    "irccs",
+    "azienda ospedalier"
+   ],
+   "fascia": "possibile",
+   "giorni_rimasti": 20,
+   "titolo_verdetto": "ignoto",
+   "titolo_nota": "Il bando sembra chiedere: Medicina e Chirurgia. Da verificare nel PDF.",
+   "titolo_classi": [],
+   "titolo_nomi": [
+    "Medicina e Chirurgia"
+   ]
+  },
+  {
+   "id": "inpa:fcc57f733cad4104895b8f9c377fd2a6",
+   "media_id": "a98f0006-f188-419a-8a1b-22f331d8f546",
+   "fonte": "InPA",
+   "titolo": "AZIENDA OSPEDALIERA METROPOLITANA (AOM) - AVVISO PUBBLICO DI PROCEDURA COMPARATIVA, PER TITOLI E COLLOQUIO, PER IL CONFERIMENTO DI N. 1 INCARICO LIBERO-PROFESSIONALE, DELLA DURATA DI 6 MESI, PER COLLABORARE AL PROGETTO “FATTORI DI RISCHIO PREDITTIVI DI CONVERSIONE NELL’RBD IDIOPATICO. STUDIO ITALIANO. ID 12406” (BA502), DA SVOLGERSI PRESSO L’U.O. NEUROFISIOPATOLOGIA",
+   "figura": "Incarico libero professionale",
+   "ente": "IRCCS Ospedale Policlinico San Martino",
+   "descrizione": "AVVISO PUBBLICO DI PROCEDURA COMPARATIVA, PER TITOLI E COLLOQUIO, PER IL CONFERIMENTO DI N. 1 INCARICO LIBERO-PROFESSIONALE, DELLA DURATA DI 6 MESI, PER COLLABORARE AL PROGETTO “FATTORI DI RISCHIO PREDITTIVI DI CONVERSIONE NELL’RBD IDIOPATICO. STUDIO ITALIANO. ID 12406” (BA502), DA SVOLGERSI PRESSO L’U.O. NEUROFISIOPATOLOGIA",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=fcc57f733cad4104895b8f9c377fd2a6",
+   "pubblicazione": "2026-11-20T11:10:00Z",
+   "scadenza": "2026-12-10T22:59:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_COLLOQUIO",
+   "sede": "Genova",
+   "provincia": "Genova",
+   "km": 139,
+   "ambito": "provincia",
+   "punteggio": 32,
+   "tag": [
+    "ente-ricerca",
+    "sanita"
+   ],
+   "motivi": [
+    "irccs",
+    "azienda ospedalier"
+   ],
+   "fascia": "possibile",
+   "giorni_rimasti": 20,
+   "titolo_verdetto": "ammesso",
+   "titolo_nota": "Il bando elenca LM-21 fra le classi ammesse.",
+   "titolo_classi": [
+    "LM-17",
+    "LM-18",
+    "LM-21",
+    "LM-40",
+    "LM-51"
+   ],
+   "titolo_nomi": [
+    "Matematica"
+   ]
+  },
+  {
+   "id": "inpa:60693e9109e54971a33eaea01675598b",
+   "media_id": "b244054d-4790-4fc4-946e-ec8db6f26b59",
+   "fonte": "InPA",
+   "titolo": "AZIENDA OSPEDALIERA METROPOLITANA (AOM) -Avviso pubblico di procedura comparativa, per titoli e colloquio, per il conferimento di n. 1 incarico libero-professionale, della durata di 6 mesi, per collaborare al progetto \"CARE-2025-9902848981 Discovery and preclinical development of 18F-labeled PET Ligands for selective targeting of brain estrogen receptors\" (GA360) da svolgersi presso l'U.O. Medicina Nucleare.",
+   "figura": "Incarico libero professionale",
+   "ente": "IRCCS Ospedale Policlinico San Martino",
+   "descrizione": "Avviso pubblico di procedura comparativa, per titoli e colloquio, per il conferimento di n. 1 incarico libero-professionale, della durata di 6 mesi, per collaborare al progetto \"CARE-2025-9902848981 Discovery and preclinical development of 18F-labeled PET Ligands for selective targeting of brain estrogen receptors\" (GA360) da svolgersi presso l'U.O. Medicina Nucleare.",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=60693e9109e54971a33eaea01675598b",
+   "pubblicazione": "2026-11-19T16:59:00Z",
+   "scadenza": "2026-12-09T22:59:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_COLLOQUIO",
+   "sede": "Liguria (provincia da verificare)",
+   "provincia": null,
+   "km": 139,
+   "ambito": "regione",
+   "punteggio": 32,
+   "tag": [
+    "ente-ricerca",
+    "sanita"
+   ],
+   "motivi": [
+    "irccs",
+    "azienda ospedalier"
+   ],
+   "fascia": "possibile",
+   "giorni_rimasti": 19,
+   "titolo_verdetto": "ignoto",
+   "titolo_nota": "Il bando sembra chiedere: Medicina e Chirurgia. Da verificare nel PDF.",
+   "titolo_classi": [],
+   "titolo_nomi": [
+    "Medicina e Chirurgia"
+   ]
   },
   {
    "id": "inpa:ddb6d8963083405a85f8b288dddfb993",
@@ -1372,7 +1536,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 30,
+   "giorni_rimasti": 29,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Medicina e Chirurgia e abilitazione all. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -1408,7 +1572,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 7,
+   "giorni_rimasti": 6,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Medicina e Chirurgia. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -1444,7 +1608,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 4,
+   "giorni_rimasti": 3,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Medicina e Chirurgia. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -1478,7 +1642,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 11,
+   "giorni_rimasti": 10,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Scienze ambientali o di titoli. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -1512,7 +1676,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 28,
+   "giorni_rimasti": 27,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1544,7 +1708,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 6,
+   "giorni_rimasti": 5,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-9. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1578,7 +1742,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 28,
+   "giorni_rimasti": 27,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1610,7 +1774,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 13,
+   "giorni_rimasti": 12,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1642,7 +1806,7 @@
     "telemonitoraggio"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 9,
+   "giorni_rimasti": 8,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Medicina e Chirurgia b. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -1676,7 +1840,7 @@
     "post-doc"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 12,
+   "giorni_rimasti": 11,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -1708,7 +1872,7 @@
     "post-doc"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 6,
+   "giorni_rimasti": 5,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -1740,7 +1904,7 @@
     "post-doc"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 1,
+   "giorni_rimasti": 0,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],

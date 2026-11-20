@@ -2197,5 +2197,101 @@
   "dottorato_affine": false,
   "caratteri": 56267,
   "letto_il": "2026-11-19"
+ },
+ "900e0ee0-708f-49e1-b18f-4245215aaa9c": {
+  "classi": [],
+  "nomi": [
+   "Scienze Chimiche",
+   "Farmacia e Farmacia Industriale"
+  ],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 40835,
+  "letto_il": "2026-11-20"
+ },
+ "051bbe27-914a-4fe8-9dc7-8ebc7530eb75": {
+  "classi": [],
+  "nomi": [
+   "BIOLOGIA"
+  ],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": true,
+  "dottorato_affine": false,
+  "caratteri": 40889,
+  "letto_il": "2026-11-20"
+ },
+ "c378ba0d-1e8b-4286-8b37-ab7543d9a9c6": {
+  "classi": [],
+  "nomi": [],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": true,
+  "dottorato_affine": false,
+  "caratteri": 33274,
+  "letto_il": "2026-11-20"
+ },
+ "395e6dc7-3c55-409d-b5f5-3e6612f524c1": {
+  "classi": [],
+  "nomi": [
+   "Medicina e Chirurgia"
+  ],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 44039,
+  "letto_il": "2026-11-20"
+ },
+ "55351822-23a9-4483-83ad-c4b3ed27e863": {
+  "classi": [],
+  "nomi": [
+   "Medicina e Chirurgia"
+  ],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 42910,
+  "letto_il": "2026-11-20"
+ },
+ "a98f0006-f188-419a-8a1b-22f331d8f546": {
+  "classi": [
+   "LM-17",
+   "LM-18",
+   "LM-21",
+   "LM-40",
+   "LM-51"
+  ],
+  "nomi": [
+   "Matematica"
+  ],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 42394,
+  "letto_il": "2026-11-20"
+ },
+ "b244054d-4790-4fc4-946e-ec8db6f26b59": {
+  "classi": [],
+  "nomi": [
+   "Medicina e Chirurgia"
+  ],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 42894,
+  "letto_il": "2026-11-20"
  }
 }
