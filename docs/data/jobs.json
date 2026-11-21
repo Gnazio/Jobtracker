@@ -1,19 +1,19 @@
 {
- "aggiornato": "2026-11-20T13:54:57+00:00",
+ "aggiornato": "2026-11-21T13:18:40+00:00",
  "raggio_km": 150,
  "origine": "Pisa",
  "statistiche": {
-  "grezzi": 439,
-  "pubblicati": 51,
-  "scartati_distanza": 44,
-  "scartati_profilo": 344,
+  "grezzi": 429,
+  "pubblicati": 52,
+  "scartati_distanza": 41,
+  "scartati_profilo": 336,
   "per_fascia": {
-   "alta": 7,
-   "buona": 25,
+   "alta": 6,
+   "buona": 27,
    "possibile": 19
   },
   "per_titolo": {
-   "ignoto": 34,
+   "ignoto": 35,
    "escluso": 16,
    "ammesso": 1
   }
@@ -22,12 +22,12 @@
  "fonti": [
   {
    "fonte": "InPA",
-   "annunci": 434,
+   "annunci": 422,
    "nota": null
   },
   {
    "fonte": "Gazzetta Ufficiale",
-   "annunci": 2,
+   "annunci": 4,
    "nota": null
   },
   {
@@ -66,7 +66,7 @@
     "elaborazione di immagin"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 4,
+   "giorni_rimasti": 3,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
@@ -102,52 +102,12 @@
     "laurea magistrale"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 25,
+   "giorni_rimasti": 24,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 68/S, LM-60. LM-21 non e' compresa.",
    "titolo_classi": [
     "68/S",
     "LM-60"
-   ],
-   "titolo_nomi": []
-  },
-  {
-   "id": "inpa:e66bec474dcb4f9a996782b58b5d0999",
-   "media_id": "47434392-b426-43ea-855d-fc8f40ba2288",
-   "fonte": "InPA",
-   "titolo": "BANDO CNR N. 331.4 RIC ICCOM",
-   "figura": "Ricercatore III livello professionale",
-   "ente": "Consiglio Nazionale delle Ricerche - CNR",
-   "descrizione": "BANDO CNR N. 331.4 RIC ICCOM - Selezione per titoli e colloquio ai sensi dell'art. 8 del \"Disciplinare concernente le assunzioni di personale con contratto di lavoro a tempo determinato\", per l'assunzione, ai sensi dell'art. 141 del CCNL del Comparto “Istruzione e Ricerca” 2019-2021, sottoscritto in data 18 gennaio 2024, di una unità di personale con profilo professionale di Ricercatore III livello, presso l'Istituto di Chimica dei Composti Organometallici (ICCOM), sede di Sesto Fiorentino (FI).",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e66bec474dcb4f9a996782b58b5d0999",
-   "pubblicazione": "2026-10-31T09:00:00Z",
-   "scadenza": "2026-11-20T17:00:00Z",
-   "stato": "Aperto",
-   "posti": 1,
-   "procedura": "TITOLI_COLLOQUIO",
-   "sede": "Firenze",
-   "provincia": "Firenze",
-   "km": 69,
-   "ambito": "provincia",
-   "punteggio": 78,
-   "tag": [
-    "ricerca",
-    "ente-ricerca"
-   ],
-   "motivi": [
-    "ricercator",
-    "iii livello",
-    "cnr"
-   ],
-   "fascia": "alta",
-   "giorni_rimasti": 0,
-   "titolo_verdetto": "escluso",
-   "titolo_nota": "Classi ammesse: 14/S, 62/S, LM-13, LM-54. LM-21 non e' compresa.",
-   "titolo_classi": [
-    "14/S",
-    "62/S",
-    "LM-13",
-    "LM-54"
    ],
    "titolo_nomi": []
   },
@@ -182,7 +142,7 @@
     "collaboratore professionale di ricerca"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 24,
+   "giorni_rimasti": 23,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Titoli richiesti: Scienze Biologiche; Biotecnologie. Ingegneria biomedica non c'e'.",
    "titolo_classi": [
@@ -225,7 +185,7 @@
     "collaboratore professionale di ricerca"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 12,
+   "giorni_rimasti": 11,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Scienze Biologiche. Da verificare nel PDF.",
    "titolo_classi": [
@@ -266,7 +226,7 @@
     "collaboratore professionale di ricerca"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 12,
+   "giorni_rimasti": 11,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Titoli richiesti: Biotecnologie; Scienze Biologiche; Scienze e Tecnologie Farmaceutiche; Scienze e Tecnologie Chimiche. Ingegneria biomedica non c'e'.",
    "titolo_classi": [
@@ -311,7 +271,7 @@
     "statistic"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 15,
+   "giorni_rimasti": 14,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Scienze Statistiche. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -349,10 +309,54 @@
     "area dei funzionari, settore tecnico-inf"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 5,
+   "giorni_rimasti": 4,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
+  },
+  {
+   "id": "inpa:75d35ef05c984decbbd6cd0324dd0e71",
+   "media_id": "f9a9ea59-fd6a-4992-a0b3-922bb6b23cce",
+   "fonte": "InPA",
+   "titolo": "AZIENDA OSPEDALIERA METROPOLITANA (AOM) - CONCORSO PUBBLICO PER N. 1 INCARICO A TEMPO DETERMINATO RICERCATORE SANITARIO PER TRE ANNI, EVENTUALMENTE PROROGABILI, (BANDO FIS 3) PROGETTO “A MULTIMODAL TRANSLATIONAL APPROACH TO PREDICTIVE CODING DYSFUNCTIONS IN SCHIZOPHRENIA: MECHANISMS, BIOMARKERS, AND NEUROMODULATION (PRISM)”, RESPONSABILE SCIENTIFICO PROF. ANDREA ESCELSIOR, CUP C53C25000940001, CODICE DEL PROGETTO FIS- 2024-04450, FINANZIATO DAL MUR (26C_RIC_SAN_FIS_PRISM)",
+   "figura": "Ricercatore Sanitario",
+   "ente": "IRCCS Ospedale Policlinico San Martino",
+   "descrizione": "CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER L’ATTRIBUZIONE DI N. 1 INCARICO A TEMPO DETERMINATO, IN QUALITÀ DI RICERCATORE SANITARIO, DELLA DURATA DI TRE ANNI, EVENTUALMENTE PROROGABILI E, COMUNQUE, NON OLTRE IL 29/09/2031, COINCIDENTE CON LA DATA DI SCADENZA DEL PROGETTO, NELL’AMBITO DEL FONDO ITALIANO PER LA SCIENZA 2024-2025 (BANDO FIS 3) - PROGETTO “A MULTIMODAL TRANSLATIONAL APPROACH TO PREDICTIVE CODING DYSFUNCTIONS IN SCHIZOPHRENIA: MECHANISMS, BIOMARKERS, AND NEUROMODULATION (PRISM)”, RESPONSABILE SCIENTIFICO PROF. ANDREA ESCELSIOR, CUP C53C25000940001, CODICE DEL PROGETTO FIS- 2024-04",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=75d35ef05c984decbbd6cd0324dd0e71",
+   "pubblicazione": "2026-11-20T14:20:00Z",
+   "scadenza": "2026-12-21T22:59:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_ESAMI",
+   "sede": "Genova",
+   "provincia": "Genova",
+   "km": 139,
+   "ambito": "provincia",
+   "punteggio": 66,
+   "tag": [
+    "ricerca",
+    "ente-ricerca",
+    "sanita"
+   ],
+   "motivi": [
+    "ricercator",
+    "irccs",
+    "azienda ospedalier"
+   ],
+   "fascia": "buona",
+   "giorni_rimasti": 30,
+   "titolo_verdetto": "escluso",
+   "titolo_nota": "Classi ammesse: LM-6, LM-8, LM-9. LM-21 non e' compresa.",
+   "titolo_classi": [
+    "LM-6",
+    "LM-8",
+    "LM-9"
+   ],
+   "titolo_nomi": [
+    "Biologia",
+    "Biotecnologie Industriali",
+    "Biotecnologie Mediche"
+   ]
   },
   {
    "id": "inpa:fdd467994b4e403283eab8ce7f99c0bc",
@@ -384,7 +388,7 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 24,
+   "giorni_rimasti": 23,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-13, LM-6, LM-8, LM-9. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -398,6 +402,46 @@
     "Biotecnologie Mediche",
     "Biotecnologie Industriali",
     "Chimica e Tecnologia Farmaceutiche"
+   ]
+  },
+  {
+   "id": "inpa:826308b924a6422bb8422731fd02b38b",
+   "media_id": "715ea9f6-0873-43cd-a1de-b7f007f6a261",
+   "fonte": "InPA",
+   "titolo": "N° 1 BORSA DI STUDIO PER TITOLARI DI LAUREA MAGISTRALE IN BIOLOGIA (LM 6) O BIOTECNOLOGIE( LM 9) O MEDICINA E CHIRURGIA (LM 41) FINALIZZATA ALLA CONDUZIONE DI ATTIVITA’ DI STUDIO E RICERCA NELL’AMBITO DEL PROGETTO “TITAN – PEDS+: MAPPATURA DEGLI ENDOTIPI PEDIATRICI MEDIANTE CITOFLUORIMETRIA MULTIPARAMETRICA PER STRATEGIE DI MEDICINA PERSONALIZZATA\" DA ASSEGNARE ALLA UOR DI FISIOPATOLOGIA RENALE RICOMPRESA NELLA LINEA DI RICERCA N. 1 DI PEDIATRIA INTERNISTICA E DELL’EMERGENZA DELL’AOU MEYER IRCCS",
+   "figura": "Laureato Magistrale nelle classi di laurea LM 6, LM9, LM41",
+   "ente": "Azienda Ospedaliero Universitaria Meyer di Firenze",
+   "descrizione": "1 BORSA DI STUDIO PER TITOLARI DI LAUREA MAGISTRALE IN BIOLOGIA (LM 6) O IN BIOTECNOLOGIE MEDICHE, VETERINARIE E FARMACEUTICHE ( LM 9) O DI LAUREA MAGISTRALE A CICLO UNICO IN MEDICINA E CHIRURGIA (LM 41) FINALIZZATA ALLA CONDUZIONE DI ATTIVITA’ DI STUDIO E RICERCA NELL’AMBITO DEL PROGETTO “TITAN – PEDS+: MAPPATURA DEGLI ENDOTIPI PEDIATRICI MEDIANTE CITOFLUORIMETRIA MULTIPARAMETRICA PER STRATEGIE DI MEDICINA PERSONALIZZATA\" DA ASSEGNARE ALLA UOR DI FISIOPATOLOGIA RENALE RICOMPRESA NELLA LINEA DI RICERCA N. 1 DI PEDIATRIA INTERNISTICA E DELL’EMERGENZA DELL’AOU MEYER IRCCS.",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=826308b924a6422bb8422731fd02b38b",
+   "pubblicazione": "2026-11-21T09:00:00Z",
+   "scadenza": "2026-12-11T22:59:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_COLLOQUIO",
+   "sede": "Firenze",
+   "provincia": "Firenze",
+   "km": 69,
+   "ambito": "provincia",
+   "punteggio": 62,
+   "tag": [
+    "ricerca",
+    "ente-ricerca",
+    "sanita",
+    "requisiti"
+   ],
+   "motivi": [
+    "borsa di studio",
+    "irccs",
+    "aou",
+    "laurea magistrale"
+   ],
+   "fascia": "buona",
+   "giorni_rimasti": 20,
+   "titolo_verdetto": "ignoto",
+   "titolo_nota": "Il bando sembra chiedere: Biologia. Da verificare nel PDF.",
+   "titolo_classi": [],
+   "titolo_nomi": [
+    "Biologia"
    ]
   },
   {
@@ -432,7 +476,7 @@
     "laurea magistrale"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 10,
+   "giorni_rimasti": 9,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 6/S, 9/S. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -473,7 +517,7 @@
     "laurea magistrale"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 19,
+   "giorni_rimasti": 18,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Titoli richiesti: Scienze Chimiche; Farmacia e Farmacia Industriale. Ingegneria biomedica non c'e'.",
    "titolo_classi": [],
@@ -514,7 +558,7 @@
     "laurea magistrale"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 19,
+   "giorni_rimasti": 18,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: BIOLOGIA. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -551,7 +595,7 @@
     "cineca."
    ],
    "fascia": "buona",
-   "giorni_rimasti": 20,
+   "giorni_rimasti": 19,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -586,7 +630,7 @@
     "cineca."
    ],
    "fascia": "buona",
-   "giorni_rimasti": 18,
+   "giorni_rimasti": 17,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -619,7 +663,7 @@
     "tecnologo"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 11,
+   "giorni_rimasti": 10,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -652,7 +696,7 @@
     "primo ricercator"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 15,
+   "giorni_rimasti": 14,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Scienze Biologiche o titoli considerati. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -687,7 +731,7 @@
     "iii livello"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 15,
+   "giorni_rimasti": 14,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-6, LM-7, LM-8, LM-9. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -727,7 +771,7 @@
     "iii livello"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 15,
+   "giorni_rimasti": 14,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-17, LM-41, LM-6, LM-7, LM-8, LM-9. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -769,7 +813,7 @@
     "primo ricercator"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 11,
+   "giorni_rimasti": 10,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-41. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -809,7 +853,7 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 17,
+   "giorni_rimasti": 16,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -845,7 +889,7 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 3,
+   "giorni_rimasti": 2,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -881,7 +925,7 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 3,
+   "giorni_rimasti": 2,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Biologia. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -916,7 +960,7 @@
     "collaboratore tecnico enti di ricerca"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 11,
+   "giorni_rimasti": 10,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1048,7 +1092,7 @@
     "iii livello"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 11,
+   "giorni_rimasti": 10,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Biologia. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -1083,7 +1127,7 @@
     "iii livello"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 11,
+   "giorni_rimasti": 10,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-6, LM-8, LM-9. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1122,7 +1166,7 @@
     "iii livello"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 8,
+   "giorni_rimasti": 7,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-23, LM-24, LM-26, LM-28, LM-33, LM-4. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1166,7 +1210,7 @@
     "laurea specialistica"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 14,
+   "giorni_rimasti": 13,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 14/S, 62/S, 8/S, 81/S, LM-13, LM-54, LM-71, LM-8. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1208,7 +1252,7 @@
     "statistic"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 12,
+   "giorni_rimasti": 11,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-16, LM-56, LM-77, LM-82, LM-83. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1248,7 +1292,7 @@
     "ict"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 13,
+   "giorni_rimasti": 12,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1281,7 +1325,7 @@
     "cineca."
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 23,
+   "giorni_rimasti": 22,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1314,7 +1358,7 @@
     "cineca."
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 12,
+   "giorni_rimasti": 11,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-18, LM-27, LM-32. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1352,11 +1396,44 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 10,
+   "giorni_rimasti": 9,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
    "titolo_nomi": []
+  },
+  {
+   "id": "gu:tta20261120attocodiceRedazionale26E06312",
+   "fonte": "Gazzetta Ufficiale",
+   "titolo": "Concorso pubblico congiunto, per titoli ed esami, per la copertura di due posti di tecnico di fisiopatologia cardiocircolatoria e perfusione cardiovascolare, area dei professionisti della salute e funzionari, di cui un posto per l'Azienda USL di Bologna e un posto per l'IRCCS Azienda ospedaliero-universitaria di Bologna Policlinico di Sant'Orsola. (26E06312) (GU n.90 del 20-11-2026 ) --> Pag. 37",
+   "figura": "",
+   "ente": "Concorso pubblico congiunto, per titoli ed esami, per la copertura di due posti di tecnico di fisiopatologia cardiocirco",
+   "descrizione": "",
+   "url": "https://www.gazzettaufficiale.it/atto/concorsi/caricaDettaglioAtto/originario?atto.dataPubblicazioneGazzetta=2026-11-20&atto.codiceRedazionale=26E06312",
+   "pubblicazione": "2026-11-20T00:00:00Z",
+   "scadenza": null,
+   "scadenza_testo": null,
+   "stato": "Aperto",
+   "posti": null,
+   "procedura": null,
+   "sede": "Bologna",
+   "provincia": "Bologna",
+   "km": 115,
+   "ambito": "provincia",
+   "punteggio": 32,
+   "tag": [
+    "ente-ricerca",
+    "sanita"
+   ],
+   "motivi": [
+    "irccs",
+    "azienda usl"
+   ],
+   "fascia": "possibile",
+   "giorni_rimasti": null,
+   "titolo_verdetto": "ignoto",
+   "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
+   "titolo_classi": []
   },
   {
    "id": "inpa:122f9c69d17e429a918131d24acb9c60",
@@ -1386,7 +1463,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 20,
+   "giorni_rimasti": 19,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Medicina e Chirurgia. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -1422,7 +1499,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 20,
+   "giorni_rimasti": 19,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Medicina e Chirurgia. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -1458,7 +1535,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 20,
+   "giorni_rimasti": 19,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Il bando elenca LM-21 fra le classi ammesse.",
    "titolo_classi": [
@@ -1500,7 +1577,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 19,
+   "giorni_rimasti": 18,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Medicina e Chirurgia. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -1536,7 +1613,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 29,
+   "giorni_rimasti": 28,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Medicina e Chirurgia e abilitazione all. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -1572,7 +1649,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 6,
+   "giorni_rimasti": 5,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Medicina e Chirurgia. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -1608,7 +1685,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 3,
+   "giorni_rimasti": 2,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Medicina e Chirurgia. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -1642,7 +1719,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 10,
+   "giorni_rimasti": 9,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Scienze ambientali o di titoli. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -1676,7 +1753,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 27,
+   "giorni_rimasti": 26,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1708,7 +1785,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 5,
+   "giorni_rimasti": 4,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-9. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1742,7 +1819,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 27,
+   "giorni_rimasti": 26,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1774,7 +1851,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 12,
+   "giorni_rimasti": 11,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1806,7 +1883,7 @@
     "telemonitoraggio"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 8,
+   "giorni_rimasti": 7,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Medicina e Chirurgia b. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -1840,7 +1917,7 @@
     "post-doc"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 11,
+   "giorni_rimasti": 10,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -1872,39 +1949,7 @@
     "post-doc"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 5,
-   "titolo_verdetto": "ignoto",
-   "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
-   "titolo_classi": [],
-   "titolo_nomi": []
-  },
-  {
-   "id": "inpa:7f9ac95eaba64119bd5fcd2a8c6406ba",
-   "media_id": "5feb2555-ef05-4321-a3b6-67937ea754ac",
-   "fonte": "InPA",
-   "titolo": "SELEZIONE PUBB. N. 1 INCAR. POST-DOC,ART. 22ter L.240/2010,TD 24 m.,(GSD) 07/MVET-01,(SSD) MVET-01/A ANATOMIA VETERINARIA -DIP.TO DI SCIENZE MEDICO-VETERINARIE-UNIV. DI PARMA",
-   "figura": "conferimento di Incarico post-doc",
-   "ente": "Universita' degli Studi di Parma",
-   "descrizione": "OBIETTIVI OGGETTO DELL'INCARICO L’attività di ricerca sarà focalizzata sullo studio delle nicchie delle cellule staminali in organi target selezionati (cute, polmone, intestino, muscolo scheletrico, osso e cartilagine) quali modelli di invecchiamento e rigenerazione. Le analisi saranno condotte in soggetti giovani e anziani, consentendo di identificare alterazioni comuni e organo-specifiche associate al processo di invecchiamento. Le attività comprenderanno la raccolta e il processamento dei campioni biologici, la caratterizzazione morfologica e molecolare dei tessuti, l'acquisizione e l'anali",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=7f9ac95eaba64119bd5fcd2a8c6406ba",
-   "pubblicazione": "2026-11-05T23:01:00Z",
-   "scadenza": "2026-11-20T22:59:00Z",
-   "stato": "Aperto",
-   "posti": 1,
-   "procedura": "TITOLI_COLLOQUIO",
-   "sede": "Parma",
-   "provincia": "Parma",
-   "km": 121,
-   "ambito": "provincia",
-   "punteggio": 26,
-   "tag": [
-    "ricerca"
-   ],
-   "motivi": [
-    "post-doc"
-   ],
-   "fascia": "possibile",
-   "giorni_rimasti": 0,
+   "giorni_rimasti": 4,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],

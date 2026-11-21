@@ -2293,5 +2293,37 @@
   "dottorato_affine": false,
   "caratteri": 42894,
   "letto_il": "2026-11-20"
+ },
+ "f9a9ea59-fd6a-4992-a0b3-922bb6b23cce": {
+  "classi": [
+   "LM-6",
+   "LM-8",
+   "LM-9"
+  ],
+  "nomi": [
+   "Biologia",
+   "Biotecnologie Industriali",
+   "Biotecnologie Mediche"
+  ],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 52450,
+  "letto_il": "2026-11-21"
+ },
+ "715ea9f6-0873-43cd-a1de-b7f007f6a261": {
+  "classi": [],
+  "nomi": [
+   "Biologia"
+  ],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 16582,
+  "letto_il": "2026-11-21"
  }
 }
