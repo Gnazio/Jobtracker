@@ -1,20 +1,20 @@
 {
- "aggiornato": "2026-11-22T13:08:51+00:00",
+ "aggiornato": "2026-11-23T15:46:15+00:00",
  "raggio_km": 150,
  "origine": "Pisa",
  "statistiche": {
-  "grezzi": 424,
-  "pubblicati": 52,
-  "scartati_distanza": 40,
-  "scartati_profilo": 332,
+  "grezzi": 435,
+  "pubblicati": 59,
+  "scartati_distanza": 43,
+  "scartati_profilo": 333,
   "per_fascia": {
-   "alta": 6,
-   "buona": 27,
-   "possibile": 19
+   "alta": 7,
+   "buona": 28,
+   "possibile": 24
   },
   "per_titolo": {
-   "ignoto": 35,
-   "escluso": 16,
+   "escluso": 17,
+   "ignoto": 41,
    "ammesso": 1
   }
  },
@@ -22,7 +22,7 @@
  "fonti": [
   {
    "fonte": "InPA",
-   "annunci": 417,
+   "annunci": 428,
    "nota": null
   },
   {
@@ -37,6 +37,47 @@
   }
  ],
  "annunci": [
+  {
+   "id": "inpa:34d64fd6d4ae47a3b8dbc73bd0cb8a2e",
+   "media_id": "cc410fba-419a-49d7-984f-7d806c6c570e",
+   "fonte": "InPA",
+   "titolo": "Università di Pisa - selezione pubblica, per titoli ed esami, per il reclutamento a tempo indeterminato di n. 1 unità di personale da inquadrare nell’Area dei Funzionari, settore scientifico-tecnologico presso il Centro per l'integrazione della Strumentazione Scientifica dell'Università di Pisa (CISUP), con riserva ai volontari del Servizio Civile Universale o Servizio Civile Nazionale.",
+   "figura": "Area dei Funzionari- Settore scientifico-tecnologico",
+   "ente": "Universita' di Pisa",
+   "descrizione": "Selezione pubblica, per titoli ed esami, per il reclutamento a tempo indeterminato di n. 1 unità di personale da inquadrare nell’Area dei Funzionari, settore scientifico-tecnologico presso il Centro per l'integrazione della Strumentazione Scientifica dell'Università di Pisa (CISUP), con riserva ai volontari del Servizio Civile Universale o Servizio Civile Nazionale. Le domande di ammissione alla selezione devono essere presentate esclusivamente tramite la piattaforma PICA https://pica.cineca.it/unipi/",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=34d64fd6d4ae47a3b8dbc73bd0cb8a2e",
+   "pubblicazione": "2026-11-23T08:00:00Z",
+   "scadenza": "2026-12-23T12:00:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_ESAMI",
+   "sede": "Pisa",
+   "provincia": "Pisa",
+   "km": 0,
+   "ambito": "provincia",
+   "punteggio": 100,
+   "tag": [
+    "ente-ricerca",
+    "ai-ml",
+    "ict"
+   ],
+   "motivi": [
+    "università di pisa",
+    "cineca.",
+    "ai",
+    "area dei funzionari, settore scientifico",
+    "settore scientifico-tecnologico"
+   ],
+   "fascia": "alta",
+   "giorni_rimasti": 29,
+   "titolo_verdetto": "escluso",
+   "titolo_nota": "Classi ammesse: LM-6. LM-21 non e' compresa.",
+   "titolo_classi": [
+    "L-13",
+    "LM-6"
+   ],
+   "titolo_nomi": []
+  },
   {
    "id": "inpa:d29a4ce49aa845cf9f9d667c6f056622",
    "media_id": null,
@@ -66,7 +107,7 @@
     "elaborazione di immagin"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 2,
+   "giorni_rimasti": 1,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
@@ -102,7 +143,7 @@
     "laurea magistrale"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 23,
+   "giorni_rimasti": 22,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 68/S, LM-60. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -142,7 +183,7 @@
     "collaboratore professionale di ricerca"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 22,
+   "giorni_rimasti": 21,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Titoli richiesti: Scienze Biologiche; Biotecnologie. Ingegneria biomedica non c'e'.",
    "titolo_classi": [
@@ -185,7 +226,7 @@
     "collaboratore professionale di ricerca"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 10,
+   "giorni_rimasti": 9,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Scienze Biologiche. Da verificare nel PDF.",
    "titolo_classi": [
@@ -226,7 +267,7 @@
     "collaboratore professionale di ricerca"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 10,
+   "giorni_rimasti": 9,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Titoli richiesti: Biotecnologie; Scienze Biologiche; Scienze e Tecnologie Farmaceutiche; Scienze e Tecnologie Chimiche. Ingegneria biomedica non c'e'.",
    "titolo_classi": [
@@ -271,7 +312,7 @@
     "statistic"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 13,
+   "giorni_rimasti": 12,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Scienze Statistiche. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -309,7 +350,7 @@
     "area dei funzionari, settore tecnico-inf"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 3,
+   "giorni_rimasti": 2,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
@@ -344,7 +385,7 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 29,
+   "giorni_rimasti": 28,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-6, LM-8, LM-9. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -388,7 +429,7 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 22,
+   "giorni_rimasti": 21,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-13, LM-6, LM-8, LM-9. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -436,7 +477,7 @@
     "laurea magistrale"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 19,
+   "giorni_rimasti": 18,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Biologia. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -476,7 +517,7 @@
     "laurea magistrale"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 8,
+   "giorni_rimasti": 7,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 6/S, 9/S. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -517,7 +558,7 @@
     "laurea magistrale"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 17,
+   "giorni_rimasti": 16,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Titoli richiesti: Scienze Chimiche; Farmacia e Farmacia Industriale. Ingegneria biomedica non c'e'.",
    "titolo_classi": [],
@@ -558,7 +599,7 @@
     "laurea magistrale"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 17,
+   "giorni_rimasti": 16,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: BIOLOGIA. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -595,7 +636,7 @@
     "cineca."
    ],
    "fascia": "buona",
-   "giorni_rimasti": 18,
+   "giorni_rimasti": 17,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -630,7 +671,7 @@
     "cineca."
    ],
    "fascia": "buona",
-   "giorni_rimasti": 16,
+   "giorni_rimasti": 15,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -663,7 +704,7 @@
     "tecnologo"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 9,
+   "giorni_rimasti": 8,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -696,7 +737,7 @@
     "primo ricercator"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 13,
+   "giorni_rimasti": 12,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Scienze Biologiche o titoli considerati. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -731,7 +772,7 @@
     "iii livello"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 13,
+   "giorni_rimasti": 12,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-6, LM-7, LM-8, LM-9. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -771,7 +812,7 @@
     "iii livello"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 13,
+   "giorni_rimasti": 12,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-17, LM-41, LM-6, LM-7, LM-8, LM-9. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -813,7 +854,7 @@
     "primo ricercator"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 9,
+   "giorni_rimasti": 8,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-41. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -822,6 +863,40 @@
    "titolo_nomi": [
     "Medicina e Chirurgia"
    ]
+  },
+  {
+   "id": "inpa:3b3e62db8c2840e49b4268186784fca1",
+   "media_id": null,
+   "fonte": "InPA",
+   "titolo": "PROCEDURA SELETTIVA PUBBLICA, PER TITOLI ED ESAMI, PER IL RECLUTAMENTO DI N. 1 UNITÀ DI PERSONALE DA INQUADRARE NELL’AREA DEI FUNZIONARI, SETTORE SCIENTIFICO-TECNOLOGICO, CON CONTRATTO DI LAVORO SUBORDINATO A TEMPO PIENO E DETERMINATO, PRESSO IL CENTRO INTERDIPARTIMENTALE GRANDI STRUMENTI DELL’UNIVERSITÀ DEGLI STUDI DI MODENA E REGGIO EMILIA.",
+   "figura": "FUNZIONARI, SETTORE SCIENTIFICO-TECNOLOGICO",
+   "ente": "Universita' degli Studi di Modena e Reggio Emilia",
+   "descrizione": "PROCEDURA SELETTIVA PUBBLICA, PER TITOLI ED ESAMI, PER IL RECLUTAMENTO DI N. 1 UNITÀ DI PERSONALE DA INQUADRARE NELL’AREA DEI FUNZIONARI, SETTORE SCIENTIFICO-TECNOLOGICO, CON CONTRATTO DI LAVORO SUBORDINATO A TEMPO PIENO E DETERMINATO, PRESSO IL CENTRO INTERDIPARTIMENTALE GRANDI STRUMENTI DELL’UNIVERSITÀ DEGLI STUDI DI MODENA E REGGIO EMILIA.",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3b3e62db8c2840e49b4268186784fca1",
+   "pubblicazione": "2026-11-23T12:00:00Z",
+   "scadenza": "2026-12-09T12:00:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_ESAMI",
+   "sede": "Modena",
+   "provincia": "Modena",
+   "km": 112,
+   "ambito": "provincia",
+   "punteggio": 54,
+   "tag": [
+    "ente-ricerca",
+    "ict"
+   ],
+   "motivi": [
+    "università degli studi di modena",
+    "area dei funzionari, settore scientific",
+    "settore scientifico-tecnologico"
+   ],
+   "fascia": "buona",
+   "giorni_rimasti": 15,
+   "titolo_verdetto": "ignoto",
+   "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
+   "titolo_classi": []
   },
   {
    "id": "inpa:a73435df12364f1cb4c53c441882f2b7",
@@ -853,7 +928,7 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 15,
+   "giorni_rimasti": 14,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -889,7 +964,7 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 1,
+   "giorni_rimasti": 0,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -925,7 +1000,7 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 1,
+   "giorni_rimasti": 0,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Biologia. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -960,7 +1035,7 @@
     "collaboratore tecnico enti di ricerca"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 9,
+   "giorni_rimasti": 8,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1092,7 +1167,7 @@
     "iii livello"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 9,
+   "giorni_rimasti": 8,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Biologia. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -1127,7 +1202,7 @@
     "iii livello"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 9,
+   "giorni_rimasti": 8,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-6, LM-8, LM-9. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1166,7 +1241,7 @@
     "iii livello"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 6,
+   "giorni_rimasti": 5,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-23, LM-24, LM-26, LM-28, LM-33, LM-4. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1210,7 +1285,7 @@
     "laurea specialistica"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 12,
+   "giorni_rimasti": 11,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 14/S, 62/S, 8/S, 81/S, LM-13, LM-54, LM-71, LM-8. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1252,7 +1327,7 @@
     "statistic"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 10,
+   "giorni_rimasti": 8,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-16, LM-56, LM-77, LM-82, LM-83. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1292,7 +1367,73 @@
     "ict"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 11,
+   "giorni_rimasti": 10,
+   "titolo_verdetto": "ignoto",
+   "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
+   "titolo_classi": [],
+   "titolo_nomi": []
+  },
+  {
+   "id": "inpa:22fd9888a2a44779a62b7ae8872797ad",
+   "media_id": "cc5b81b9-cbc8-4158-8831-d0669e088940",
+   "fonte": "InPA",
+   "titolo": "Scuola Normale Superiore - Selezione pubblica, per esami, per l’assunzione a tempo indeterminato e pieno di n. 1 unità di personale dell’Area delle Elevate Professionalità – settore professionale amministrativo-gestionale, presso l’Area Patrimonio, ospitalità e ristorazione della Scuola Normale Superiore",
+   "figura": "Elevata professionalità",
+   "ente": "Scuola Normale Superiore",
+   "descrizione": "Selezione pubblica, per esami, per l’assunzione a tempo indeterminato e pieno di n. 1 unità di personale dell’Area delle Elevate Professionalità – settore professionale amministrativo-gestionale, presso l’Area Patrimonio, ospitalità e ristorazione della Scuola Normale Superiore La domanda deve essere presentata esclusivamente per via telematica attraverso la procedura informatica PICA collegandosi al seguente link https://pica.cineca.it/sns , che sarà disponibile dalle ore 12:00 del giorno 24 novembre 2026 Termine per la presentazione delle domande: entro le ore 12.00 (ora italiana) del 18 dic",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=22fd9888a2a44779a62b7ae8872797ad",
+   "pubblicazione": "2026-11-23T12:00:00Z",
+   "scadenza": "2026-12-18T11:00:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "ESAMI",
+   "sede": "Toscana (provincia da verificare)",
+   "provincia": null,
+   "km": 69,
+   "ambito": "regione",
+   "punteggio": 38,
+   "tag": [
+    "ente-ricerca"
+   ],
+   "motivi": [
+    "scuola normale superiore",
+    "cineca."
+   ],
+   "fascia": "possibile",
+   "giorni_rimasti": 24,
+   "titolo_verdetto": "ignoto",
+   "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
+   "titolo_classi": [],
+   "titolo_nomi": []
+  },
+  {
+   "id": "inpa:4ad556cf1e6948629f723dc01e67d754",
+   "media_id": "4a5032c4-b3b3-4f08-bdda-6528e1c02410",
+   "fonte": "InPA",
+   "titolo": "Scuola Normale Superiore - Selezione pubblica, per esami, per l’assunzione a tempo indeterminato e pieno di n. 1 unità di personale dell’Area delle Elevate Professionalità – settore professionale amministrativo-gestionale, presso l’Area Ricerca e innovazione della Scuola Normale Superiore",
+   "figura": "Elevata professionalità",
+   "ente": "Scuola Normale Superiore",
+   "descrizione": "Selezione pubblica, per esami, per l’assunzione a tempo indeterminato e pieno di n. 1 unità di personale dell’Area delle Elevate Professionalità – settore professionale amministrativo-gestionale, presso l’Area Ricerca e innovazione della Scuola Normale Superiore La domanda deve essere presentata esclusivamente per via telematica attraverso la procedura informatica PICA collegandosi al seguente link https://pica.cineca.it/sns , che sarà disponibile dalle ore 12:00 del giorno 24 novembre 2026 Termine per la presentazione delle domande: entro le ore 12.00 (ora italiana) del 18 dicembre 2026. Per ",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4ad556cf1e6948629f723dc01e67d754",
+   "pubblicazione": "2026-11-23T12:00:00Z",
+   "scadenza": "2026-12-18T11:00:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "ESAMI",
+   "sede": "Toscana (provincia da verificare)",
+   "provincia": null,
+   "km": 69,
+   "ambito": "regione",
+   "punteggio": 38,
+   "tag": [
+    "ente-ricerca"
+   ],
+   "motivi": [
+    "scuola normale superiore",
+    "cineca."
+   ],
+   "fascia": "possibile",
+   "giorni_rimasti": 24,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1325,7 +1466,7 @@
     "cineca."
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 21,
+   "giorni_rimasti": 20,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1358,7 +1499,7 @@
     "cineca."
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 10,
+   "giorni_rimasti": 9,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-18, LM-27, LM-32. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1396,7 +1537,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 8,
+   "giorni_rimasti": 7,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1463,7 +1604,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 18,
+   "giorni_rimasti": 17,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Medicina e Chirurgia. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -1499,7 +1640,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 18,
+   "giorni_rimasti": 17,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Medicina e Chirurgia. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -1535,7 +1676,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 18,
+   "giorni_rimasti": 17,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Il bando elenca LM-21 fra le classi ammesse.",
    "titolo_classi": [
@@ -1577,7 +1718,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 17,
+   "giorni_rimasti": 16,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Medicina e Chirurgia. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -1613,7 +1754,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 27,
+   "giorni_rimasti": 26,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Medicina e Chirurgia e abilitazione all. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -1649,7 +1790,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 4,
+   "giorni_rimasti": 3,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Medicina e Chirurgia. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -1685,13 +1826,45 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 1,
+   "giorni_rimasti": 0,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Medicina e Chirurgia. Da verificare nel PDF.",
    "titolo_classi": [],
    "titolo_nomi": [
     "Medicina e Chirurgia"
    ]
+  },
+  {
+   "id": "inpa:7da5197b5223494aa1735e3d9ea51941",
+   "media_id": "26be251e-58fe-44dd-a217-c544971012aa",
+   "fonte": "InPA",
+   "titolo": "AVVISO PUBBLICO DI PROCEDURA DI VALUTAZIONE COMPARATIVA DI SOLI TITOLI PER IL CONFERIMENTO DI N. 1 INCARICO PER LO SVOLGIMENTO DI ATTIVITA’: di supporto all’attività di stesura dei risk assessment su invertebrati alieni",
+   "figura": "Laureati in Scienze della Natura o in Biologia con esperienze pregresse su risk assessment",
+   "ente": "Universita' degli Studi di Firenze - Dipartimento d Biologia",
+   "descrizione": "In particolare il soggetto incaricato dovrà occuparsi nell’ambito del Progetto TRICARICO_IAS_PRA_CT_2023 dal titolo «Development of risk assessments to tackle priority species and enhance prevention»: 1) di collaborare alla stesura di due risk assessment e management note per crostacei alieni dulcacquicoli e alle successive revisioni previste ai documenti stessi .",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=7da5197b5223494aa1735e3d9ea51941",
+   "pubblicazione": "2026-11-23T11:00:00Z",
+   "scadenza": "2026-12-08T22:59:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI",
+   "sede": "Firenze",
+   "provincia": "Firenze",
+   "km": 69,
+   "ambito": "provincia",
+   "punteggio": 30,
+   "tag": [
+    "ai-ml"
+   ],
+   "motivi": [
+    "ai"
+   ],
+   "fascia": "possibile",
+   "giorni_rimasti": 15,
+   "titolo_verdetto": "ignoto",
+   "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
+   "titolo_classi": [],
+   "titolo_nomi": []
   },
   {
    "id": "inpa:718045cf54034d9485e04de36113229c",
@@ -1719,7 +1892,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 8,
+   "giorni_rimasti": 7,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Scienze ambientali o di titoli. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -1753,9 +1926,41 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 25,
+   "giorni_rimasti": 24,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
+   "titolo_classi": [],
+   "titolo_nomi": []
+  },
+  {
+   "id": "inpa:6b8849606d8f485c970b89deb2c01a2e",
+   "media_id": "e44c9260-6ab6-4f00-b092-ce6433ecc08d",
+   "fonte": "InPA",
+   "titolo": "SELEZIONE PUBBLICA PER TITOLI FINALIZZATA ALL’INDIVIDUAZIONE DI UN ADDETTO ALL’UFFICIO STAMPA E ALLA COMUNICAZIONE PRESSO L’ACCADEMIA DI BELLE ARTI DI BOLOGNA",
+   "figura": "Addetto all'Ufficio stampa e alla comunicazione",
+   "ente": "Accademia di Belle Arti di Bologna",
+   "descrizione": "É indetta presso l’Accademia di Bologna una procedura selettivo-comparativa pubblica per soli titoli finalizzata all’individuazione di un esperto Addetto all’Ufficio stampa e alla comunicazione con conseguente stipulazione di un contratto di collaborazione. Requisiti di ammissione: essere in possesso diploma accademico di I livello, diploma di laurea o titoli ad essi equiparati, nonché di titoli equipollenti conseguiti all’estero; iscrizione all’Albo nazionale dei giornalisti, nell’elenco dei professionisti e/o nell’elenco dei pubblicisti; comprovata esperienza professionale, almeno triennale,",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=6b8849606d8f485c970b89deb2c01a2e",
+   "pubblicazione": "2026-11-23T14:30:00Z",
+   "scadenza": "2026-12-08T12:00:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI",
+   "sede": "Bologna",
+   "provincia": "Bologna",
+   "km": 115,
+   "ambito": "provincia",
+   "punteggio": 30,
+   "tag": [
+    "ai-ml"
+   ],
+   "motivi": [
+    "ai"
+   ],
+   "fascia": "possibile",
+   "giorni_rimasti": 14,
+   "titolo_verdetto": "ignoto",
+   "titolo_nota": "Il PDF non contiene testo leggibile (scansione): da verificare a mano.",
    "titolo_classi": [],
    "titolo_nomi": []
   },
@@ -1785,7 +1990,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 3,
+   "giorni_rimasti": 2,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-9. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1819,7 +2024,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 25,
+   "giorni_rimasti": 24,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1851,7 +2056,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 10,
+   "giorni_rimasti": 9,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1883,13 +2088,47 @@
     "telemonitoraggio"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 6,
+   "giorni_rimasti": 5,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Medicina e Chirurgia b. Da verificare nel PDF.",
    "titolo_classi": [],
    "titolo_nomi": [
     "Medicina e Chirurgia b"
    ]
+  },
+  {
+   "id": "inpa:f3e30bab448849aa958eb4ed12b1333f",
+   "media_id": "4cf515ca-3fed-478e-97fc-b45b54bf204d",
+   "fonte": "InPA",
+   "titolo": "COMUNE DI SAN GIMIGNANO - TEMPO INDETERMINATO N. 1 UNITA' FUNZIONARIO AMMINISTRATIVO",
+   "figura": "Funzionario amministrativo",
+   "ente": "Comune di San Gimignano",
+   "descrizione": "Il Comune di San Gimignano ha indetto una selezione pubblica per soli esami per l’assunzione a tempo indeterminato e pieno (36 ore settimanali), di n. 1 unità nel profilo professionale di “FUNZIONARIO AMMINISTRATIVO” – Area dei Funzionari ed EQ – CCNL Comparto Funzioni Locali. Titoli di studio richiesti: Diploma di laurea di cui all’ordinamento previgente al DM 509/99 (vecchio ordinamento), Laurea Specialistica (DM 509/99), Laurea Magistrale o Diploma di laurea triennale appartenenti all’area economico-finanziaria o giuridica o politico-amministrativa o statistico-matematica; Possedere la pate",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=f3e30bab448849aa958eb4ed12b1333f",
+   "pubblicazione": "2026-11-23T11:45:00Z",
+   "scadenza": "2026-12-23T22:59:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "ESAMI",
+   "sede": "Siena",
+   "provincia": "Siena",
+   "km": 87,
+   "ambito": "provincia",
+   "punteggio": 26,
+   "tag": [
+    "ai-ml",
+    "requisiti"
+   ],
+   "motivi": [
+    "statistic",
+    "laurea specialistica"
+   ],
+   "fascia": "possibile",
+   "giorni_rimasti": 30,
+   "titolo_verdetto": "ignoto",
+   "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
+   "titolo_classi": [],
+   "titolo_nomi": []
   },
   {
    "id": "inpa:81c64a820b4545ed8eacc87d63689891",
@@ -1917,7 +2156,7 @@
     "post-doc"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 9,
+   "giorni_rimasti": 8,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -1949,7 +2188,7 @@
     "post-doc"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 3,
+   "giorni_rimasti": 2,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
