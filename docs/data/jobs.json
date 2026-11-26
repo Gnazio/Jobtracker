@@ -1,19 +1,19 @@
 {
- "aggiornato": "2026-11-25T15:22:16+00:00",
+ "aggiornato": "2026-11-26T14:48:42+00:00",
  "raggio_km": 150,
  "origine": "Pisa",
  "statistiche": {
-  "grezzi": 434,
-  "pubblicati": 55,
-  "scartati_distanza": 46,
-  "scartati_profilo": 333,
+  "grezzi": 436,
+  "pubblicati": 54,
+  "scartati_distanza": 48,
+  "scartati_profilo": 334,
   "per_fascia": {
    "alta": 6,
    "buona": 26,
-   "possibile": 23
+   "possibile": 22
   },
   "per_titolo": {
-   "escluso": 17,
+   "escluso": 16,
    "ignoto": 37,
    "ammesso": 1
   }
@@ -22,7 +22,7 @@
  "fonti": [
   {
    "fonte": "InPA",
-   "annunci": 430,
+   "annunci": 432,
    "nota": null
   },
   {
@@ -69,7 +69,7 @@
     "settore scientifico-tecnologico"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 27,
+   "giorni_rimasti": 26,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-6. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -109,7 +109,7 @@
     "laurea magistrale"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 20,
+   "giorni_rimasti": 19,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 68/S, LM-60. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -149,7 +149,7 @@
     "collaboratore professionale di ricerca"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 19,
+   "giorni_rimasti": 18,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Titoli richiesti: Scienze Biologiche; Biotecnologie. Ingegneria biomedica non c'e'.",
    "titolo_classi": [
@@ -192,7 +192,7 @@
     "collaboratore professionale di ricerca"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 7,
+   "giorni_rimasti": 6,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Scienze Biologiche. Da verificare nel PDF.",
    "titolo_classi": [
@@ -233,7 +233,7 @@
     "collaboratore professionale di ricerca"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 7,
+   "giorni_rimasti": 6,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Titoli richiesti: Biotecnologie; Scienze Biologiche; Scienze e Tecnologie Farmaceutiche; Scienze e Tecnologie Chimiche. Ingegneria biomedica non c'e'.",
    "titolo_classi": [
@@ -278,48 +278,13 @@
     "statistic"
    ],
    "fascia": "alta",
-   "giorni_rimasti": 10,
+   "giorni_rimasti": 9,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Scienze Statistiche. Da verificare nel PDF.",
    "titolo_classi": [],
    "titolo_nomi": [
     "Scienze Statistiche"
    ]
-  },
-  {
-   "id": "inpa:64997492413c473db1e7f57314ec4f01",
-   "media_id": null,
-   "fonte": "InPA",
-   "titolo": "Procedura selettiva pubblica, per titoli ed esami, per il reclutamento di n. 1 unità di personale da inquadrare nell’Area dei Funzionari, Settore tecnico-informatico, con contratto di lavoro subordinato a tempo pieno e determinato, presso il Dipartimento di Scienze Biomediche, Metaboliche e Neuroscienze dell’Università degli Studi UNIMORE nell’ambito del progetto ““Ingegneria per l’innovazione in medicina (Classe LM-21 – Ingegneria biomedica)” - Rif.PA 2024-22646/RER - CUP E83C24001210002.",
-   "figura": "Funzionari",
-   "ente": "Universita' degli Studi di Modena e Reggio Emilia",
-   "descrizione": "Procedura selettiva pubblica, per titoli ed esami, per il reclutamento di n. 1 unità di personale da inquadrare nell’Area dei Funzionari, Settore tecnico-informatico, con contratto di lavoro subordinato a tempo pieno e determinato, presso il Dipartimento di Scienze Biomediche, Metaboliche e Neuroscienze dell’Università degli Studi di Modena e Reggio Emilia nell’ambito del progetto ““Ingegneria per l’innovazione in medicina (Classe LM-21 – Ingegneria biomedica)” - Rif.PA 2024-22646/RER - CUP E83C24001210002.",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=64997492413c473db1e7f57314ec4f01",
-   "pubblicazione": "2026-11-06T12:00:00Z",
-   "scadenza": "2026-11-26T12:00:00Z",
-   "stato": "Aperto",
-   "posti": 1,
-   "procedura": "TITOLI_ESAMI",
-   "sede": "Modena",
-   "provincia": "Modena",
-   "km": 112,
-   "ambito": "provincia",
-   "punteggio": 68,
-   "tag": [
-    "ente-ricerca",
-    "biomedico",
-    "ict"
-   ],
-   "motivi": [
-    "università degli studi di modena",
-    "ingegneria biomedic",
-    "area dei funzionari, settore tecnico-inf"
-   ],
-   "fascia": "buona",
-   "giorni_rimasti": 0,
-   "titolo_verdetto": "ignoto",
-   "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
-   "titolo_classi": []
   },
   {
    "id": "inpa:75d35ef05c984decbbd6cd0324dd0e71",
@@ -351,7 +316,7 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 26,
+   "giorni_rimasti": 25,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-6, LM-8, LM-9. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -395,7 +360,7 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 19,
+   "giorni_rimasti": 18,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-13, LM-6, LM-8, LM-9. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -443,7 +408,7 @@
     "laurea magistrale"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 16,
+   "giorni_rimasti": 15,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Biologia. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -483,7 +448,7 @@
     "laurea magistrale"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 5,
+   "giorni_rimasti": 4,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 6/S, 9/S. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -524,7 +489,7 @@
     "laurea magistrale"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 14,
+   "giorni_rimasti": 13,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Titoli richiesti: Scienze Chimiche; Farmacia e Farmacia Industriale. Ingegneria biomedica non c'e'.",
    "titolo_classi": [],
@@ -565,7 +530,7 @@
     "laurea magistrale"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 14,
+   "giorni_rimasti": 13,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: BIOLOGIA. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -602,7 +567,7 @@
     "cineca."
    ],
    "fascia": "buona",
-   "giorni_rimasti": 15,
+   "giorni_rimasti": 14,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -637,7 +602,7 @@
     "cineca."
    ],
    "fascia": "buona",
-   "giorni_rimasti": 13,
+   "giorni_rimasti": 12,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],
@@ -670,7 +635,7 @@
     "tecnologo"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 6,
+   "giorni_rimasti": 5,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -703,7 +668,7 @@
     "primo ricercator"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 10,
+   "giorni_rimasti": 9,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Scienze Biologiche o titoli considerati. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -738,7 +703,7 @@
     "iii livello"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 10,
+   "giorni_rimasti": 9,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-6, LM-7, LM-8, LM-9. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -778,7 +743,7 @@
     "iii livello"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 10,
+   "giorni_rimasti": 9,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-17, LM-41, LM-6, LM-7, LM-8, LM-9. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -820,7 +785,7 @@
     "primo ricercator"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 6,
+   "giorni_rimasti": 5,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-41. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -859,10 +824,48 @@
     "settore scientifico-tecnologico"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 13,
+   "giorni_rimasti": 12,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Bando senza PDF allegato: requisiti da verificare.",
    "titolo_classi": []
+  },
+  {
+   "id": "inpa:4f60c548bdaa4fb3901479e958f4e839",
+   "media_id": "5935a1eb-9697-411b-9928-96457e91ceab",
+   "fonte": "InPA",
+   "titolo": "AZIENDA OSPEDALIERA METROPOLITANA (AOM) - Pubblica selezione, per titoli e colloquio, per l'assegnazione di una borsa di studio per laureato in chimica oppure in scienze e tecnologie farmaceutiche, della durata di 6 mesi, per collaborare al progetto denominato \"Discovery and preclinical development of 18F-labeled PET ligands for selective targeting of brain estrogen receptors (DEEPER)\" (GA360) da svolgersi presso l'U.O. Medicina Nucleare.",
+   "figura": "Borsista",
+   "ente": "IRCCS Ospedale Policlinico San Martino",
+   "descrizione": "Pubblica selezione, per titoli e colloquio, per l'assegnazione di una borsa di studio per laureato in chimica oppure in scienze e tecnologie farmaceutiche, della durata di 6 mesi, per collaborare al progetto denominato \"Discovery and preclinical development of 18F-labeled PET ligands for selective targeting of brain estrogen receptors (DEEPER)\" (GA360) da svolgersi presso l'U.O. Medicina Nuclear",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4f60c548bdaa4fb3901479e958f4e839",
+   "pubblicazione": "2026-11-26T12:35:00Z",
+   "scadenza": "2026-12-16T22:59:00Z",
+   "stato": "Aperto",
+   "posti": 1,
+   "procedura": "TITOLI_COLLOQUIO",
+   "sede": "Genova",
+   "provincia": "Genova",
+   "km": 139,
+   "ambito": "provincia",
+   "punteggio": 52,
+   "tag": [
+    "ricerca",
+    "ente-ricerca",
+    "sanita"
+   ],
+   "motivi": [
+    "borsa di studio",
+    "irccs",
+    "azienda ospedalier"
+   ],
+   "fascia": "buona",
+   "giorni_rimasti": 20,
+   "titolo_verdetto": "ignoto",
+   "titolo_nota": "Il bando sembra chiedere: Scienze e Tecnologie Chimiche. Da verificare nel PDF.",
+   "titolo_classi": [],
+   "titolo_nomi": [
+    "Scienze e Tecnologie Chimiche"
+   ]
   },
   {
    "id": "inpa:a73435df12364f1cb4c53c441882f2b7",
@@ -894,7 +897,7 @@
     "azienda ospedalier"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 12,
+   "giorni_rimasti": 11,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -927,7 +930,7 @@
     "collaboratore tecnico enti di ricerca"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 6,
+   "giorni_rimasti": 5,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1059,7 +1062,7 @@
     "iii livello"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 6,
+   "giorni_rimasti": 5,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Biologia. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -1094,7 +1097,7 @@
     "iii livello"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 6,
+   "giorni_rimasti": 5,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-6, LM-8, LM-9. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1133,7 +1136,7 @@
     "iii livello"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 3,
+   "giorni_rimasti": 2,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-23, LM-24, LM-26, LM-28, LM-33, LM-4. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1177,7 +1180,7 @@
     "laurea specialistica"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 9,
+   "giorni_rimasti": 8,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: 14/S, 62/S, 8/S, 81/S, LM-13, LM-54, LM-71, LM-8. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1219,7 +1222,7 @@
     "statistic"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 7,
+   "giorni_rimasti": 6,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-16, LM-56, LM-77, LM-82, LM-83. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1259,7 +1262,7 @@
     "ict"
    ],
    "fascia": "buona",
-   "giorni_rimasti": 8,
+   "giorni_rimasti": 7,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1292,7 +1295,7 @@
     "cineca."
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 22,
+   "giorni_rimasti": 21,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1325,7 +1328,7 @@
     "cineca."
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 22,
+   "giorni_rimasti": 21,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1358,7 +1361,7 @@
     "cineca."
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 18,
+   "giorni_rimasti": 17,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1391,7 +1394,7 @@
     "cineca."
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 7,
+   "giorni_rimasti": 6,
    "titolo_verdetto": "escluso",
    "titolo_nota": "Classi ammesse: LM-18, LM-27, LM-32. LM-21 non e' compresa.",
    "titolo_classi": [
@@ -1429,7 +1432,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 5,
+   "giorni_rimasti": 4,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1469,6 +1472,42 @@
    "titolo_classi": []
   },
   {
+   "id": "inpa:9f9b0f1523954be593cfe9ea8cfc9984",
+   "media_id": "a1124078-d1e1-406c-a44c-4bce47497b3e",
+   "fonte": "InPA",
+   "titolo": "AZIENDA OSPEDALIERA METROPOLITANA (AOM) - Avviso pubblico di procedura comparativa, per titoli e colloquio, per il conferimento di n. 4 incarichi libero-prof., di 12 mesi ciascuno, per professionisti in possesso di diploma di laurea in Medicina e Chirurgia e spec. nella disciplina di Medicina d'Emergenza-Urgenza o disciplina equipollente o affine, da assegnare alla S.C. Medicina d'Urgenza del plesso Villa Scassi e al Pronto Soccorso ed Osservazione breve Intensiva del plesso San Carlo.",
+   "figura": "Incarico libero professionale",
+   "ente": "IRCCS Ospedale Policlinico San Martino",
+   "descrizione": "AZIENDA OSPEDALIERA METROPOLITANA (AOM) - Avviso pubblico di procedura comparativa, per titoli e colloquio, per il conferimento di n. 4 incarichi libero-professionali, della durata di 12 mesi ciascuno, per professionisti in possesso di diploma di laurea in Medicina e Chirurgia e specializzazione nella disciplina di Medicina d'Emergenza-Urgenza o disciplina equipollente o affine, da assegnare alla S.C. Medicina d'Urgenza del plesso Villa Scassi e al Pronto Soccorso ed Osservazione breve Intensiva del plesso San Carlo.",
+   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=9f9b0f1523954be593cfe9ea8cfc9984",
+   "pubblicazione": "2026-11-26T13:48:00Z",
+   "scadenza": "2026-12-16T22:59:00Z",
+   "stato": "Aperto",
+   "posti": 4,
+   "procedura": "TITOLI_COLLOQUIO",
+   "sede": "Liguria (provincia da verificare)",
+   "provincia": null,
+   "km": 139,
+   "ambito": "regione",
+   "punteggio": 32,
+   "tag": [
+    "ente-ricerca",
+    "sanita"
+   ],
+   "motivi": [
+    "irccs",
+    "azienda ospedalier"
+   ],
+   "fascia": "possibile",
+   "giorni_rimasti": 20,
+   "titolo_verdetto": "ignoto",
+   "titolo_nota": "Il bando sembra chiedere: Medicina e Chirurgia. Da verificare nel PDF.",
+   "titolo_classi": [],
+   "titolo_nomi": [
+    "Medicina e Chirurgia"
+   ]
+  },
+  {
    "id": "inpa:122f9c69d17e429a918131d24acb9c60",
    "media_id": "395e6dc7-3c55-409d-b5f5-3e6612f524c1",
    "fonte": "InPA",
@@ -1496,7 +1535,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 15,
+   "giorni_rimasti": 14,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Medicina e Chirurgia. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -1532,7 +1571,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 15,
+   "giorni_rimasti": 14,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Medicina e Chirurgia. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -1568,7 +1607,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 15,
+   "giorni_rimasti": 14,
    "titolo_verdetto": "ammesso",
    "titolo_nota": "Il bando elenca LM-21 fra le classi ammesse.",
    "titolo_classi": [
@@ -1610,7 +1649,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 14,
+   "giorni_rimasti": 13,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Medicina e Chirurgia. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -1646,7 +1685,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 24,
+   "giorni_rimasti": 23,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Medicina e Chirurgia e abilitazione all. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -1682,7 +1721,7 @@
     "azienda ospedalier"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 1,
+   "giorni_rimasti": 0,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Medicina e Chirurgia. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -1716,7 +1755,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 13,
+   "giorni_rimasti": 12,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1748,7 +1787,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 5,
+   "giorni_rimasti": 4,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Scienze ambientali o di titoli. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -1782,7 +1821,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 22,
+   "giorni_rimasti": 21,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1814,44 +1853,10 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 12,
+   "giorni_rimasti": 11,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il PDF non contiene testo leggibile (scansione): da verificare a mano.",
    "titolo_classi": [],
-   "titolo_nomi": []
-  },
-  {
-   "id": "inpa:cc6e4d7148614731b63547cbacc52937",
-   "media_id": "7ad1794b-8e8d-4ff6-babf-c822bc186718",
-   "fonte": "InPA",
-   "titolo": "SELEZIONE PUBBLICA PER N. 1 INCARICO DI RICERCA,ART. 22ter L. 240/2010,TD 12 MESI,(GSD) 06/MEDS-09,(SSD) MEDS-09/A ONCOLOGIA MEDICA-DIP. DI MEDICINA E CHIRURGIA-UNIV. PARMA",
-   "figura": "conferimento di Incarichi di Ricerca",
-   "ente": "Universita' degli Studi di Parma",
-   "descrizione": "Il programma di ricerca è finalizzato allo studio del carcinoma mammario a esordio precoce, con particolare attenzione alle pazienti di età inferiore ai 40 anni prive di mutazioni germinali patogenetiche nei geni BRCA1/2. Il progetto mira a valutare il ruolo del deficit funzionale della ricombinazione omologa (HRD), mediante saggio funzionale RAD51, nell’identificazione di alterazioni dei meccanismi di riparazione del DNA. Attraverso l’analisi di campioni tumorali mediante tecniche di immunofluorescenza, sequenziamento genomico e analisi dell’espressione genica, saranno caratterizzate le basi ",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=cc6e4d7148614731b63547cbacc52937",
-   "pubblicazione": "2026-11-10T23:01:00Z",
-   "scadenza": "2026-11-25T22:59:00Z",
-   "stato": "Aperto",
-   "posti": 1,
-   "procedura": "TITOLI_COLLOQUIO",
-   "sede": "Parma",
-   "provincia": "Parma",
-   "km": 121,
-   "ambito": "provincia",
-   "punteggio": 30,
-   "tag": [
-    "ai-ml"
-   ],
-   "motivi": [
-    "ai"
-   ],
-   "fascia": "possibile",
-   "giorni_rimasti": 0,
-   "titolo_verdetto": "escluso",
-   "titolo_nota": "Classi ammesse: LM-9. LM-21 non e' compresa.",
-   "titolo_classi": [
-    "LM-9"
-   ],
    "titolo_nomi": []
   },
   {
@@ -1880,7 +1885,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 22,
+   "giorni_rimasti": 21,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1912,7 +1917,7 @@
     "ai"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 7,
+   "giorni_rimasti": 6,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -1944,7 +1949,7 @@
     "telemonitoraggio"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 3,
+   "giorni_rimasti": 2,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Il bando sembra chiedere: Medicina e Chirurgia b. Da verificare nel PDF.",
    "titolo_classi": [],
@@ -1980,7 +1985,7 @@
     "laurea specialistica"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 28,
+   "giorni_rimasti": 27,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nel PDF non ho trovato i titoli richiesti: da verificare a mano.",
    "titolo_classi": [],
@@ -2012,39 +2017,7 @@
     "post-doc"
    ],
    "fascia": "possibile",
-   "giorni_rimasti": 6,
-   "titolo_verdetto": "ignoto",
-   "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
-   "titolo_classi": [],
-   "titolo_nomi": []
-  },
-  {
-   "id": "inpa:ca6147edc60b4f89a9715542c43c291d",
-   "media_id": "3c454cf7-c9aa-41f9-be13-72bdc8aa050b",
-   "fonte": "InPA",
-   "titolo": "SELEZIONE PUBB. N. 1 INCAR. POST-DOC,ART. 22ter L.240/2010,TD 12 m,(GSD) GSD 14/GSPS-06,(SSD) GSPS-06/A–SOCIOLOGIA DEI PROCESSI CULTURALI E COMUNICATIVI-DIP.TO SCIENZE ECONOM. E AZIENDALI-UNIV. PARMA",
-   "figura": "conferimento di Incarico Post-Doc",
-   "ente": "Universita' degli Studi di Parma",
-   "descrizione": "Il progetto INTERFACED si propone di comprendere il funzionamento delle molteplici interfacce di partecipazione tra cittadini e istituzioni rappresentative nella post-pandemia, valutandone la capacità di includere i cittadini nei processi decisionali e di governance. Particolare attenzione è dedicata al WorkPackage n. 5, di cui l’unità di ricerca dell’università di Parma è responsabile, che si concentra sulle interazioni tra le organizzazioni di movimento sociale e le istituzioni mediali nel periodo successivo alla pandemia, con un focus specifico su Italia, Regno Unito, Ungheria, Romania e Tu",
-   "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ca6147edc60b4f89a9715542c43c291d",
-   "pubblicazione": "2026-11-10T23:01:00Z",
-   "scadenza": "2026-11-25T22:59:00Z",
-   "stato": "Aperto",
-   "posti": 1,
-   "procedura": "TITOLI_COLLOQUIO",
-   "sede": "Parma",
-   "provincia": "Parma",
-   "km": 121,
-   "ambito": "provincia",
-   "punteggio": 26,
-   "tag": [
-    "ricerca"
-   ],
-   "motivi": [
-    "post-doc"
-   ],
-   "fascia": "possibile",
-   "giorni_rimasti": 0,
+   "giorni_rimasti": 5,
    "titolo_verdetto": "ignoto",
    "titolo_nota": "Nessuna classe elencata; il bando parla di dottorato di ricerca.",
    "titolo_classi": [],

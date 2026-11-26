@@ -2394,5 +2394,31 @@
   "dottorato_affine": false,
   "caratteri": 31910,
   "letto_il": "2026-11-23"
+ },
+ "5935a1eb-9697-411b-9928-96457e91ceab": {
+  "classi": [],
+  "nomi": [
+   "Scienze e Tecnologie Chimiche"
+  ],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 40604,
+  "letto_il": "2026-11-26"
+ },
+ "a1124078-d1e1-406c-a44c-4bce47497b3e": {
+  "classi": [],
+  "nomi": [
+   "Medicina e Chirurgia"
+  ],
+  "errore": null,
+  "qualsiasi_magistrale": false,
+  "nome_titolo": false,
+  "dottorato": false,
+  "dottorato_affine": false,
+  "caratteri": 43132,
+  "letto_il": "2026-11-26"
  }
 }
